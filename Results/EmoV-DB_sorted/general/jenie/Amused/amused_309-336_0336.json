@@ -1,0 +1,297 @@
+{
+  "transcript": "So unexpected was my charge that I knocked him off his feet.",
+  "words": [
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 0,
+      "word": "So"
+    },
+    {
+      "alignedWord": "unexpected",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 3,
+      "word": "unexpected"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.79,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.57,
+      "startOffset": 14,
+      "word": "was"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 2.98,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.79,
+      "startOffset": 18,
+      "word": "my"
+    },
+    {
+      "alignedWord": "charge",
+      "case": "success",
+      "end": 3.5300000000000002,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 2.98,
+      "startOffset": 21,
+      "word": "charge"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 3.71,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.54,
+      "startOffset": 28,
+      "word": "that"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 3.8,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 3.71,
+      "startOffset": 33,
+      "word": "I"
+    },
+    {
+      "alignedWord": "knocked",
+      "case": "success",
+      "end": 4.26,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.8,
+      "startOffset": 35,
+      "word": "knocked"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 4.4399999999999995,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.26,
+      "startOffset": 43,
+      "word": "him"
+    },
+    {
+      "alignedWord": "off",
+      "case": "success",
+      "end": 4.66,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_E"
+        }
+      ],
+      "start": 4.44,
+      "startOffset": 47,
+      "word": "off"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 4.9,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.66,
+      "startOffset": 51,
+      "word": "his"
+    },
+    {
+      "alignedWord": "feet",
+      "case": "success",
+      "end": 5.340000000000001,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.9,
+      "startOffset": 55,
+      "word": "feet"
+    }
+  ]
+}

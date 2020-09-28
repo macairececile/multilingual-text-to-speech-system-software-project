@@ -1,0 +1,274 @@
+{
+  "transcript": "Both Johnny and his mother shuffled their feet as they walked.",
+  "words": [
+    {
+      "alignedWord": "both",
+      "case": "success",
+      "end": 1.91,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 0,
+      "word": "Both"
+    },
+    {
+      "alignedWord": "johnny",
+      "case": "success",
+      "end": 2.6399999999999997,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 5,
+      "word": "Johnny"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.5500000000000003,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.35,
+      "startOffset": 12,
+      "word": "and"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.75,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.55,
+      "startOffset": 16,
+      "word": "his"
+    },
+    {
+      "alignedWord": "mother",
+      "case": "success",
+      "end": 4.27,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.76,
+      "startOffset": 20,
+      "word": "mother"
+    },
+    {
+      "alignedWord": "shuffled",
+      "case": "success",
+      "end": 5.73,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.26,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.03,
+      "startOffset": 27,
+      "word": "shuffled"
+    },
+    {
+      "alignedWord": "their",
+      "case": "success",
+      "end": 5.95,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_E"
+        }
+      ],
+      "start": 5.73,
+      "startOffset": 36,
+      "word": "their"
+    },
+    {
+      "alignedWord": "feet",
+      "case": "success",
+      "end": 6.58,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.99,
+      "startOffset": 42,
+      "word": "feet"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 7.340000000000001,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 7.11,
+      "startOffset": 47,
+      "word": "as"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 7.55,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 7.34,
+      "startOffset": 50,
+      "word": "they"
+    },
+    {
+      "alignedWord": "walked",
+      "case": "success",
+      "end": 8.25,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "t_E"
+        }
+      ],
+      "start": 7.55,
+      "startOffset": 55,
+      "word": "walked"
+    }
+  ]
+}

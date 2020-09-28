@@ -1,0 +1,143 @@
+{
+  "transcript": "The night was calm and snowy.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.2600000000000002,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "night",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 4,
+      "word": "night"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.72,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 10,
+      "word": "was"
+    },
+    {
+      "alignedWord": "calm",
+      "case": "success",
+      "end": 2.2199999999999998,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 14,
+      "word": "calm"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.39,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 19,
+      "word": "and"
+    },
+    {
+      "alignedWord": "snowy",
+      "case": "success",
+      "end": 2.79,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.39,
+      "startOffset": 23,
+      "word": "snowy"
+    }
+  ]
+}

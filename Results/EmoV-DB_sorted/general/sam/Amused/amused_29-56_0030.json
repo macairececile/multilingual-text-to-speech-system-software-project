@@ -1,0 +1,108 @@
+{
+  "transcript": "I had faith in them.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.3699999999999999,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.6300000000000001,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 2,
+      "word": "had"
+    },
+    {
+      "alignedWord": "faith",
+      "case": "success",
+      "end": 2.01,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 6,
+      "word": "faith"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.14,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.02,
+      "startOffset": 12,
+      "word": "in"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.14,
+      "startOffset": 15,
+      "word": "them"
+    }
+  ]
+}

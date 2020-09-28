@@ -1,0 +1,147 @@
+{
+  "transcript": "And the air was growing chilly.",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.83,
+      "startOffset": 0,
+      "word": "And"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.1800000000000002,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 4,
+      "word": "the"
+    },
+    {
+      "alignedWord": "air",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 8,
+      "word": "air"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.64,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 12,
+      "word": "was"
+    },
+    {
+      "alignedWord": "growing",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 16,
+      "word": "growing"
+    },
+    {
+      "alignedWord": "chilly",
+      "case": "success",
+      "end": 2.63,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.12,
+      "startOffset": 24,
+      "word": "chilly"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "transcript": "Jeanne was turning the bow shoreward.",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.6099999999999999,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.6,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 0,
+      "word": "Jeanne"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.8800000000000001,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 7,
+      "word": "was"
+    },
+    {
+      "alignedWord": "turning",
+      "case": "success",
+      "end": 2.46,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.01,
+      "startOffset": 11,
+      "word": "turning"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.59,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.46,
+      "startOffset": 19,
+      "word": "the"
+    },
+    {
+      "alignedWord": "bow",
+      "case": "success",
+      "end": 2.99,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 23,
+      "word": "bow"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.7800000000000002,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.79,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.99,
+      "startOffset": 27,
+      "word": "shoreward"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "transcript": "Two days ago Jeanne learned where her father's men were hiding.",
+  "words": [
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 0.51,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.38,
+      "startOffset": 0,
+      "word": "Two"
+    },
+    {
+      "alignedWord": "days",
+      "case": "success",
+      "end": 0.88,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.73,
+      "startOffset": 4,
+      "word": "days"
+    },
+    {
+      "alignedWord": "ago",
+      "case": "success",
+      "end": 1.1400000000000001,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 9,
+      "word": "ago"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.39,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 13,
+      "word": "Jeanne"
+    },
+    {
+      "alignedWord": "learned",
+      "case": "success",
+      "end": 1.71,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.39,
+      "startOffset": 20,
+      "word": "learned"
+    },
+    {
+      "alignedWord": "where",
+      "case": "success",
+      "end": 1.82,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 28,
+      "word": "where"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 1.9300000000000002,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.82,
+      "startOffset": 34,
+      "word": "her"
+    },
+    {
+      "alignedWord": "father's",
+      "case": "success",
+      "end": 2.29,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 38,
+      "word": "father's"
+    },
+    {
+      "alignedWord": "men",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.29,
+      "startOffset": 47,
+      "word": "men"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 2.56,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.45,
+      "startOffset": 51,
+      "word": "were"
+    },
+    {
+      "alignedWord": "hiding",
+      "case": "success",
+      "end": 2.93,
+      "endOffset": 62,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.56,
+      "startOffset": 56,
+      "word": "hiding"
+    }
+  ]
+}

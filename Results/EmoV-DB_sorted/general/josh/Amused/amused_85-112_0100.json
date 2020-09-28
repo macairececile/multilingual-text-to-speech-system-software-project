@@ -1,0 +1,120 @@
+{
+  "transcript": "You must sleep, he urged.",
+  "words": [
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.69,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.58,
+      "startOffset": 0,
+      "word": "You"
+    },
+    {
+      "alignedWord": "must",
+      "case": "success",
+      "end": 0.8799999999999999,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 4,
+      "word": "must"
+    },
+    {
+      "alignedWord": "sleep",
+      "case": "success",
+      "end": 1.18,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "p_E"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 9,
+      "word": "sleep"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.89,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 16,
+      "word": "he"
+    },
+    {
+      "alignedWord": "urged",
+      "case": "success",
+      "end": 1.92,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 19,
+      "word": "urged"
+    }
+  ]
+}

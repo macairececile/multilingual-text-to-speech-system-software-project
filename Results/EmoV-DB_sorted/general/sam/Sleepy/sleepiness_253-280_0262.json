@@ -1,0 +1,255 @@
+{
+  "transcript": "They wouldn't be sweeping a big vessel like the Martha.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 1.42,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "wouldn't",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 5,
+      "word": "wouldn't"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 14,
+      "word": "be"
+    },
+    {
+      "alignedWord": "sweeping",
+      "case": "success",
+      "end": 2.39,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 17,
+      "word": "sweeping"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.4,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.39,
+      "startOffset": 26,
+      "word": "a"
+    },
+    {
+      "alignedWord": "big",
+      "case": "success",
+      "end": 3.0300000000000002,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_E"
+        }
+      ],
+      "start": 2.79,
+      "startOffset": 28,
+      "word": "big"
+    },
+    {
+      "alignedWord": "vessel",
+      "case": "success",
+      "end": 3.71,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.03,
+      "startOffset": 32,
+      "word": "vessel"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 4.9,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 4.87,
+      "startOffset": 39,
+      "word": "like"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 5.010000000000001,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.9,
+      "startOffset": 44,
+      "word": "the"
+    },
+    {
+      "alignedWord": "martha",
+      "case": "success",
+      "end": 5.56,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 5.01,
+      "startOffset": 48,
+      "word": "Martha"
+    }
+  ]
+}

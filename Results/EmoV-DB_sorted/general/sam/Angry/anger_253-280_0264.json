@@ -1,0 +1,262 @@
+{
+  "transcript": "And I hope you've got plenty of chain out, Captain Young.",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 0,
+      "word": "And"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 4,
+      "word": "I"
+    },
+    {
+      "alignedWord": "hope",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.79,
+      "startOffset": 6,
+      "word": "hope"
+    },
+    {
+      "alignedWord": "you've",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 11,
+      "word": "you've"
+    },
+    {
+      "alignedWord": "got",
+      "case": "success",
+      "end": 2.23,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 18,
+      "word": "got"
+    },
+    {
+      "alignedWord": "plenty",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.23,
+      "startOffset": 22,
+      "word": "plenty"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.63,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.5,
+      "startOffset": 29,
+      "word": "of"
+    },
+    {
+      "alignedWord": "chain",
+      "case": "success",
+      "end": 2.98,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.63,
+      "startOffset": 32,
+      "word": "chain"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 3.23,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.98,
+      "startOffset": 38,
+      "word": "out"
+    },
+    {
+      "alignedWord": "captain",
+      "case": "success",
+      "end": 3.83,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.38,
+      "startOffset": 43,
+      "word": "Captain"
+    },
+    {
+      "alignedWord": "young",
+      "case": "success",
+      "end": 4.3,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.83,
+      "startOffset": 51,
+      "word": "Young"
+    }
+  ]
+}

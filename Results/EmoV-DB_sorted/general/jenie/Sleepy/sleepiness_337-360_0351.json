@@ -1,0 +1,120 @@
+{
+  "transcript": "It was more like sugar.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.61,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 0.81,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.61,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 7,
+      "word": "more"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 12,
+      "word": "like"
+    },
+    {
+      "alignedWord": "sugar",
+      "case": "success",
+      "end": 1.9000000000000001,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.34,
+      "startOffset": 17,
+      "word": "sugar"
+    }
+  ]
+}

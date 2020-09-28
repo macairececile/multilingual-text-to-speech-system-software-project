@@ -1,0 +1,171 @@
+{
+  "transcript": "But it contributed to the smash.",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 0,
+      "word": "But"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 2.11,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.28,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 4,
+      "word": "it"
+    },
+    {
+      "alignedWord": "contributed",
+      "case": "success",
+      "end": 3.24,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.16,
+      "startOffset": 7,
+      "word": "contributed"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 4.2299999999999995,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.47,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.63,
+      "startOffset": 19,
+      "word": "to"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.44,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.24,
+      "startOffset": 22,
+      "word": "the"
+    },
+    {
+      "alignedWord": "smash",
+      "case": "success",
+      "end": 5.37,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.4,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 4.44,
+      "startOffset": 26,
+      "word": "smash"
+    }
+  ]
+}

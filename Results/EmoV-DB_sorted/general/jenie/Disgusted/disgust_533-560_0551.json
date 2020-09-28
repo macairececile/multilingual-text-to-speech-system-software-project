@@ -1,0 +1,170 @@
+{
+  "transcript": "All an appearance can know is mirage.",
+  "words": [
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 1.13,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.27,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 0,
+      "word": "All"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 1.2599999999999998,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 4,
+      "word": "an"
+    },
+    {
+      "alignedWord": "appearance",
+      "case": "success",
+      "end": 1.9,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 7,
+      "word": "appearance"
+    },
+    {
+      "alignedWord": "can",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.17,
+      "startOffset": 18,
+      "word": "can"
+    },
+    {
+      "alignedWord": "know",
+      "case": "success",
+      "end": 2.84,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.28,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.5,
+      "startOffset": 22,
+      "word": "know"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 3.0999999999999996,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.84,
+      "startOffset": 27,
+      "word": "is"
+    },
+    {
+      "alignedWord": "mirage",
+      "case": "success",
+      "end": 3.88,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "zh_E"
+        }
+      ],
+      "start": 3.1,
+      "startOffset": 30,
+      "word": "mirage"
+    }
+  ]
+}

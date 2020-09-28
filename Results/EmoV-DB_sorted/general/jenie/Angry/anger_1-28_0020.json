@@ -1,0 +1,263 @@
+{
+  "transcript": "Clubs and balls and cities grew to be only memories.",
+  "words": [
+    {
+      "alignedWord": "clubs",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 0,
+      "word": "Clubs"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 6,
+      "word": "and"
+    },
+    {
+      "alignedWord": "balls",
+      "case": "success",
+      "end": 2.0700000000000003,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 10,
+      "word": "balls"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.4,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.17,
+      "startOffset": 16,
+      "word": "and"
+    },
+    {
+      "alignedWord": "cities",
+      "case": "success",
+      "end": 3.01,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 20,
+      "word": "cities"
+    },
+    {
+      "alignedWord": "grew",
+      "case": "success",
+      "end": 3.3200000000000003,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.14,
+      "startOffset": 27,
+      "word": "grew"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.6199999999999997,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 3.51,
+      "startOffset": 32,
+      "word": "to"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 3.78,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.63,
+      "startOffset": 35,
+      "word": "be"
+    },
+    {
+      "alignedWord": "only",
+      "case": "success",
+      "end": 4.16,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.78,
+      "startOffset": 38,
+      "word": "only"
+    },
+    {
+      "alignedWord": "memories",
+      "case": "success",
+      "end": 4.970000000000001,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.16,
+      "startOffset": 43,
+      "word": "memories"
+    }
+  ]
+}

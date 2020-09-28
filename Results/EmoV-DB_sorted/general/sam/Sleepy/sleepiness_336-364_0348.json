@@ -1,0 +1,202 @@
+{
+  "transcript": "They only lifted seven hundred and fifty.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 1.1199999999999999,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "only",
+      "case": "success",
+      "end": 1.4300000000000002,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 5,
+      "word": "only"
+    },
+    {
+      "alignedWord": "lifted",
+      "case": "success",
+      "end": 1.8199999999999998,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 10,
+      "word": "lifted"
+    },
+    {
+      "alignedWord": "seven",
+      "case": "success",
+      "end": 2.72,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 17,
+      "word": "seven"
+    },
+    {
+      "alignedWord": "hundred",
+      "case": "success",
+      "end": 3.24,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.72,
+      "startOffset": 23,
+      "word": "hundred"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.4200000000000004,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.24,
+      "startOffset": 31,
+      "word": "and"
+    },
+    {
+      "alignedWord": "fifty",
+      "case": "success",
+      "end": 3.81,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.46,
+      "startOffset": 35,
+      "word": "fifty"
+    }
+  ]
+}

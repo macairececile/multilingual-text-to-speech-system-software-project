@@ -1,0 +1,301 @@
+{
+  "transcript": "They had no fixed values, to be altered by adjectives and adverbs.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.31,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 5,
+      "word": "had"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 2.14,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.29,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 9,
+      "word": "no"
+    },
+    {
+      "alignedWord": "fixed",
+      "case": "success",
+      "end": 2.79,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.15,
+      "startOffset": 12,
+      "word": "fixed"
+    },
+    {
+      "alignedWord": "values",
+      "case": "success",
+      "end": 3.5999999999999996,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.8,
+      "startOffset": 18,
+      "word": "values"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 4.37,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 4.28,
+      "startOffset": 26,
+      "word": "to"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 4.53,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.37,
+      "startOffset": 29,
+      "word": "be"
+    },
+    {
+      "alignedWord": "altered",
+      "case": "success",
+      "end": 5.220000000000001,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.53,
+      "startOffset": 32,
+      "word": "altered"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 5.859999999999999,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 5.68,
+      "startOffset": 40,
+      "word": "by"
+    },
+    {
+      "alignedWord": "adjectives",
+      "case": "success",
+      "end": 6.79,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.88,
+      "startOffset": 43,
+      "word": "adjectives"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 7.180000000000001,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "d_E"
+        }
+      ],
+      "start": 6.82,
+      "startOffset": 54,
+      "word": "and"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 7.36,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 7.28,
+      "startOffset": 58,
+      "word": "adverbs"
+    }
+  ]
+}

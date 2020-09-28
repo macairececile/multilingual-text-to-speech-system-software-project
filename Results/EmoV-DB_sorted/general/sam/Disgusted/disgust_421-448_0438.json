@@ -1,0 +1,131 @@
+{
+  "transcript": "At sea, Monday, March 16, 1908.",
+  "words": [
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 0,
+      "word": "At"
+    },
+    {
+      "alignedWord": "sea",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.3,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.53,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 3,
+      "word": "sea"
+    },
+    {
+      "alignedWord": "monday",
+      "case": "success",
+      "end": 3.4400000000000004,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.28,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.42,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 8,
+      "word": "Monday"
+    },
+    {
+      "alignedWord": "march",
+      "case": "success",
+      "end": 4.4399999999999995,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 4.09,
+      "startOffset": 16,
+      "word": "March"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.84,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.39,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.45,
+      "startOffset": 22,
+      "word": "16"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 5.58,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.66,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.92,
+      "startOffset": 26,
+      "word": "1908"
+    }
+  ]
+}

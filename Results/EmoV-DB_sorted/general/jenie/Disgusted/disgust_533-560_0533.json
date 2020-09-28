@@ -1,0 +1,197 @@
+{
+  "transcript": "Dunham, can your boy go along with Jesse.",
+  "words": [
+    {
+      "alignedWord": "dunham",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 0,
+      "word": "Dunham"
+    },
+    {
+      "alignedWord": "can",
+      "case": "success",
+      "end": 1.92,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 8,
+      "word": "can"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 2.07,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.92,
+      "startOffset": 12,
+      "word": "your"
+    },
+    {
+      "alignedWord": "boy",
+      "case": "success",
+      "end": 2.46,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 17,
+      "word": "boy"
+    },
+    {
+      "alignedWord": "go",
+      "case": "success",
+      "end": 2.7,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 21,
+      "word": "go"
+    },
+    {
+      "alignedWord": "along",
+      "case": "success",
+      "end": 3.14,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.7,
+      "startOffset": 24,
+      "word": "along"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.15,
+      "startOffset": 30,
+      "word": "with"
+    },
+    {
+      "alignedWord": "jesse",
+      "case": "success",
+      "end": 3.93,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.33,
+      "startOffset": 35,
+      "word": "Jesse"
+    }
+  ]
+}

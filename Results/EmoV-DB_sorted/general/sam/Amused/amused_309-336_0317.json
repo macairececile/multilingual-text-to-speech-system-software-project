@@ -1,0 +1,100 @@
+{
+  "transcript": "He was a wise hyena.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.55,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.31,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.38,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 7,
+      "word": "a"
+    },
+    {
+      "alignedWord": "wise",
+      "case": "success",
+      "end": 2.2,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.36,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 9,
+      "word": "wise"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.76,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.55,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.21,
+      "startOffset": 14,
+      "word": "hyena"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "transcript": "I don't know why you're here at all.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.71,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "don't",
+      "case": "success",
+      "end": 0.88,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.73,
+      "startOffset": 2,
+      "word": "don't"
+    },
+    {
+      "alignedWord": "know",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 8,
+      "word": "know"
+    },
+    {
+      "alignedWord": "why",
+      "case": "success",
+      "end": 1.14,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 13,
+      "word": "why"
+    },
+    {
+      "alignedWord": "you're",
+      "case": "success",
+      "end": 1.3399999999999999,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 17,
+      "word": "you're"
+    },
+    {
+      "alignedWord": "here",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.34,
+      "startOffset": 24,
+      "word": "here"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.6,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 29,
+      "word": "at"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 1.9100000000000001,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 32,
+      "word": "all"
+    }
+  ]
+}

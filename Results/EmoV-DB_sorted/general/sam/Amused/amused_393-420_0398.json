@@ -1,0 +1,304 @@
+{
+  "transcript": "In the car were Unwin and Harrison, while Jones sat with the chauffeur.",
+  "words": [
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.72,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 0,
+      "word": "In"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.9199999999999999,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.73,
+      "startOffset": 3,
+      "word": "the"
+    },
+    {
+      "alignedWord": "car",
+      "case": "success",
+      "end": 1.59,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.35,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.92,
+      "startOffset": 7,
+      "word": "car"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 2.36,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.99,
+      "startOffset": 11,
+      "word": "were"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.23,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.82,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.41,
+      "startOffset": 16,
+      "word": "Unwin"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.6,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.42,
+      "startOffset": 22,
+      "word": "and"
+    },
+    {
+      "alignedWord": "harrison",
+      "case": "success",
+      "end": 4.35,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.61,
+      "startOffset": 26,
+      "word": "Harrison"
+    },
+    {
+      "alignedWord": "while",
+      "case": "success",
+      "end": 5.5200000000000005,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_E"
+        }
+      ],
+      "start": 5.29,
+      "startOffset": 36,
+      "word": "while"
+    },
+    {
+      "alignedWord": "jones",
+      "case": "success",
+      "end": 6.76,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.3,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.58,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.52,
+      "startOffset": 42,
+      "word": "Jones"
+    },
+    {
+      "alignedWord": "sat",
+      "case": "success",
+      "end": 7.62,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 7.2,
+      "startOffset": 48,
+      "word": "sat"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 7.79,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 7.62,
+      "startOffset": 52,
+      "word": "with"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 7.91,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 7.79,
+      "startOffset": 57,
+      "word": "the"
+    },
+    {
+      "alignedWord": "chauffeur",
+      "case": "success",
+      "end": 8.88,
+      "endOffset": 70,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.5,
+          "phone": "er_E"
+        }
+      ],
+      "start": 7.91,
+      "startOffset": 61,
+      "word": "chauffeur"
+    }
+  ]
+}

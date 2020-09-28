@@ -1,0 +1,303 @@
+{
+  "transcript": "As for himself, weren't the street railway earnings increasing steadily.",
+  "words": [
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 0,
+      "word": "As"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 1.6099999999999999,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 3,
+      "word": "for"
+    },
+    {
+      "alignedWord": "himself",
+      "case": "success",
+      "end": 2.34,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 7,
+      "word": "himself"
+    },
+    {
+      "alignedWord": "weren't",
+      "case": "success",
+      "end": 2.9299999999999997,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 16,
+      "word": "weren't"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.04,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.93,
+      "startOffset": 24,
+      "word": "the"
+    },
+    {
+      "alignedWord": "street",
+      "case": "success",
+      "end": 3.54,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.04,
+      "startOffset": 28,
+      "word": "street"
+    },
+    {
+      "alignedWord": "railway",
+      "case": "success",
+      "end": 4.1499999999999995,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 3.55,
+      "startOffset": 35,
+      "word": "railway"
+    },
+    {
+      "alignedWord": "earnings",
+      "case": "success",
+      "end": 4.5600000000000005,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.15,
+      "startOffset": 43,
+      "word": "earnings"
+    },
+    {
+      "alignedWord": "increasing",
+      "case": "success",
+      "end": 5.25,
+      "endOffset": 62,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.56,
+      "startOffset": 52,
+      "word": "increasing"
+    },
+    {
+      "alignedWord": "steadily",
+      "case": "success",
+      "end": 5.7,
+      "endOffset": 71,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 5.25,
+      "startOffset": 63,
+      "word": "steadily"
+    }
+  ]
+}

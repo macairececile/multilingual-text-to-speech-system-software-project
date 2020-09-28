@@ -1,0 +1,318 @@
+{
+  "transcript": "Bob, growing disgusted, turned back suddenly and attempted to pass Mab.",
+  "words": [
+    {
+      "alignedWord": "bob",
+      "case": "success",
+      "end": 1.63,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "b_E"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 0,
+      "word": "Bob"
+    },
+    {
+      "alignedWord": "growing",
+      "case": "success",
+      "end": 2.7300000000000004,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 5,
+      "word": "growing"
+    },
+    {
+      "alignedWord": "disgusted",
+      "case": "success",
+      "end": 5.12,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.48,
+      "startOffset": 13,
+      "word": "disgusted"
+    },
+    {
+      "alignedWord": "turned",
+      "case": "success",
+      "end": 6.319999999999999,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.89,
+      "startOffset": 24,
+      "word": "turned"
+    },
+    {
+      "alignedWord": "back",
+      "case": "success",
+      "end": 6.76,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 6.43,
+      "startOffset": 31,
+      "word": "back"
+    },
+    {
+      "alignedWord": "suddenly",
+      "case": "success",
+      "end": 7.7,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 6.83,
+      "startOffset": 36,
+      "word": "suddenly"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 7.92,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 7.76,
+      "startOffset": 45,
+      "word": "and"
+    },
+    {
+      "alignedWord": "attempted",
+      "case": "success",
+      "end": 8.59,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 7.92,
+      "startOffset": 49,
+      "word": "attempted"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 8.75,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 8.59,
+      "startOffset": 59,
+      "word": "to"
+    },
+    {
+      "alignedWord": "pass",
+      "case": "success",
+      "end": 9.68,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 0.3,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.34,
+          "phone": "s_E"
+        }
+      ],
+      "start": 8.84,
+      "startOffset": 62,
+      "word": "pass"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 10.6,
+      "endOffset": 70,
+      "phones": [
+        {
+          "duration": 0.77,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 9.83,
+      "startOffset": 67,
+      "word": "Mab"
+    }
+  ]
+}

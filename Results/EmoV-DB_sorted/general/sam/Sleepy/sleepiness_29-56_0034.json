@@ -1,0 +1,259 @@
+{
+  "transcript": "Men of Selden's stamp don't stop at women and children.",
+  "words": [
+    {
+      "alignedWord": "men",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 0,
+      "word": "Men"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.8699999999999999,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 4,
+      "word": "of"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.4000000000000004,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.53,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 7,
+      "word": "Selden's"
+    },
+    {
+      "alignedWord": "stamp",
+      "case": "success",
+      "end": 2.99,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "p_E"
+        }
+      ],
+      "start": 2.41,
+      "startOffset": 16,
+      "word": "stamp"
+    },
+    {
+      "alignedWord": "don't",
+      "case": "success",
+      "end": 3.47,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.22,
+      "startOffset": 22,
+      "word": "don't"
+    },
+    {
+      "alignedWord": "stop",
+      "case": "success",
+      "end": 4.06,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "p_E"
+        }
+      ],
+      "start": 3.48,
+      "startOffset": 28,
+      "word": "stop"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 4.24,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.2,
+      "startOffset": 33,
+      "word": "at"
+    },
+    {
+      "alignedWord": "women",
+      "case": "success",
+      "end": 4.7,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.29,
+      "startOffset": 36,
+      "word": "women"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.970000000000001,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.7,
+      "startOffset": 42,
+      "word": "and"
+    },
+    {
+      "alignedWord": "children",
+      "case": "success",
+      "end": 5.65,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.99,
+      "startOffset": 46,
+      "word": "children"
+    }
+  ]
+}

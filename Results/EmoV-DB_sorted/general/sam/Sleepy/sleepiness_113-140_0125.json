@@ -1,0 +1,325 @@
+{
+  "transcript": "He was determined now to maintain a more certain hold upon himself.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.18,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.39,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "determined",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.39,
+      "startOffset": 7,
+      "word": "determined"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 2.87,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.44,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 18,
+      "word": "now"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.19,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 22,
+      "word": "to"
+    },
+    {
+      "alignedWord": "maintain",
+      "case": "success",
+      "end": 3.85,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.25,
+      "startOffset": 25,
+      "word": "maintain"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 4.1,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.85,
+      "startOffset": 34,
+      "word": "a"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 5.17,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_E"
+        }
+      ],
+      "start": 4.93,
+      "startOffset": 36,
+      "word": "more"
+    },
+    {
+      "alignedWord": "certain",
+      "case": "success",
+      "end": 5.800000000000001,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.19,
+      "startOffset": 41,
+      "word": "certain"
+    },
+    {
+      "alignedWord": "hold",
+      "case": "success",
+      "end": 6.25,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.8,
+      "startOffset": 49,
+      "word": "hold"
+    },
+    {
+      "alignedWord": "upon",
+      "case": "success",
+      "end": 6.71,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_E"
+        }
+      ],
+      "start": 6.25,
+      "startOffset": 54,
+      "word": "upon"
+    },
+    {
+      "alignedWord": "himself",
+      "case": "success",
+      "end": 7.39,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "f_E"
+        }
+      ],
+      "start": 6.72,
+      "startOffset": 59,
+      "word": "himself"
+    }
+  ]
+}

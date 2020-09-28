@@ -1,0 +1,145 @@
+{
+  "transcript": "He obeyed the pressure of her hand.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "obeyed",
+      "case": "success",
+      "end": 2.0700000000000003,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.28,
+      "startOffset": 3,
+      "word": "obeyed"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.42,
+      "startOffset": 10,
+      "word": "the"
+    },
+    {
+      "alignedWord": "pressure",
+      "case": "success",
+      "end": 3.42,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.61,
+      "startOffset": 14,
+      "word": "pressure"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.94,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.87,
+      "startOffset": 23,
+      "word": "of"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 4.13,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.94,
+      "startOffset": 26,
+      "word": "her"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 34,
+      "startOffset": 30,
+      "word": "hand"
+    }
+  ]
+}

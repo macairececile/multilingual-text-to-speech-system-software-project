@@ -1,0 +1,344 @@
+{
+  "transcript": "But in the canyons water was plentiful and also a luxuriant forest growth.",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 0.17,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.0,
+      "startOffset": 0,
+      "word": "But"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.27,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.17,
+      "startOffset": 4,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.36,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.27,
+      "startOffset": 7,
+      "word": "the"
+    },
+    {
+      "alignedWord": "canyons",
+      "case": "success",
+      "end": 0.83,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.36,
+      "startOffset": 11,
+      "word": "canyons"
+    },
+    {
+      "alignedWord": "water",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.83,
+      "startOffset": 19,
+      "word": "water"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 25,
+      "word": "was"
+    },
+    {
+      "alignedWord": "plentiful",
+      "case": "success",
+      "end": 1.8900000000000001,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 29,
+      "word": "plentiful"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.32,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 39,
+      "word": "and"
+    },
+    {
+      "alignedWord": "also",
+      "case": "success",
+      "end": 2.6599999999999997,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.32,
+      "startOffset": 43,
+      "word": "also"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.67,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.66,
+      "startOffset": 48,
+      "word": "a"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.44,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.77,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.67,
+      "startOffset": 50,
+      "word": "luxuriant"
+    },
+    {
+      "alignedWord": "forest",
+      "case": "success",
+      "end": 3.95,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.45,
+      "startOffset": 60,
+      "word": "forest"
+    },
+    {
+      "alignedWord": "growth",
+      "case": "success",
+      "end": 4.4399999999999995,
+      "endOffset": 73,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.96,
+      "startOffset": 67,
+      "word": "growth"
+    }
+  ]
+}

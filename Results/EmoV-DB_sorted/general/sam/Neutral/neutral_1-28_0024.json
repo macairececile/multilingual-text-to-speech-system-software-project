@@ -1,0 +1,316 @@
+{
+  "transcript": "It was my reports from the north which chiefly induced people to buy.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.8400000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.66,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 1.24,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.99,
+      "startOffset": 7,
+      "word": "my"
+    },
+    {
+      "alignedWord": "reports",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 10,
+      "word": "reports"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 1.87,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 18,
+      "word": "from"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.9700000000000002,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 23,
+      "word": "the"
+    },
+    {
+      "alignedWord": "north",
+      "case": "success",
+      "end": 2.32,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.97,
+      "startOffset": 27,
+      "word": "north"
+    },
+    {
+      "alignedWord": "which",
+      "case": "success",
+      "end": 2.47,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 33,
+      "word": "which"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.9800000000000004,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.51,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.47,
+      "startOffset": 39,
+      "word": "chiefly"
+    },
+    {
+      "alignedWord": "induced",
+      "case": "success",
+      "end": 3.41,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.98,
+      "startOffset": 47,
+      "word": "induced"
+    },
+    {
+      "alignedWord": "people",
+      "case": "success",
+      "end": 3.7399999999999998,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.44,
+      "startOffset": 55,
+      "word": "people"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.8600000000000003,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.74,
+      "startOffset": 62,
+      "word": "to"
+    },
+    {
+      "alignedWord": "buy",
+      "case": "success",
+      "end": 4.32,
+      "endOffset": 68,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.37,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 3.86,
+      "startOffset": 65,
+      "word": "buy"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "transcript": "He spat it out like so much venom.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.56,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.36,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "spat",
+      "case": "success",
+      "end": 0.8900000000000001,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.56,
+      "startOffset": 3,
+      "word": "spat"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 1.05,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 8,
+      "word": "it"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.05,
+      "startOffset": 11,
+      "word": "out"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.28,
+      "startOffset": 15,
+      "word": "like"
+    },
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 1.66,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 20,
+      "word": "so"
+    },
+    {
+      "alignedWord": "much",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 23,
+      "word": "much"
+    },
+    {
+      "alignedWord": "venom",
+      "case": "success",
+      "end": 2.28,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 28,
+      "word": "venom"
+    }
+  ]
+}

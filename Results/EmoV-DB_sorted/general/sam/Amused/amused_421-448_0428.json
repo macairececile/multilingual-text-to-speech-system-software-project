@@ -1,0 +1,179 @@
+{
+  "transcript": "It was not exactly a deportation.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 2.05,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.05,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.27,
+      "startOffset": 7,
+      "word": "not"
+    },
+    {
+      "alignedWord": "exactly",
+      "case": "success",
+      "end": 3.5700000000000003,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 11,
+      "word": "exactly"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 4.23,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 4.12,
+      "startOffset": 19,
+      "word": "a"
+    },
+    {
+      "alignedWord": "deportation",
+      "case": "success",
+      "end": 5.45,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.23,
+      "startOffset": 21,
+      "word": "deportation"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "transcript": "Obviously, it was a disease that could be contracted by contact.",
+  "words": [
+    {
+      "alignedWord": "obviously",
+      "case": "success",
+      "end": 2.65,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 0,
+      "word": "Obviously"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 2.95,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.77,
+      "startOffset": 11,
+      "word": "it"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 3.16,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.95,
+      "startOffset": 14,
+      "word": "was"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.23,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.16,
+      "startOffset": 18,
+      "word": "a"
+    },
+    {
+      "alignedWord": "disease",
+      "case": "success",
+      "end": 4.3,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.32,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.3,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.23,
+      "startOffset": 20,
+      "word": "disease"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 4.58,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.42,
+      "startOffset": 28,
+      "word": "that"
+    },
+    {
+      "alignedWord": "could",
+      "case": "success",
+      "end": 4.75,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.58,
+      "startOffset": 33,
+      "word": "could"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 4.92,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.76,
+      "startOffset": 39,
+      "word": "be"
+    },
+    {
+      "alignedWord": "contracted",
+      "case": "success",
+      "end": 5.94,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.98,
+      "startOffset": 42,
+      "word": "contracted"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 6.22,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 6.01,
+      "startOffset": 53,
+      "word": "by"
+    },
+    {
+      "alignedWord": "contact",
+      "case": "success",
+      "end": 7.68,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.26,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "t_E"
+        }
+      ],
+      "start": 6.49,
+      "startOffset": 56,
+      "word": "contact"
+    }
+  ]
+}

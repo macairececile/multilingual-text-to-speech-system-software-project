@@ -1,0 +1,328 @@
+{
+  "transcript": "For an instant he saw Pierre drawn like a silhouette against the sky.",
+  "words": [
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 0.32999999999999996,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.18,
+      "startOffset": 0,
+      "word": "For"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 0.45,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.33,
+      "startOffset": 4,
+      "word": "an"
+    },
+    {
+      "alignedWord": "instant",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.47,
+      "startOffset": 7,
+      "word": "instant"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 15,
+      "word": "he"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 1.39,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 1.17,
+      "startOffset": 18,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "pierre",
+      "case": "success",
+      "end": 1.8499999999999999,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 22,
+      "word": "Pierre"
+    },
+    {
+      "alignedWord": "drawn",
+      "case": "success",
+      "end": 2.2800000000000002,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 29,
+      "word": "drawn"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 2.4499999999999997,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 2.28,
+      "startOffset": 35,
+      "word": "like"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.45,
+      "startOffset": 40,
+      "word": "a"
+    },
+    {
+      "alignedWord": "silhouette",
+      "case": "success",
+      "end": 3.05,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 42,
+      "word": "silhouette"
+    },
+    {
+      "alignedWord": "against",
+      "case": "success",
+      "end": 3.49,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.08,
+      "startOffset": 53,
+      "word": "against"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.6,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.49,
+      "startOffset": 61,
+      "word": "the"
+    },
+    {
+      "alignedWord": "sky",
+      "case": "success",
+      "end": 4.3100000000000005,
+      "endOffset": 68,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.47,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 3.62,
+      "startOffset": 65,
+      "word": "sky"
+    }
+  ]
+}

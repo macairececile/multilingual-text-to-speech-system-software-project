@@ -1,0 +1,324 @@
+{
+  "transcript": "A big canvas tent was the first thing to come within his vision.",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.1600000000000001,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 0,
+      "word": "A"
+    },
+    {
+      "alignedWord": "big",
+      "case": "success",
+      "end": 1.45,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 2,
+      "word": "big"
+    },
+    {
+      "alignedWord": "canvas",
+      "case": "success",
+      "end": 1.8599999999999999,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 6,
+      "word": "canvas"
+    },
+    {
+      "alignedWord": "tent",
+      "case": "success",
+      "end": 2.14,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 13,
+      "word": "tent"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.2600000000000002,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.14,
+      "startOffset": 18,
+      "word": "was"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.36,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 22,
+      "word": "the"
+    },
+    {
+      "alignedWord": "first",
+      "case": "success",
+      "end": 2.67,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 26,
+      "word": "first"
+    },
+    {
+      "alignedWord": "thing",
+      "case": "success",
+      "end": 2.87,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.67,
+      "startOffset": 32,
+      "word": "thing"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.87,
+      "startOffset": 38,
+      "word": "to"
+    },
+    {
+      "alignedWord": "come",
+      "case": "success",
+      "end": 3.21,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 41,
+      "word": "come"
+    },
+    {
+      "alignedWord": "within",
+      "case": "success",
+      "end": 3.5,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.21,
+      "startOffset": 46,
+      "word": "within"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.68,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.5,
+      "startOffset": 53,
+      "word": "his"
+    },
+    {
+      "alignedWord": "vision",
+      "case": "success",
+      "end": 4.12,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "zh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.68,
+      "startOffset": 57,
+      "word": "vision"
+    }
+  ]
+}

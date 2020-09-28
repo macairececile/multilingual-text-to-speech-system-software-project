@@ -1,0 +1,300 @@
+{
+  "transcript": "It seemed nearer to him since he had seen and talked with Gregson.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.6,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "seemed",
+      "case": "success",
+      "end": 0.94,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 3,
+      "word": "seemed"
+    },
+    {
+      "alignedWord": "nearer",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 10,
+      "word": "nearer"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.4500000000000002,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 17,
+      "word": "to"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 1.7999999999999998,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 20,
+      "word": "him"
+    },
+    {
+      "alignedWord": "since",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 24,
+      "word": "since"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 2.17,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 30,
+      "word": "he"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 2.37,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 33,
+      "word": "had"
+    },
+    {
+      "alignedWord": "seen",
+      "case": "success",
+      "end": 2.7800000000000002,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 37,
+      "word": "seen"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.9499999999999997,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.78,
+      "startOffset": 42,
+      "word": "and"
+    },
+    {
+      "alignedWord": "talked",
+      "case": "success",
+      "end": 3.3000000000000003,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.95,
+      "startOffset": 46,
+      "word": "talked"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.46,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.3,
+      "startOffset": 53,
+      "word": "with"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.1,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.64,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.46,
+      "startOffset": 58,
+      "word": "Gregson"
+    }
+  ]
+}

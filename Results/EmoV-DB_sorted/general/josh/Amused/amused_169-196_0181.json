@@ -1,0 +1,173 @@
+{
+  "transcript": "So cheer up, and give us your paw.",
+  "words": [
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 0.84,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.58,
+      "startOffset": 0,
+      "word": "So"
+    },
+    {
+      "alignedWord": "cheer",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 3,
+      "word": "cheer"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 9,
+      "word": "up"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.2600000000000002,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 13,
+      "word": "and"
+    },
+    {
+      "alignedWord": "give",
+      "case": "success",
+      "end": 2.4099999999999997,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 17,
+      "word": "give"
+    },
+    {
+      "alignedWord": "us",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.41,
+      "startOffset": 22,
+      "word": "us"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 2.75,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 25,
+      "word": "your"
+    },
+    {
+      "alignedWord": "paw",
+      "case": "success",
+      "end": 2.9899999999999998,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 2.76,
+      "startOffset": 30,
+      "word": "paw"
+    }
+  ]
+}

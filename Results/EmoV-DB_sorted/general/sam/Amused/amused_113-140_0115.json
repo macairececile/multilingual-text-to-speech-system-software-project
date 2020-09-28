@@ -1,0 +1,289 @@
+{
+  "transcript": "He had no excuse for the feelings which were aroused in him.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.61,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.3,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.8299999999999998,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 3,
+      "word": "had"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.99,
+      "startOffset": 7,
+      "word": "no"
+    },
+    {
+      "alignedWord": "excuse",
+      "case": "success",
+      "end": 2.8200000000000003,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.12,
+      "startOffset": 10,
+      "word": "excuse"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 2.9899999999999998,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.82,
+      "startOffset": 17,
+      "word": "for"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.16,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.0,
+      "startOffset": 21,
+      "word": "the"
+    },
+    {
+      "alignedWord": "feelings",
+      "case": "success",
+      "end": 3.85,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.16,
+      "startOffset": 25,
+      "word": "feelings"
+    },
+    {
+      "alignedWord": "which",
+      "case": "success",
+      "end": 4.140000000000001,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 3.89,
+      "startOffset": 34,
+      "word": "which"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 4.39,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.14,
+      "startOffset": 40,
+      "word": "were"
+    },
+    {
+      "alignedWord": "aroused",
+      "case": "success",
+      "end": 4.9399999999999995,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.39,
+      "startOffset": 45,
+      "word": "aroused"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 5.0600000000000005,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.94,
+      "startOffset": 53,
+      "word": "in"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 5.3999999999999995,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "m_E"
+        }
+      ],
+      "start": 5.06,
+      "startOffset": 56,
+      "word": "him"
+    }
+  ]
+}

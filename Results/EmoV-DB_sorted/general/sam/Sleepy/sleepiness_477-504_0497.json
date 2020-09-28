@@ -1,0 +1,163 @@
+{
+  "transcript": "King took every advantage he knew.",
+  "words": [
+    {
+      "alignedWord": "king",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.61,
+      "startOffset": 0,
+      "word": "King"
+    },
+    {
+      "alignedWord": "took",
+      "case": "success",
+      "end": 1.18,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.99,
+      "startOffset": 5,
+      "word": "took"
+    },
+    {
+      "alignedWord": "every",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 10,
+      "word": "every"
+    },
+    {
+      "alignedWord": "advantage",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.49,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 2.05,
+      "startOffset": 16,
+      "word": "advantage"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 3.24,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.97,
+      "startOffset": 26,
+      "word": "he"
+    },
+    {
+      "alignedWord": "knew",
+      "case": "success",
+      "end": 3.73,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.33,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.27,
+      "startOffset": 29,
+      "word": "knew"
+    }
+  ]
+}

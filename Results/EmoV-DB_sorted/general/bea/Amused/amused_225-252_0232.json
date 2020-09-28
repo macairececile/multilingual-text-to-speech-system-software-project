@@ -1,0 +1,122 @@
+{
+  "transcript": "I cannot follow you, she said.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.59,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "cannot",
+      "case": "success",
+      "end": 1.1199999999999999,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.7,
+      "startOffset": 2,
+      "word": "cannot"
+    },
+    {
+      "alignedWord": "follow",
+      "case": "success",
+      "end": 1.5999999999999999,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 9,
+      "word": "follow"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.9400000000000002,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 16,
+      "word": "you"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 2.27,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.94,
+      "startOffset": 21,
+      "word": "she"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 29,
+      "startOffset": 25,
+      "word": "said"
+    }
+  ]
+}

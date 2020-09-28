@@ -1,0 +1,139 @@
+{
+  "transcript": "She turned in at the hotel.",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.9,
+      "startOffset": 0,
+      "word": "She"
+    },
+    {
+      "alignedWord": "turned",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.1,
+      "startOffset": 4,
+      "word": "turned"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.6600000000000001,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 11,
+      "word": "in"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 14,
+      "word": "at"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 17,
+      "word": "the"
+    },
+    {
+      "alignedWord": "hotel",
+      "case": "success",
+      "end": 2.49,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 21,
+      "word": "hotel"
+    }
+  ]
+}

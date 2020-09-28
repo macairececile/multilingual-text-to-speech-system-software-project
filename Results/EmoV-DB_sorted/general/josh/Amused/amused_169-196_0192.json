@@ -1,0 +1,112 @@
+{
+  "transcript": "He did not rush in.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.5700000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 0.6,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 3,
+      "word": "did"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 1.05,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 7,
+      "word": "not"
+    },
+    {
+      "alignedWord": "rush",
+      "case": "success",
+      "end": 1.3800000000000001,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 1.05,
+      "startOffset": 11,
+      "word": "rush"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.4000000000000001,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.3800000000000001,
+      "startOffset": 16,
+      "word": "in"
+    }
+  ]
+}

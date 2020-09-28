@@ -1,0 +1,286 @@
+{
+  "transcript": "He unfolded a long typewritten letter, and handed it to Gregson.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.24,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.99,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "unfolded",
+      "case": "success",
+      "end": 1.92,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 3,
+      "word": "unfolded"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.92,
+      "startOffset": 12,
+      "word": "a"
+    },
+    {
+      "alignedWord": "long",
+      "case": "success",
+      "end": 2.46,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 14,
+      "word": "long"
+    },
+    {
+      "alignedWord": "typewritten",
+      "case": "success",
+      "end": 3.1,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 19,
+      "word": "typewritten"
+    },
+    {
+      "alignedWord": "letter",
+      "case": "success",
+      "end": 3.66,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.33,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.1,
+      "startOffset": 31,
+      "word": "letter"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.45,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.25,
+      "startOffset": 39,
+      "word": "and"
+    },
+    {
+      "alignedWord": "handed",
+      "case": "success",
+      "end": 4.86,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.45,
+      "startOffset": 43,
+      "word": "handed"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 5.0200000000000005,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.86,
+      "startOffset": 50,
+      "word": "it"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 5.19,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 5.03,
+      "startOffset": 53,
+      "word": "to"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 5.470000000000001,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.27,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 5.2,
+      "startOffset": 56,
+      "word": "Gregson"
+    }
+  ]
+}

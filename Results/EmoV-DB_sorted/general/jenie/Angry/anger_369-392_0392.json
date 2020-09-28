@@ -1,0 +1,313 @@
+{
+  "transcript": "There is that magnificent Bob, eating his head off in the stable.",
+  "words": [
+    {
+      "alignedWord": "there",
+      "case": "success",
+      "end": 1.42,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 0,
+      "word": "There"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.68,
+      "startOffset": 6,
+      "word": "is"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 9,
+      "word": "that"
+    },
+    {
+      "alignedWord": "magnificent",
+      "case": "success",
+      "end": 2.81,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 14,
+      "word": "magnificent"
+    },
+    {
+      "alignedWord": "bob",
+      "case": "success",
+      "end": 3.25,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "b_E"
+        }
+      ],
+      "start": 2.81,
+      "startOffset": 26,
+      "word": "Bob"
+    },
+    {
+      "alignedWord": "eating",
+      "case": "success",
+      "end": 3.74,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.48,
+      "startOffset": 31,
+      "word": "eating"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 4.0600000000000005,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.97,
+      "startOffset": 38,
+      "word": "his"
+    },
+    {
+      "alignedWord": "head",
+      "case": "success",
+      "end": 4.319999999999999,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.06,
+      "startOffset": 42,
+      "word": "head"
+    },
+    {
+      "alignedWord": "off",
+      "case": "success",
+      "end": 4.5600000000000005,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_E"
+        }
+      ],
+      "start": 4.33,
+      "startOffset": 47,
+      "word": "off"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 4.659999999999999,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.56,
+      "startOffset": 51,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.76,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.66,
+      "startOffset": 54,
+      "word": "the"
+    },
+    {
+      "alignedWord": "stable",
+      "case": "success",
+      "end": 5.5,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.33,
+          "phone": "l_E"
+        }
+      ],
+      "start": 4.76,
+      "startOffset": 58,
+      "word": "stable"
+    }
+  ]
+}

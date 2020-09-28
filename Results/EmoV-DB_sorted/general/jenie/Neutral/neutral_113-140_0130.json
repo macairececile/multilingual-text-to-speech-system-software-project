@@ -1,0 +1,120 @@
+{
+  "transcript": "She was his now, forever.",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 1.3499999999999999,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 0,
+      "word": "She"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.35,
+      "startOffset": 4,
+      "word": "was"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 8,
+      "word": "his"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 2.15,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.29,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 12,
+      "word": "now"
+    },
+    {
+      "alignedWord": "forever",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.3,
+      "startOffset": 17,
+      "word": "forever"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "transcript": "It would give me nervous prostration.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.8200000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.66,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "would",
+      "case": "success",
+      "end": 0.9299999999999999,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 3,
+      "word": "would"
+    },
+    {
+      "alignedWord": "give",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.94,
+      "startOffset": 9,
+      "word": "give"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 1.6600000000000001,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 14,
+      "word": "me"
+    },
+    {
+      "alignedWord": "nervous",
+      "case": "success",
+      "end": 2.28,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 17,
+      "word": "nervous"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.13,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.81,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.32,
+      "startOffset": 25,
+      "word": "prostration"
+    }
+  ]
+}

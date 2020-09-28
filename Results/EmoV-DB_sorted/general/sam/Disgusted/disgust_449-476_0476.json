@@ -1,0 +1,231 @@
+{
+  "transcript": "At this moment I felt a stir at my shoulder.",
+  "words": [
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 0.77,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.55,
+      "startOffset": 0,
+      "word": "At"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.77,
+      "startOffset": 3,
+      "word": "this"
+    },
+    {
+      "alignedWord": "moment",
+      "case": "success",
+      "end": 1.7200000000000002,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 8,
+      "word": "moment"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 2.11,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.31,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 15,
+      "word": "I"
+    },
+    {
+      "alignedWord": "felt",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.11,
+      "startOffset": 17,
+      "word": "felt"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.57,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 2.5,
+      "startOffset": 22,
+      "word": "a"
+    },
+    {
+      "alignedWord": "stir",
+      "case": "success",
+      "end": 3.48,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.3,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.43,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.58,
+      "startOffset": 24,
+      "word": "stir"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 3.71,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.48,
+      "startOffset": 29,
+      "word": "at"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 4.12,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 3.95,
+      "startOffset": 32,
+      "word": "my"
+    },
+    {
+      "alignedWord": "shoulder",
+      "case": "success",
+      "end": 5.13,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.34,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.41,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.12,
+      "startOffset": 35,
+      "word": "shoulder"
+    }
+  ]
+}

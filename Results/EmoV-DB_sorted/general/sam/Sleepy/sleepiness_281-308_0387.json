@@ -1,0 +1,80 @@
+{
+  "transcript": "Bob, growing disgusted, turned back suddenly and attempted to pass Mab.",
+  "words": [
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 3,
+      "startOffset": 0,
+      "word": "Bob"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 12,
+      "startOffset": 5,
+      "word": "growing"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 22,
+      "startOffset": 13,
+      "word": "disgusted"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 30,
+      "startOffset": 24,
+      "word": "turned"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 35,
+      "startOffset": 31,
+      "word": "back"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 44,
+      "startOffset": 36,
+      "word": "suddenly"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 48,
+      "startOffset": 45,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 58,
+      "startOffset": 49,
+      "word": "attempted"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 61,
+      "startOffset": 59,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 66,
+      "startOffset": 62,
+      "word": "pass"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 70,
+      "phones": [
+        {
+          "duration": 0.36,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 67,
+      "word": "Mab"
+    }
+  ]
+}

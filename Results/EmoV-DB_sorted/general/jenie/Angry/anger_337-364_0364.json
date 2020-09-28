@@ -1,0 +1,290 @@
+{
+  "transcript": "We have plenty of capital ourselves, and yet we want more.",
+  "words": [
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 1.38,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 0,
+      "word": "We"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 1.41,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 3,
+      "word": "have"
+    },
+    {
+      "alignedWord": "plenty",
+      "case": "success",
+      "end": 1.72,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 8,
+      "word": "plenty"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 15,
+      "word": "of"
+    },
+    {
+      "alignedWord": "capital",
+      "case": "success",
+      "end": 2.73,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 18,
+      "word": "capital"
+    },
+    {
+      "alignedWord": "ourselves",
+      "case": "success",
+      "end": 3.19,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.86,
+      "startOffset": 26,
+      "word": "ourselves"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.03,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.0,
+      "startOffset": 37,
+      "word": "and"
+    },
+    {
+      "alignedWord": "yet",
+      "case": "success",
+      "end": 4.0600000000000005,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.03,
+      "startOffset": 41,
+      "word": "yet"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 4.529999999999999,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.35,
+      "startOffset": 45,
+      "word": "we"
+    },
+    {
+      "alignedWord": "want",
+      "case": "success",
+      "end": 4.800000000000001,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.53,
+      "startOffset": 48,
+      "word": "want"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 5.6000000000000005,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "r_E"
+        }
+      ],
+      "start": 5.420000000000001,
+      "startOffset": 53,
+      "word": "more"
+    }
+  ]
+}

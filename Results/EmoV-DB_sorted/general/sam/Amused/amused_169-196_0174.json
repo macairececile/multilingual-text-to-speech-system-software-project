@@ -1,0 +1,127 @@
+{
+  "transcript": "They were the presage of storm.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 5,
+      "word": "were"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.4299999999999997,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 10,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.5,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 1.05,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.45,
+      "startOffset": 14,
+      "word": "presage"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 4.45,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_E"
+        }
+      ],
+      "start": 4.28,
+      "startOffset": 22,
+      "word": "of"
+    },
+    {
+      "alignedWord": "storm",
+      "case": "success",
+      "end": 5.26,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.46,
+      "startOffset": 25,
+      "word": "storm"
+    }
+  ]
+}

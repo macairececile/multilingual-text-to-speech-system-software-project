@@ -1,0 +1,216 @@
+{
+  "transcript": "He moved away as quietly as he had come.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.76,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.61,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "moved",
+      "case": "success",
+      "end": 1.1400000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 3,
+      "word": "moved"
+    },
+    {
+      "alignedWord": "away",
+      "case": "success",
+      "end": 1.5499999999999998,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 9,
+      "word": "away"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 14,
+      "word": "as"
+    },
+    {
+      "alignedWord": "quietly",
+      "case": "success",
+      "end": 2.44,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 17,
+      "word": "quietly"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 2.61,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.44,
+      "startOffset": 25,
+      "word": "as"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 2.76,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.61,
+      "startOffset": 28,
+      "word": "he"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 2.92,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.76,
+      "startOffset": 31,
+      "word": "had"
+    },
+    {
+      "alignedWord": "come",
+      "case": "success",
+      "end": 3.16,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.92,
+      "startOffset": 35,
+      "word": "come"
+    }
+  ]
+}

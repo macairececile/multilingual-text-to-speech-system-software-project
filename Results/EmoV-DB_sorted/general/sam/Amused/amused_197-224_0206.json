@@ -1,0 +1,192 @@
+{
+  "transcript": "He says he bought him of Jacques Le Beau.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.54,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "says",
+      "case": "success",
+      "end": 1.97,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.34,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 3,
+      "word": "says"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 8,
+      "word": "he"
+    },
+    {
+      "alignedWord": "bought",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.54,
+      "startOffset": 11,
+      "word": "bought"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 3.3,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 18,
+      "word": "him"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 4.21,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 4.02,
+      "startOffset": 22,
+      "word": "of"
+    },
+    {
+      "alignedWord": "jacques",
+      "case": "success",
+      "end": 4.9399999999999995,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.35,
+          "phone": "zh_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "k_E"
+        }
+      ],
+      "start": 4.21,
+      "startOffset": 25,
+      "word": "Jacques"
+    },
+    {
+      "alignedWord": "le",
+      "case": "success",
+      "end": 5.15,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.99,
+      "startOffset": 33,
+      "word": "Le"
+    },
+    {
+      "alignedWord": "beau",
+      "case": "success",
+      "end": 5.74,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.39,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 5.15,
+      "startOffset": 36,
+      "word": "Beau"
+    }
+  ]
+}

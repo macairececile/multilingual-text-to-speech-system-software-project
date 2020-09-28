@@ -1,0 +1,246 @@
+{
+  "transcript": "And you always want to see it in the superlative degree.",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 0,
+      "word": "And"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.4900000000000002,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 4,
+      "word": "you"
+    },
+    {
+      "alignedWord": "always",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.5,
+      "startOffset": 8,
+      "word": "always"
+    },
+    {
+      "alignedWord": "want",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 15,
+      "word": "want"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.17,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 2.05,
+      "startOffset": 20,
+      "word": "to"
+    },
+    {
+      "alignedWord": "see",
+      "case": "success",
+      "end": 2.4299999999999997,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.17,
+      "startOffset": 23,
+      "word": "see"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 27,
+      "word": "it"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.65,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 30,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.77,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.65,
+      "startOffset": 33,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.35,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.58,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.77,
+      "startOffset": 37,
+      "word": "superlative"
+    },
+    {
+      "alignedWord": "degree",
+      "case": "success",
+      "end": 3.87,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.39,
+      "startOffset": 49,
+      "word": "degree"
+    }
+  ]
+}

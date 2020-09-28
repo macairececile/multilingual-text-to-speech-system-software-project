@@ -1,0 +1,181 @@
+{
+  "transcript": "Do you know any good land around here.",
+  "words": [
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 0,
+      "word": "Do"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 3,
+      "word": "you"
+    },
+    {
+      "alignedWord": "know",
+      "case": "success",
+      "end": 1.0,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 7,
+      "word": "know"
+    },
+    {
+      "alignedWord": "any",
+      "case": "success",
+      "end": 1.16,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 12,
+      "word": "any"
+    },
+    {
+      "alignedWord": "good",
+      "case": "success",
+      "end": 1.3499999999999999,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 16,
+      "word": "good"
+    },
+    {
+      "alignedWord": "land",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.35,
+      "startOffset": 21,
+      "word": "land"
+    },
+    {
+      "alignedWord": "around",
+      "case": "success",
+      "end": 1.77,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 26,
+      "word": "around"
+    },
+    {
+      "alignedWord": "here",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.77,
+      "startOffset": 33,
+      "word": "here"
+    }
+  ]
+}

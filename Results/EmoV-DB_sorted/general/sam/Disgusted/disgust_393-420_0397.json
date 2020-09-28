@@ -1,0 +1,146 @@
+{
+  "transcript": "Call me that again, he murmured ecstatically.",
+  "words": [
+    {
+      "alignedWord": "call",
+      "case": "success",
+      "end": 2.73,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.7,
+      "startOffset": 0,
+      "word": "Call"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 2.75,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.73,
+      "startOffset": 5,
+      "word": "me"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 2.78,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.75,
+      "startOffset": 8,
+      "word": "that"
+    },
+    {
+      "alignedWord": "again",
+      "case": "success",
+      "end": 3.1199999999999997,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.78,
+      "startOffset": 13,
+      "word": "again"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 4.38,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.27,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.0,
+      "startOffset": 20,
+      "word": "he"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 5.31,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.93,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.38,
+      "startOffset": 23,
+      "word": "murmured"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 5.54,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 5.39,
+      "startOffset": 32,
+      "word": "ecstatically"
+    }
+  ]
+}

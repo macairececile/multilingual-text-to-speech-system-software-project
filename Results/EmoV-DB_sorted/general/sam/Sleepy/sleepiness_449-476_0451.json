@@ -1,0 +1,209 @@
+{
+  "transcript": "I noticed blood spouting from Kerfoot's left hand.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "noticed",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.17,
+      "startOffset": 2,
+      "word": "noticed"
+    },
+    {
+      "alignedWord": "blood",
+      "case": "success",
+      "end": 1.9100000000000001,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 10,
+      "word": "blood"
+    },
+    {
+      "alignedWord": "spouting",
+      "case": "success",
+      "end": 3.18,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.28,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.31,
+      "startOffset": 16,
+      "word": "spouting"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 3.5,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.2,
+      "startOffset": 25,
+      "word": "from"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.4399999999999995,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.94,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.5,
+      "startOffset": 30,
+      "word": "Kerfoot's"
+    },
+    {
+      "alignedWord": "left",
+      "case": "success",
+      "end": 4.720000000000001,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.44,
+      "startOffset": 40,
+      "word": "left"
+    },
+    {
+      "alignedWord": "hand",
+      "case": "success",
+      "end": 5.05,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.75,
+      "startOffset": 45,
+      "word": "hand"
+    }
+  ]
+}

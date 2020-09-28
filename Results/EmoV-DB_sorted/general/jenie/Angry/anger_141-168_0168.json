@@ -1,0 +1,254 @@
+{
+  "transcript": "Low bush whipped him in the face and left no sting.",
+  "words": [
+    {
+      "alignedWord": "low",
+      "case": "success",
+      "end": 1.15,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 0,
+      "word": "Low"
+    },
+    {
+      "alignedWord": "bush",
+      "case": "success",
+      "end": 1.6300000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 4,
+      "word": "bush"
+    },
+    {
+      "alignedWord": "whipped",
+      "case": "success",
+      "end": 2.01,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 9,
+      "word": "whipped"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 2.15,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.01,
+      "startOffset": 17,
+      "word": "him"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.23,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.15,
+      "startOffset": 21,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.33,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.23,
+      "startOffset": 24,
+      "word": "the"
+    },
+    {
+      "alignedWord": "face",
+      "case": "success",
+      "end": 2.79,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.33,
+      "startOffset": 28,
+      "word": "face"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.94,
+      "startOffset": 33,
+      "word": "and"
+    },
+    {
+      "alignedWord": "left",
+      "case": "success",
+      "end": 3.4,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.15,
+      "startOffset": 37,
+      "word": "left"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 3.81,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 3.41,
+      "startOffset": 42,
+      "word": "no"
+    },
+    {
+      "alignedWord": "sting",
+      "case": "success",
+      "end": 4.4,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.83,
+      "startOffset": 45,
+      "word": "sting"
+    }
+  ]
+}

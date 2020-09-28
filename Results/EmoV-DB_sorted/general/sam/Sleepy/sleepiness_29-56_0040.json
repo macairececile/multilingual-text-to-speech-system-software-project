@@ -1,0 +1,231 @@
+{
+  "transcript": "I suppose you wonder why she is coming up here.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.2899999999999998,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "suppose",
+      "case": "success",
+      "end": 1.9100000000000001,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 2,
+      "word": "suppose"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.07,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.92,
+      "startOffset": 10,
+      "word": "you"
+    },
+    {
+      "alignedWord": "wonder",
+      "case": "success",
+      "end": 2.5599999999999996,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 14,
+      "word": "wonder"
+    },
+    {
+      "alignedWord": "why",
+      "case": "success",
+      "end": 2.8200000000000003,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.56,
+      "startOffset": 21,
+      "word": "why"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 3.05,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.82,
+      "startOffset": 25,
+      "word": "she"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 3.23,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.05,
+      "startOffset": 29,
+      "word": "is"
+    },
+    {
+      "alignedWord": "coming",
+      "case": "success",
+      "end": 3.57,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.23,
+      "startOffset": 32,
+      "word": "coming"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 3.76,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "p_E"
+        }
+      ],
+      "start": 3.57,
+      "startOffset": 39,
+      "word": "up"
+    },
+    {
+      "alignedWord": "here",
+      "case": "success",
+      "end": 4.279999999999999,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.76,
+      "startOffset": 42,
+      "word": "here"
+    }
+  ]
+}

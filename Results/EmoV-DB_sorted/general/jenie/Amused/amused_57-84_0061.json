@@ -1,0 +1,258 @@
+{
+  "transcript": "Philip snatched at the letter which Gregson held out to him.",
+  "words": [
+    {
+      "alignedWord": "philip",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_E"
+        }
+      ],
+      "start": 0.29,
+      "startOffset": 0,
+      "word": "Philip"
+    },
+    {
+      "alignedWord": "snatched",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 7,
+      "word": "snatched"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.4500000000000002,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 16,
+      "word": "at"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 19,
+      "word": "the"
+    },
+    {
+      "alignedWord": "letter",
+      "case": "success",
+      "end": 1.8900000000000001,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 23,
+      "word": "letter"
+    },
+    {
+      "alignedWord": "which",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 30,
+      "word": "which"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.59,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.46,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 36,
+      "word": "Gregson"
+    },
+    {
+      "alignedWord": "held",
+      "case": "success",
+      "end": 2.83,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 44,
+      "word": "held"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 3.06,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.83,
+      "startOffset": 49,
+      "word": "out"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.2199999999999998,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 3.07,
+      "startOffset": 53,
+      "word": "to"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 3.54,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.22,
+      "startOffset": 56,
+      "word": "him"
+    }
+  ]
+}

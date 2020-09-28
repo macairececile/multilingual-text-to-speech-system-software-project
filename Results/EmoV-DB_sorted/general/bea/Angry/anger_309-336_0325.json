@@ -1,0 +1,240 @@
+{
+  "transcript": "Whiz-zip-bang. Lop-Ear screamed with sudden anguish.",
+  "words": [
+    {
+      "alignedWord": "whiz",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 0,
+      "word": "Whiz"
+    },
+    {
+      "alignedWord": "zip",
+      "case": "success",
+      "end": 1.47,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "z_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 5,
+      "word": "zip"
+    },
+    {
+      "alignedWord": "bang",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.5,
+      "startOffset": 9,
+      "word": "bang"
+    },
+    {
+      "alignedWord": "lop",
+      "case": "success",
+      "end": 2.38,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 15,
+      "word": "Lop"
+    },
+    {
+      "alignedWord": "ear",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.38,
+      "startOffset": 19,
+      "word": "Ear"
+    },
+    {
+      "alignedWord": "screamed",
+      "case": "success",
+      "end": 3.0700000000000003,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.54,
+      "startOffset": 23,
+      "word": "screamed"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.23,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.07,
+      "startOffset": 32,
+      "word": "with"
+    },
+    {
+      "alignedWord": "sudden",
+      "case": "success",
+      "end": 3.51,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.23,
+      "startOffset": 37,
+      "word": "sudden"
+    },
+    {
+      "alignedWord": "anguish",
+      "case": "success",
+      "end": 4.21,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 3.54,
+      "startOffset": 44,
+      "word": "anguish"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "transcript": "Seventeen, no, eighteen days ago.",
+  "words": [
+    {
+      "alignedWord": "seventeen",
+      "case": "success",
+      "end": 1.43,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.7,
+      "startOffset": 0,
+      "word": "Seventeen"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 1.99,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.35,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.5,
+      "startOffset": 11,
+      "word": "no"
+    },
+    {
+      "alignedWord": "eighteen",
+      "case": "success",
+      "end": 2.7699999999999996,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 15,
+      "word": "eighteen"
+    },
+    {
+      "alignedWord": "days",
+      "case": "success",
+      "end": 3.04,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.77,
+      "startOffset": 24,
+      "word": "days"
+    },
+    {
+      "alignedWord": "ago",
+      "case": "success",
+      "end": 3.34,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 3.04,
+      "startOffset": 29,
+      "word": "ago"
+    }
+  ]
+}

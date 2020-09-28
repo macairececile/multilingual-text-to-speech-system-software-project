@@ -1,0 +1,185 @@
+{
+  "transcript": "Meanwhile I'll go out to breathe a spell.",
+  "words": [
+    {
+      "alignedWord": "meanwhile",
+      "case": "success",
+      "end": 2.4,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 0,
+      "word": "Meanwhile"
+    },
+    {
+      "alignedWord": "i'll",
+      "case": "success",
+      "end": 2.85,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.69,
+      "startOffset": 10,
+      "word": "I'll"
+    },
+    {
+      "alignedWord": "go",
+      "case": "success",
+      "end": 3.06,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.85,
+      "startOffset": 15,
+      "word": "go"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 3.27,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.06,
+      "startOffset": 18,
+      "word": "out"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.4299999999999997,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.28,
+      "startOffset": 22,
+      "word": "to"
+    },
+    {
+      "alignedWord": "breathe",
+      "case": "success",
+      "end": 3.7600000000000002,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "dh_E"
+        }
+      ],
+      "start": 3.43,
+      "startOffset": 25,
+      "word": "breathe"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.8499999999999996,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.76,
+      "startOffset": 33,
+      "word": "a"
+    },
+    {
+      "alignedWord": "spell",
+      "case": "success",
+      "end": 4.11,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.85,
+      "startOffset": 35,
+      "word": "spell"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "transcript": "They were deep in the primeval forest.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.6000000000000001,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 0.72,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 5,
+      "word": "were"
+    },
+    {
+      "alignedWord": "deep",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 10,
+      "word": "deep"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.05,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 15,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.1400000000000001,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.05,
+      "startOffset": 18,
+      "word": "the"
+    },
+    {
+      "alignedWord": "primeval",
+      "case": "success",
+      "end": 1.64,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 22,
+      "word": "primeval"
+    },
+    {
+      "alignedWord": "forest",
+      "case": "success",
+      "end": 1.97,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 31,
+      "word": "forest"
+    }
+  ]
+}

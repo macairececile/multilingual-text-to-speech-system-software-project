@@ -1,0 +1,277 @@
+{
+  "transcript": "It occurred to me that there would have to be an accounting.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 1.07,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.05,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "occurred",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 3,
+      "word": "occurred"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.57,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 12,
+      "word": "to"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 1.9700000000000002,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.31,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 15,
+      "word": "me"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 2.4,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.21,
+      "startOffset": 18,
+      "word": "that"
+    },
+    {
+      "alignedWord": "there",
+      "case": "success",
+      "end": 2.4299999999999997,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 23,
+      "word": "there"
+    },
+    {
+      "alignedWord": "would",
+      "case": "success",
+      "end": 2.7399999999999998,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.65,
+      "startOffset": 29,
+      "word": "would"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 3.02,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.75,
+      "startOffset": 35,
+      "word": "have"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.02,
+      "startOffset": 40,
+      "word": "to"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 3.4,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.15,
+      "startOffset": 43,
+      "word": "be"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 3.52,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.4,
+      "startOffset": 46,
+      "word": "an"
+    },
+    {
+      "alignedWord": "accounting",
+      "case": "success",
+      "end": 4.25,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.52,
+      "startOffset": 49,
+      "word": "accounting"
+    }
+  ]
+}

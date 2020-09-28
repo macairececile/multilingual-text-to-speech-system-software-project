@@ -1,0 +1,231 @@
+{
+  "transcript": "He saw all men in the business game doing this.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.8,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 3,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 1.28,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 7,
+      "word": "all"
+    },
+    {
+      "alignedWord": "men",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.3,
+      "startOffset": 11,
+      "word": "men"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 15,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 18,
+      "word": "the"
+    },
+    {
+      "alignedWord": "business",
+      "case": "success",
+      "end": 2.0500000000000003,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 22,
+      "word": "business"
+    },
+    {
+      "alignedWord": "game",
+      "case": "success",
+      "end": 2.34,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.05,
+      "startOffset": 31,
+      "word": "game"
+    },
+    {
+      "alignedWord": "doing",
+      "case": "success",
+      "end": 2.6799999999999997,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 36,
+      "word": "doing"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 2.91,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.68,
+      "startOffset": 42,
+      "word": "this"
+    }
+  ]
+}

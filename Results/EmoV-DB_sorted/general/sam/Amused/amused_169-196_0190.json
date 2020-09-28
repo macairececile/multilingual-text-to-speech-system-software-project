@@ -1,0 +1,240 @@
+{
+  "transcript": "Next to them the Canada jays were most persistent.",
+  "words": [
+    {
+      "alignedWord": "next",
+      "case": "success",
+      "end": 1.1300000000000001,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 0,
+      "word": "Next"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 5,
+      "word": "to"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 8,
+      "word": "them"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.79,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.63,
+      "startOffset": 13,
+      "word": "the"
+    },
+    {
+      "alignedWord": "canada",
+      "case": "success",
+      "end": 3.3499999999999996,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.8,
+      "startOffset": 17,
+      "word": "Canada"
+    },
+    {
+      "alignedWord": "jays",
+      "case": "success",
+      "end": 4.0600000000000005,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.35,
+      "startOffset": 24,
+      "word": "jays"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 5.03,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.74,
+      "startOffset": 29,
+      "word": "were"
+    },
+    {
+      "alignedWord": "most",
+      "case": "success",
+      "end": 5.76,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "s_E"
+        }
+      ],
+      "start": 5.29,
+      "startOffset": 34,
+      "word": "most"
+    },
+    {
+      "alignedWord": "persistent",
+      "case": "success",
+      "end": 6.67,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.82,
+      "startOffset": 39,
+      "word": "persistent"
+    }
+  ]
+}

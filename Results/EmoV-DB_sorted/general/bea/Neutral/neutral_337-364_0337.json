@@ -1,0 +1,267 @@
+{
+  "transcript": "Encouraged by my conduct, Big-Face became a sudden ally.",
+  "words": [
+    {
+      "alignedWord": "encouraged",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.51,
+      "startOffset": 0,
+      "word": "Encouraged"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 1.2000000000000002,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 11,
+      "word": "by"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 1.3699999999999999,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 14,
+      "word": "my"
+    },
+    {
+      "alignedWord": "conduct",
+      "case": "success",
+      "end": 1.9500000000000002,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 17,
+      "word": "conduct"
+    },
+    {
+      "alignedWord": "big",
+      "case": "success",
+      "end": 2.22,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 26,
+      "word": "Big"
+    },
+    {
+      "alignedWord": "face",
+      "case": "success",
+      "end": 2.52,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.23,
+      "startOffset": 30,
+      "word": "Face"
+    },
+    {
+      "alignedWord": "became",
+      "case": "success",
+      "end": 2.84,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.52,
+      "startOffset": 35,
+      "word": "became"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.9,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.84,
+      "startOffset": 42,
+      "word": "a"
+    },
+    {
+      "alignedWord": "sudden",
+      "case": "success",
+      "end": 3.28,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.9,
+      "startOffset": 44,
+      "word": "sudden"
+    },
+    {
+      "alignedWord": "ally",
+      "case": "success",
+      "end": 3.5999999999999996,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 3.28,
+      "startOffset": 51,
+      "word": "ally"
+    }
+  ]
+}

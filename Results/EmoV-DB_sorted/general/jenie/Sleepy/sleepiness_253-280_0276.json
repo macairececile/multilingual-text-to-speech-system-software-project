@@ -1,0 +1,243 @@
+{
+  "transcript": "Oolong Atoll was one hundred and forty miles in circumference.",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.2799999999999998,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.7,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.58,
+      "startOffset": 0,
+      "word": "Oolong"
+    },
+    {
+      "alignedWord": "atoll",
+      "case": "success",
+      "end": 1.6400000000000001,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.28,
+      "startOffset": 7,
+      "word": "Atoll"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 13,
+      "word": "was"
+    },
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 2.1399999999999997,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 17,
+      "word": "one"
+    },
+    {
+      "alignedWord": "hundred",
+      "case": "success",
+      "end": 2.6500000000000004,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.14,
+      "startOffset": 21,
+      "word": "hundred"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.69,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.66,
+      "startOffset": 29,
+      "word": "and"
+    },
+    {
+      "alignedWord": "forty",
+      "case": "success",
+      "end": 3.08,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.69,
+      "startOffset": 33,
+      "word": "forty"
+    },
+    {
+      "alignedWord": "miles",
+      "case": "success",
+      "end": 3.69,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.08,
+      "startOffset": 39,
+      "word": "miles"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.9000000000000004,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.72,
+      "startOffset": 45,
+      "word": "in"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.54,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.64,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.9,
+      "startOffset": 48,
+      "word": "circumference"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "transcript": "And that was the last of Francois and Perrault.",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 0,
+      "word": "And"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.29,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 4,
+      "word": "that"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.81,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.56,
+      "startOffset": 9,
+      "word": "was"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.81,
+      "startOffset": 13,
+      "word": "the"
+    },
+    {
+      "alignedWord": "last",
+      "case": "success",
+      "end": 3.9099999999999997,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.55,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.05,
+      "startOffset": 17,
+      "word": "last"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 4.53,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 4.36,
+      "startOffset": 22,
+      "word": "of"
+    },
+    {
+      "alignedWord": "francois",
+      "case": "success",
+      "end": 5.55,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "aa_E"
+        }
+      ],
+      "start": 4.54,
+      "startOffset": 25,
+      "word": "Francois"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 5.59,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.56,
+      "startOffset": 34,
+      "word": "and"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 5.88,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.29,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 5.59,
+      "startOffset": 38,
+      "word": "Perrault"
+    }
+  ]
+}

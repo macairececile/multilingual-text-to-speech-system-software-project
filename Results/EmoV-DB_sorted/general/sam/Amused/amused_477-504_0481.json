@@ -1,0 +1,213 @@
+{
+  "transcript": "Nimrod replied, with a slight manifestation of sensitiveness.",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.47,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.6,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 0,
+      "word": "Nimrod"
+    },
+    {
+      "alignedWord": "replied",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 7,
+      "word": "replied"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.19,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.98,
+      "startOffset": 16,
+      "word": "with"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.29,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.19,
+      "startOffset": 21,
+      "word": "a"
+    },
+    {
+      "alignedWord": "slight",
+      "case": "success",
+      "end": 4.18,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.31,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.29,
+      "startOffset": 23,
+      "word": "slight"
+    },
+    {
+      "alignedWord": "manifestation",
+      "case": "success",
+      "end": 5.890000000000001,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.66,
+      "startOffset": 30,
+      "word": "manifestation"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 6.8100000000000005,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 6.7,
+      "startOffset": 44,
+      "word": "of"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 7.789999999999999,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.98,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 6.81,
+      "startOffset": 47,
+      "word": "sensitiveness"
+    }
+  ]
+}

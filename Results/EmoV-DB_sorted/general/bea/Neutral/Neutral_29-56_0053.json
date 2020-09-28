@@ -1,0 +1,249 @@
+{
+  "transcript": "Suddenly his fingers closed tightly over the handkerchief.",
+  "words": [
+    {
+      "alignedWord": "suddenly",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 0,
+      "word": "Suddenly"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 1.41,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 9,
+      "word": "his"
+    },
+    {
+      "alignedWord": "fingers",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 13,
+      "word": "fingers"
+    },
+    {
+      "alignedWord": "closed",
+      "case": "success",
+      "end": 2.13,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.79,
+      "startOffset": 21,
+      "word": "closed"
+    },
+    {
+      "alignedWord": "tightly",
+      "case": "success",
+      "end": 2.62,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.14,
+      "startOffset": 28,
+      "word": "tightly"
+    },
+    {
+      "alignedWord": "over",
+      "case": "success",
+      "end": 2.8600000000000003,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.62,
+      "startOffset": 36,
+      "word": "over"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.86,
+      "startOffset": 41,
+      "word": "the"
+    },
+    {
+      "alignedWord": "handkerchief",
+      "case": "success",
+      "end": 3.66,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "f_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 45,
+      "word": "handkerchief"
+    }
+  ]
+}

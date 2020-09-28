@@ -1,0 +1,243 @@
+{
+  "transcript": "He leapt again, and the club caught him once more.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.39,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "leapt",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 3,
+      "word": "leapt"
+    },
+    {
+      "alignedWord": "again",
+      "case": "success",
+      "end": 2.0700000000000003,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 9,
+      "word": "again"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.28,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.11,
+      "startOffset": 16,
+      "word": "and"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.4,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.28,
+      "startOffset": 20,
+      "word": "the"
+    },
+    {
+      "alignedWord": "club",
+      "case": "success",
+      "end": 2.87,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "b_E"
+        }
+      ],
+      "start": 2.42,
+      "startOffset": 24,
+      "word": "club"
+    },
+    {
+      "alignedWord": "caught",
+      "case": "success",
+      "end": 3.63,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.31,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.08,
+      "startOffset": 29,
+      "word": "caught"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 4.0,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.63,
+      "startOffset": 36,
+      "word": "him"
+    },
+    {
+      "alignedWord": "once",
+      "case": "success",
+      "end": 4.39,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.0,
+      "startOffset": 40,
+      "word": "once"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 5.08,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.39,
+          "phone": "r_E"
+        }
+      ],
+      "start": 4.39,
+      "startOffset": 45,
+      "word": "more"
+    }
+  ]
+}

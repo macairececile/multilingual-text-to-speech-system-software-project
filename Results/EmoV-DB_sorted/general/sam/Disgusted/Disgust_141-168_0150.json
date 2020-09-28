@@ -1,0 +1,113 @@
+{
+  "transcript": "Goodbye, Pierre, he shouted.",
+  "words": [
+    {
+      "alignedWord": "goodbye",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.66,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 0,
+      "word": "Goodbye"
+    },
+    {
+      "alignedWord": "pierre",
+      "case": "success",
+      "end": 2.9299999999999997,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.38,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.03,
+      "startOffset": 9,
+      "word": "Pierre"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 3.24,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.99,
+      "startOffset": 17,
+      "word": "he"
+    },
+    {
+      "alignedWord": "shouted",
+      "case": "success",
+      "end": 4.0,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.26,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.24,
+      "startOffset": 20,
+      "word": "shouted"
+    }
+  ]
+}

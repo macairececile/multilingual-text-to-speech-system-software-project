@@ -1,0 +1,239 @@
+{
+  "transcript": "The log on which Lop-Ear was lying got adrift.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.35,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "log",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "g_E"
+        }
+      ],
+      "start": 1.35,
+      "startOffset": 4,
+      "word": "log"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 1.85,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 8,
+      "word": "on"
+    },
+    {
+      "alignedWord": "which",
+      "case": "success",
+      "end": 2.14,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 11,
+      "word": "which"
+    },
+    {
+      "alignedWord": "lop",
+      "case": "success",
+      "end": 2.49,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "p_E"
+        }
+      ],
+      "start": 2.14,
+      "startOffset": 17,
+      "word": "Lop"
+    },
+    {
+      "alignedWord": "ear",
+      "case": "success",
+      "end": 2.75,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 21,
+      "word": "Ear"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.97,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.75,
+      "startOffset": 25,
+      "word": "was"
+    },
+    {
+      "alignedWord": "lying",
+      "case": "success",
+      "end": 3.6399999999999997,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.01,
+      "startOffset": 29,
+      "word": "lying"
+    },
+    {
+      "alignedWord": "got",
+      "case": "success",
+      "end": 4.33,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.07,
+      "startOffset": 35,
+      "word": "got"
+    },
+    {
+      "alignedWord": "adrift",
+      "case": "success",
+      "end": 5.3100000000000005,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.33,
+      "startOffset": 39,
+      "word": "adrift"
+    }
+  ]
+}

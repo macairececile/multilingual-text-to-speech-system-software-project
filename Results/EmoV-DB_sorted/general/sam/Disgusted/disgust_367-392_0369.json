@@ -1,0 +1,282 @@
+{
+  "transcript": "In partnership with Daylight, the pair raided the San Jose Interurban.",
+  "words": [
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.9299999999999999,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 0,
+      "word": "In"
+    },
+    {
+      "alignedWord": "partnership",
+      "case": "success",
+      "end": 1.78,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "p_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 3,
+      "word": "partnership"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 2.0100000000000002,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 15,
+      "word": "with"
+    },
+    {
+      "alignedWord": "daylight",
+      "case": "success",
+      "end": 3.0100000000000002,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.2,
+      "startOffset": 20,
+      "word": "Daylight"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.74,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.54,
+      "startOffset": 30,
+      "word": "the"
+    },
+    {
+      "alignedWord": "pair",
+      "case": "success",
+      "end": 4.21,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.75,
+      "startOffset": 34,
+      "word": "pair"
+    },
+    {
+      "alignedWord": "raided",
+      "case": "success",
+      "end": 4.74,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.21,
+      "startOffset": 39,
+      "word": "raided"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.91,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.75,
+      "startOffset": 46,
+      "word": "the"
+    },
+    {
+      "alignedWord": "san",
+      "case": "success",
+      "end": 5.37,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.91,
+      "startOffset": 50,
+      "word": "San"
+    },
+    {
+      "alignedWord": "jose",
+      "case": "success",
+      "end": 6.01,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 5.38,
+      "startOffset": 54,
+      "word": "Jose"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 6.489999999999999,
+      "endOffset": 69,
+      "phones": [
+        {
+          "duration": 0.43,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 6.06,
+      "startOffset": 59,
+      "word": "Interurban"
+    }
+  ]
+}

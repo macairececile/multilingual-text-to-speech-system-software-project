@@ -1,0 +1,285 @@
+{
+  "transcript": "Youth had come back to her, freed from the yoke of oppression.",
+  "words": [
+    {
+      "alignedWord": "youth",
+      "case": "success",
+      "end": 1.5099999999999998,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 0,
+      "word": "Youth"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.6300000000000001,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 6,
+      "word": "had"
+    },
+    {
+      "alignedWord": "come",
+      "case": "success",
+      "end": 1.8399999999999999,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 10,
+      "word": "come"
+    },
+    {
+      "alignedWord": "back",
+      "case": "success",
+      "end": 2.13,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 15,
+      "word": "back"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.27,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 20,
+      "word": "to"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.27,
+      "startOffset": 23,
+      "word": "her"
+    },
+    {
+      "alignedWord": "freed",
+      "case": "success",
+      "end": 3.2800000000000002,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.87,
+      "startOffset": 28,
+      "word": "freed"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 3.32,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.29,
+      "startOffset": 34,
+      "word": "from"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.48,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.33,
+      "startOffset": 39,
+      "word": "the"
+    },
+    {
+      "alignedWord": "yoke",
+      "case": "success",
+      "end": 3.85,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.49,
+      "startOffset": 43,
+      "word": "yoke"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.9699999999999998,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.86,
+      "startOffset": 48,
+      "word": "of"
+    },
+    {
+      "alignedWord": "oppression",
+      "case": "success",
+      "end": 4.68,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.97,
+      "startOffset": 51,
+      "word": "oppression"
+    }
+  ]
+}

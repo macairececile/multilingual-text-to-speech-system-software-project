@@ -1,0 +1,217 @@
+{
+  "transcript": "The farmer works the soil and produces grain.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.84,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "farmer",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 4,
+      "word": "farmer"
+    },
+    {
+      "alignedWord": "works",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 11,
+      "word": "works"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.6800000000000002,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 17,
+      "word": "the"
+    },
+    {
+      "alignedWord": "soil",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.68,
+      "startOffset": 21,
+      "word": "soil"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.12,
+      "startOffset": 26,
+      "word": "and"
+    },
+    {
+      "alignedWord": "produces",
+      "case": "success",
+      "end": 2.73,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.25,
+      "startOffset": 30,
+      "word": "produces"
+    },
+    {
+      "alignedWord": "grain",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.73,
+      "startOffset": 39,
+      "word": "grain"
+    }
+  ]
+}

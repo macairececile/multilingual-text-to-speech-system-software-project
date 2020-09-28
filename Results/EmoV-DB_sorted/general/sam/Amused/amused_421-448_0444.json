@@ -1,0 +1,126 @@
+{
+  "transcript": "Then you don't believe in altruism.",
+  "words": [
+    {
+      "alignedWord": "then",
+      "case": "success",
+      "end": 4.390000000000001,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.36,
+      "startOffset": 0,
+      "word": "Then"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 4.409999999999999,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 4.39,
+      "startOffset": 5,
+      "word": "you"
+    },
+    {
+      "alignedWord": "don't",
+      "case": "success",
+      "end": 4.799999999999999,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.77,
+      "startOffset": 9,
+      "word": "don't"
+    },
+    {
+      "alignedWord": "believe",
+      "case": "success",
+      "end": 4.85,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 4.799999999999999,
+      "startOffset": 15,
+      "word": "believe"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 4.869999999999999,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.85,
+      "startOffset": 23,
+      "word": "in"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 34,
+      "startOffset": 26,
+      "word": "altruism"
+    }
+  ]
+}

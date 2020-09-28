@@ -1,0 +1,311 @@
+{
+  "transcript": "As for himself, weren't the street railway earnings increasing steadily.",
+  "words": [
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.64,
+      "startOffset": 0,
+      "word": "As"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 1.4200000000000002,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 3,
+      "word": "for"
+    },
+    {
+      "alignedWord": "himself",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 7,
+      "word": "himself"
+    },
+    {
+      "alignedWord": "weren't",
+      "case": "success",
+      "end": 4.09,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.75,
+      "startOffset": 16,
+      "word": "weren't"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.3,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.12,
+      "startOffset": 24,
+      "word": "the"
+    },
+    {
+      "alignedWord": "street",
+      "case": "success",
+      "end": 4.7299999999999995,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.3,
+      "startOffset": 28,
+      "word": "street"
+    },
+    {
+      "alignedWord": "railway",
+      "case": "success",
+      "end": 5.84,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 5.33,
+      "startOffset": 35,
+      "word": "railway"
+    },
+    {
+      "alignedWord": "earnings",
+      "case": "success",
+      "end": 6.7,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.33,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.91,
+      "startOffset": 43,
+      "word": "earnings"
+    },
+    {
+      "alignedWord": "increasing",
+      "case": "success",
+      "end": 7.54,
+      "endOffset": 62,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 6.82,
+      "startOffset": 52,
+      "word": "increasing"
+    },
+    {
+      "alignedWord": "steadily",
+      "case": "success",
+      "end": 9.44,
+      "endOffset": 71,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.39,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 8.44,
+      "startOffset": 63,
+      "word": "steadily"
+    }
+  ]
+}

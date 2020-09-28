@@ -1,0 +1,217 @@
+{
+  "transcript": "Scarcely had he uttered the name when Pierre's closing eyes shot open.",
+  "words": [
+    {
+      "alignedWord": "scarcely",
+      "case": "success",
+      "end": 1.45,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 0,
+      "word": "Scarcely"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.84,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 9,
+      "word": "had"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.86,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 13,
+      "word": "he"
+    },
+    {
+      "alignedWord": "uttered",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.95,
+      "startOffset": 16,
+      "word": "uttered"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.37,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.1,
+      "startOffset": 24,
+      "word": "the"
+    },
+    {
+      "alignedWord": "name",
+      "case": "success",
+      "end": 2.75,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.44,
+      "startOffset": 28,
+      "word": "name"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 3.8400000000000003,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.62,
+      "startOffset": 33,
+      "word": "when"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 5.92,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 2.05,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.87,
+      "startOffset": 38,
+      "word": "Pierre's"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 54,
+      "startOffset": 47,
+      "word": "closing"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 59,
+      "startOffset": 55,
+      "word": "eyes"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 64,
+      "startOffset": 60,
+      "word": "shot"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 69,
+      "startOffset": 65,
+      "word": "open"
+    }
+  ]
+}

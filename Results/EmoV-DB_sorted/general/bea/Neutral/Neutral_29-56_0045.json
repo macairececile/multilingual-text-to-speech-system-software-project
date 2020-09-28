@@ -1,0 +1,93 @@
+{
+  "transcript": "He moved away as quietly as he had come.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 4.38,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.36,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "moved",
+      "case": "success",
+      "end": 4.42,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.38,
+      "startOffset": 3,
+      "word": "moved"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 13,
+      "startOffset": 9,
+      "word": "away"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 16,
+      "startOffset": 14,
+      "word": "as"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 24,
+      "startOffset": 17,
+      "word": "quietly"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 25,
+      "word": "as"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 30,
+      "startOffset": 28,
+      "word": "he"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 34,
+      "startOffset": 31,
+      "word": "had"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 39,
+      "startOffset": 35,
+      "word": "come"
+    }
+  ]
+}

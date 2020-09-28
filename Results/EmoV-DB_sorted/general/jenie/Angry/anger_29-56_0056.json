@@ -1,0 +1,177 @@
+{
+  "transcript": "Pearce's little eyes were fixed on him shrewdly.",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 0.89,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 0,
+      "word": "Pearce's"
+    },
+    {
+      "alignedWord": "little",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 9,
+      "word": "little"
+    },
+    {
+      "alignedWord": "eyes",
+      "case": "success",
+      "end": 2.1,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.32,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 16,
+      "word": "eyes"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 21,
+      "word": "were"
+    },
+    {
+      "alignedWord": "fixed",
+      "case": "success",
+      "end": 2.83,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.64,
+      "startOffset": 26,
+      "word": "fixed"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 2.97,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.83,
+      "startOffset": 32,
+      "word": "on"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 3.27,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.97,
+      "startOffset": 35,
+      "word": "him"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.13,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.68,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.45,
+      "startOffset": 39,
+      "word": "shrewdly"
+    }
+  ]
+}

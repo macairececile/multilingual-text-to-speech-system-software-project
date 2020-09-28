@@ -1,0 +1,258 @@
+{
+  "transcript": "He would first hunt up Gregson and begin his work there.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.2599999999999998,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "would",
+      "case": "success",
+      "end": 1.43,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 3,
+      "word": "would"
+    },
+    {
+      "alignedWord": "first",
+      "case": "success",
+      "end": 1.7799999999999998,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 9,
+      "word": "first"
+    },
+    {
+      "alignedWord": "hunt",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 15,
+      "word": "hunt"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 2.16,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 20,
+      "word": "up"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.52,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.35,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.17,
+      "startOffset": 23,
+      "word": "Gregson"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.8699999999999997,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.53,
+      "startOffset": 31,
+      "word": "and"
+    },
+    {
+      "alignedWord": "begin",
+      "case": "success",
+      "end": 3.2,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.87,
+      "startOffset": 35,
+      "word": "begin"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.37,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.2,
+      "startOffset": 41,
+      "word": "his"
+    },
+    {
+      "alignedWord": "work",
+      "case": "success",
+      "end": 3.62,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.37,
+      "startOffset": 45,
+      "word": "work"
+    },
+    {
+      "alignedWord": "there",
+      "case": "success",
+      "end": 4.07,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.64,
+      "startOffset": 50,
+      "word": "there"
+    }
+  ]
+}

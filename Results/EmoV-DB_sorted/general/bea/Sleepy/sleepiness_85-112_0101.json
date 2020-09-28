@@ -1,0 +1,200 @@
+{
+  "transcript": "You, you would not keep the truth from me.",
+  "words": [
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.28,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.36,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 0,
+      "word": "You"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.33,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 5,
+      "word": "you"
+    },
+    {
+      "alignedWord": "would",
+      "case": "success",
+      "end": 2.81,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.33,
+      "startOffset": 9,
+      "word": "would"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 3.18,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.87,
+      "startOffset": 15,
+      "word": "not"
+    },
+    {
+      "alignedWord": "keep",
+      "case": "success",
+      "end": 3.4899999999999998,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_E"
+        }
+      ],
+      "start": 3.19,
+      "startOffset": 19,
+      "word": "keep"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.61,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.5,
+      "startOffset": 24,
+      "word": "the"
+    },
+    {
+      "alignedWord": "truth",
+      "case": "success",
+      "end": 3.9899999999999998,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.61,
+      "startOffset": 28,
+      "word": "truth"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 4.2299999999999995,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.02,
+      "startOffset": 34,
+      "word": "from"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 4.590000000000001,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.31,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.23,
+      "startOffset": 39,
+      "word": "me"
+    }
+  ]
+}

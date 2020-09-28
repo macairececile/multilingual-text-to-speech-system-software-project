@@ -1,0 +1,242 @@
+{
+  "transcript": "The ship should be in within a week or ten days.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.82,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "ship",
+      "case": "success",
+      "end": 1.18,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 4,
+      "word": "ship"
+    },
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 1.55,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 9,
+      "word": "should"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 1.8800000000000001,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.58,
+      "startOffset": 16,
+      "word": "be"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 19,
+      "word": "in"
+    },
+    {
+      "alignedWord": "within",
+      "case": "success",
+      "end": 3.0200000000000005,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 22,
+      "word": "within"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.12,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.02,
+      "startOffset": 29,
+      "word": "a"
+    },
+    {
+      "alignedWord": "week",
+      "case": "success",
+      "end": 3.6100000000000003,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.12,
+      "startOffset": 31,
+      "word": "week"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 4.07,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.28,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.63,
+      "startOffset": 36,
+      "word": "or"
+    },
+    {
+      "alignedWord": "ten",
+      "case": "success",
+      "end": 4.34,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.07,
+      "startOffset": 39,
+      "word": "ten"
+    },
+    {
+      "alignedWord": "days",
+      "case": "success",
+      "end": 5.26,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.31,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.35,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.45,
+      "startOffset": 43,
+      "word": "days"
+    }
+  ]
+}

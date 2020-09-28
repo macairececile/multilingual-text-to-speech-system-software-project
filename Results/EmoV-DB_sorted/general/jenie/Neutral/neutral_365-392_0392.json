@@ -1,0 +1,313 @@
+{
+  "transcript": "There is that magnificent Bob, eating his head off in the stable.",
+  "words": [
+    {
+      "alignedWord": "there",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.92,
+      "startOffset": 0,
+      "word": "There"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.2600000000000002,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 6,
+      "word": "is"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.42,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 9,
+      "word": "that"
+    },
+    {
+      "alignedWord": "magnificent",
+      "case": "success",
+      "end": 2.01,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 14,
+      "word": "magnificent"
+    },
+    {
+      "alignedWord": "bob",
+      "case": "success",
+      "end": 2.36,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "b_E"
+        }
+      ],
+      "start": 2.01,
+      "startOffset": 26,
+      "word": "Bob"
+    },
+    {
+      "alignedWord": "eating",
+      "case": "success",
+      "end": 2.6999999999999997,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.38,
+      "startOffset": 31,
+      "word": "eating"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.85,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.7,
+      "startOffset": 38,
+      "word": "his"
+    },
+    {
+      "alignedWord": "head",
+      "case": "success",
+      "end": 3.04,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.85,
+      "startOffset": 42,
+      "word": "head"
+    },
+    {
+      "alignedWord": "off",
+      "case": "success",
+      "end": 3.23,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_E"
+        }
+      ],
+      "start": 3.04,
+      "startOffset": 47,
+      "word": "off"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.23,
+      "startOffset": 51,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.42,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.33,
+      "startOffset": 54,
+      "word": "the"
+    },
+    {
+      "alignedWord": "stable",
+      "case": "success",
+      "end": 3.92,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.42,
+      "startOffset": 58,
+      "word": "stable"
+    }
+  ]
+}

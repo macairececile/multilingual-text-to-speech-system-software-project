@@ -1,0 +1,121 @@
+{
+  "transcript": "Suddenly Jeanne stopped for an instant.",
+  "words": [
+    {
+      "alignedWord": "suddenly",
+      "case": "success",
+      "end": 4.17,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.29,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.56,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.08,
+      "startOffset": 0,
+      "word": "Suddenly"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 6.279999999999999,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.51,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 5.77,
+      "startOffset": 9,
+      "word": "Jeanne"
+    },
+    {
+      "alignedWord": "stopped",
+      "case": "success",
+      "end": 6.51,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 6.29,
+      "startOffset": 16,
+      "word": "stopped"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 6.68,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "er_E"
+        }
+      ],
+      "start": 6.51,
+      "startOffset": 24,
+      "word": "for"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 30,
+      "startOffset": 28,
+      "word": "an"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 38,
+      "startOffset": 31,
+      "word": "instant"
+    }
+  ]
+}

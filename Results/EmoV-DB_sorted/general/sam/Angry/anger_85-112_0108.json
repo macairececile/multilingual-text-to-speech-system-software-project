@@ -1,0 +1,301 @@
+{
+  "transcript": "He waded into the edge of the water and began scrubbing himself.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.5700000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.31,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 0.94,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.37,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 3,
+      "word": "waded"
+    },
+    {
+      "alignedWord": "into",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.94,
+      "startOffset": 9,
+      "word": "into"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.17,
+      "startOffset": 14,
+      "word": "the"
+    },
+    {
+      "alignedWord": "edge",
+      "case": "success",
+      "end": 1.58,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 18,
+      "word": "edge"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.7000000000000002,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.58,
+      "startOffset": 23,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.78,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 26,
+      "word": "the"
+    },
+    {
+      "alignedWord": "water",
+      "case": "success",
+      "end": 2.13,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 30,
+      "word": "water"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.27,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 36,
+      "word": "and"
+    },
+    {
+      "alignedWord": "began",
+      "case": "success",
+      "end": 2.63,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.27,
+      "startOffset": 40,
+      "word": "began"
+    },
+    {
+      "alignedWord": "scrubbing",
+      "case": "success",
+      "end": 3.06,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.65,
+      "startOffset": 46,
+      "word": "scrubbing"
+    },
+    {
+      "alignedWord": "himself",
+      "case": "success",
+      "end": 3.68,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_E"
+        }
+      ],
+      "start": 3.06,
+      "startOffset": 56,
+      "word": "himself"
+    }
+  ]
+}

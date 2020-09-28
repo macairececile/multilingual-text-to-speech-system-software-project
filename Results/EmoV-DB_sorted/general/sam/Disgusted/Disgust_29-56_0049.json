@@ -1,0 +1,216 @@
+{
+  "transcript": "Gregson was asleep when he re-entered the cabin.",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.24,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.63,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 0,
+      "word": "Gregson"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.43,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.25,
+      "startOffset": 8,
+      "word": "was"
+    },
+    {
+      "alignedWord": "asleep",
+      "case": "success",
+      "end": 3.25,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "p_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 12,
+      "word": "asleep"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 3.67,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.53,
+      "startOffset": 19,
+      "word": "when"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 3.86,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.67,
+      "startOffset": 24,
+      "word": "he"
+    },
+    {
+      "alignedWord": "re",
+      "case": "success",
+      "end": 4.08,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.86,
+      "startOffset": 27,
+      "word": "re"
+    },
+    {
+      "alignedWord": "entered",
+      "case": "success",
+      "end": 4.41,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.08,
+      "startOffset": 30,
+      "word": "entered"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.5200000000000005,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.41,
+      "startOffset": 38,
+      "word": "the"
+    },
+    {
+      "alignedWord": "cabin",
+      "case": "success",
+      "end": 5.09,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.53,
+      "startOffset": 42,
+      "word": "cabin"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "transcript": "His infernal chattering worries me even now as I think of it.",
+  "words": [
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 1.3,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 0,
+      "word": "His"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.58,
+      "startOffset": 4,
+      "word": "infernal"
+    },
+    {
+      "alignedWord": "chattering",
+      "case": "success",
+      "end": 2.11,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 13,
+      "word": "chattering"
+    },
+    {
+      "alignedWord": "worries",
+      "case": "success",
+      "end": 2.59,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.12,
+      "startOffset": 24,
+      "word": "worries"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 2.77,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.65,
+      "startOffset": 32,
+      "word": "me"
+    },
+    {
+      "alignedWord": "even",
+      "case": "success",
+      "end": 3.08,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.77,
+      "startOffset": 35,
+      "word": "even"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 3.3200000000000003,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 3.08,
+      "startOffset": 40,
+      "word": "now"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 3.34,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.32,
+      "startOffset": 44,
+      "word": "as"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 3.42,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 3.34,
+      "startOffset": 47,
+      "word": "I"
+    },
+    {
+      "alignedWord": "think",
+      "case": "success",
+      "end": 3.87,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.61,
+      "startOffset": 49,
+      "word": "think"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.98,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.87,
+      "startOffset": 55,
+      "word": "of"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 4.34,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.32,
+      "startOffset": 58,
+      "word": "it"
+    }
+  ]
+}

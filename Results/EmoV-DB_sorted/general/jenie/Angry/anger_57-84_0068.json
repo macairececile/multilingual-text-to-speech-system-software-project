@@ -1,0 +1,190 @@
+{
+  "transcript": "In a flash Philip followed its direction.",
+  "words": [
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.44,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 0,
+      "word": "In"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.51,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 3,
+      "word": "a"
+    },
+    {
+      "alignedWord": "flash",
+      "case": "success",
+      "end": 2.01,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 5,
+      "word": "flash"
+    },
+    {
+      "alignedWord": "philip",
+      "case": "success",
+      "end": 2.35,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_E"
+        }
+      ],
+      "start": 2.02,
+      "startOffset": 11,
+      "word": "Philip"
+    },
+    {
+      "alignedWord": "followed",
+      "case": "success",
+      "end": 2.8000000000000003,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 18,
+      "word": "followed"
+    },
+    {
+      "alignedWord": "its",
+      "case": "success",
+      "end": 3.03,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.8,
+      "startOffset": 27,
+      "word": "its"
+    },
+    {
+      "alignedWord": "direction",
+      "case": "success",
+      "end": 3.51,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.04,
+      "startOffset": 31,
+      "word": "direction"
+    }
+  ]
+}

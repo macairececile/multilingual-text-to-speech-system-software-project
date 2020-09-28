@@ -1,0 +1,228 @@
+{
+  "transcript": "It was Jeanne singing softly over beyond the rocks.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.5,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 7,
+      "word": "Jeanne"
+    },
+    {
+      "alignedWord": "singing",
+      "case": "success",
+      "end": 2.68,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.14,
+      "startOffset": 14,
+      "word": "singing"
+    },
+    {
+      "alignedWord": "softly",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.68,
+      "startOffset": 22,
+      "word": "softly"
+    },
+    {
+      "alignedWord": "over",
+      "case": "success",
+      "end": 3.7800000000000002,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.33,
+      "startOffset": 29,
+      "word": "over"
+    },
+    {
+      "alignedWord": "beyond",
+      "case": "success",
+      "end": 4.45,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.0,
+      "startOffset": 34,
+      "word": "beyond"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.64,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.47,
+      "startOffset": 41,
+      "word": "the"
+    },
+    {
+      "alignedWord": "rocks",
+      "case": "success",
+      "end": 5.16,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.68,
+      "startOffset": 45,
+      "word": "rocks"
+    }
+  ]
+}

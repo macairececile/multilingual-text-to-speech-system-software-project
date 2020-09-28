@@ -1,0 +1,142 @@
+{
+  "transcript": "His face was streaming with blood.",
+  "words": [
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.0,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.97,
+      "startOffset": 0,
+      "word": "His"
+    },
+    {
+      "alignedWord": "face",
+      "case": "success",
+      "end": 3.03,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.0,
+      "startOffset": 4,
+      "word": "face"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 3.0599999999999996,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.03,
+      "startOffset": 9,
+      "word": "was"
+    },
+    {
+      "alignedWord": "streaming",
+      "case": "success",
+      "end": 3.13,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.06,
+      "startOffset": 13,
+      "word": "streaming"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.1599999999999997,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.13,
+      "startOffset": 23,
+      "word": "with"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 33,
+      "startOffset": 28,
+      "word": "blood"
+    }
+  ]
+}

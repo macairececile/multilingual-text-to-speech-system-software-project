@@ -1,0 +1,302 @@
+{
+  "transcript": "Between the rush of the cascades, streaks of rust showed everywhere.",
+  "words": [
+    {
+      "alignedWord": "between",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 0,
+      "word": "Between"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.2199999999999998,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 8,
+      "word": "the"
+    },
+    {
+      "alignedWord": "rush",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 12,
+      "word": "rush"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.62,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.54,
+      "startOffset": 17,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.77,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.64,
+      "startOffset": 20,
+      "word": "the"
+    },
+    {
+      "alignedWord": "cascades",
+      "case": "success",
+      "end": 3.34,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.77,
+      "startOffset": 24,
+      "word": "cascades"
+    },
+    {
+      "alignedWord": "streaks",
+      "case": "success",
+      "end": 4.83,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.3,
+      "startOffset": 34,
+      "word": "streaks"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 5.0600000000000005,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "v_E"
+        }
+      ],
+      "start": 4.83,
+      "startOffset": 42,
+      "word": "of"
+    },
+    {
+      "alignedWord": "rust",
+      "case": "success",
+      "end": 5.779999999999999,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.06,
+      "startOffset": 45,
+      "word": "rust"
+    },
+    {
+      "alignedWord": "showed",
+      "case": "success",
+      "end": 6.82,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "d_E"
+        }
+      ],
+      "start": 6.38,
+      "startOffset": 50,
+      "word": "showed"
+    },
+    {
+      "alignedWord": "everywhere",
+      "case": "success",
+      "end": 7.390000000000001,
+      "endOffset": 67,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_E"
+        }
+      ],
+      "start": 6.83,
+      "startOffset": 57,
+      "word": "everywhere"
+    }
+  ]
+}

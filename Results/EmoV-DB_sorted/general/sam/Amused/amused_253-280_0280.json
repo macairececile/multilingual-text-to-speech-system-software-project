@@ -1,0 +1,212 @@
+{
+  "transcript": "I'll be out of my head in fifteen minutes.",
+  "words": [
+    {
+      "alignedWord": "i'll",
+      "case": "success",
+      "end": 1.7799999999999998,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 0,
+      "word": "I'll"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 1.99,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 5,
+      "word": "be"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 2.18,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.02,
+      "startOffset": 8,
+      "word": "out"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.35,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 12,
+      "word": "of"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 2.5500000000000003,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 15,
+      "word": "my"
+    },
+    {
+      "alignedWord": "head",
+      "case": "success",
+      "end": 2.9499999999999997,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 18,
+      "word": "head"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.98,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.76,
+      "startOffset": 23,
+      "word": "in"
+    },
+    {
+      "alignedWord": "fifteen",
+      "case": "success",
+      "end": 4.62,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.98,
+      "startOffset": 26,
+      "word": "fifteen"
+    },
+    {
+      "alignedWord": "minutes",
+      "case": "success",
+      "end": 5.3999999999999995,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.64,
+      "startOffset": 34,
+      "word": "minutes"
+    }
+  ]
+}

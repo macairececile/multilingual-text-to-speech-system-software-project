@@ -1,0 +1,220 @@
+{
+  "transcript": "It was not a large lake, and almost round.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.8200000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.0,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 7,
+      "word": "not"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 11,
+      "word": "a"
+    },
+    {
+      "alignedWord": "large",
+      "case": "success",
+      "end": 1.72,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 13,
+      "word": "large"
+    },
+    {
+      "alignedWord": "lake",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 19,
+      "word": "lake"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.33,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.15,
+      "startOffset": 25,
+      "word": "and"
+    },
+    {
+      "alignedWord": "almost",
+      "case": "success",
+      "end": 2.79,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 29,
+      "word": "almost"
+    },
+    {
+      "alignedWord": "round",
+      "case": "success",
+      "end": 3.19,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.79,
+      "startOffset": 36,
+      "word": "round"
+    }
+  ]
+}

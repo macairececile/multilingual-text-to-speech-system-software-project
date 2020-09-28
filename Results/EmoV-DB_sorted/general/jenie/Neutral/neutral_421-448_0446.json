@@ -1,0 +1,190 @@
+{
+  "transcript": "He deluged me, overwhelmed me with argument.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.65,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.57,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 3,
+      "word": "deluged"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.29,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 11,
+      "word": "me"
+    },
+    {
+      "alignedWord": "overwhelmed",
+      "case": "success",
+      "end": 2.5999999999999996,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 15,
+      "word": "overwhelmed"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 2.77,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.63,
+      "startOffset": 27,
+      "word": "me"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 2.93,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.77,
+      "startOffset": 30,
+      "word": "with"
+    },
+    {
+      "alignedWord": "argument",
+      "case": "success",
+      "end": 3.52,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.93,
+      "startOffset": 35,
+      "word": "argument"
+    }
+  ]
+}

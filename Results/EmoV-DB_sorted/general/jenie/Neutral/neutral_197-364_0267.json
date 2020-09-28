@@ -1,0 +1,209 @@
+{
+  "transcript": "Eli Harding asked, as Shunk started to follow.",
+  "words": [
+    {
+      "alignedWord": "eli",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 0,
+      "word": "Eli"
+    },
+    {
+      "alignedWord": "harding",
+      "case": "success",
+      "end": 1.68,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 4,
+      "word": "Harding"
+    },
+    {
+      "alignedWord": "asked",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 12,
+      "word": "asked"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 2.7,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.48,
+      "startOffset": 19,
+      "word": "as"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.9699999999999998,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.26,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.71,
+      "startOffset": 22,
+      "word": "Shunk"
+    },
+    {
+      "alignedWord": "started",
+      "case": "success",
+      "end": 3.36,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.98,
+      "startOffset": 28,
+      "word": "started"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.4699999999999998,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.36,
+      "startOffset": 36,
+      "word": "to"
+    },
+    {
+      "alignedWord": "follow",
+      "case": "success",
+      "end": 3.95,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 3.47,
+      "startOffset": 39,
+      "word": "follow"
+    }
+  ]
+}

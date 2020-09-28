@@ -1,0 +1,274 @@
+{
+  "transcript": "And as in denial of guilt, the one-legged boy replied.",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 0.94,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 0,
+      "word": "And"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 1.0699999999999998,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.94,
+      "startOffset": 4,
+      "word": "as"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.29,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 7,
+      "word": "in"
+    },
+    {
+      "alignedWord": "denial",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.3,
+      "startOffset": 10,
+      "word": "denial"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 17,
+      "word": "of"
+    },
+    {
+      "alignedWord": "guilt",
+      "case": "success",
+      "end": 2.76,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.17,
+      "startOffset": 20,
+      "word": "guilt"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.13,
+      "startOffset": 27,
+      "word": "the"
+    },
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 4.35,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.77,
+      "startOffset": 31,
+      "word": "one"
+    },
+    {
+      "alignedWord": "legged",
+      "case": "success",
+      "end": 5.1499999999999995,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.97,
+      "startOffset": 35,
+      "word": "legged"
+    },
+    {
+      "alignedWord": "boy",
+      "case": "success",
+      "end": 6.1,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.27,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.54,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 5.29,
+      "startOffset": 42,
+      "word": "boy"
+    },
+    {
+      "alignedWord": "replied",
+      "case": "success",
+      "end": 7.3100000000000005,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "d_E"
+        }
+      ],
+      "start": 6.32,
+      "startOffset": 46,
+      "word": "replied"
+    }
+  ]
+}

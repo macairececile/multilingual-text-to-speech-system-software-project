@@ -1,0 +1,87 @@
+{
+  "transcript": "This time he did not yap for mercy.",
+  "words": [
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 2.4299999999999997,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 0,
+      "word": "This"
+    },
+    {
+      "alignedWord": "time",
+      "case": "success",
+      "end": 2.46,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 5,
+      "word": "time"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 12,
+      "startOffset": 10,
+      "word": "he"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 16,
+      "startOffset": 13,
+      "word": "did"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 20,
+      "startOffset": 17,
+      "word": "not"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 24,
+      "startOffset": 21,
+      "word": "yap"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 28,
+      "startOffset": 25,
+      "word": "for"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 34,
+      "startOffset": 29,
+      "word": "mercy"
+    }
+  ]
+}

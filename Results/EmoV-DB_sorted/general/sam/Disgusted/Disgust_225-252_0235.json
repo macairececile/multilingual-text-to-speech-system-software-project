@@ -1,0 +1,164 @@
+{
+  "transcript": "His voice was passionately rebellious.",
+  "words": [
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 0.55,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.19,
+      "startOffset": 0,
+      "word": "His"
+    },
+    {
+      "alignedWord": "voice",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.56,
+      "startOffset": 4,
+      "word": "voice"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 10,
+      "word": "was"
+    },
+    {
+      "alignedWord": "passionately",
+      "case": "success",
+      "end": 3.17,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.25,
+      "startOffset": 14,
+      "word": "passionately"
+    },
+    {
+      "alignedWord": "rebellious",
+      "case": "success",
+      "end": 3.39,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.17,
+      "startOffset": 27,
+      "word": "rebellious"
+    }
+  ]
+}

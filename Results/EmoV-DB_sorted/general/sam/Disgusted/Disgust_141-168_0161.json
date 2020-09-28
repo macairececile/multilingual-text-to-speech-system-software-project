@@ -1,0 +1,278 @@
+{
+  "transcript": "Take away their foreman and they wouldn't be worth their grub.",
+  "words": [
+    {
+      "alignedWord": "take",
+      "case": "success",
+      "end": 1.18,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.83,
+      "startOffset": 0,
+      "word": "Take"
+    },
+    {
+      "alignedWord": "away",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 5,
+      "word": "away"
+    },
+    {
+      "alignedWord": "their",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 10,
+      "word": "their"
+    },
+    {
+      "alignedWord": "foreman",
+      "case": "success",
+      "end": 2.9,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.36,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.97,
+      "startOffset": 16,
+      "word": "foreman"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.29,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.02,
+      "startOffset": 24,
+      "word": "and"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 3.43,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 3.29,
+      "startOffset": 28,
+      "word": "they"
+    },
+    {
+      "alignedWord": "wouldn't",
+      "case": "success",
+      "end": 3.95,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.44,
+      "startOffset": 33,
+      "word": "wouldn't"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 4.21,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.98,
+      "startOffset": 42,
+      "word": "be"
+    },
+    {
+      "alignedWord": "worth",
+      "case": "success",
+      "end": 4.62,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "th_E"
+        }
+      ],
+      "start": 4.21,
+      "startOffset": 45,
+      "word": "worth"
+    },
+    {
+      "alignedWord": "their",
+      "case": "success",
+      "end": 4.93,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_E"
+        }
+      ],
+      "start": 4.66,
+      "startOffset": 51,
+      "word": "their"
+    },
+    {
+      "alignedWord": "grub",
+      "case": "success",
+      "end": 5.66,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "b_E"
+        }
+      ],
+      "start": 4.99,
+      "startOffset": 57,
+      "word": "grub"
+    }
+  ]
+}

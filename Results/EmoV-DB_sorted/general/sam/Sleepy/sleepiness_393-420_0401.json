@@ -1,0 +1,220 @@
+{
+  "transcript": "The man smiled grimly, and brought a hatchet and a club.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.1300000000000001,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "man",
+      "case": "success",
+      "end": 1.3499999999999999,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 4,
+      "word": "man"
+    },
+    {
+      "alignedWord": "smiled",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.31,
+      "startOffset": 8,
+      "word": "smiled"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.08,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.48,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 15,
+      "word": "grimly"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 6.42,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 6.390000000000001,
+      "startOffset": 23,
+      "word": "and"
+    },
+    {
+      "alignedWord": "brought",
+      "case": "success",
+      "end": 6.46,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 6.42,
+      "startOffset": 27,
+      "word": "brought"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 36,
+      "startOffset": 35,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 44,
+      "startOffset": 37,
+      "word": "hatchet"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 6.78,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 6.75,
+      "startOffset": 45,
+      "word": "and"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 7.45,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.36,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 7.09,
+      "startOffset": 49,
+      "word": "a"
+    },
+    {
+      "alignedWord": "club",
+      "case": "success",
+      "end": 8.22,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "b_E"
+        }
+      ],
+      "start": 7.67,
+      "startOffset": 51,
+      "word": "club"
+    }
+  ]
+}

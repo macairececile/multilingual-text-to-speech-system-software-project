@@ -1,0 +1,212 @@
+{
+  "transcript": "Ahead of them they saw a glimmer of sunshine.",
+  "words": [
+    {
+      "alignedWord": "ahead",
+      "case": "success",
+      "end": 0.8,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "hh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.42,
+      "startOffset": 0,
+      "word": "Ahead"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 0.8600000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 6,
+      "word": "of"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 1.02,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 9,
+      "word": "them"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 1.18,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 14,
+      "word": "they"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 1.44,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 19,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 23,
+      "word": "a"
+    },
+    {
+      "alignedWord": "glimmer",
+      "case": "success",
+      "end": 1.94,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 25,
+      "word": "glimmer"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.94,
+      "startOffset": 33,
+      "word": "of"
+    },
+    {
+      "alignedWord": "sunshine",
+      "case": "success",
+      "end": 2.94,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 36,
+      "word": "sunshine"
+    }
+  ]
+}

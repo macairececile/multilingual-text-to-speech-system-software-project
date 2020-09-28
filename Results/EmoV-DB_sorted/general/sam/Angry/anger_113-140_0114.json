@@ -1,0 +1,205 @@
+{
+  "transcript": "Her words sent a strange chill through Philip.",
+  "words": [
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 0,
+      "word": "Her"
+    },
+    {
+      "alignedWord": "words",
+      "case": "success",
+      "end": 1.68,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 4,
+      "word": "words"
+    },
+    {
+      "alignedWord": "sent",
+      "case": "success",
+      "end": 1.8499999999999999,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.68,
+      "startOffset": 10,
+      "word": "sent"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.9300000000000002,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 15,
+      "word": "a"
+    },
+    {
+      "alignedWord": "strange",
+      "case": "success",
+      "end": 2.4699999999999998,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 17,
+      "word": "strange"
+    },
+    {
+      "alignedWord": "chill",
+      "case": "success",
+      "end": 2.9200000000000004,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.47,
+      "startOffset": 25,
+      "word": "chill"
+    },
+    {
+      "alignedWord": "through",
+      "case": "success",
+      "end": 3.13,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.94,
+      "startOffset": 31,
+      "word": "through"
+    },
+    {
+      "alignedWord": "philip",
+      "case": "success",
+      "end": 3.59,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_E"
+        }
+      ],
+      "start": 3.13,
+      "startOffset": 39,
+      "word": "Philip"
+    }
+  ]
+}

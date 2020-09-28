@@ -1,0 +1,131 @@
+{
+  "transcript": "Ah, I had forgotten, he exclaimed.",
+  "words": [
+    {
+      "alignedWord": "ah",
+      "case": "success",
+      "end": 1.01,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.43,
+          "phone": "aa_S"
+        }
+      ],
+      "start": 0.58,
+      "startOffset": 0,
+      "word": "Ah"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 4,
+      "word": "I"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 6,
+      "word": "had"
+    },
+    {
+      "alignedWord": "forgotten",
+      "case": "success",
+      "end": 2.23,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 10,
+      "word": "forgotten"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 2.4400000000000004,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.24,
+      "startOffset": 21,
+      "word": "he"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.26,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.82,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.44,
+      "startOffset": 24,
+      "word": "exclaimed"
+    }
+  ]
+}

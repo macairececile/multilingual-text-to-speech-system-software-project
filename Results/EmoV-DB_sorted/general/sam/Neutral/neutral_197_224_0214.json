@@ -1,0 +1,247 @@
+{
+  "transcript": "Besides, he was paid one case of tobacco per head.",
+  "words": [
+    {
+      "alignedWord": "besides",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 0,
+      "word": "Besides"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.4100000000000001,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.28,
+      "startOffset": 9,
+      "word": "he"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.6099999999999999,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 12,
+      "word": "was"
+    },
+    {
+      "alignedWord": "paid",
+      "case": "success",
+      "end": 1.9400000000000002,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 16,
+      "word": "paid"
+    },
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.95,
+      "startOffset": 21,
+      "word": "one"
+    },
+    {
+      "alignedWord": "case",
+      "case": "success",
+      "end": 2.42,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.19,
+      "startOffset": 25,
+      "word": "case"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.55,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.42,
+      "startOffset": 30,
+      "word": "of"
+    },
+    {
+      "alignedWord": "tobacco",
+      "case": "success",
+      "end": 3.0599999999999996,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 33,
+      "word": "tobacco"
+    },
+    {
+      "alignedWord": "per",
+      "case": "success",
+      "end": 3.23,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.06,
+      "startOffset": 41,
+      "word": "per"
+    },
+    {
+      "alignedWord": "head",
+      "case": "success",
+      "end": 3.6,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.23,
+      "startOffset": 45,
+      "word": "head"
+    }
+  ]
+}

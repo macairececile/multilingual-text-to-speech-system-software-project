@@ -1,0 +1,155 @@
+{
+  "transcript": "Points of view, new ideas, life.",
+  "words": [
+    {
+      "alignedWord": "points",
+      "case": "success",
+      "end": 1.77,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.35,
+      "startOffset": 0,
+      "word": "Points"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.77,
+      "startOffset": 7,
+      "word": "of"
+    },
+    {
+      "alignedWord": "view",
+      "case": "success",
+      "end": 2.52,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.33,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 10,
+      "word": "view"
+    },
+    {
+      "alignedWord": "new",
+      "case": "success",
+      "end": 3.29,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.92,
+      "startOffset": 16,
+      "word": "new"
+    },
+    {
+      "alignedWord": "ideas",
+      "case": "success",
+      "end": 4.36,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.35,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.29,
+      "startOffset": 20,
+      "word": "ideas"
+    },
+    {
+      "alignedWord": "life",
+      "case": "success",
+      "end": 6.029999999999999,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "f_E"
+        }
+      ],
+      "start": 5.39,
+      "startOffset": 27,
+      "word": "life"
+    }
+  ]
+}

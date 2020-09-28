@@ -1,0 +1,99 @@
+{
+  "transcript": "Much, replied Jeanne, as tersely.",
+  "words": [
+    {
+      "alignedWord": "much",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.61,
+      "startOffset": 0,
+      "word": "Much"
+    },
+    {
+      "alignedWord": "replied",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 6,
+      "word": "replied"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.6100000000000003,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.41,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.2,
+      "startOffset": 14,
+      "word": "Jeanne"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 24,
+      "startOffset": 22,
+      "word": "as"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.87,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.79,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.08,
+      "startOffset": 25,
+      "word": "tersely"
+    }
+  ]
+}

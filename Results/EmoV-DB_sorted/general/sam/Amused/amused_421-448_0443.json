@@ -1,0 +1,166 @@
+{
+  "transcript": "He was worth nothing to the world.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.57,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "worth",
+      "case": "success",
+      "end": 2.0300000000000002,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 7,
+      "word": "worth"
+    },
+    {
+      "alignedWord": "nothing",
+      "case": "success",
+      "end": 3.59,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.35,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.56,
+      "startOffset": 13,
+      "word": "nothing"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 4.3100000000000005,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 4.16,
+      "startOffset": 21,
+      "word": "to"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.329999999999999,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.31,
+      "startOffset": 24,
+      "word": "the"
+    },
+    {
+      "alignedWord": "world",
+      "case": "success",
+      "end": 4.42,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.33,
+      "startOffset": 28,
+      "word": "world"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "transcript": "Bassett was a fastidious man.",
+  "words": [
+    {
+      "alignedWord": "bassett",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.38,
+      "startOffset": 0,
+      "word": "Bassett"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.02,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 8,
+      "word": "was"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 12,
+      "word": "a"
+    },
+    {
+      "alignedWord": "fastidious",
+      "case": "success",
+      "end": 1.67,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 14,
+      "word": "fastidious"
+    },
+    {
+      "alignedWord": "man",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 25,
+      "word": "man"
+    }
+  ]
+}

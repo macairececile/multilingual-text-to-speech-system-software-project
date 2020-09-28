@@ -1,0 +1,290 @@
+{
+  "transcript": "I followed the line of the proposed railroad, looking for chances.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.43000000000000005,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.28,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "followed",
+      "case": "success",
+      "end": 0.79,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 2,
+      "word": "followed"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.8600000000000001,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 11,
+      "word": "the"
+    },
+    {
+      "alignedWord": "line",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 15,
+      "word": "line"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.15,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 20,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 23,
+      "word": "the"
+    },
+    {
+      "alignedWord": "proposed",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 27,
+      "word": "proposed"
+    },
+    {
+      "alignedWord": "railroad",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 36,
+      "word": "railroad"
+    },
+    {
+      "alignedWord": "looking",
+      "case": "success",
+      "end": 2.6399999999999997,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 46,
+      "word": "looking"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 2.75,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.64,
+      "startOffset": 54,
+      "word": "for"
+    },
+    {
+      "alignedWord": "chances",
+      "case": "success",
+      "end": 3.02,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.75,
+      "startOffset": 58,
+      "word": "chances"
+    }
+  ]
+}

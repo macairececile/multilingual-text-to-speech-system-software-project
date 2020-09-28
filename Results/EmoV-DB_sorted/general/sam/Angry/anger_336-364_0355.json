@@ -1,0 +1,178 @@
+{
+  "transcript": "A burst of laughter was his reward.",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 0,
+      "word": "A"
+    },
+    {
+      "alignedWord": "burst",
+      "case": "success",
+      "end": 1.1099999999999999,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 2,
+      "word": "burst"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.2400000000000002,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 8,
+      "word": "of"
+    },
+    {
+      "alignedWord": "laughter",
+      "case": "success",
+      "end": 1.57,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 11,
+      "word": "laughter"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 20,
+      "word": "was"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 1.8399999999999999,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 24,
+      "word": "his"
+    },
+    {
+      "alignedWord": "reward",
+      "case": "success",
+      "end": 2.35,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 28,
+      "word": "reward"
+    }
+  ]
+}

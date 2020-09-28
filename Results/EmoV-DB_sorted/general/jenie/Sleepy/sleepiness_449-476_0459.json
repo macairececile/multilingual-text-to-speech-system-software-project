@@ -1,0 +1,165 @@
+{
+  "transcript": "There's too much of the schoolboy in me.",
+  "words": [
+    {
+      "alignedWord": "there's",
+      "case": "success",
+      "end": 1.1199999999999999,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.7,
+      "startOffset": 0,
+      "word": "There's"
+    },
+    {
+      "alignedWord": "too",
+      "case": "success",
+      "end": 1.35,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 8,
+      "word": "too"
+    },
+    {
+      "alignedWord": "much",
+      "case": "success",
+      "end": 1.7200000000000002,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.35,
+      "startOffset": 12,
+      "word": "much"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.82,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 17,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.0100000000000002,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 20,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.7299999999999995,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.72,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.01,
+      "startOffset": 24,
+      "word": "schoolboy"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.84,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.73,
+      "startOffset": 34,
+      "word": "in"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 3.1399999999999997,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.84,
+      "startOffset": 37,
+      "word": "me"
+    }
+  ]
+}

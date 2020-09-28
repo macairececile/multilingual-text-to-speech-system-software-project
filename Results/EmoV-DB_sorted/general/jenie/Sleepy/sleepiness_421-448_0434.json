@@ -1,0 +1,231 @@
+{
+  "transcript": "A half a case of tobacco was worth three pounds.",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.71,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 0,
+      "word": "A"
+    },
+    {
+      "alignedWord": "half",
+      "case": "success",
+      "end": 1.14,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "f_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 2,
+      "word": "half"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 7,
+      "word": "a"
+    },
+    {
+      "alignedWord": "case",
+      "case": "success",
+      "end": 1.59,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 9,
+      "word": "case"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.59,
+      "startOffset": 14,
+      "word": "of"
+    },
+    {
+      "alignedWord": "tobacco",
+      "case": "success",
+      "end": 2.41,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 17,
+      "word": "tobacco"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.66,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.44,
+      "startOffset": 25,
+      "word": "was"
+    },
+    {
+      "alignedWord": "worth",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.69,
+      "startOffset": 29,
+      "word": "worth"
+    },
+    {
+      "alignedWord": "three",
+      "case": "success",
+      "end": 3.24,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 35,
+      "word": "three"
+    },
+    {
+      "alignedWord": "pounds",
+      "case": "success",
+      "end": 3.91,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.24,
+      "startOffset": 41,
+      "word": "pounds"
+    }
+  ]
+}

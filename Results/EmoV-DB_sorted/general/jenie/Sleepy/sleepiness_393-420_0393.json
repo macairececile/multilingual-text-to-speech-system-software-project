@@ -1,0 +1,221 @@
+{
+  "transcript": "Already he had begun borrowing from the banks.",
+  "words": [
+    {
+      "alignedWord": "already",
+      "case": "success",
+      "end": 1.28,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.61,
+      "startOffset": 0,
+      "word": "Already"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.6800000000000002,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.34,
+      "startOffset": 8,
+      "word": "he"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 11,
+      "word": "had"
+    },
+    {
+      "alignedWord": "begun",
+      "case": "success",
+      "end": 2.28,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 15,
+      "word": "begun"
+    },
+    {
+      "alignedWord": "borrowing",
+      "case": "success",
+      "end": 2.79,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.28,
+      "startOffset": 21,
+      "word": "borrowing"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 3.05,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.79,
+      "startOffset": 31,
+      "word": "from"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.13,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.05,
+      "startOffset": 36,
+      "word": "the"
+    },
+    {
+      "alignedWord": "banks",
+      "case": "success",
+      "end": 3.6799999999999997,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.13,
+      "startOffset": 40,
+      "word": "banks"
+    }
+  ]
+}

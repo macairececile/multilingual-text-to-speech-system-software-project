@@ -1,0 +1,283 @@
+{
+  "transcript": "Violent life and athletic sports had never appealed to me.",
+  "words": [
+    {
+      "alignedWord": "violent",
+      "case": "success",
+      "end": 1.72,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 0,
+      "word": "Violent"
+    },
+    {
+      "alignedWord": "life",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 8,
+      "word": "life"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.09,
+      "startOffset": 13,
+      "word": "and"
+    },
+    {
+      "alignedWord": "athletic",
+      "case": "success",
+      "end": 2.71,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 17,
+      "word": "athletic"
+    },
+    {
+      "alignedWord": "sports",
+      "case": "success",
+      "end": 3.2199999999999998,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.71,
+      "startOffset": 26,
+      "word": "sports"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 3.43,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.23,
+      "startOffset": 33,
+      "word": "had"
+    },
+    {
+      "alignedWord": "never",
+      "case": "success",
+      "end": 3.77,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.43,
+      "startOffset": 37,
+      "word": "never"
+    },
+    {
+      "alignedWord": "appealed",
+      "case": "success",
+      "end": 4.18,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.77,
+      "startOffset": 43,
+      "word": "appealed"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 4.27,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 4.18,
+      "startOffset": 52,
+      "word": "to"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 4.579999999999999,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.27,
+      "startOffset": 55,
+      "word": "me"
+    }
+  ]
+}

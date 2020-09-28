@@ -1,0 +1,254 @@
+{
+  "transcript": "Do you know that you are shaking my confidence in you.",
+  "words": [
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 1.1400000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 0,
+      "word": "Do"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.3499999999999999,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 3,
+      "word": "you"
+    },
+    {
+      "alignedWord": "know",
+      "case": "success",
+      "end": 1.6700000000000002,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.35,
+      "startOffset": 7,
+      "word": "know"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 12,
+      "word": "that"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.82,
+      "startOffset": 17,
+      "word": "you"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 2.07,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "er_S"
+        }
+      ],
+      "start": 2.02,
+      "startOffset": 21,
+      "word": "are"
+    },
+    {
+      "alignedWord": "shaking",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 25,
+      "word": "shaking"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 2.62,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.48,
+      "startOffset": 33,
+      "word": "my"
+    },
+    {
+      "alignedWord": "confidence",
+      "case": "success",
+      "end": 3.3000000000000003,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.62,
+      "startOffset": 36,
+      "word": "confidence"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.44,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.3,
+      "startOffset": 47,
+      "word": "in"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 3.71,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.44,
+      "startOffset": 50,
+      "word": "you"
+    }
+  ]
+}

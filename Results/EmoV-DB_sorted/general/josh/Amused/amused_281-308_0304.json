@@ -1,0 +1,159 @@
+{
+  "transcript": "I graduated last of my class.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "graduated",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 2,
+      "word": "graduated"
+    },
+    {
+      "alignedWord": "last",
+      "case": "success",
+      "end": 2.2800000000000002,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.04,
+      "startOffset": 12,
+      "word": "last"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.3699999999999997,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.28,
+      "startOffset": 17,
+      "word": "of"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 2.47,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 20,
+      "word": "my"
+    },
+    {
+      "alignedWord": "class",
+      "case": "success",
+      "end": 2.95,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.47,
+      "startOffset": 23,
+      "word": "class"
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "transcript": "He cried in such genuine dismay that she broke into hearty laughter.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "cried",
+      "case": "success",
+      "end": 1.4300000000000002,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 3,
+      "word": "cried"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 9,
+      "word": "in"
+    },
+    {
+      "alignedWord": "such",
+      "case": "success",
+      "end": 1.83,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 12,
+      "word": "such"
+    },
+    {
+      "alignedWord": "genuine",
+      "case": "success",
+      "end": 2.24,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 17,
+      "word": "genuine"
+    },
+    {
+      "alignedWord": "dismay",
+      "case": "success",
+      "end": 2.8600000000000003,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.32,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 2.24,
+      "startOffset": 25,
+      "word": "dismay"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 3.3000000000000003,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.12,
+      "startOffset": 32,
+      "word": "that"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 3.48,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.3,
+      "startOffset": 37,
+      "word": "she"
+    },
+    {
+      "alignedWord": "broke",
+      "case": "success",
+      "end": 3.78,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.48,
+      "startOffset": 41,
+      "word": "broke"
+    },
+    {
+      "alignedWord": "into",
+      "case": "success",
+      "end": 4.04,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.79,
+      "startOffset": 47,
+      "word": "into"
+    },
+    {
+      "alignedWord": "hearty",
+      "case": "success",
+      "end": 4.38,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.05,
+      "startOffset": 52,
+      "word": "hearty"
+    },
+    {
+      "alignedWord": "laughter",
+      "case": "success",
+      "end": 4.99,
+      "endOffset": 67,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.38,
+      "startOffset": 59,
+      "word": "laughter"
+    }
+  ]
+}

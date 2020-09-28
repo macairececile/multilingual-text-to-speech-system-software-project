@@ -1,0 +1,152 @@
+{
+  "transcript": "And Tom King patiently endured.",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 0,
+      "word": "And"
+    },
+    {
+      "alignedWord": "tom",
+      "case": "success",
+      "end": 1.2,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 4,
+      "word": "Tom"
+    },
+    {
+      "alignedWord": "king",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 8,
+      "word": "King"
+    },
+    {
+      "alignedWord": "patiently",
+      "case": "success",
+      "end": 2.21,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.54,
+      "startOffset": 13,
+      "word": "patiently"
+    },
+    {
+      "alignedWord": "endured",
+      "case": "success",
+      "end": 2.83,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.21,
+      "startOffset": 23,
+      "word": "endured"
+    }
+  ]
+}

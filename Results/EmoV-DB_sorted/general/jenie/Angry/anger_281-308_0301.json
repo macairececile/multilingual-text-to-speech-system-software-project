@@ -1,0 +1,182 @@
+{
+  "transcript": "But all my dreams violated this law.",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 0,
+      "word": "But"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 1.87,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 4,
+      "word": "all"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 2.28,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.09,
+      "startOffset": 8,
+      "word": "my"
+    },
+    {
+      "alignedWord": "dreams",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.28,
+      "startOffset": 11,
+      "word": "dreams"
+    },
+    {
+      "alignedWord": "violated",
+      "case": "success",
+      "end": 3.59,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.89,
+      "startOffset": 18,
+      "word": "violated"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 3.83,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.61,
+      "startOffset": 27,
+      "word": "this"
+    },
+    {
+      "alignedWord": "law",
+      "case": "success",
+      "end": 4.42,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.44,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 3.97,
+      "startOffset": 32,
+      "word": "law"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "transcript": "That's why its boundaries are all gouged and jagged.",
+  "words": [
+    {
+      "alignedWord": "that's",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 0,
+      "word": "That's"
+    },
+    {
+      "alignedWord": "why",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.36,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 7,
+      "word": "why"
+    },
+    {
+      "alignedWord": "its",
+      "case": "success",
+      "end": 2.37,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 11,
+      "word": "its"
+    },
+    {
+      "alignedWord": "boundaries",
+      "case": "success",
+      "end": 3.16,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 15,
+      "word": "boundaries"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 4.11,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.88,
+      "startOffset": 26,
+      "word": "are"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 4.32,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_E"
+        }
+      ],
+      "start": 4.11,
+      "startOffset": 30,
+      "word": "all"
+    },
+    {
+      "alignedWord": "gouged",
+      "case": "success",
+      "end": 4.98,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.32,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.32,
+      "startOffset": 34,
+      "word": "gouged"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 5.19,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.99,
+      "startOffset": 41,
+      "word": "and"
+    },
+    {
+      "alignedWord": "jagged",
+      "case": "success",
+      "end": 5.49,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.19,
+      "startOffset": 45,
+      "word": "jagged"
+    }
+  ]
+}

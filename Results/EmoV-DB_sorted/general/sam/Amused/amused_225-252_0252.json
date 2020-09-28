@@ -1,0 +1,259 @@
+{
+  "transcript": "O'Brien had been a clean living young man with ideals.",
+  "words": [
+    {
+      "alignedWord": "o'brien",
+      "case": "success",
+      "end": 3.07,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.84,
+      "startOffset": 0,
+      "word": "O'Brien"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 4.26,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.0,
+      "startOffset": 8,
+      "word": "had"
+    },
+    {
+      "alignedWord": "been",
+      "case": "success",
+      "end": 4.4799999999999995,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.26,
+      "startOffset": 12,
+      "word": "been"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 4.550000000000001,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 4.48,
+      "startOffset": 17,
+      "word": "a"
+    },
+    {
+      "alignedWord": "clean",
+      "case": "success",
+      "end": 5.27,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.55,
+      "startOffset": 19,
+      "word": "clean"
+    },
+    {
+      "alignedWord": "living",
+      "case": "success",
+      "end": 6.19,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 5.66,
+      "startOffset": 25,
+      "word": "living"
+    },
+    {
+      "alignedWord": "young",
+      "case": "success",
+      "end": 6.53,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 6.19,
+      "startOffset": 32,
+      "word": "young"
+    },
+    {
+      "alignedWord": "man",
+      "case": "success",
+      "end": 7.23,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.31,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "n_E"
+        }
+      ],
+      "start": 6.71,
+      "startOffset": 38,
+      "word": "man"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 7.760000000000001,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "th_E"
+        }
+      ],
+      "start": 7.53,
+      "startOffset": 42,
+      "word": "with"
+    },
+    {
+      "alignedWord": "ideals",
+      "case": "success",
+      "end": 8.92,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "z_E"
+        }
+      ],
+      "start": 8.0,
+      "startOffset": 47,
+      "word": "ideals"
+    }
+  ]
+}

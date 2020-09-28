@@ -1,0 +1,247 @@
+{
+  "transcript": "They do not know the length of time of incubation.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 1.51,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.34,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 1.63,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 5,
+      "word": "do"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 1.91,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 8,
+      "word": "not"
+    },
+    {
+      "alignedWord": "know",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 12,
+      "word": "know"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.2600000000000002,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.12,
+      "startOffset": 17,
+      "word": "the"
+    },
+    {
+      "alignedWord": "length",
+      "case": "success",
+      "end": 2.55,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 21,
+      "word": "length"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.6799999999999997,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 28,
+      "word": "of"
+    },
+    {
+      "alignedWord": "time",
+      "case": "success",
+      "end": 3.02,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.68,
+      "startOffset": 31,
+      "word": "time"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.13,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.03,
+      "startOffset": 36,
+      "word": "of"
+    },
+    {
+      "alignedWord": "incubation",
+      "case": "success",
+      "end": 4.0,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.13,
+      "startOffset": 39,
+      "word": "incubation"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "transcript": "The questions may have come vaguely in his mind.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.79,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "questions",
+      "case": "success",
+      "end": 1.35,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 4,
+      "word": "questions"
+    },
+    {
+      "alignedWord": "may",
+      "case": "success",
+      "end": 1.5,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.35,
+      "startOffset": 14,
+      "word": "may"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 1.65,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.5,
+      "startOffset": 18,
+      "word": "have"
+    },
+    {
+      "alignedWord": "come",
+      "case": "success",
+      "end": 1.9,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 23,
+      "word": "come"
+    },
+    {
+      "alignedWord": "vaguely",
+      "case": "success",
+      "end": 2.3,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 28,
+      "word": "vaguely"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.4,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.3,
+      "startOffset": 36,
+      "word": "in"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.53,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 39,
+      "word": "his"
+    },
+    {
+      "alignedWord": "mind",
+      "case": "success",
+      "end": 2.8,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.53,
+      "startOffset": 43,
+      "word": "mind"
+    }
+  ]
+}

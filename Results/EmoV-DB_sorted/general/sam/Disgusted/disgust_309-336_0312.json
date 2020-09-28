@@ -1,0 +1,314 @@
+{
+  "transcript": "It lived in perpetual apprehension of that quarter of the compass.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "lived",
+      "case": "success",
+      "end": 2.3,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.3,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.5,
+      "startOffset": 3,
+      "word": "lived"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.65,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 9,
+      "word": "in"
+    },
+    {
+      "alignedWord": "perpetual",
+      "case": "success",
+      "end": 3.89,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.16,
+      "startOffset": 12,
+      "word": "perpetual"
+    },
+    {
+      "alignedWord": "apprehension",
+      "case": "success",
+      "end": 4.79,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "hh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.89,
+      "startOffset": 22,
+      "word": "apprehension"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 5.010000000000001,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_E"
+        }
+      ],
+      "start": 4.82,
+      "startOffset": 35,
+      "word": "of"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 5.2299999999999995,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.01,
+      "startOffset": 38,
+      "word": "that"
+    },
+    {
+      "alignedWord": "quarter",
+      "case": "success",
+      "end": 5.89,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.3,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 5.26,
+      "startOffset": 43,
+      "word": "quarter"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 6.04,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 5.89,
+      "startOffset": 51,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 6.15,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 6.04,
+      "startOffset": 54,
+      "word": "the"
+    },
+    {
+      "alignedWord": "compass",
+      "case": "success",
+      "end": 6.9399999999999995,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.37,
+          "phone": "s_E"
+        }
+      ],
+      "start": 6.18,
+      "startOffset": 58,
+      "word": "compass"
+    }
+  ]
+}

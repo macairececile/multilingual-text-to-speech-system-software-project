@@ -1,0 +1,262 @@
+{
+  "transcript": "They were less stooped than we, less springy in their movements.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 0.9500000000000001,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 5,
+      "word": "were"
+    },
+    {
+      "alignedWord": "less",
+      "case": "success",
+      "end": 1.5899999999999999,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.45,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 10,
+      "word": "less"
+    },
+    {
+      "alignedWord": "stooped",
+      "case": "success",
+      "end": 2.2600000000000002,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 15,
+      "word": "stooped"
+    },
+    {
+      "alignedWord": "than",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.32,
+      "startOffset": 23,
+      "word": "than"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 3.08,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.43,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.58,
+      "startOffset": 28,
+      "word": "we"
+    },
+    {
+      "alignedWord": "less",
+      "case": "success",
+      "end": 4.02,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.63,
+      "startOffset": 32,
+      "word": "less"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.489999999999999,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.31,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.18,
+      "startOffset": 37,
+      "word": "springy"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 5.3,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.28,
+      "startOffset": 45,
+      "word": "in"
+    },
+    {
+      "alignedWord": "their",
+      "case": "success",
+      "end": 5.7,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 5.4,
+      "startOffset": 48,
+      "word": "their"
+    },
+    {
+      "alignedWord": "movements",
+      "case": "success",
+      "end": 6.63,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.35,
+          "phone": "s_E"
+        }
+      ],
+      "start": 5.7,
+      "startOffset": 54,
+      "word": "movements"
+    }
+  ]
+}

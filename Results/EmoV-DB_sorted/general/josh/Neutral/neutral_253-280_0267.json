@@ -1,0 +1,205 @@
+{
+  "transcript": "Eli Harding asked, as Shunk started to follow.",
+  "words": [
+    {
+      "alignedWord": "eli",
+      "case": "success",
+      "end": 0.8099999999999999,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.58,
+      "startOffset": 0,
+      "word": "Eli"
+    },
+    {
+      "alignedWord": "harding",
+      "case": "success",
+      "end": 1.2000000000000002,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 4,
+      "word": "Harding"
+    },
+    {
+      "alignedWord": "asked",
+      "case": "success",
+      "end": 1.58,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 12,
+      "word": "asked"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 1.8599999999999999,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 19,
+      "word": "as"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.3200000000000003,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.46,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 22,
+      "word": "Shunk"
+    },
+    {
+      "alignedWord": "started",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.32,
+      "startOffset": 28,
+      "word": "started"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.63,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.54,
+      "startOffset": 36,
+      "word": "to"
+    },
+    {
+      "alignedWord": "follow",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.63,
+      "startOffset": 39,
+      "word": "follow"
+    }
+  ]
+}

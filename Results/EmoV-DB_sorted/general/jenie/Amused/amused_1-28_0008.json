@@ -1,0 +1,162 @@
+{
+  "transcript": "Gad, your letter came just in time.",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.15,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.47,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 0,
+      "word": "Gad"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 5,
+      "word": "your"
+    },
+    {
+      "alignedWord": "letter",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.79,
+      "startOffset": 10,
+      "word": "letter"
+    },
+    {
+      "alignedWord": "came",
+      "case": "success",
+      "end": 2.43,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 17,
+      "word": "came"
+    },
+    {
+      "alignedWord": "just",
+      "case": "success",
+      "end": 2.8600000000000003,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 22,
+      "word": "just"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.03,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.86,
+      "startOffset": 27,
+      "word": "in"
+    },
+    {
+      "alignedWord": "time",
+      "case": "success",
+      "end": 3.57,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.3,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.03,
+      "startOffset": 30,
+      "word": "time"
+    }
+  ]
+}

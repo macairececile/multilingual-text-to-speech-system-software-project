@@ -1,0 +1,192 @@
+{
+  "transcript": "If you only could know how I thank you.",
+  "words": [
+    {
+      "alignedWord": "if",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "f_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 0,
+      "word": "If"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.5,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 3,
+      "word": "you"
+    },
+    {
+      "alignedWord": "only",
+      "case": "success",
+      "end": 2.23,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 7,
+      "word": "only"
+    },
+    {
+      "alignedWord": "could",
+      "case": "success",
+      "end": 2.4800000000000004,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.24,
+      "startOffset": 12,
+      "word": "could"
+    },
+    {
+      "alignedWord": "know",
+      "case": "success",
+      "end": 2.87,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.48,
+      "startOffset": 18,
+      "word": "know"
+    },
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 3.28,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 23,
+      "word": "how"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 3.62,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.27,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 3.35,
+      "startOffset": 27,
+      "word": "I"
+    },
+    {
+      "alignedWord": "thank",
+      "case": "success",
+      "end": 4.16,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.79,
+      "startOffset": 29,
+      "word": "thank"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 4.62,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.34,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 4.16,
+      "startOffset": 35,
+      "word": "you"
+    }
+  ]
+}

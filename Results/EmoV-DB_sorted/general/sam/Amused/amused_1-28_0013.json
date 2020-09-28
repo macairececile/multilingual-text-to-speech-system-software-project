@@ -1,0 +1,333 @@
+{
+  "transcript": "He was a head shorter than his companion, of almost delicate physique.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.24,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.42,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 7,
+      "word": "a"
+    },
+    {
+      "alignedWord": "head",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 9,
+      "word": "head"
+    },
+    {
+      "alignedWord": "shorter",
+      "case": "success",
+      "end": 2.2800000000000002,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 14,
+      "word": "shorter"
+    },
+    {
+      "alignedWord": "than",
+      "case": "success",
+      "end": 2.44,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.29,
+      "startOffset": 22,
+      "word": "than"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.44,
+      "startOffset": 27,
+      "word": "his"
+    },
+    {
+      "alignedWord": "companion",
+      "case": "success",
+      "end": 3.36,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.61,
+      "startOffset": 31,
+      "word": "companion"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.89,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.75,
+      "startOffset": 42,
+      "word": "of"
+    },
+    {
+      "alignedWord": "almost",
+      "case": "success",
+      "end": 4.4,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.97,
+      "startOffset": 45,
+      "word": "almost"
+    },
+    {
+      "alignedWord": "delicate",
+      "case": "success",
+      "end": 4.98,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.41,
+      "startOffset": 52,
+      "word": "delicate"
+    },
+    {
+      "alignedWord": "physique",
+      "case": "success",
+      "end": 5.73,
+      "endOffset": 69,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "k_E"
+        }
+      ],
+      "start": 4.98,
+      "startOffset": 61,
+      "word": "physique"
+    }
+  ]
+}

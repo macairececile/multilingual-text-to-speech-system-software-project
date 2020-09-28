@@ -1,0 +1,255 @@
+{
+  "transcript": "See the length of the body and that elongated neck.",
+  "words": [
+    {
+      "alignedWord": "see",
+      "case": "success",
+      "end": 1.02,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 0,
+      "word": "See"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.1600000000000001,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 4,
+      "word": "the"
+    },
+    {
+      "alignedWord": "length",
+      "case": "success",
+      "end": 1.5799999999999998,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 8,
+      "word": "length"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.86,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 15,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.9300000000000002,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 18,
+      "word": "the"
+    },
+    {
+      "alignedWord": "body",
+      "case": "success",
+      "end": 2.42,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 22,
+      "word": "body"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.44,
+      "startOffset": 27,
+      "word": "and"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 2.8,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.59,
+      "startOffset": 31,
+      "word": "that"
+    },
+    {
+      "alignedWord": "elongated",
+      "case": "success",
+      "end": 3.55,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.81,
+      "startOffset": 36,
+      "word": "elongated"
+    },
+    {
+      "alignedWord": "neck",
+      "case": "success",
+      "end": 4.05,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.55,
+      "startOffset": 46,
+      "word": "neck"
+    }
+  ]
+}

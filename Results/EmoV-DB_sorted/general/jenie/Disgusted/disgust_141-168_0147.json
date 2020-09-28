@@ -1,0 +1,356 @@
+{
+  "transcript": "A moment before he was intoxicated by a joy that was almost madness.",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 0,
+      "word": "A"
+    },
+    {
+      "alignedWord": "moment",
+      "case": "success",
+      "end": 1.3900000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 2,
+      "word": "moment"
+    },
+    {
+      "alignedWord": "before",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 9,
+      "word": "before"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 2.05,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 16,
+      "word": "he"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.05,
+      "startOffset": 19,
+      "word": "was"
+    },
+    {
+      "alignedWord": "intoxicated",
+      "case": "success",
+      "end": 3.2,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.25,
+      "startOffset": 23,
+      "word": "intoxicated"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 3.4400000000000004,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 3.2,
+      "startOffset": 35,
+      "word": "by"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.52,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.44,
+      "startOffset": 38,
+      "word": "a"
+    },
+    {
+      "alignedWord": "joy",
+      "case": "success",
+      "end": 3.96,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 3.52,
+      "startOffset": 40,
+      "word": "joy"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 4.13,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.98,
+      "startOffset": 44,
+      "word": "that"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 4.36,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.13,
+      "startOffset": 49,
+      "word": "was"
+    },
+    {
+      "alignedWord": "almost",
+      "case": "success",
+      "end": 5.08,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.5,
+      "startOffset": 53,
+      "word": "almost"
+    },
+    {
+      "alignedWord": "madness",
+      "case": "success",
+      "end": 5.8,
+      "endOffset": 67,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "s_E"
+        }
+      ],
+      "start": 5.08,
+      "startOffset": 60,
+      "word": "madness"
+    }
+  ]
+}

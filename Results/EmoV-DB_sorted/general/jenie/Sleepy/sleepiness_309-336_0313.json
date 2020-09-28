@@ -1,0 +1,186 @@
+{
+  "transcript": "Broken-Tooth yelled with fright and pain.",
+  "words": [
+    {
+      "alignedWord": "broken",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 0,
+      "word": "Broken"
+    },
+    {
+      "alignedWord": "tooth",
+      "case": "success",
+      "end": 1.6500000000000001,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 7,
+      "word": "Tooth"
+    },
+    {
+      "alignedWord": "yelled",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 13,
+      "word": "yelled"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.27,
+      "startOffset": 20,
+      "word": "with"
+    },
+    {
+      "alignedWord": "fright",
+      "case": "success",
+      "end": 3.0300000000000002,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.5,
+      "startOffset": 25,
+      "word": "fright"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.38,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.14,
+      "startOffset": 32,
+      "word": "and"
+    },
+    {
+      "alignedWord": "pain",
+      "case": "success",
+      "end": 3.94,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.38,
+      "startOffset": 36,
+      "word": "pain"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "transcript": "The promoter's eyes were heavy, with little puffy bags under them.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.55,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.52,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 4,
+      "word": "promoter's"
+    },
+    {
+      "alignedWord": "eyes",
+      "case": "success",
+      "end": 1.9400000000000002,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 15,
+      "word": "eyes"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 20,
+      "word": "were"
+    },
+    {
+      "alignedWord": "heavy",
+      "case": "success",
+      "end": 2.64,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.33,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 25,
+      "word": "heavy"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.26,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.98,
+      "startOffset": 32,
+      "word": "with"
+    },
+    {
+      "alignedWord": "little",
+      "case": "success",
+      "end": 3.61,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.26,
+      "startOffset": 37,
+      "word": "little"
+    },
+    {
+      "alignedWord": "puffy",
+      "case": "success",
+      "end": 4.05,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.62,
+      "startOffset": 44,
+      "word": "puffy"
+    },
+    {
+      "alignedWord": "bags",
+      "case": "success",
+      "end": 4.55,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.08,
+      "startOffset": 50,
+      "word": "bags"
+    },
+    {
+      "alignedWord": "under",
+      "case": "success",
+      "end": 4.83,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.55,
+      "startOffset": 55,
+      "word": "under"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 5.16,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.83,
+      "startOffset": 61,
+      "word": "them"
+    }
+  ]
+}

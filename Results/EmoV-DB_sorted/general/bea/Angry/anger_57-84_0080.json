@@ -1,0 +1,116 @@
+{
+  "transcript": "What if Jeanne failed him.",
+  "words": [
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 0,
+      "word": "What"
+    },
+    {
+      "alignedWord": "if",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 5,
+      "word": "if"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.5899999999999999,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.35,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 8,
+      "word": "Jeanne"
+    },
+    {
+      "alignedWord": "failed",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 15,
+      "word": "failed"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 2.34,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 22,
+      "word": "him"
+    }
+  ]
+}

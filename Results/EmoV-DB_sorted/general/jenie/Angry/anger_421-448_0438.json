@@ -1,0 +1,122 @@
+{
+  "transcript": "At sea, Monday, March 16, 1908.",
+  "words": [
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.35,
+      "startOffset": 0,
+      "word": "At"
+    },
+    {
+      "alignedWord": "sea",
+      "case": "success",
+      "end": 2.22,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.43,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 3,
+      "word": "sea"
+    },
+    {
+      "alignedWord": "monday",
+      "case": "success",
+      "end": 3.1700000000000004,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 8,
+      "word": "Monday"
+    },
+    {
+      "alignedWord": "march",
+      "case": "success",
+      "end": 3.5500000000000003,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 16,
+      "word": "March"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 5.26,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 1.7,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.56,
+      "startOffset": 22,
+      "word": "16"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 30,
+      "startOffset": 26,
+      "word": "1908"
+    }
+  ]
+}

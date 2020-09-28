@@ -1,0 +1,311 @@
+{
+  "transcript": "The woman in you is only incidental, accidental, and irrelevant.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.5,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "woman",
+      "case": "success",
+      "end": 2.0300000000000002,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 4,
+      "word": "woman"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.1799999999999997,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.03,
+      "startOffset": 10,
+      "word": "in"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.49,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 13,
+      "word": "you"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 2.7,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 17,
+      "word": "is"
+    },
+    {
+      "alignedWord": "only",
+      "case": "success",
+      "end": 3.1300000000000003,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.7,
+      "startOffset": 20,
+      "word": "only"
+    },
+    {
+      "alignedWord": "incidental",
+      "case": "success",
+      "end": 4.79,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.81,
+      "startOffset": 25,
+      "word": "incidental"
+    },
+    {
+      "alignedWord": "accidental",
+      "case": "success",
+      "end": 6.18,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "l_E"
+        }
+      ],
+      "start": 5.13,
+      "startOffset": 37,
+      "word": "accidental"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 7.54,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 7.25,
+      "startOffset": 49,
+      "word": "and"
+    },
+    {
+      "alignedWord": "irrelevant",
+      "case": "success",
+      "end": 8.35,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 7.54,
+      "startOffset": 53,
+      "word": "irrelevant"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "transcript": "God bless 'em, I hope I'll go on seeing them forever.",
+  "words": [
+    {
+      "alignedWord": "god",
+      "case": "success",
+      "end": 3.07,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.04,
+      "startOffset": 0,
+      "word": "God"
+    },
+    {
+      "alignedWord": "bless",
+      "case": "success",
+      "end": 3.11,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.07,
+      "startOffset": 4,
+      "word": "bless"
+    },
+    {
+      "alignedWord": "'em",
+      "case": "success",
+      "end": 3.13,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.11,
+      "startOffset": 10,
+      "word": "'em"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 3.5300000000000002,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 3.33,
+      "startOffset": 15,
+      "word": "I"
+    },
+    {
+      "alignedWord": "hope",
+      "case": "success",
+      "end": 3.86,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "p_E"
+        }
+      ],
+      "start": 3.53,
+      "startOffset": 17,
+      "word": "hope"
+    },
+    {
+      "alignedWord": "i'll",
+      "case": "success",
+      "end": 3.9499999999999997,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.86,
+      "startOffset": 22,
+      "word": "I'll"
+    },
+    {
+      "alignedWord": "go",
+      "case": "success",
+      "end": 4.180000000000001,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 3.95,
+      "startOffset": 27,
+      "word": "go"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 4.489999999999999,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.18,
+      "startOffset": 30,
+      "word": "on"
+    },
+    {
+      "alignedWord": "seeing",
+      "case": "success",
+      "end": 4.92,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.51,
+      "startOffset": 33,
+      "word": "seeing"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 5.21,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.93,
+      "startOffset": 40,
+      "word": "them"
+    },
+    {
+      "alignedWord": "forever",
+      "case": "success",
+      "end": 6.01,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.32,
+          "phone": "er_E"
+        }
+      ],
+      "start": 5.21,
+      "startOffset": 45,
+      "word": "forever"
+    }
+  ]
+}

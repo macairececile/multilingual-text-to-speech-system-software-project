@@ -1,0 +1,194 @@
+{
+  "transcript": "Providence had delivered him through the maelstrom.",
+  "words": [
+    {
+      "alignedWord": "providence",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 0,
+      "word": "Providence"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.9,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 11,
+      "word": "had"
+    },
+    {
+      "alignedWord": "delivered",
+      "case": "success",
+      "end": 2.32,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 15,
+      "word": "delivered"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 2.51,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.32,
+      "startOffset": 25,
+      "word": "him"
+    },
+    {
+      "alignedWord": "through",
+      "case": "success",
+      "end": 2.73,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.51,
+      "startOffset": 29,
+      "word": "through"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.85,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.73,
+      "startOffset": 37,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.16,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.31,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.85,
+      "startOffset": 41,
+      "word": "maelstrom"
+    }
+  ]
+}

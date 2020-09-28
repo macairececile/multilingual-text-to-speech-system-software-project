@@ -1,0 +1,179 @@
+{
+  "transcript": "He says he bought him of Jacques Le Beau.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "says",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 3,
+      "word": "says"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.79,
+      "startOffset": 8,
+      "word": "he"
+    },
+    {
+      "alignedWord": "bought",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 11,
+      "word": "bought"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 2.55,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 18,
+      "word": "him"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.08,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.85,
+      "startOffset": 22,
+      "word": "of"
+    },
+    {
+      "alignedWord": "jacques",
+      "case": "success",
+      "end": 3.41,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.08,
+      "startOffset": 25,
+      "word": "Jacques"
+    },
+    {
+      "alignedWord": "le",
+      "case": "success",
+      "end": 3.48,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.41,
+      "startOffset": 33,
+      "word": "Le"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 40,
+      "startOffset": 36,
+      "word": "Beau"
+    }
+  ]
+}

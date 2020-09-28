@@ -1,0 +1,131 @@
+{
+  "transcript": "The lines were now very taut.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.71,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "lines",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.52,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 4,
+      "word": "lines"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 3.12,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.95,
+      "startOffset": 10,
+      "word": "were"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 3.48,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 3.14,
+      "startOffset": 15,
+      "word": "now"
+    },
+    {
+      "alignedWord": "very",
+      "case": "success",
+      "end": 4.09,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.52,
+      "startOffset": 19,
+      "word": "very"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.57,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.45,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.12,
+      "startOffset": 24,
+      "word": "taut"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "transcript": "Yea, so are all the lesser animals of today clean.",
+  "words": [
+    {
+      "alignedWord": "yea",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.4,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.18,
+      "startOffset": 0,
+      "word": "Yea"
+    },
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 5,
+      "word": "so"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 8,
+      "word": "are"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 12,
+      "word": "all"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.1799999999999997,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.05,
+      "startOffset": 16,
+      "word": "the"
+    },
+    {
+      "alignedWord": "lesser",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 20,
+      "word": "lesser"
+    },
+    {
+      "alignedWord": "animals",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.54,
+      "startOffset": 27,
+      "word": "animals"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.3400000000000003,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.16,
+      "startOffset": 35,
+      "word": "of"
+    },
+    {
+      "alignedWord": "today",
+      "case": "success",
+      "end": 3.69,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 3.34,
+      "startOffset": 38,
+      "word": "today"
+    },
+    {
+      "alignedWord": "clean",
+      "case": "success",
+      "end": 4.2,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.69,
+      "startOffset": 44,
+      "word": "clean"
+    }
+  ]
+}

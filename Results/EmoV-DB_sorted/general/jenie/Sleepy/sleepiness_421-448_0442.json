@@ -1,0 +1,212 @@
+{
+  "transcript": "You live on an income which your father earned.",
+  "words": [
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.99,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 0,
+      "word": "You"
+    },
+    {
+      "alignedWord": "live",
+      "case": "success",
+      "end": 1.4,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.99,
+      "startOffset": 4,
+      "word": "live"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 1.5899999999999999,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 9,
+      "word": "on"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.59,
+      "startOffset": 12,
+      "word": "an"
+    },
+    {
+      "alignedWord": "income",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 15,
+      "word": "income"
+    },
+    {
+      "alignedWord": "which",
+      "case": "success",
+      "end": 2.4699999999999998,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 22,
+      "word": "which"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 2.64,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.47,
+      "startOffset": 28,
+      "word": "your"
+    },
+    {
+      "alignedWord": "father",
+      "case": "success",
+      "end": 3.18,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.64,
+      "startOffset": 33,
+      "word": "father"
+    },
+    {
+      "alignedWord": "earned",
+      "case": "success",
+      "end": 3.6100000000000003,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 40,
+      "word": "earned"
+    }
+  ]
+}

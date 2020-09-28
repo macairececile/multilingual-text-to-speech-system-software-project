@@ -1,0 +1,132 @@
+{
+  "transcript": "Since then some mysterious force has been fighting us at every step.",
+  "words": [
+    {
+      "alignedWord": "since",
+      "case": "success",
+      "end": 3.26,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.19,
+      "startOffset": 0,
+      "word": "Since"
+    },
+    {
+      "alignedWord": "then",
+      "case": "success",
+      "end": 3.2899999999999996,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.26,
+      "startOffset": 6,
+      "word": "then"
+    },
+    {
+      "alignedWord": "some",
+      "case": "success",
+      "end": 3.45,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.29,
+      "startOffset": 11,
+      "word": "some"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 26,
+      "startOffset": 16,
+      "word": "mysterious"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 32,
+      "startOffset": 27,
+      "word": "force"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 36,
+      "startOffset": 33,
+      "word": "has"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 37,
+      "word": "been"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 50,
+      "startOffset": 42,
+      "word": "fighting"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 53,
+      "startOffset": 51,
+      "word": "us"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 56,
+      "startOffset": 54,
+      "word": "at"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 62,
+      "startOffset": 57,
+      "word": "every"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 67,
+      "startOffset": 63,
+      "word": "step"
+    }
+  ]
+}

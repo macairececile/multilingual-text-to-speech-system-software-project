@@ -1,0 +1,214 @@
+{
+  "transcript": "Philip thrust himself against it and entered.",
+  "words": [
+    {
+      "alignedWord": "philip",
+      "case": "success",
+      "end": 1.95,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.39,
+      "startOffset": 0,
+      "word": "Philip"
+    },
+    {
+      "alignedWord": "thrust",
+      "case": "success",
+      "end": 2.61,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.95,
+      "startOffset": 7,
+      "word": "thrust"
+    },
+    {
+      "alignedWord": "himself",
+      "case": "success",
+      "end": 3.52,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "f_E"
+        }
+      ],
+      "start": 2.61,
+      "startOffset": 14,
+      "word": "himself"
+    },
+    {
+      "alignedWord": "against",
+      "case": "success",
+      "end": 4.29,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.58,
+      "startOffset": 22,
+      "word": "against"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 4.47,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.29,
+      "startOffset": 30,
+      "word": "it"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.75,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.5,
+      "startOffset": 33,
+      "word": "and"
+    },
+    {
+      "alignedWord": "entered",
+      "case": "success",
+      "end": 5.63,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.88,
+      "startOffset": 37,
+      "word": "entered"
+    }
+  ]
+}

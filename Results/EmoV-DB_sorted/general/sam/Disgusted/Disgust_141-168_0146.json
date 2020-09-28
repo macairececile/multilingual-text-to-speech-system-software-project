@@ -1,0 +1,214 @@
+{
+  "transcript": "Of course, that is uninteresting, she continued.",
+  "words": [
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 0.44000000000000006,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.34,
+      "startOffset": 0,
+      "word": "Of"
+    },
+    {
+      "alignedWord": "course",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 3,
+      "word": "course"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.59,
+      "startOffset": 11,
+      "word": "that"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 16,
+      "word": "is"
+    },
+    {
+      "alignedWord": "uninteresting",
+      "case": "success",
+      "end": 2.87,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 19,
+      "word": "uninteresting"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 3.18,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.97,
+      "startOffset": 34,
+      "word": "she"
+    },
+    {
+      "alignedWord": "continued",
+      "case": "success",
+      "end": 3.93,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 38,
+      "word": "continued"
+    }
+  ]
+}

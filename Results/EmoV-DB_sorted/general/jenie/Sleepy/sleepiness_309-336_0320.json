@@ -1,0 +1,262 @@
+{
+  "transcript": "With my strength I slammed it full into Red-Eye's face.",
+  "words": [
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 0.5700000000000001,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_E"
+        }
+      ],
+      "start": 0.32,
+      "startOffset": 0,
+      "word": "With"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 5,
+      "word": "my"
+    },
+    {
+      "alignedWord": "strength",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "th_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 8,
+      "word": "strength"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 17,
+      "word": "I"
+    },
+    {
+      "alignedWord": "slammed",
+      "case": "success",
+      "end": 2.34,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 19,
+      "word": "slammed"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 27,
+      "word": "it"
+    },
+    {
+      "alignedWord": "full",
+      "case": "success",
+      "end": 2.93,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.5,
+      "startOffset": 30,
+      "word": "full"
+    },
+    {
+      "alignedWord": "into",
+      "case": "success",
+      "end": 3.25,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.93,
+      "startOffset": 35,
+      "word": "into"
+    },
+    {
+      "alignedWord": "red",
+      "case": "success",
+      "end": 3.44,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.25,
+      "startOffset": 40,
+      "word": "Red"
+    },
+    {
+      "alignedWord": "eye's",
+      "case": "success",
+      "end": 3.72,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.45,
+      "startOffset": 44,
+      "word": "Eye's"
+    },
+    {
+      "alignedWord": "face",
+      "case": "success",
+      "end": 4.32,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.72,
+      "startOffset": 50,
+      "word": "face"
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "transcript": "Between him and the beach was the cane-grass fence of the compound.",
+  "words": [
+    {
+      "alignedWord": "between",
+      "case": "success",
+      "end": 0.83,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.47,
+      "startOffset": 0,
+      "word": "Between"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 1.02,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.83,
+      "startOffset": 8,
+      "word": "him"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.07,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 12,
+      "word": "and"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 16,
+      "word": "the"
+    },
+    {
+      "alignedWord": "beach",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 20,
+      "word": "beach"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.94,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 26,
+      "word": "was"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.94,
+      "startOffset": 30,
+      "word": "the"
+    },
+    {
+      "alignedWord": "cane",
+      "case": "success",
+      "end": 2.37,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.04,
+      "startOffset": 34,
+      "word": "cane"
+    },
+    {
+      "alignedWord": "grass",
+      "case": "success",
+      "end": 2.7,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 39,
+      "word": "grass"
+    },
+    {
+      "alignedWord": "fence",
+      "case": "success",
+      "end": 3.11,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.71,
+      "startOffset": 45,
+      "word": "fence"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.31,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.14,
+      "startOffset": 51,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.38,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.31,
+      "startOffset": 54,
+      "word": "the"
+    },
+    {
+      "alignedWord": "compound",
+      "case": "success",
+      "end": 4.1,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.38,
+      "startOffset": 58,
+      "word": "compound"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "transcript": "But there came no promise from the bow of the canoe.",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 0.82,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 0,
+      "word": "But"
+    },
+    {
+      "alignedWord": "there",
+      "case": "success",
+      "end": 0.94,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 4,
+      "word": "there"
+    },
+    {
+      "alignedWord": "came",
+      "case": "success",
+      "end": 1.2,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.94,
+      "startOffset": 10,
+      "word": "came"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 1.39,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 15,
+      "word": "no"
+    },
+    {
+      "alignedWord": "promise",
+      "case": "success",
+      "end": 1.8399999999999999,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 18,
+      "word": "promise"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 1.9700000000000002,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 26,
+      "word": "from"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.05,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.97,
+      "startOffset": 31,
+      "word": "the"
+    },
+    {
+      "alignedWord": "bow",
+      "case": "success",
+      "end": 2.33,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 2.05,
+      "startOffset": 35,
+      "word": "bow"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.44,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.33,
+      "startOffset": 39,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.52,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.44,
+      "startOffset": 42,
+      "word": "the"
+    },
+    {
+      "alignedWord": "canoe",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.52,
+      "startOffset": 46,
+      "word": "canoe"
+    }
+  ]
+}

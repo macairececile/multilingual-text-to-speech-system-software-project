@@ -1,0 +1,182 @@
+{
+  "transcript": "He cried, and swung the club wildly.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.8600000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "cried",
+      "case": "success",
+      "end": 1.38,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 3,
+      "word": "cried"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.66,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 10,
+      "word": "and"
+    },
+    {
+      "alignedWord": "swung",
+      "case": "success",
+      "end": 2.11,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 14,
+      "word": "swung"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.23,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.11,
+      "startOffset": 20,
+      "word": "the"
+    },
+    {
+      "alignedWord": "club",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "b_E"
+        }
+      ],
+      "start": 2.23,
+      "startOffset": 24,
+      "word": "club"
+    },
+    {
+      "alignedWord": "wildly",
+      "case": "success",
+      "end": 3.05,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.58,
+      "startOffset": 29,
+      "word": "wildly"
+    }
+  ]
+}

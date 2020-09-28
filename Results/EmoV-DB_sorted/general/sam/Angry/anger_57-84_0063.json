@@ -1,0 +1,204 @@
+{
+  "transcript": "Yes, it was a man who asked, a stranger.",
+  "words": [
+    {
+      "alignedWord": "yes",
+      "case": "success",
+      "end": 1.1099999999999999,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 0,
+      "word": "Yes"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 1.5,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 5,
+      "word": "it"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.6400000000000001,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.5,
+      "startOffset": 8,
+      "word": "was"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 12,
+      "word": "a"
+    },
+    {
+      "alignedWord": "man",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 14,
+      "word": "man"
+    },
+    {
+      "alignedWord": "who",
+      "case": "success",
+      "end": 2.23,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 18,
+      "word": "who"
+    },
+    {
+      "alignedWord": "asked",
+      "case": "success",
+      "end": 2.82,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 22,
+      "word": "asked"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.06,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.94,
+      "startOffset": 29,
+      "word": "a"
+    },
+    {
+      "alignedWord": "stranger",
+      "case": "success",
+      "end": 3.8200000000000003,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.06,
+      "startOffset": 31,
+      "word": "stranger"
+    }
+  ]
+}

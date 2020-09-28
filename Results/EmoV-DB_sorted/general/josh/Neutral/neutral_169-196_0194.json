@@ -1,0 +1,159 @@
+{
+  "transcript": "He drank of the water cautiously.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.64,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "drank",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 3,
+      "word": "drank"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.05,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 9,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.1600000000000001,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 12,
+      "word": "the"
+    },
+    {
+      "alignedWord": "water",
+      "case": "success",
+      "end": 1.42,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 16,
+      "word": "water"
+    },
+    {
+      "alignedWord": "cautiously",
+      "case": "success",
+      "end": 1.97,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 22,
+      "word": "cautiously"
+    }
+  ]
+}

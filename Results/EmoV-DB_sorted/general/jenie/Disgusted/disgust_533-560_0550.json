@@ -1,0 +1,213 @@
+{
+  "transcript": "This also became part of the daily schedule.",
+  "words": [
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 1.07,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 0,
+      "word": "This"
+    },
+    {
+      "alignedWord": "also",
+      "case": "success",
+      "end": 1.7400000000000002,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.32,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 5,
+      "word": "also"
+    },
+    {
+      "alignedWord": "became",
+      "case": "success",
+      "end": 2.4,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 10,
+      "word": "became"
+    },
+    {
+      "alignedWord": "part",
+      "case": "success",
+      "end": 3.5,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.14,
+      "startOffset": 17,
+      "word": "part"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.71,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.53,
+      "startOffset": 22,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.78,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.71,
+      "startOffset": 25,
+      "word": "the"
+    },
+    {
+      "alignedWord": "daily",
+      "case": "success",
+      "end": 4.16,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.78,
+      "startOffset": 29,
+      "word": "daily"
+    },
+    {
+      "alignedWord": "schedule",
+      "case": "success",
+      "end": 4.57,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 4.16,
+      "startOffset": 35,
+      "word": "schedule"
+    }
+  ]
+}

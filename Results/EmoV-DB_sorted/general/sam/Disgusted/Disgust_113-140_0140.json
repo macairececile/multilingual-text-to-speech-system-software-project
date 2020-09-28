@@ -1,0 +1,209 @@
+{
+  "transcript": "Accept a father's blessing, and with it, this.",
+  "words": [
+    {
+      "alignedWord": "accept",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 0,
+      "word": "Accept"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 7,
+      "word": "a"
+    },
+    {
+      "alignedWord": "father's",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 9,
+      "word": "father's"
+    },
+    {
+      "alignedWord": "blessing",
+      "case": "success",
+      "end": 2.6399999999999997,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.01,
+      "startOffset": 18,
+      "word": "blessing"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.16,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.9,
+      "startOffset": 28,
+      "word": "and"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.49,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 32,
+      "word": "with"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 3.8000000000000003,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.49,
+      "startOffset": 37,
+      "word": "it"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 4.82,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.48,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.94,
+      "startOffset": 41,
+      "word": "this"
+    }
+  ]
+}

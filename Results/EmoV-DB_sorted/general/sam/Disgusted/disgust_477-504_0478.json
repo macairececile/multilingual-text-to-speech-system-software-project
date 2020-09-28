@@ -1,0 +1,313 @@
+{
+  "transcript": "Also, she has forbidden them smoking their pipes in the after-room.",
+  "words": [
+    {
+      "alignedWord": "also",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 0,
+      "word": "Also"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.26,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 6,
+      "word": "she"
+    },
+    {
+      "alignedWord": "has",
+      "case": "success",
+      "end": 2.3400000000000003,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.12,
+      "startOffset": 10,
+      "word": "has"
+    },
+    {
+      "alignedWord": "forbidden",
+      "case": "success",
+      "end": 2.61,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 14,
+      "word": "forbidden"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 3.53,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.09,
+      "startOffset": 24,
+      "word": "them"
+    },
+    {
+      "alignedWord": "smoking",
+      "case": "success",
+      "end": 4.5,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.89,
+      "startOffset": 29,
+      "word": "smoking"
+    },
+    {
+      "alignedWord": "their",
+      "case": "success",
+      "end": 4.71,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_E"
+        }
+      ],
+      "start": 4.5,
+      "startOffset": 37,
+      "word": "their"
+    },
+    {
+      "alignedWord": "pipes",
+      "case": "success",
+      "end": 5.3,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.72,
+      "startOffset": 43,
+      "word": "pipes"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 5.409999999999999,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.35,
+      "startOffset": 49,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 5.640000000000001,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 5.41,
+      "startOffset": 52,
+      "word": "the"
+    },
+    {
+      "alignedWord": "after",
+      "case": "success",
+      "end": 6.4,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_E"
+        }
+      ],
+      "start": 5.86,
+      "startOffset": 56,
+      "word": "after"
+    },
+    {
+      "alignedWord": "room",
+      "case": "success",
+      "end": 6.92,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "m_E"
+        }
+      ],
+      "start": 6.4,
+      "startOffset": 62,
+      "word": "room"
+    }
+  ]
+}

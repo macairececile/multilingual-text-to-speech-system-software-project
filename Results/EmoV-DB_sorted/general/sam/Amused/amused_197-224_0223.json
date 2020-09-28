@@ -1,0 +1,186 @@
+{
+  "transcript": "My, I'm almost homesick for it already.",
+  "words": [
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 2.52,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 0,
+      "word": "My"
+    },
+    {
+      "alignedWord": "i'm",
+      "case": "success",
+      "end": 4.029999999999999,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.01,
+      "startOffset": 4,
+      "word": "I'm"
+    },
+    {
+      "alignedWord": "almost",
+      "case": "success",
+      "end": 4.390000000000001,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.03,
+      "startOffset": 8,
+      "word": "almost"
+    },
+    {
+      "alignedWord": "homesick",
+      "case": "success",
+      "end": 5.1,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 4.39,
+      "startOffset": 15,
+      "word": "homesick"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 5.66,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 5.41,
+      "startOffset": 24,
+      "word": "for"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 5.86,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.79,
+      "startOffset": 28,
+      "word": "it"
+    },
+    {
+      "alignedWord": "already",
+      "case": "success",
+      "end": 6.5,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 5.86,
+      "startOffset": 31,
+      "word": "already"
+    }
+  ]
+}

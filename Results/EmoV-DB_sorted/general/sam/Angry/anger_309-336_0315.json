@@ -1,0 +1,282 @@
+{
+  "transcript": "Saxon waited, for she knew a fresh idea had struck Billy.",
+  "words": [
+    {
+      "alignedWord": "saxon",
+      "case": "success",
+      "end": 0.96,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 0,
+      "word": "Saxon"
+    },
+    {
+      "alignedWord": "waited",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 6,
+      "word": "waited"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 1.8599999999999999,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 14,
+      "word": "for"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 18,
+      "word": "she"
+    },
+    {
+      "alignedWord": "knew",
+      "case": "success",
+      "end": 2.21,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.02,
+      "startOffset": 22,
+      "word": "knew"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.21,
+      "startOffset": 27,
+      "word": "a"
+    },
+    {
+      "alignedWord": "fresh",
+      "case": "success",
+      "end": 2.5700000000000003,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 2.31,
+      "startOffset": 29,
+      "word": "fresh"
+    },
+    {
+      "alignedWord": "idea",
+      "case": "success",
+      "end": 2.9499999999999997,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.57,
+      "startOffset": 35,
+      "word": "idea"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 3.16,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 40,
+      "word": "had"
+    },
+    {
+      "alignedWord": "struck",
+      "case": "success",
+      "end": 3.5700000000000003,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.16,
+      "startOffset": 44,
+      "word": "struck"
+    },
+    {
+      "alignedWord": "billy",
+      "case": "success",
+      "end": 3.88,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.57,
+      "startOffset": 51,
+      "word": "Billy"
+    }
+  ]
+}

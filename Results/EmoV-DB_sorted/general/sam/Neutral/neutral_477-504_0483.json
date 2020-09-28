@@ -1,0 +1,245 @@
+{
+  "transcript": "Beyond dispute, Corry Hutchinson had married Mabel Holmes.",
+  "words": [
+    {
+      "alignedWord": "beyond",
+      "case": "success",
+      "end": 0.83,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.42,
+      "startOffset": 0,
+      "word": "Beyond"
+    },
+    {
+      "alignedWord": "dispute",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.83,
+      "startOffset": 7,
+      "word": "dispute"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.36,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 16,
+      "word": "Corry"
+    },
+    {
+      "alignedWord": "hutchinson",
+      "case": "success",
+      "end": 2.44,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 22,
+      "word": "Hutchinson"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 2.68,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.45,
+      "startOffset": 33,
+      "word": "had"
+    },
+    {
+      "alignedWord": "married",
+      "case": "success",
+      "end": 3.06,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.69,
+      "startOffset": 37,
+      "word": "married"
+    },
+    {
+      "alignedWord": "mabel",
+      "case": "success",
+      "end": 3.41,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.1,
+      "startOffset": 45,
+      "word": "Mabel"
+    },
+    {
+      "alignedWord": "holmes",
+      "case": "success",
+      "end": 3.92,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.41,
+      "startOffset": 51,
+      "word": "Holmes"
+    }
+  ]
+}

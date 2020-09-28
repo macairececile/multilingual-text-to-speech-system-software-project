@@ -1,0 +1,282 @@
+{
+  "transcript": "He was fond of quoting a fragment from a certain poem.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.44,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "fond",
+      "case": "success",
+      "end": 1.5899999999999999,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 7,
+      "word": "fond"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.07,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 12,
+      "word": "of"
+    },
+    {
+      "alignedWord": "quoting",
+      "case": "success",
+      "end": 2.4899999999999998,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 15,
+      "word": "quoting"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.5700000000000003,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 23,
+      "word": "a"
+    },
+    {
+      "alignedWord": "fragment",
+      "case": "success",
+      "end": 3.26,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.57,
+      "startOffset": 25,
+      "word": "fragment"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 3.46,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.27,
+      "startOffset": 34,
+      "word": "from"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.53,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.46,
+      "startOffset": 39,
+      "word": "a"
+    },
+    {
+      "alignedWord": "certain",
+      "case": "success",
+      "end": 3.86,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.53,
+      "startOffset": 41,
+      "word": "certain"
+    },
+    {
+      "alignedWord": "poem",
+      "case": "success",
+      "end": 4.47,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.18,
+      "startOffset": 49,
+      "word": "poem"
+    }
+  ]
+}

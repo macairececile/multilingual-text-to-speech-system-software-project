@@ -1,0 +1,208 @@
+{
+  "transcript": "His blood grew hot with rage at the thought.",
+  "words": [
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.28,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 0,
+      "word": "His"
+    },
+    {
+      "alignedWord": "blood",
+      "case": "success",
+      "end": 2.59,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.28,
+      "startOffset": 4,
+      "word": "blood"
+    },
+    {
+      "alignedWord": "grew",
+      "case": "success",
+      "end": 2.78,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.59,
+      "startOffset": 10,
+      "word": "grew"
+    },
+    {
+      "alignedWord": "hot",
+      "case": "success",
+      "end": 3.0100000000000002,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.79,
+      "startOffset": 15,
+      "word": "hot"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.01,
+      "startOffset": 19,
+      "word": "with"
+    },
+    {
+      "alignedWord": "rage",
+      "case": "success",
+      "end": 3.49,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 3.31,
+      "startOffset": 24,
+      "word": "rage"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 3.6100000000000003,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.49,
+      "startOffset": 29,
+      "word": "at"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.7199999999999998,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.61,
+      "startOffset": 32,
+      "word": "the"
+    },
+    {
+      "alignedWord": "thought",
+      "case": "success",
+      "end": 4.13,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.72,
+      "startOffset": 36,
+      "word": "thought"
+    }
+  ]
+}

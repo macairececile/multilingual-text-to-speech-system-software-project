@@ -1,0 +1,223 @@
+{
+  "transcript": "It was the same way with our revolvers and rifles.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.8200000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.01,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.15,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 7,
+      "word": "the"
+    },
+    {
+      "alignedWord": "same",
+      "case": "success",
+      "end": 1.41,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 11,
+      "word": "same"
+    },
+    {
+      "alignedWord": "way",
+      "case": "success",
+      "end": 1.87,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 16,
+      "word": "way"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 20,
+      "word": "with"
+    },
+    {
+      "alignedWord": "our",
+      "case": "success",
+      "end": 2.3600000000000003,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 25,
+      "word": "our"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.08,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.72,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 29,
+      "word": "revolvers"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.3600000000000003,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.12,
+      "startOffset": 39,
+      "word": "and"
+    },
+    {
+      "alignedWord": "rifles",
+      "case": "success",
+      "end": 4.04,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.36,
+      "startOffset": 43,
+      "word": "rifles"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "transcript": "Then, and at supper, he tried to fathom her.",
+  "words": [
+    {
+      "alignedWord": "then",
+      "case": "success",
+      "end": 4.86,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.83,
+      "startOffset": 0,
+      "word": "Then"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.890000000000001,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.86,
+      "startOffset": 6,
+      "word": "and"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 4.909999999999999,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.89,
+      "startOffset": 10,
+      "word": "at"
+    },
+    {
+      "alignedWord": "supper",
+      "case": "success",
+      "end": 4.95,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.91,
+      "startOffset": 13,
+      "word": "supper"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 4.97,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.95,
+      "startOffset": 21,
+      "word": "he"
+    },
+    {
+      "alignedWord": "tried",
+      "case": "success",
+      "end": 5.01,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.97,
+      "startOffset": 24,
+      "word": "tried"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 5.55,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 5.53,
+      "startOffset": 30,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 39,
+      "startOffset": 33,
+      "word": "fathom"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 43,
+      "startOffset": 40,
+      "word": "her"
+    }
+  ]
+}

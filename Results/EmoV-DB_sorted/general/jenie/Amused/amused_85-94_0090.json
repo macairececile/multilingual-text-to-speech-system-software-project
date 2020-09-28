@@ -1,0 +1,152 @@
+{
+  "transcript": "The singing voice approached rapidly.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.67,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.51,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "singing",
+      "case": "success",
+      "end": 1.09,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 4,
+      "word": "singing"
+    },
+    {
+      "alignedWord": "voice",
+      "case": "success",
+      "end": 1.4100000000000001,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 12,
+      "word": "voice"
+    },
+    {
+      "alignedWord": "approached",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 18,
+      "word": "approached"
+    },
+    {
+      "alignedWord": "rapidly",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.09,
+      "startOffset": 29,
+      "word": "rapidly"
+    }
+  ]
+}

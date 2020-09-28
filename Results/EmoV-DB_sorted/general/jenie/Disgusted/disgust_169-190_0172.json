@@ -1,0 +1,197 @@
+{
+  "transcript": "Gregson had left the outer door slightly ajar.",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.36,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.28,
+      "startOffset": 0,
+      "word": "Gregson"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.4700000000000002,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 8,
+      "word": "had"
+    },
+    {
+      "alignedWord": "left",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 12,
+      "word": "left"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 17,
+      "word": "the"
+    },
+    {
+      "alignedWord": "outer",
+      "case": "success",
+      "end": 2.2199999999999998,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 21,
+      "word": "outer"
+    },
+    {
+      "alignedWord": "door",
+      "case": "success",
+      "end": 2.64,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 27,
+      "word": "door"
+    },
+    {
+      "alignedWord": "slightly",
+      "case": "success",
+      "end": 3.36,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.77,
+      "startOffset": 32,
+      "word": "slightly"
+    },
+    {
+      "alignedWord": "ajar",
+      "case": "success",
+      "end": 4.04,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.3,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.36,
+      "startOffset": 41,
+      "word": "ajar"
+    }
+  ]
+}

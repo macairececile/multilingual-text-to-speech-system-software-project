@@ -1,0 +1,228 @@
+{
+  "transcript": "He was the soul of devotion to his employers.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.84,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.32,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.27,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.13,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 7,
+      "word": "the"
+    },
+    {
+      "alignedWord": "soul",
+      "case": "success",
+      "end": 1.6400000000000001,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 11,
+      "word": "soul"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 16,
+      "word": "of"
+    },
+    {
+      "alignedWord": "devotion",
+      "case": "success",
+      "end": 2.64,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 19,
+      "word": "devotion"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.5300000000000002,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.22,
+      "startOffset": 28,
+      "word": "to"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.7199999999999998,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.53,
+      "startOffset": 31,
+      "word": "his"
+    },
+    {
+      "alignedWord": "employers",
+      "case": "success",
+      "end": 4.91,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.33,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.72,
+      "startOffset": 35,
+      "word": "employers"
+    }
+  ]
+}

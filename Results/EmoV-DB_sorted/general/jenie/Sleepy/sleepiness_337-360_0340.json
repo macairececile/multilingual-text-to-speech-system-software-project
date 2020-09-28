@@ -1,0 +1,154 @@
+{
+  "transcript": "It was like the beating of hoofs.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.9299999999999999,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.1400000000000001,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 1.39,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 7,
+      "word": "like"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.5499999999999998,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 12,
+      "word": "the"
+    },
+    {
+      "alignedWord": "beating",
+      "case": "success",
+      "end": 2.0700000000000003,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 16,
+      "word": "beating"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.27,
+      "startOffset": 24,
+      "word": "of"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.6599999999999997,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.51,
+      "startOffset": 27,
+      "word": "hoofs"
+    }
+  ]
+}

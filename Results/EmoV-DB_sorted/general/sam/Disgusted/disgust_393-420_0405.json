@@ -1,0 +1,274 @@
+{
+  "transcript": "It seemed the ordained order of things that dogs should work.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.8500000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.66,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "seemed",
+      "case": "success",
+      "end": 1.58,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 3,
+      "word": "seemed"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.82,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.59,
+      "startOffset": 10,
+      "word": "the"
+    },
+    {
+      "alignedWord": "ordained",
+      "case": "success",
+      "end": 2.5300000000000002,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.82,
+      "startOffset": 14,
+      "word": "ordained"
+    },
+    {
+      "alignedWord": "order",
+      "case": "success",
+      "end": 2.99,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.58,
+      "startOffset": 23,
+      "word": "order"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.16,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.99,
+      "startOffset": 29,
+      "word": "of"
+    },
+    {
+      "alignedWord": "things",
+      "case": "success",
+      "end": 3.5500000000000003,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 32,
+      "word": "things"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 3.8,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.55,
+      "startOffset": 39,
+      "word": "that"
+    },
+    {
+      "alignedWord": "dogs",
+      "case": "success",
+      "end": 4.91,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.45,
+      "startOffset": 44,
+      "word": "dogs"
+    },
+    {
+      "alignedWord": "should",
+      "case": "success",
+      "end": 5.29,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.91,
+      "startOffset": 49,
+      "word": "should"
+    },
+    {
+      "alignedWord": "work",
+      "case": "success",
+      "end": 6.27,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.35,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.38,
+          "phone": "k_E"
+        }
+      ],
+      "start": 5.35,
+      "startOffset": 56,
+      "word": "work"
+    }
+  ]
+}

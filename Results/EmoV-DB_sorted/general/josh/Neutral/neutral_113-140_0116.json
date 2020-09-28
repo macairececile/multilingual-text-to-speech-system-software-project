@@ -1,0 +1,292 @@
+{
+  "transcript": "Was it the rendezvous of those who were striving to work his ruin.",
+  "words": [
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 0.53,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.32,
+      "startOffset": 0,
+      "word": "Was"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.6900000000000001,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 4,
+      "word": "it"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.7799999999999999,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 7,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.23,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.45,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 11,
+      "word": "rendezvous"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.5100000000000002,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 22,
+      "word": "of"
+    },
+    {
+      "alignedWord": "those",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 25,
+      "word": "those"
+    },
+    {
+      "alignedWord": "who",
+      "case": "success",
+      "end": 1.87,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 31,
+      "word": "who"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 1.9900000000000002,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 35,
+      "word": "were"
+    },
+    {
+      "alignedWord": "striving",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 40,
+      "word": "striving"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.66,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.5,
+      "startOffset": 49,
+      "word": "to"
+    },
+    {
+      "alignedWord": "work",
+      "case": "success",
+      "end": 2.8800000000000003,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_E"
+        }
+      ],
+      "start": 2.66,
+      "startOffset": 52,
+      "word": "work"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.08,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 57,
+      "word": "his"
+    },
+    {
+      "alignedWord": "ruin",
+      "case": "success",
+      "end": 3.2800000000000002,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.08,
+      "startOffset": 61,
+      "word": "ruin"
+    }
+  ]
+}

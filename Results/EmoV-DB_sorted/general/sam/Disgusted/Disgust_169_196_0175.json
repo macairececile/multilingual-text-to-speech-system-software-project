@@ -1,0 +1,224 @@
+{
+  "transcript": "Down there the earth was already swelling with life.",
+  "words": [
+    {
+      "alignedWord": "down",
+      "case": "success",
+      "end": 0.9199999999999999,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.41,
+      "startOffset": 0,
+      "word": "Down"
+    },
+    {
+      "alignedWord": "there",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.41,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 5,
+      "word": "there"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.17,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.97,
+      "startOffset": 11,
+      "word": "the"
+    },
+    {
+      "alignedWord": "earth",
+      "case": "success",
+      "end": 2.93,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.28,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.48,
+      "startOffset": 15,
+      "word": "earth"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 3.17,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.93,
+      "startOffset": 21,
+      "word": "was"
+    },
+    {
+      "alignedWord": "already",
+      "case": "success",
+      "end": 3.82,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.17,
+      "startOffset": 25,
+      "word": "already"
+    },
+    {
+      "alignedWord": "swelling",
+      "case": "success",
+      "end": 4.6499999999999995,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.29,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.82,
+      "startOffset": 33,
+      "word": "swelling"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 5.09,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "th_E"
+        }
+      ],
+      "start": 4.83,
+      "startOffset": 42,
+      "word": "with"
+    },
+    {
+      "alignedWord": "life",
+      "case": "success",
+      "end": 5.92,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "f_E"
+        }
+      ],
+      "start": 5.14,
+      "startOffset": 47,
+      "word": "life"
+    }
+  ]
+}

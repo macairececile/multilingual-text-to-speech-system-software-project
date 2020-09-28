@@ -1,0 +1,225 @@
+{
+  "transcript": "Not at this particular case, Tom, apologized Whittemore.",
+  "words": [
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 0,
+      "word": "Not"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.6700000000000002,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 4,
+      "word": "at"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 1.8299999999999998,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 7,
+      "word": "this"
+    },
+    {
+      "alignedWord": "particular",
+      "case": "success",
+      "end": 2.42,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 12,
+      "word": "particular"
+    },
+    {
+      "alignedWord": "case",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.42,
+      "startOffset": 23,
+      "word": "case"
+    },
+    {
+      "alignedWord": "tom",
+      "case": "success",
+      "end": 3.37,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 29,
+      "word": "Tom"
+    },
+    {
+      "alignedWord": "apologized",
+      "case": "success",
+      "end": 4.22,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.46,
+      "startOffset": 34,
+      "word": "apologized"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.46,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.27,
+      "startOffset": 45,
+      "word": "Whittemore"
+    }
+  ]
+}

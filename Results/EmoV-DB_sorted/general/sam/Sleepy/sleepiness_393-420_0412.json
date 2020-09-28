@@ -1,0 +1,162 @@
+{
+  "transcript": "There is another virtue in these bulkheads.",
+  "words": [
+    {
+      "alignedWord": "there",
+      "case": "success",
+      "end": 1.9100000000000001,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 0,
+      "word": "There"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 2.32,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.29,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 6,
+      "word": "is"
+    },
+    {
+      "alignedWord": "another",
+      "case": "success",
+      "end": 2.9899999999999998,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.38,
+      "startOffset": 9,
+      "word": "another"
+    },
+    {
+      "alignedWord": "virtue",
+      "case": "success",
+      "end": 3.9499999999999997,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.43,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.05,
+      "startOffset": 17,
+      "word": "virtue"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 5.470000000000001,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.23,
+      "startOffset": 24,
+      "word": "in"
+    },
+    {
+      "alignedWord": "these",
+      "case": "success",
+      "end": 5.95,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.48,
+      "startOffset": 27,
+      "word": "these"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 6.75,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.77,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 5.98,
+      "startOffset": 33,
+      "word": "bulkheads"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "transcript": "I was about to do this when cooler judgment prevailed.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.56,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 0.7200000000000001,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.56,
+      "startOffset": 2,
+      "word": "was"
+    },
+    {
+      "alignedWord": "about",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 6,
+      "word": "about"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 12,
+      "word": "to"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 1.29,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 15,
+      "word": "do"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 18,
+      "word": "this"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 23,
+      "word": "when"
+    },
+    {
+      "alignedWord": "cooler",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 28,
+      "word": "cooler"
+    },
+    {
+      "alignedWord": "judgment",
+      "case": "success",
+      "end": 2.46,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.04,
+      "startOffset": 35,
+      "word": "judgment"
+    },
+    {
+      "alignedWord": "prevailed",
+      "case": "success",
+      "end": 3.1,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.46,
+      "startOffset": 44,
+      "word": "prevailed"
+    }
+  ]
+}

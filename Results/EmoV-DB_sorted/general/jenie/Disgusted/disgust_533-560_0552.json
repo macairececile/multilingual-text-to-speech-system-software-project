@@ -1,0 +1,216 @@
+{
+  "transcript": "Yet he dreams he is immortal, I argue feebly.",
+  "words": [
+    {
+      "alignedWord": "yet",
+      "case": "success",
+      "end": 0.88,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 0,
+      "word": "Yet"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.29,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 4,
+      "word": "he"
+    },
+    {
+      "alignedWord": "dreams",
+      "case": "success",
+      "end": 1.83,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 7,
+      "word": "dreams"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 14,
+      "word": "he"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 17,
+      "word": "is"
+    },
+    {
+      "alignedWord": "immortal",
+      "case": "success",
+      "end": 2.8200000000000003,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 20,
+      "word": "immortal"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 3.6300000000000003,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 3.41,
+      "startOffset": 30,
+      "word": "I"
+    },
+    {
+      "alignedWord": "argue",
+      "case": "success",
+      "end": 4.08,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.63,
+      "startOffset": 32,
+      "word": "argue"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.43,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.35,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.08,
+      "startOffset": 38,
+      "word": "feebly"
+    }
+  ]
+}

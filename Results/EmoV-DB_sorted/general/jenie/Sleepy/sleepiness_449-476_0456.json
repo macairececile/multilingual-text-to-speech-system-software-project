@@ -1,0 +1,252 @@
+{
+  "transcript": "But it won't continue, she said with easy confidence.",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 0.79,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 0,
+      "word": "But"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.9,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 4,
+      "word": "it"
+    },
+    {
+      "alignedWord": "won't",
+      "case": "success",
+      "end": 1.2,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 7,
+      "word": "won't"
+    },
+    {
+      "alignedWord": "continue",
+      "case": "success",
+      "end": 1.94,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 13,
+      "word": "continue"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 2.41,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.19,
+      "startOffset": 23,
+      "word": "she"
+    },
+    {
+      "alignedWord": "said",
+      "case": "success",
+      "end": 2.6799999999999997,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.42,
+      "startOffset": 27,
+      "word": "said"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 2.8800000000000003,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.68,
+      "startOffset": 32,
+      "word": "with"
+    },
+    {
+      "alignedWord": "easy",
+      "case": "success",
+      "end": 3.2399999999999998,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 37,
+      "word": "easy"
+    },
+    {
+      "alignedWord": "confidence",
+      "case": "success",
+      "end": 3.74,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.24,
+      "startOffset": 42,
+      "word": "confidence"
+    }
+  ]
+}

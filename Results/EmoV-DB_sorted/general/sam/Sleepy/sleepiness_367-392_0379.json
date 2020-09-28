@@ -1,0 +1,112 @@
+{
+  "transcript": "How old are you, daddy.",
+  "words": [
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 0,
+      "word": "How"
+    },
+    {
+      "alignedWord": "old",
+      "case": "success",
+      "end": 1.58,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 4,
+      "word": "old"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 8,
+      "word": "are"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.4499999999999997,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.09,
+      "startOffset": 12,
+      "word": "you"
+    },
+    {
+      "alignedWord": "daddy",
+      "case": "success",
+      "end": 3.49,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.87,
+      "startOffset": 17,
+      "word": "daddy"
+    }
+  ]
+}

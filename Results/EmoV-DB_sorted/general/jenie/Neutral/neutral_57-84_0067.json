@@ -1,0 +1,178 @@
+{
+  "transcript": "Surely I will excuse you, she cried.",
+  "words": [
+    {
+      "alignedWord": "surely",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 0,
+      "word": "Surely"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 7,
+      "word": "I"
+    },
+    {
+      "alignedWord": "will",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 9,
+      "word": "will"
+    },
+    {
+      "alignedWord": "excuse",
+      "case": "success",
+      "end": 2.46,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 14,
+      "word": "excuse"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.79,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.46,
+      "startOffset": 21,
+      "word": "you"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 26,
+      "word": "she"
+    },
+    {
+      "alignedWord": "cried",
+      "case": "success",
+      "end": 3.54,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.15,
+      "startOffset": 30,
+      "word": "cried"
+    }
+  ]
+}

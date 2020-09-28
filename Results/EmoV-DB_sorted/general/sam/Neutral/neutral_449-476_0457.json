@@ -1,0 +1,200 @@
+{
+  "transcript": "What I saw I could not at first believe.",
+  "words": [
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 0.8799999999999999,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.7,
+      "startOffset": 0,
+      "word": "What"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.0,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 5,
+      "word": "I"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 1.35,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 7,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 11,
+      "word": "I"
+    },
+    {
+      "alignedWord": "could",
+      "case": "success",
+      "end": 1.63,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 13,
+      "word": "could"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 1.8499999999999999,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 19,
+      "word": "not"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 1.9600000000000002,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 23,
+      "word": "at"
+    },
+    {
+      "alignedWord": "first",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 26,
+      "word": "first"
+    },
+    {
+      "alignedWord": "believe",
+      "case": "success",
+      "end": 2.73,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.28,
+      "startOffset": 32,
+      "word": "believe"
+    }
+  ]
+}

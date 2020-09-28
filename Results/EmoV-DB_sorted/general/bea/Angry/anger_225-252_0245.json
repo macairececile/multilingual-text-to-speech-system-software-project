@@ -1,0 +1,317 @@
+{
+  "transcript": "Out of his eighteen hundred, he laid aside sixteen hundred each year.",
+  "words": [
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.58,
+      "startOffset": 0,
+      "word": "Out"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 0.96,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 4,
+      "word": "of"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 1.15,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 7,
+      "word": "his"
+    },
+    {
+      "alignedWord": "eighteen",
+      "case": "success",
+      "end": 1.71,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 11,
+      "word": "eighteen"
+    },
+    {
+      "alignedWord": "hundred",
+      "case": "success",
+      "end": 2.2,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 20,
+      "word": "hundred"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.29,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.24,
+      "startOffset": 29,
+      "word": "he"
+    },
+    {
+      "alignedWord": "laid",
+      "case": "success",
+      "end": 2.83,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.72,
+      "startOffset": 32,
+      "word": "laid"
+    },
+    {
+      "alignedWord": "aside",
+      "case": "success",
+      "end": 3.21,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.83,
+      "startOffset": 37,
+      "word": "aside"
+    },
+    {
+      "alignedWord": "sixteen",
+      "case": "success",
+      "end": 3.78,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.21,
+      "startOffset": 43,
+      "word": "sixteen"
+    },
+    {
+      "alignedWord": "hundred",
+      "case": "success",
+      "end": 4.1,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.78,
+      "startOffset": 51,
+      "word": "hundred"
+    },
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 4.27,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 4.1,
+      "startOffset": 59,
+      "word": "each"
+    },
+    {
+      "alignedWord": "year",
+      "case": "success",
+      "end": 4.65,
+      "endOffset": 68,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "r_E"
+        }
+      ],
+      "start": 4.28,
+      "startOffset": 64,
+      "word": "year"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "transcript": "There was a change now.",
+  "words": [
+    {
+      "alignedWord": "there",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 0,
+      "word": "There"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.68,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 6,
+      "word": "was"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.68,
+      "startOffset": 10,
+      "word": "a"
+    },
+    {
+      "alignedWord": "change",
+      "case": "success",
+      "end": 2.13,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 12,
+      "word": "change"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 2.44,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 19,
+      "word": "now"
+    }
+  ]
+}

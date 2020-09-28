@@ -1,0 +1,95 @@
+{
+  "transcript": "Men of Selden's stamp don't stop at women and children.",
+  "words": [
+    {
+      "alignedWord": "men",
+      "case": "success",
+      "end": 3.48,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.45,
+      "startOffset": 0,
+      "word": "Men"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 5.93,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 5.91,
+      "startOffset": 4,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 15,
+      "startOffset": 7,
+      "word": "Selden's"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 21,
+      "startOffset": 16,
+      "word": "stamp"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 22,
+      "word": "don't"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 32,
+      "startOffset": 28,
+      "word": "stop"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 35,
+      "startOffset": 33,
+      "word": "at"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 36,
+      "word": "women"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 45,
+      "startOffset": 42,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 54,
+      "startOffset": 46,
+      "word": "children"
+    }
+  ]
+}

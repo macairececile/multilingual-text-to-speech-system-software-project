@@ -1,0 +1,136 @@
+{
+  "transcript": "Nope, not the slightest idea.",
+  "words": [
+    {
+      "alignedWord": "nope",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "p_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 0,
+      "word": "Nope"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 1.6099999999999999,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.39,
+      "startOffset": 6,
+      "word": "not"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 10,
+      "word": "the"
+    },
+    {
+      "alignedWord": "slightest",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 14,
+      "word": "slightest"
+    },
+    {
+      "alignedWord": "idea",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.25,
+      "startOffset": 24,
+      "word": "idea"
+    }
+  ]
+}

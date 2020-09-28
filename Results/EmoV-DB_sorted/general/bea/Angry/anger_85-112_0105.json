@@ -1,0 +1,283 @@
+{
+  "transcript": "Only, it is so wonderful, so almost impossible to believe.",
+  "words": [
+    {
+      "alignedWord": "only",
+      "case": "success",
+      "end": 1.1600000000000001,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 0,
+      "word": "Only"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 1.3199999999999998,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 6,
+      "word": "it"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 9,
+      "word": "is"
+    },
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 1.9000000000000001,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 12,
+      "word": "so"
+    },
+    {
+      "alignedWord": "wonderful",
+      "case": "success",
+      "end": 2.51,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 15,
+      "word": "wonderful"
+    },
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 2.79,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.52,
+      "startOffset": 26,
+      "word": "so"
+    },
+    {
+      "alignedWord": "almost",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.15,
+      "startOffset": 29,
+      "word": "almost"
+    },
+    {
+      "alignedWord": "impossible",
+      "case": "success",
+      "end": 3.99,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.33,
+      "startOffset": 36,
+      "word": "impossible"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 4.12,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.99,
+      "startOffset": 47,
+      "word": "to"
+    },
+    {
+      "alignedWord": "believe",
+      "case": "success",
+      "end": 4.44,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 4.12,
+      "startOffset": 50,
+      "word": "believe"
+    }
+  ]
+}

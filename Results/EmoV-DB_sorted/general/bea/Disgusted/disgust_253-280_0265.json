@@ -1,0 +1,316 @@
+{
+  "transcript": "The discovery seemed to have been made on the spur of the moment.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.8200000000000001,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "discovery",
+      "case": "success",
+      "end": 1.6,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 4,
+      "word": "discovery"
+    },
+    {
+      "alignedWord": "seemed",
+      "case": "success",
+      "end": 2.1100000000000003,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 14,
+      "word": "seemed"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.2199999999999998,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.11,
+      "startOffset": 21,
+      "word": "to"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 2.39,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 24,
+      "word": "have"
+    },
+    {
+      "alignedWord": "been",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.39,
+      "startOffset": 29,
+      "word": "been"
+    },
+    {
+      "alignedWord": "made",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.58,
+      "startOffset": 34,
+      "word": "made"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 3.25,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.0,
+      "startOffset": 39,
+      "word": "on"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.37,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.25,
+      "startOffset": 42,
+      "word": "the"
+    },
+    {
+      "alignedWord": "spur",
+      "case": "success",
+      "end": 3.78,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.38,
+      "startOffset": 46,
+      "word": "spur"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.94,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.78,
+      "startOffset": 51,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.02,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.94,
+      "startOffset": 54,
+      "word": "the"
+    },
+    {
+      "alignedWord": "moment",
+      "case": "success",
+      "end": 4.609999999999999,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.02,
+      "startOffset": 58,
+      "word": "moment"
+    }
+  ]
+}

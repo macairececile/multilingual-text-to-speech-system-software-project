@@ -1,0 +1,317 @@
+{
+  "transcript": "He stopped, and Philip nodded at the horrified question in his eyes.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.1600000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.32,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "stopped",
+      "case": "success",
+      "end": 1.97,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 3,
+      "word": "stopped"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.86,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 12,
+      "word": "and"
+    },
+    {
+      "alignedWord": "philip",
+      "case": "success",
+      "end": 3.35,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "p_E"
+        }
+      ],
+      "start": 2.87,
+      "startOffset": 16,
+      "word": "Philip"
+    },
+    {
+      "alignedWord": "nodded",
+      "case": "success",
+      "end": 3.9299999999999997,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.44,
+      "startOffset": 23,
+      "word": "nodded"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 4.04,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.93,
+      "startOffset": 30,
+      "word": "at"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.15,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.04,
+      "startOffset": 33,
+      "word": "the"
+    },
+    {
+      "alignedWord": "horrified",
+      "case": "success",
+      "end": 4.800000000000001,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.15,
+      "startOffset": 37,
+      "word": "horrified"
+    },
+    {
+      "alignedWord": "question",
+      "case": "success",
+      "end": 5.4399999999999995,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.85,
+      "startOffset": 47,
+      "word": "question"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 5.47,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.45,
+      "startOffset": 56,
+      "word": "in"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 5.67,
+      "endOffset": 62,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.47,
+      "startOffset": 59,
+      "word": "his"
+    },
+    {
+      "alignedWord": "eyes",
+      "case": "success",
+      "end": 6.14,
+      "endOffset": 67,
+      "phones": [
+        {
+          "duration": 0.36,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.67,
+      "startOffset": 63,
+      "word": "eyes"
+    }
+  ]
+}

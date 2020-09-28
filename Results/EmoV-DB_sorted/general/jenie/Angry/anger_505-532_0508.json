@@ -1,0 +1,275 @@
+{
+  "transcript": "Soon shall it be thrust back from off prostrate humanity.",
+  "words": [
+    {
+      "alignedWord": "soon",
+      "case": "success",
+      "end": 0.59,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.22,
+      "startOffset": 0,
+      "word": "Soon"
+    },
+    {
+      "alignedWord": "shall",
+      "case": "success",
+      "end": 0.86,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 5,
+      "word": "shall"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.9,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 11,
+      "word": "it"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 1.07,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.92,
+      "startOffset": 14,
+      "word": "be"
+    },
+    {
+      "alignedWord": "thrust",
+      "case": "success",
+      "end": 1.59,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 17,
+      "word": "thrust"
+    },
+    {
+      "alignedWord": "back",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 24,
+      "word": "back"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 29,
+      "word": "from"
+    },
+    {
+      "alignedWord": "off",
+      "case": "success",
+      "end": 2.7700000000000005,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "f_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 34,
+      "word": "off"
+    },
+    {
+      "alignedWord": "prostrate",
+      "case": "success",
+      "end": 3.5599999999999996,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.8,
+      "startOffset": 38,
+      "word": "prostrate"
+    },
+    {
+      "alignedWord": "humanity",
+      "case": "success",
+      "end": 4.26,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.56,
+      "startOffset": 48,
+      "word": "humanity"
+    }
+  ]
+}

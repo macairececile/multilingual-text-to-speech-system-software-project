@@ -1,0 +1,97 @@
+{
+  "transcript": "Does that look good.",
+  "words": [
+    {
+      "alignedWord": "does",
+      "case": "success",
+      "end": 0.96,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 0,
+      "word": "Does"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.99,
+      "startOffset": 5,
+      "word": "that"
+    },
+    {
+      "alignedWord": "look",
+      "case": "success",
+      "end": 1.9200000000000002,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.32,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 10,
+      "word": "look"
+    },
+    {
+      "alignedWord": "good",
+      "case": "success",
+      "end": 2.44,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.94,
+      "startOffset": 15,
+      "word": "good"
+    }
+  ]
+}

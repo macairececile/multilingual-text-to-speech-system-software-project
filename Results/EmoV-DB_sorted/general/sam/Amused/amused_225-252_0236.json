@@ -1,0 +1,127 @@
+{
+  "transcript": "Don't you see I hate you.",
+  "words": [
+    {
+      "alignedWord": "don't",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 0,
+      "word": "Don't"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.5999999999999999,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 6,
+      "word": "you"
+    },
+    {
+      "alignedWord": "see",
+      "case": "success",
+      "end": 2.21,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.42,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 10,
+      "word": "see"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 2.9499999999999997,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 2.78,
+      "startOffset": 14,
+      "word": "I"
+    },
+    {
+      "alignedWord": "hate",
+      "case": "success",
+      "end": 3.39,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.29,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.95,
+      "startOffset": 16,
+      "word": "hate"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 3.8899999999999997,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.36,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.4,
+      "startOffset": 21,
+      "word": "you"
+    }
+  ]
+}

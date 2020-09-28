@@ -1,0 +1,260 @@
+{
+  "transcript": "And the Edinburgh Evening News says, with editorial gloom.",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 0,
+      "word": "And"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 4,
+      "word": "the"
+    },
+    {
+      "alignedWord": "edinburgh",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 8,
+      "word": "Edinburgh"
+    },
+    {
+      "alignedWord": "evening",
+      "case": "success",
+      "end": 2.1,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 18,
+      "word": "Evening"
+    },
+    {
+      "alignedWord": "news",
+      "case": "success",
+      "end": 2.59,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 26,
+      "word": "News"
+    },
+    {
+      "alignedWord": "says",
+      "case": "success",
+      "end": 2.9699999999999998,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.59,
+      "startOffset": 31,
+      "word": "says"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.1700000000000004,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.97,
+      "startOffset": 37,
+      "word": "with"
+    },
+    {
+      "alignedWord": "editorial",
+      "case": "success",
+      "end": 4.16,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.47,
+      "startOffset": 42,
+      "word": "editorial"
+    },
+    {
+      "alignedWord": "gloom",
+      "case": "success",
+      "end": 4.79,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.16,
+      "startOffset": 52,
+      "word": "gloom"
+    }
+  ]
+}

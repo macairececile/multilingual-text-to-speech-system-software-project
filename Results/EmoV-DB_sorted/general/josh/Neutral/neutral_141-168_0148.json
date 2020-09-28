@@ -1,0 +1,228 @@
+{
+  "transcript": "Now these things had been struck dead within him.",
+  "words": [
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 0,
+      "word": "Now"
+    },
+    {
+      "alignedWord": "these",
+      "case": "success",
+      "end": 1.38,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 4,
+      "word": "these"
+    },
+    {
+      "alignedWord": "things",
+      "case": "success",
+      "end": 1.65,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 10,
+      "word": "things"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 17,
+      "word": "had"
+    },
+    {
+      "alignedWord": "been",
+      "case": "success",
+      "end": 1.9,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 21,
+      "word": "been"
+    },
+    {
+      "alignedWord": "struck",
+      "case": "success",
+      "end": 2.23,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 26,
+      "word": "struck"
+    },
+    {
+      "alignedWord": "dead",
+      "case": "success",
+      "end": 2.4699999999999998,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.23,
+      "startOffset": 33,
+      "word": "dead"
+    },
+    {
+      "alignedWord": "within",
+      "case": "success",
+      "end": 2.83,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.48,
+      "startOffset": 38,
+      "word": "within"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 2.99,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.83,
+      "startOffset": 45,
+      "word": "him"
+    }
+  ]
+}

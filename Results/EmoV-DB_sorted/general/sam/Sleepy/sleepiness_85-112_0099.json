@@ -1,0 +1,178 @@
+{
+  "transcript": "A maddening joy pounded in his brain.",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 0,
+      "word": "A"
+    },
+    {
+      "alignedWord": "maddening",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 2,
+      "word": "maddening"
+    },
+    {
+      "alignedWord": "joy",
+      "case": "success",
+      "end": 2.5599999999999996,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.3,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 2.05,
+      "startOffset": 12,
+      "word": "joy"
+    },
+    {
+      "alignedWord": "pounded",
+      "case": "success",
+      "end": 3.85,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.46,
+      "startOffset": 16,
+      "word": "pounded"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 5.390000000000001,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.24,
+      "startOffset": 24,
+      "word": "in"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 5.62,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.39,
+      "startOffset": 27,
+      "word": "his"
+    },
+    {
+      "alignedWord": "brain",
+      "case": "success",
+      "end": 6.02,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.63,
+      "startOffset": 31,
+      "word": "brain"
+    }
+  ]
+}

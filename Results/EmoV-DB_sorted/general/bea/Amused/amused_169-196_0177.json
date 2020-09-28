@@ -1,0 +1,198 @@
+{
+  "transcript": "She had been thoroughly and efficiently mauled.",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 0.76,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 0,
+      "word": "She"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 4,
+      "word": "had"
+    },
+    {
+      "alignedWord": "been",
+      "case": "success",
+      "end": 1.1099999999999999,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 8,
+      "word": "been"
+    },
+    {
+      "alignedWord": "thoroughly",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 13,
+      "word": "thoroughly"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 24,
+      "word": "and"
+    },
+    {
+      "alignedWord": "efficiently",
+      "case": "success",
+      "end": 2.84,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 28,
+      "word": "efficiently"
+    },
+    {
+      "alignedWord": "mauled",
+      "case": "success",
+      "end": 3.62,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.32,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.92,
+      "startOffset": 40,
+      "word": "mauled"
+    }
+  ]
+}

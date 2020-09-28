@@ -1,0 +1,162 @@
+{
+  "transcript": "Anyway, no one saw her like that.",
+  "words": [
+    {
+      "alignedWord": "anyway",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 0,
+      "word": "Anyway"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 2.37,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 8,
+      "word": "no"
+    },
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 11,
+      "word": "one"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 2.8000000000000003,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 2.58,
+      "startOffset": 15,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 2.9699999999999998,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.8,
+      "startOffset": 19,
+      "word": "her"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 3.2300000000000004,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 2.97,
+      "startOffset": 23,
+      "word": "like"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 3.69,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.23,
+      "startOffset": 28,
+      "word": "that"
+    }
+  ]
+}

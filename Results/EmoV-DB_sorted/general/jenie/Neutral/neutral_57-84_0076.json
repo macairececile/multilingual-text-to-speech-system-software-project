@@ -1,0 +1,162 @@
+{
+  "transcript": "The gray eyes faltered; the flush deepened.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.38,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "gray",
+      "case": "success",
+      "end": 1.65,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 4,
+      "word": "gray"
+    },
+    {
+      "alignedWord": "eyes",
+      "case": "success",
+      "end": 1.89,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 9,
+      "word": "eyes"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.4899999999999998,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.59,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 14,
+      "word": "faltered"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.73,
+      "startOffset": 24,
+      "word": "the"
+    },
+    {
+      "alignedWord": "flush",
+      "case": "success",
+      "end": 3.2399999999999998,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 28,
+      "word": "flush"
+    },
+    {
+      "alignedWord": "deepened",
+      "case": "success",
+      "end": 3.85,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.24,
+      "startOffset": 34,
+      "word": "deepened"
+    }
+  ]
+}

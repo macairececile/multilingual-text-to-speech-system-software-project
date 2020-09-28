@@ -1,0 +1,120 @@
+{
+  "transcript": "Wash your hands of me.",
+  "words": [
+    {
+      "alignedWord": "wash",
+      "case": "success",
+      "end": 2.65,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 2.3,
+      "startOffset": 0,
+      "word": "Wash"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.66,
+      "startOffset": 5,
+      "word": "your"
+    },
+    {
+      "alignedWord": "hands",
+      "case": "success",
+      "end": 3.91,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.47,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.13,
+      "startOffset": 10,
+      "word": "hands"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 4.37,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.97,
+      "startOffset": 16,
+      "word": "of"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 4.91,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.38,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.41,
+      "startOffset": 19,
+      "word": "me"
+    }
+  ]
+}

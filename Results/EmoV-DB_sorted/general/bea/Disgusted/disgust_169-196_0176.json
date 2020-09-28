@@ -1,0 +1,304 @@
+{
+  "transcript": "For the first time in his life he was yearning for a scrap.",
+  "words": [
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 1.24,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 0,
+      "word": "For"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.37,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 4,
+      "word": "the"
+    },
+    {
+      "alignedWord": "first",
+      "case": "success",
+      "end": 1.8299999999999998,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 8,
+      "word": "first"
+    },
+    {
+      "alignedWord": "time",
+      "case": "success",
+      "end": 2.29,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 14,
+      "word": "time"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.39,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.29,
+      "startOffset": 19,
+      "word": "in"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.5700000000000003,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.39,
+      "startOffset": 22,
+      "word": "his"
+    },
+    {
+      "alignedWord": "life",
+      "case": "success",
+      "end": 3.36,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.33,
+          "phone": "f_E"
+        }
+      ],
+      "start": 2.59,
+      "startOffset": 26,
+      "word": "life"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 3.8,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.53,
+      "startOffset": 31,
+      "word": "he"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 3.96,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.8,
+      "startOffset": 34,
+      "word": "was"
+    },
+    {
+      "alignedWord": "yearning",
+      "case": "success",
+      "end": 4.84,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.09,
+      "startOffset": 38,
+      "word": "yearning"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 5.08,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_E"
+        }
+      ],
+      "start": 4.85,
+      "startOffset": 47,
+      "word": "for"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 5.19,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 5.08,
+      "startOffset": 51,
+      "word": "a"
+    },
+    {
+      "alignedWord": "scrap",
+      "case": "success",
+      "end": 5.95,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "p_E"
+        }
+      ],
+      "start": 5.19,
+      "startOffset": 53,
+      "word": "scrap"
+    }
+  ]
+}

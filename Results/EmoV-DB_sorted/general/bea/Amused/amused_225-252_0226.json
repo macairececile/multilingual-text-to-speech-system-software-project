@@ -1,0 +1,158 @@
+{
+  "transcript": "That came before my A B C's.",
+  "words": [
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 0.8999999999999999,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 0,
+      "word": "That"
+    },
+    {
+      "alignedWord": "came",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.9,
+      "startOffset": 5,
+      "word": "came"
+    },
+    {
+      "alignedWord": "before",
+      "case": "success",
+      "end": 1.6099999999999999,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 10,
+      "word": "before"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 1.87,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 17,
+      "word": "my"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 20,
+      "word": "A"
+    },
+    {
+      "alignedWord": "b",
+      "case": "success",
+      "end": 2.34,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 22,
+      "word": "B"
+    },
+    {
+      "alignedWord": "c's",
+      "case": "success",
+      "end": 2.9899999999999998,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.32,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 24,
+      "word": "C's"
+    }
+  ]
+}

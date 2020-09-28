@@ -1,0 +1,227 @@
+{
+  "transcript": "A dead man is of no use on a plantation.",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.9600000000000001,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 0,
+      "word": "A"
+    },
+    {
+      "alignedWord": "dead",
+      "case": "success",
+      "end": 1.28,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 2,
+      "word": "dead"
+    },
+    {
+      "alignedWord": "man",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 7,
+      "word": "man"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.6400000000000001,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 11,
+      "word": "is"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.7799999999999998,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 14,
+      "word": "of"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 17,
+      "word": "no"
+    },
+    {
+      "alignedWord": "use",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 20,
+      "word": "use"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 2.3699999999999997,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 24,
+      "word": "on"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.41,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 27,
+      "word": "a"
+    },
+    {
+      "alignedWord": "plantation",
+      "case": "success",
+      "end": 3.21,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.41,
+      "startOffset": 29,
+      "word": "plantation"
+    }
+  ]
+}

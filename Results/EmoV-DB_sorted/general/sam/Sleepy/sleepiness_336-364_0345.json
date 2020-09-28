@@ -1,0 +1,247 @@
+{
+  "transcript": "She was trying to pass the apron string around him.",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 1.63,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 0,
+      "word": "She"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 4,
+      "word": "was"
+    },
+    {
+      "alignedWord": "trying",
+      "case": "success",
+      "end": 2.62,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.97,
+      "startOffset": 8,
+      "word": "trying"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.62,
+      "startOffset": 15,
+      "word": "to"
+    },
+    {
+      "alignedWord": "pass",
+      "case": "success",
+      "end": 3.3600000000000003,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 18,
+      "word": "pass"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.62,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.39,
+      "startOffset": 23,
+      "word": "the"
+    },
+    {
+      "alignedWord": "apron",
+      "case": "success",
+      "end": 4.09,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.62,
+      "startOffset": 27,
+      "word": "apron"
+    },
+    {
+      "alignedWord": "string",
+      "case": "success",
+      "end": 4.46,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.1,
+      "startOffset": 33,
+      "word": "string"
+    },
+    {
+      "alignedWord": "around",
+      "case": "success",
+      "end": 4.96,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.46,
+      "startOffset": 40,
+      "word": "around"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 4.989999999999999,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.97,
+      "startOffset": 47,
+      "word": "him"
+    }
+  ]
+}

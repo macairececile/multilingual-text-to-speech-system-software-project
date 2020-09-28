@@ -1,0 +1,248 @@
+{
+  "transcript": "Unconsciously, our yells and exclamations yielded to this rhythm.",
+  "words": [
+    {
+      "alignedWord": "unconsciously",
+      "case": "success",
+      "end": 2.83,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.82,
+      "startOffset": 0,
+      "word": "Unconsciously"
+    },
+    {
+      "alignedWord": "our",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.14,
+      "startOffset": 15,
+      "word": "our"
+    },
+    {
+      "alignedWord": "yells",
+      "case": "success",
+      "end": 3.79,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.33,
+      "startOffset": 19,
+      "word": "yells"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.93,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.79,
+      "startOffset": 25,
+      "word": "and"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.68,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.74,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.94,
+      "startOffset": 29,
+      "word": "exclamations"
+    },
+    {
+      "alignedWord": "yielded",
+      "case": "success",
+      "end": 5.28,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.7,
+      "startOffset": 42,
+      "word": "yielded"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 5.390000000000001,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 5.28,
+      "startOffset": 50,
+      "word": "to"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 5.63,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 5.39,
+      "startOffset": 53,
+      "word": "this"
+    },
+    {
+      "alignedWord": "rhythm",
+      "case": "success",
+      "end": 6.16,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "m_E"
+        }
+      ],
+      "start": 5.66,
+      "startOffset": 58,
+      "word": "rhythm"
+    }
+  ]
+}

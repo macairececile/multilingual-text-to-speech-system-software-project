@@ -1,0 +1,316 @@
+{
+  "transcript": "You have heard always how he was the lover of the Princess Naomi.",
+  "words": [
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.59,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.38,
+      "startOffset": 0,
+      "word": "You"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 4,
+      "word": "have"
+    },
+    {
+      "alignedWord": "heard",
+      "case": "success",
+      "end": 1.24,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 9,
+      "word": "heard"
+    },
+    {
+      "alignedWord": "always",
+      "case": "success",
+      "end": 1.8599999999999999,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 15,
+      "word": "always"
+    },
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 2.0700000000000003,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 22,
+      "word": "how"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 2.2399999999999998,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 26,
+      "word": "he"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.5500000000000003,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.24,
+      "startOffset": 29,
+      "word": "was"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.69,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 33,
+      "word": "the"
+    },
+    {
+      "alignedWord": "lover",
+      "case": "success",
+      "end": 3.17,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.69,
+      "startOffset": 37,
+      "word": "lover"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.38,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.19,
+      "startOffset": 43,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.4699999999999998,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.38,
+      "startOffset": 46,
+      "word": "the"
+    },
+    {
+      "alignedWord": "princess",
+      "case": "success",
+      "end": 4.0200000000000005,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.47,
+      "startOffset": 50,
+      "word": "Princess"
+    },
+    {
+      "alignedWord": "naomi",
+      "case": "success",
+      "end": 4.71,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.05,
+      "startOffset": 59,
+      "word": "Naomi"
+    }
+  ]
+}

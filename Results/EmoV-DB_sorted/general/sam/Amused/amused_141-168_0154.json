@@ -1,0 +1,262 @@
+{
+  "transcript": "He was smooth-shaven, and his hair and eyes were black.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.4100000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.53,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.77,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "smooth",
+      "case": "success",
+      "end": 2.3200000000000003,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "dh_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 7,
+      "word": "smooth"
+    },
+    {
+      "alignedWord": "shaven",
+      "case": "success",
+      "end": 2.99,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.33,
+      "startOffset": 14,
+      "word": "shaven"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.6300000000000003,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.41,
+      "startOffset": 22,
+      "word": "and"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.84,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.63,
+      "startOffset": 26,
+      "word": "his"
+    },
+    {
+      "alignedWord": "hair",
+      "case": "success",
+      "end": 4.53,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.85,
+      "startOffset": 30,
+      "word": "hair"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 5.09,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.87,
+      "startOffset": 35,
+      "word": "and"
+    },
+    {
+      "alignedWord": "eyes",
+      "case": "success",
+      "end": 5.75,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.44,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.14,
+      "startOffset": 39,
+      "word": "eyes"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 6.15,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 5.94,
+      "startOffset": 44,
+      "word": "were"
+    },
+    {
+      "alignedWord": "black",
+      "case": "success",
+      "end": 6.98,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "k_E"
+        }
+      ],
+      "start": 6.15,
+      "startOffset": 49,
+      "word": "black"
+    }
+  ]
+}

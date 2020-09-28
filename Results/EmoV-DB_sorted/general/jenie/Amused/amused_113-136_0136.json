@@ -1,0 +1,247 @@
+{
+  "transcript": "About him, everywhere, were the evidences of luxury and of age.",
+  "words": [
+    {
+      "alignedWord": "about",
+      "case": "success",
+      "end": 0.04,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.0,
+      "startOffset": 0,
+      "word": "About"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 0.06,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.04,
+      "startOffset": 6,
+      "word": "him"
+    },
+    {
+      "alignedWord": "everywhere",
+      "case": "success",
+      "end": 0.13,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.06,
+      "startOffset": 11,
+      "word": "everywhere"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 0.15,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.13,
+      "startOffset": 23,
+      "word": "were"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.16999999999999998,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.15,
+      "startOffset": 28,
+      "word": "the"
+    },
+    {
+      "alignedWord": "evidences",
+      "case": "success",
+      "end": 6.17,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 6.08,
+      "startOffset": 32,
+      "word": "evidences"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 6.1899999999999995,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 6.17,
+      "startOffset": 42,
+      "word": "of"
+    },
+    {
+      "alignedWord": "luxury",
+      "case": "success",
+      "end": 6.249999999999999,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "zh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 6.1899999999999995,
+      "startOffset": 45,
+      "word": "luxury"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 55,
+      "startOffset": 52,
+      "word": "and"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 58,
+      "startOffset": 56,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 62,
+      "startOffset": 59,
+      "word": "age"
+    }
+  ]
+}

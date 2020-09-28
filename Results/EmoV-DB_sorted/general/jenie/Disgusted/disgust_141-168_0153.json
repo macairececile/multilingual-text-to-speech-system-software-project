@@ -1,0 +1,240 @@
+{
+  "transcript": "MacDougall tapped his forehead suspiciously with a stubby forefinger.",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.4100000000000001,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.36,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.05,
+      "startOffset": 0,
+      "word": "MacDougall"
+    },
+    {
+      "alignedWord": "tapped",
+      "case": "success",
+      "end": 1.85,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 11,
+      "word": "tapped"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.0700000000000003,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 18,
+      "word": "his"
+    },
+    {
+      "alignedWord": "forehead",
+      "case": "success",
+      "end": 2.59,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "hh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 22,
+      "word": "forehead"
+    },
+    {
+      "alignedWord": "suspiciously",
+      "case": "success",
+      "end": 3.4099999999999997,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.59,
+      "startOffset": 31,
+      "word": "suspiciously"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.56,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.41,
+      "startOffset": 44,
+      "word": "with"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.68,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.56,
+      "startOffset": 49,
+      "word": "a"
+    },
+    {
+      "alignedWord": "stubby",
+      "case": "success",
+      "end": 4.35,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.69,
+      "startOffset": 51,
+      "word": "stubby"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.96,
+      "endOffset": 68,
+      "phones": [
+        {
+          "duration": 0.61,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.35,
+      "startOffset": 58,
+      "word": "forefinger"
+    }
+  ]
+}

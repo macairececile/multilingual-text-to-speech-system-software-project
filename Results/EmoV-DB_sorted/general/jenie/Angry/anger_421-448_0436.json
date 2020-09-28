@@ -1,0 +1,175 @@
+{
+  "transcript": "But Martin smiled a superior smile.",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 0,
+      "word": "But"
+    },
+    {
+      "alignedWord": "martin",
+      "case": "success",
+      "end": 1.93,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 4,
+      "word": "Martin"
+    },
+    {
+      "alignedWord": "smiled",
+      "case": "success",
+      "end": 2.61,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 11,
+      "word": "smiled"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.69,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.61,
+      "startOffset": 18,
+      "word": "a"
+    },
+    {
+      "alignedWord": "superior",
+      "case": "success",
+      "end": 3.62,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.69,
+      "startOffset": 20,
+      "word": "superior"
+    },
+    {
+      "alignedWord": "smile",
+      "case": "success",
+      "end": 4.4,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.32,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.62,
+      "startOffset": 29,
+      "word": "smile"
+    }
+  ]
+}

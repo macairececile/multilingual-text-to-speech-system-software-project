@@ -1,0 +1,282 @@
+{
+  "transcript": "Instead, he joined her; and they ate like two hungry children.",
+  "words": [
+    {
+      "alignedWord": "instead",
+      "case": "success",
+      "end": 1.85,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 0,
+      "word": "Instead"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 2.0300000000000002,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 9,
+      "word": "he"
+    },
+    {
+      "alignedWord": "joined",
+      "case": "success",
+      "end": 2.4299999999999997,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.03,
+      "startOffset": 12,
+      "word": "joined"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 2.79,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.28,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 19,
+      "word": "her"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.1,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 24,
+      "word": "and"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 3.22,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 3.1,
+      "startOffset": 28,
+      "word": "they"
+    },
+    {
+      "alignedWord": "ate",
+      "case": "success",
+      "end": 3.52,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.23,
+      "startOffset": 33,
+      "word": "ate"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 3.81,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.58,
+      "startOffset": 37,
+      "word": "like"
+    },
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 4.17,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.84,
+      "startOffset": 42,
+      "word": "two"
+    },
+    {
+      "alignedWord": "hungry",
+      "case": "success",
+      "end": 4.61,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.17,
+      "startOffset": 46,
+      "word": "hungry"
+    },
+    {
+      "alignedWord": "children",
+      "case": "success",
+      "end": 5.16,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.61,
+      "startOffset": 53,
+      "word": "children"
+    }
+  ]
+}

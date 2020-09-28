@@ -1,0 +1,216 @@
+{
+  "transcript": "And now, down there, Eileen was waiting for him.",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.09,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 0,
+      "word": "And"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.39,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 4,
+      "word": "now"
+    },
+    {
+      "alignedWord": "down",
+      "case": "success",
+      "end": 2.4899999999999998,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.19,
+      "startOffset": 9,
+      "word": "down"
+    },
+    {
+      "alignedWord": "there",
+      "case": "success",
+      "end": 3.12,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.42,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 14,
+      "word": "there"
+    },
+    {
+      "alignedWord": "eileen",
+      "case": "success",
+      "end": 3.84,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.46,
+      "startOffset": 21,
+      "word": "Eileen"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 4.03,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.84,
+      "startOffset": 28,
+      "word": "was"
+    },
+    {
+      "alignedWord": "waiting",
+      "case": "success",
+      "end": 4.430000000000001,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.03,
+      "startOffset": 32,
+      "word": "waiting"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 4.59,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.43,
+      "startOffset": 40,
+      "word": "for"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 4.89,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.59,
+      "startOffset": 44,
+      "word": "him"
+    }
+  ]
+}

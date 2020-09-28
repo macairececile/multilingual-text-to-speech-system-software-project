@@ -1,0 +1,228 @@
+{
+  "transcript": "Two years ago I gave up civilization for this.",
+  "words": [
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 1.3399999999999999,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 0,
+      "word": "Two"
+    },
+    {
+      "alignedWord": "years",
+      "case": "success",
+      "end": 1.82,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.34,
+      "startOffset": 4,
+      "word": "years"
+    },
+    {
+      "alignedWord": "ago",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.4,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.82,
+      "startOffset": 10,
+      "word": "ago"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 2.8899999999999997,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 2.65,
+      "startOffset": 14,
+      "word": "I"
+    },
+    {
+      "alignedWord": "gave",
+      "case": "success",
+      "end": 3.19,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.9,
+      "startOffset": 16,
+      "word": "gave"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 3.42,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "p_E"
+        }
+      ],
+      "start": 3.19,
+      "startOffset": 21,
+      "word": "up"
+    },
+    {
+      "alignedWord": "civilization",
+      "case": "success",
+      "end": 4.77,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.59,
+      "startOffset": 24,
+      "word": "civilization"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 5.43,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_E"
+        }
+      ],
+      "start": 5.14,
+      "startOffset": 37,
+      "word": "for"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 6.02,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.32,
+          "phone": "s_E"
+        }
+      ],
+      "start": 5.46,
+      "startOffset": 41,
+      "word": "this"
+    }
+  ]
+}

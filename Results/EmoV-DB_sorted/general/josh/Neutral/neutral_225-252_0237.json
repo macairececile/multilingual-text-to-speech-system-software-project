@@ -1,0 +1,209 @@
+{
+  "transcript": "So Hughie and I did the managing ourselves.",
+  "words": [
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 0.32,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "So"
+    },
+    {
+      "alignedWord": "hughie",
+      "case": "success",
+      "end": 0.62,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.32,
+      "startOffset": 3,
+      "word": "Hughie"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 0.76,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 10,
+      "word": "and"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.9,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 14,
+      "word": "I"
+    },
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.92,
+      "startOffset": 16,
+      "word": "did"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.1800000000000002,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.1,
+      "startOffset": 20,
+      "word": "the"
+    },
+    {
+      "alignedWord": "managing",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 24,
+      "word": "managing"
+    },
+    {
+      "alignedWord": "ourselves",
+      "case": "success",
+      "end": 2.37,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.33,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 33,
+      "word": "ourselves"
+    }
+  ]
+}

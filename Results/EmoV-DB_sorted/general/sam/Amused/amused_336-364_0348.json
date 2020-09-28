@@ -1,0 +1,210 @@
+{
+  "transcript": "They only lifted seven hundred and fifty.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "only",
+      "case": "success",
+      "end": 2.21,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 5,
+      "word": "only"
+    },
+    {
+      "alignedWord": "lifted",
+      "case": "success",
+      "end": 2.6100000000000003,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 10,
+      "word": "lifted"
+    },
+    {
+      "alignedWord": "seven",
+      "case": "success",
+      "end": 3.83,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.39,
+      "startOffset": 17,
+      "word": "seven"
+    },
+    {
+      "alignedWord": "hundred",
+      "case": "success",
+      "end": 4.3,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.83,
+      "startOffset": 23,
+      "word": "hundred"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.53,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.3,
+      "startOffset": 31,
+      "word": "and"
+    },
+    {
+      "alignedWord": "fifty",
+      "case": "success",
+      "end": 5.0600000000000005,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.54,
+      "startOffset": 35,
+      "word": "fifty"
+    }
+  ]
+}

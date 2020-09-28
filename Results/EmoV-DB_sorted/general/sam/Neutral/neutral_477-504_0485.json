@@ -1,0 +1,220 @@
+{
+  "transcript": "Each insult added to the value of the claim.",
+  "words": [
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.47,
+      "startOffset": 0,
+      "word": "Each"
+    },
+    {
+      "alignedWord": "insult",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 5,
+      "word": "insult"
+    },
+    {
+      "alignedWord": "added",
+      "case": "success",
+      "end": 1.59,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.29,
+      "startOffset": 12,
+      "word": "added"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.6700000000000002,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 1.59,
+      "startOffset": 18,
+      "word": "to"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.8199999999999998,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 21,
+      "word": "the"
+    },
+    {
+      "alignedWord": "value",
+      "case": "success",
+      "end": 2.27,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.82,
+      "startOffset": 25,
+      "word": "value"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.4,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.27,
+      "startOffset": 31,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.4699999999999998,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 34,
+      "word": "the"
+    },
+    {
+      "alignedWord": "claim",
+      "case": "success",
+      "end": 2.8400000000000003,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.47,
+      "startOffset": 38,
+      "word": "claim"
+    }
+  ]
+}

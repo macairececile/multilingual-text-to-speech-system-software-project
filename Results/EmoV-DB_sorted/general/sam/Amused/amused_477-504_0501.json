@@ -1,0 +1,244 @@
+{
+  "transcript": "You're joking me, sir, the other managed to articulate.",
+  "words": [
+    {
+      "alignedWord": "you're",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.3,
+      "startOffset": 0,
+      "word": "You're"
+    },
+    {
+      "alignedWord": "joking",
+      "case": "success",
+      "end": 2.13,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 7,
+      "word": "joking"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 14,
+      "word": "me"
+    },
+    {
+      "alignedWord": "sir",
+      "case": "success",
+      "end": 3.6799999999999997,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.34,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.42,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.92,
+      "startOffset": 18,
+      "word": "sir"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.32,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.12,
+      "startOffset": 23,
+      "word": "the"
+    },
+    {
+      "alignedWord": "other",
+      "case": "success",
+      "end": 4.63,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.34,
+      "startOffset": 27,
+      "word": "other"
+    },
+    {
+      "alignedWord": "managed",
+      "case": "success",
+      "end": 5.13,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.67,
+      "startOffset": 33,
+      "word": "managed"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 5.2299999999999995,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 5.13,
+      "startOffset": 41,
+      "word": "to"
+    },
+    {
+      "alignedWord": "articulate",
+      "case": "success",
+      "end": 6.0200000000000005,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.23,
+      "startOffset": 44,
+      "word": "articulate"
+    }
+  ]
+}

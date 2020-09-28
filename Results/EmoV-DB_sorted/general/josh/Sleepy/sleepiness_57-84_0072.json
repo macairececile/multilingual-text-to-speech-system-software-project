@@ -1,0 +1,91 @@
+{
+  "transcript": "But who was Eileen's double.",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 0.62,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.36,
+      "startOffset": 0,
+      "word": "But"
+    },
+    {
+      "alignedWord": "who",
+      "case": "success",
+      "end": 0.79,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 4,
+      "word": "who"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 0.9600000000000001,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 8,
+      "word": "was"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.72,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.75,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 12,
+      "word": "Eileen's"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 21,
+      "word": "double"
+    }
+  ]
+}

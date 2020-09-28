@@ -1,0 +1,289 @@
+{
+  "transcript": "I tell you I am disgusted with this adventure tomfoolery and rot.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.63,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.36,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "tell",
+      "case": "success",
+      "end": 2.07,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 2,
+      "word": "tell"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.29,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 7,
+      "word": "you"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 2.86,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 2.63,
+      "startOffset": 11,
+      "word": "I"
+    },
+    {
+      "alignedWord": "am",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.86,
+      "startOffset": 13,
+      "word": "am"
+    },
+    {
+      "alignedWord": "disgusted",
+      "case": "success",
+      "end": 4.02,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.15,
+      "startOffset": 16,
+      "word": "disgusted"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 4.21,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_E"
+        }
+      ],
+      "start": 4.02,
+      "startOffset": 26,
+      "word": "with"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 4.6,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.22,
+      "startOffset": 31,
+      "word": "this"
+    },
+    {
+      "alignedWord": "adventure",
+      "case": "success",
+      "end": 6.050000000000001,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_E"
+        }
+      ],
+      "start": 5.24,
+      "startOffset": 36,
+      "word": "adventure"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 7.459999999999999,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 1.4,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 6.06,
+      "startOffset": 46,
+      "word": "tomfoolery"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 7.82,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "d_E"
+        }
+      ],
+      "start": 7.53,
+      "startOffset": 57,
+      "word": "and"
+    },
+    {
+      "alignedWord": "rot",
+      "case": "success",
+      "end": 8.42,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.36,
+          "phone": "t_E"
+        }
+      ],
+      "start": 7.82,
+      "startOffset": 61,
+      "word": "rot"
+    }
+  ]
+}

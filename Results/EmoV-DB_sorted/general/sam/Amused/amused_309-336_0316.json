@@ -1,0 +1,251 @@
+{
+  "transcript": "We had been chased by them ourselves, more than once.",
+  "words": [
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 1.6500000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 0,
+      "word": "We"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.25,
+      "startOffset": 3,
+      "word": "had"
+    },
+    {
+      "alignedWord": "been",
+      "case": "success",
+      "end": 2.64,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.48,
+      "startOffset": 7,
+      "word": "been"
+    },
+    {
+      "alignedWord": "chased",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.3,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.64,
+      "startOffset": 12,
+      "word": "chased"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 3.5700000000000003,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 3.35,
+      "startOffset": 19,
+      "word": "by"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 3.7,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.58,
+      "startOffset": 22,
+      "word": "them"
+    },
+    {
+      "alignedWord": "ourselves",
+      "case": "success",
+      "end": 4.84,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.76,
+      "startOffset": 27,
+      "word": "ourselves"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 5.8999999999999995,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_E"
+        }
+      ],
+      "start": 5.47,
+      "startOffset": 38,
+      "word": "more"
+    },
+    {
+      "alignedWord": "than",
+      "case": "success",
+      "end": 6.19,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.9,
+      "startOffset": 43,
+      "word": "than"
+    },
+    {
+      "alignedWord": "once",
+      "case": "success",
+      "end": 6.9,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.33,
+          "phone": "s_E"
+        }
+      ],
+      "start": 6.19,
+      "startOffset": 48,
+      "word": "once"
+    }
+  ]
+}

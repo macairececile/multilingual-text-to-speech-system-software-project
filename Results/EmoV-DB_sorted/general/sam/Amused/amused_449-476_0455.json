@@ -1,0 +1,277 @@
+{
+  "transcript": "I obeyed, and a minute or two later they stood before him.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 3.86,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 3.85,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "obeyed",
+      "case": "success",
+      "end": 4.01,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.86,
+      "startOffset": 2,
+      "word": "obeyed"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.14,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.01,
+      "startOffset": 10,
+      "word": "and"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 4.17,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 4.14,
+      "startOffset": 14,
+      "word": "a"
+    },
+    {
+      "alignedWord": "minute",
+      "case": "success",
+      "end": 4.5,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.17,
+      "startOffset": 16,
+      "word": "minute"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 4.59,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "er_S"
+        }
+      ],
+      "start": 4.5,
+      "startOffset": 23,
+      "word": "or"
+    },
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 4.92,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 4.59,
+      "startOffset": 26,
+      "word": "two"
+    },
+    {
+      "alignedWord": "later",
+      "case": "success",
+      "end": 5.4,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.96,
+      "startOffset": 30,
+      "word": "later"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 6.28,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 6.13,
+      "startOffset": 36,
+      "word": "they"
+    },
+    {
+      "alignedWord": "stood",
+      "case": "success",
+      "end": 6.949999999999999,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.29,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 6.31,
+      "startOffset": 41,
+      "word": "stood"
+    },
+    {
+      "alignedWord": "before",
+      "case": "success",
+      "end": 7.6000000000000005,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_E"
+        }
+      ],
+      "start": 6.98,
+      "startOffset": 47,
+      "word": "before"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 7.869999999999999,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "m_E"
+        }
+      ],
+      "start": 7.6,
+      "startOffset": 54,
+      "word": "him"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "transcript": "A rising tide of fat had submerged them.",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.82,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 0,
+      "word": "A"
+    },
+    {
+      "alignedWord": "rising",
+      "case": "success",
+      "end": 1.23,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 2,
+      "word": "rising"
+    },
+    {
+      "alignedWord": "tide",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 9,
+      "word": "tide"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.6099999999999999,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 14,
+      "word": "of"
+    },
+    {
+      "alignedWord": "fat",
+      "case": "success",
+      "end": 1.9300000000000002,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 17,
+      "word": "fat"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.94,
+      "startOffset": 21,
+      "word": "had"
+    },
+    {
+      "alignedWord": "submerged",
+      "case": "success",
+      "end": 2.67,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.12,
+      "startOffset": 25,
+      "word": "submerged"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 2.9299999999999997,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.67,
+      "startOffset": 35,
+      "word": "them"
+    }
+  ]
+}

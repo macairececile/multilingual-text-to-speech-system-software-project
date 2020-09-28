@@ -1,0 +1,166 @@
+{
+  "transcript": "He obeyed the pressure of her hand.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "obeyed",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 3,
+      "word": "obeyed"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.36,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.19,
+      "startOffset": 10,
+      "word": "the"
+    },
+    {
+      "alignedWord": "pressure",
+      "case": "success",
+      "end": 3.0,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 14,
+      "word": "pressure"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.21,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.02,
+      "startOffset": 23,
+      "word": "of"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 3.42,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.21,
+      "startOffset": 26,
+      "word": "her"
+    },
+    {
+      "alignedWord": "hand",
+      "case": "success",
+      "end": 4.1,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.42,
+      "startOffset": 30,
+      "word": "hand"
+    }
+  ]
+}

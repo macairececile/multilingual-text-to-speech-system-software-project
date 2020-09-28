@@ -1,0 +1,221 @@
+{
+  "transcript": "His newborn cunning gave him poise and control.",
+  "words": [
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 0.92,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 0,
+      "word": "His"
+    },
+    {
+      "alignedWord": "newborn",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 4,
+      "word": "newborn"
+    },
+    {
+      "alignedWord": "cunning",
+      "case": "success",
+      "end": 2.44,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 12,
+      "word": "cunning"
+    },
+    {
+      "alignedWord": "gave",
+      "case": "success",
+      "end": 2.8699999999999997,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.53,
+      "startOffset": 20,
+      "word": "gave"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 3.16,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.87,
+      "startOffset": 25,
+      "word": "him"
+    },
+    {
+      "alignedWord": "poise",
+      "case": "success",
+      "end": 4.37,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.46,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.7,
+      "startOffset": 29,
+      "word": "poise"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.699999999999999,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.39,
+      "startOffset": 35,
+      "word": "and"
+    },
+    {
+      "alignedWord": "control",
+      "case": "success",
+      "end": 5.42,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 5.16,
+      "startOffset": 39,
+      "word": "control"
+    }
+  ]
+}

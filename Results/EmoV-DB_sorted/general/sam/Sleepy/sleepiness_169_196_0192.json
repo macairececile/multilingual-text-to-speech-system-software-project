@@ -1,0 +1,112 @@
+{
+  "transcript": "He did not rush in.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.99,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 3,
+      "word": "did"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 1.35,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 7,
+      "word": "not"
+    },
+    {
+      "alignedWord": "rush",
+      "case": "success",
+      "end": 1.8699999999999999,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 11,
+      "word": "rush"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.17,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.01,
+      "startOffset": 16,
+      "word": "in"
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "transcript": "The emotion which she had suppressed burst forth now in a choking sob.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.14,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "emotion",
+      "case": "success",
+      "end": 1.5599999999999998,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 4,
+      "word": "emotion"
+    },
+    {
+      "alignedWord": "which",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 12,
+      "word": "which"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 18,
+      "word": "she"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 22,
+      "word": "had"
+    },
+    {
+      "alignedWord": "suppressed",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.02,
+      "startOffset": 26,
+      "word": "suppressed"
+    },
+    {
+      "alignedWord": "burst",
+      "case": "success",
+      "end": 2.84,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.46,
+      "startOffset": 37,
+      "word": "burst"
+    },
+    {
+      "alignedWord": "forth",
+      "case": "success",
+      "end": 3.1399999999999997,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.84,
+      "startOffset": 43,
+      "word": "forth"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 3.3800000000000003,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 3.16,
+      "startOffset": 49,
+      "word": "now"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.4899999999999998,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.38,
+      "startOffset": 53,
+      "word": "in"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.5700000000000003,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.49,
+      "startOffset": 56,
+      "word": "a"
+    },
+    {
+      "alignedWord": "choking",
+      "case": "success",
+      "end": 4.07,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.57,
+      "startOffset": 58,
+      "word": "choking"
+    },
+    {
+      "alignedWord": "sob",
+      "case": "success",
+      "end": 4.62,
+      "endOffset": 69,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.28,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "b_E"
+        }
+      ],
+      "start": 4.07,
+      "startOffset": 66,
+      "word": "sob"
+    }
+  ]
+}

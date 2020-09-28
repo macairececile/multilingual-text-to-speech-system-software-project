@@ -1,0 +1,201 @@
+{
+  "transcript": "Tomorrow I'm going after that bear, he said.",
+  "words": [
+    {
+      "alignedWord": "tomorrow",
+      "case": "success",
+      "end": 2.2,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 0,
+      "word": "Tomorrow"
+    },
+    {
+      "alignedWord": "i'm",
+      "case": "success",
+      "end": 2.49,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.47,
+      "startOffset": 9,
+      "word": "I'm"
+    },
+    {
+      "alignedWord": "going",
+      "case": "success",
+      "end": 2.66,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 13,
+      "word": "going"
+    },
+    {
+      "alignedWord": "after",
+      "case": "success",
+      "end": 3.1300000000000003,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.7,
+      "startOffset": 19,
+      "word": "after"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 3.42,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.13,
+      "startOffset": 25,
+      "word": "that"
+    },
+    {
+      "alignedWord": "bear",
+      "case": "success",
+      "end": 4.11,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.43,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.46,
+      "startOffset": 30,
+      "word": "bear"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 4.63,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.43,
+      "startOffset": 36,
+      "word": "he"
+    },
+    {
+      "alignedWord": "said",
+      "case": "success",
+      "end": 4.84,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.67,
+      "startOffset": 39,
+      "word": "said"
+    }
+  ]
+}

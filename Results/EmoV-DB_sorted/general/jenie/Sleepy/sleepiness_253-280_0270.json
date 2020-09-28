@@ -1,0 +1,223 @@
+{
+  "transcript": "And after the bath a shave would not be bad.",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.84,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.54,
+      "startOffset": 0,
+      "word": "And"
+    },
+    {
+      "alignedWord": "after",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 4,
+      "word": "after"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.35,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.25,
+      "startOffset": 10,
+      "word": "the"
+    },
+    {
+      "alignedWord": "bath",
+      "case": "success",
+      "end": 2.84,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 14,
+      "word": "bath"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.13,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.01,
+      "startOffset": 19,
+      "word": "a"
+    },
+    {
+      "alignedWord": "shave",
+      "case": "success",
+      "end": 3.63,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.13,
+      "startOffset": 21,
+      "word": "shave"
+    },
+    {
+      "alignedWord": "would",
+      "case": "success",
+      "end": 3.79,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.64,
+      "startOffset": 27,
+      "word": "would"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 4.08,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.79,
+      "startOffset": 33,
+      "word": "not"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 4.22,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.08,
+      "startOffset": 37,
+      "word": "be"
+    },
+    {
+      "alignedWord": "bad",
+      "case": "success",
+      "end": 4.83,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.22,
+      "startOffset": 40,
+      "word": "bad"
+    }
+  ]
+}

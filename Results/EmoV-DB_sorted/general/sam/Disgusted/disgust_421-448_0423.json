@@ -1,0 +1,240 @@
+{
+  "transcript": "McVeigh when he returns from a trip to Honolulu.",
+  "words": [
+    {
+      "alignedWord": "mcveigh",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.45,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 0,
+      "word": "McVeigh"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 2.68,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 8,
+      "word": "when"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 2.87,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.68,
+      "startOffset": 13,
+      "word": "he"
+    },
+    {
+      "alignedWord": "returns",
+      "case": "success",
+      "end": 3.7800000000000002,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.87,
+      "startOffset": 16,
+      "word": "returns"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 4.18,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.01,
+      "startOffset": 24,
+      "word": "from"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 4.29,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 4.18,
+      "startOffset": 29,
+      "word": "a"
+    },
+    {
+      "alignedWord": "trip",
+      "case": "success",
+      "end": 4.79,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "p_E"
+        }
+      ],
+      "start": 4.29,
+      "startOffset": 31,
+      "word": "trip"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 5.159999999999999,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 5.02,
+      "startOffset": 36,
+      "word": "to"
+    },
+    {
+      "alignedWord": "honolulu",
+      "case": "success",
+      "end": 6.6,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.38,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 5.16,
+      "startOffset": 39,
+      "word": "Honolulu"
+    }
+  ]
+}

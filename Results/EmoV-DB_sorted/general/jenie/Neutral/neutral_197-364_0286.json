@@ -1,0 +1,270 @@
+{
+  "transcript": "Give them their choice between a fine or an official whipping.",
+  "words": [
+    {
+      "alignedWord": "give",
+      "case": "success",
+      "end": 1.3800000000000001,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 0,
+      "word": "Give"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 5,
+      "word": "them"
+    },
+    {
+      "alignedWord": "their",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 10,
+      "word": "their"
+    },
+    {
+      "alignedWord": "choice",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 16,
+      "word": "choice"
+    },
+    {
+      "alignedWord": "between",
+      "case": "success",
+      "end": 2.42,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.09,
+      "startOffset": 23,
+      "word": "between"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.4699999999999998,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.42,
+      "startOffset": 31,
+      "word": "a"
+    },
+    {
+      "alignedWord": "fine",
+      "case": "success",
+      "end": 2.9200000000000004,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.47,
+      "startOffset": 33,
+      "word": "fine"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 3.05,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "er_S"
+        }
+      ],
+      "start": 2.94,
+      "startOffset": 38,
+      "word": "or"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 3.0999999999999996,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.05,
+      "startOffset": 41,
+      "word": "an"
+    },
+    {
+      "alignedWord": "official",
+      "case": "success",
+      "end": 3.54,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.1,
+      "startOffset": 44,
+      "word": "official"
+    },
+    {
+      "alignedWord": "whipping",
+      "case": "success",
+      "end": 3.96,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.54,
+      "startOffset": 53,
+      "word": "whipping"
+    }
+  ]
+}

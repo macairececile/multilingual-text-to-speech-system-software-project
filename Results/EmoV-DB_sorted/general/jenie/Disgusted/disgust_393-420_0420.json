@@ -1,0 +1,249 @@
+{
+  "transcript": "When I came to I was waving my hat and murmuring ecstatically.",
+  "words": [
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 0.7,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 0,
+      "word": "When"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.82,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.7,
+      "startOffset": 5,
+      "word": "I"
+    },
+    {
+      "alignedWord": "came",
+      "case": "success",
+      "end": 1.2,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.83,
+      "startOffset": 7,
+      "word": "came"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.43,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 12,
+      "word": "to"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 15,
+      "word": "I"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.7,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.48,
+      "startOffset": 17,
+      "word": "was"
+    },
+    {
+      "alignedWord": "waving",
+      "case": "success",
+      "end": 3.2,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.72,
+      "startOffset": 21,
+      "word": "waving"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 3.3600000000000003,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 3.2,
+      "startOffset": 28,
+      "word": "my"
+    },
+    {
+      "alignedWord": "hat",
+      "case": "success",
+      "end": 3.78,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.36,
+      "startOffset": 31,
+      "word": "hat"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.2,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.0,
+      "startOffset": 35,
+      "word": "and"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.83,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.63,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.2,
+      "startOffset": 39,
+      "word": "murmuring"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 5.79,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.95,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.84,
+      "startOffset": 49,
+      "word": "ecstatically"
+    }
+  ]
+}

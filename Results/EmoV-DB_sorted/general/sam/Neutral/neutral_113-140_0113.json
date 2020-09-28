@@ -1,0 +1,255 @@
+{
+  "transcript": "I suppose you picked that lingo up among the Indians.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.5900000000000001,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.46,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "suppose",
+      "case": "success",
+      "end": 1.01,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 2,
+      "word": "suppose"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.11,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 10,
+      "word": "you"
+    },
+    {
+      "alignedWord": "picked",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 14,
+      "word": "picked"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 21,
+      "word": "that"
+    },
+    {
+      "alignedWord": "lingo",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 26,
+      "word": "lingo"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.77,
+      "startOffset": 32,
+      "word": "up"
+    },
+    {
+      "alignedWord": "among",
+      "case": "success",
+      "end": 2.24,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 35,
+      "word": "among"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.41,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.24,
+      "startOffset": 41,
+      "word": "the"
+    },
+    {
+      "alignedWord": "indians",
+      "case": "success",
+      "end": 2.89,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.41,
+      "startOffset": 45,
+      "word": "Indians"
+    }
+  ]
+}

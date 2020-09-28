@@ -1,0 +1,247 @@
+{
+  "transcript": "Very early in my life, I separated from my mother.",
+  "words": [
+    {
+      "alignedWord": "very",
+      "case": "success",
+      "end": 0.61,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 0,
+      "word": "Very"
+    },
+    {
+      "alignedWord": "early",
+      "case": "success",
+      "end": 0.9199999999999999,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.61,
+      "startOffset": 5,
+      "word": "early"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.99,
+      "startOffset": 11,
+      "word": "in"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 14,
+      "word": "my"
+    },
+    {
+      "alignedWord": "life",
+      "case": "success",
+      "end": 1.84,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 17,
+      "word": "life"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 2.84,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 2.63,
+      "startOffset": 23,
+      "word": "I"
+    },
+    {
+      "alignedWord": "separated",
+      "case": "success",
+      "end": 3.6999999999999997,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.86,
+      "startOffset": 25,
+      "word": "separated"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 3.95,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.71,
+      "startOffset": 35,
+      "word": "from"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 4.12,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 3.95,
+      "startOffset": 40,
+      "word": "my"
+    },
+    {
+      "alignedWord": "mother",
+      "case": "success",
+      "end": 4.5,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.12,
+      "startOffset": 43,
+      "word": "mother"
+    }
+  ]
+}

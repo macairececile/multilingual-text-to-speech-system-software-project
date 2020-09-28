@@ -1,0 +1,224 @@
+{
+  "transcript": "Ah, we were very close together in that moment.",
+  "words": [
+    {
+      "alignedWord": "ah",
+      "case": "success",
+      "end": 0.69,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "aa_S"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 0,
+      "word": "Ah"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 2.15,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 4,
+      "word": "we"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 2.52,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.15,
+      "startOffset": 7,
+      "word": "were"
+    },
+    {
+      "alignedWord": "very",
+      "case": "success",
+      "end": 3.25,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.64,
+      "startOffset": 12,
+      "word": "very"
+    },
+    {
+      "alignedWord": "close",
+      "case": "success",
+      "end": 3.7,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.29,
+      "startOffset": 17,
+      "word": "close"
+    },
+    {
+      "alignedWord": "together",
+      "case": "success",
+      "end": 4.32,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.7,
+      "startOffset": 23,
+      "word": "together"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 5.07,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.88,
+      "startOffset": 32,
+      "word": "in"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 5.32,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.07,
+      "startOffset": 35,
+      "word": "that"
+    },
+    {
+      "alignedWord": "moment",
+      "case": "success",
+      "end": 5.54,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.32,
+      "startOffset": 40,
+      "word": "moment"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "transcript": "The men stared into each other's face.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "men",
+      "case": "success",
+      "end": 1.55,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 4,
+      "word": "men"
+    },
+    {
+      "alignedWord": "stared",
+      "case": "success",
+      "end": 1.94,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 8,
+      "word": "stared"
+    },
+    {
+      "alignedWord": "into",
+      "case": "success",
+      "end": 2.21,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.94,
+      "startOffset": 15,
+      "word": "into"
+    },
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 2.37,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 2.21,
+      "startOffset": 20,
+      "word": "each"
+    },
+    {
+      "alignedWord": "other's",
+      "case": "success",
+      "end": 2.66,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 25,
+      "word": "other's"
+    },
+    {
+      "alignedWord": "face",
+      "case": "success",
+      "end": 3.16,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.66,
+      "startOffset": 33,
+      "word": "face"
+    }
+  ]
+}

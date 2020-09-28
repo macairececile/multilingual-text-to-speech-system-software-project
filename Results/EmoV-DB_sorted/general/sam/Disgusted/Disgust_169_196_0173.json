@@ -1,0 +1,178 @@
+{
+  "transcript": "The date was nearly eighteen years old.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.44,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "date",
+      "case": "success",
+      "end": 1.92,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 4,
+      "word": "date"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.35,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 9,
+      "word": "was"
+    },
+    {
+      "alignedWord": "nearly",
+      "case": "success",
+      "end": 2.78,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 13,
+      "word": "nearly"
+    },
+    {
+      "alignedWord": "eighteen",
+      "case": "success",
+      "end": 3.98,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.48,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.86,
+      "startOffset": 20,
+      "word": "eighteen"
+    },
+    {
+      "alignedWord": "years",
+      "case": "success",
+      "end": 4.45,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.99,
+      "startOffset": 29,
+      "word": "years"
+    },
+    {
+      "alignedWord": "old",
+      "case": "success",
+      "end": 5.36,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.44,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.53,
+      "startOffset": 35,
+      "word": "old"
+    }
+  ]
+}

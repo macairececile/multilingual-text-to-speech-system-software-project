@@ -1,0 +1,170 @@
+{
+  "transcript": "One by one the boys were captured.",
+  "words": [
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 0.77,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 0,
+      "word": "One"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 0.95,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.77,
+      "startOffset": 4,
+      "word": "by"
+    },
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 7,
+      "word": "one"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.3900000000000001,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 11,
+      "word": "the"
+    },
+    {
+      "alignedWord": "boys",
+      "case": "success",
+      "end": 1.72,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 15,
+      "word": "boys"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 1.85,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 20,
+      "word": "were"
+    },
+    {
+      "alignedWord": "captured",
+      "case": "success",
+      "end": 2.47,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 25,
+      "word": "captured"
+    }
+  ]
+}

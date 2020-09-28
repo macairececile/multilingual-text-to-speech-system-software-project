@@ -1,0 +1,213 @@
+{
+  "transcript": "Such things had occurred before, he told Philip.",
+  "words": [
+    {
+      "alignedWord": "such",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 0,
+      "word": "Such"
+    },
+    {
+      "alignedWord": "things",
+      "case": "success",
+      "end": 1.77,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 5,
+      "word": "things"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.8900000000000001,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.77,
+      "startOffset": 12,
+      "word": "had"
+    },
+    {
+      "alignedWord": "occurred",
+      "case": "success",
+      "end": 2.29,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 16,
+      "word": "occurred"
+    },
+    {
+      "alignedWord": "before",
+      "case": "success",
+      "end": 2.95,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.31,
+      "startOffset": 25,
+      "word": "before"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 3.41,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.23,
+      "startOffset": 33,
+      "word": "he"
+    },
+    {
+      "alignedWord": "told",
+      "case": "success",
+      "end": 3.67,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.41,
+      "startOffset": 36,
+      "word": "told"
+    },
+    {
+      "alignedWord": "philip",
+      "case": "success",
+      "end": 4.05,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "p_E"
+        }
+      ],
+      "start": 3.67,
+      "startOffset": 41,
+      "word": "Philip"
+    }
+  ]
+}

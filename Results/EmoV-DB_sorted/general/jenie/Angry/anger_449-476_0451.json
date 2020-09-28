@@ -1,0 +1,209 @@
+{
+  "transcript": "I noticed blood spouting from Kerfoot's left hand.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.45,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "noticed",
+      "case": "success",
+      "end": 1.94,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 2,
+      "word": "noticed"
+    },
+    {
+      "alignedWord": "blood",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.95,
+      "startOffset": 10,
+      "word": "blood"
+    },
+    {
+      "alignedWord": "spouting",
+      "case": "success",
+      "end": 3.25,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.57,
+      "startOffset": 16,
+      "word": "spouting"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 3.46,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.25,
+      "startOffset": 25,
+      "word": "from"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.55,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.46,
+      "startOffset": 30,
+      "word": "Kerfoot's"
+    },
+    {
+      "alignedWord": "left",
+      "case": "success",
+      "end": 4.24,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.92,
+      "startOffset": 40,
+      "word": "left"
+    },
+    {
+      "alignedWord": "hand",
+      "case": "success",
+      "end": 4.79,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.59,
+      "startOffset": 45,
+      "word": "hand"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "transcript": "I am writing these lines in Honolulu, Hawaii.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.59,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "am",
+      "case": "success",
+      "end": 0.76,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 2,
+      "word": "am"
+    },
+    {
+      "alignedWord": "writing",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 5,
+      "word": "writing"
+    },
+    {
+      "alignedWord": "these",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.34,
+      "startOffset": 13,
+      "word": "these"
+    },
+    {
+      "alignedWord": "lines",
+      "case": "success",
+      "end": 2.1,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 19,
+      "word": "lines"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.35,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.16,
+      "startOffset": 25,
+      "word": "in"
+    },
+    {
+      "alignedWord": "honolulu",
+      "case": "success",
+      "end": 3.1100000000000003,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 28,
+      "word": "Honolulu"
+    },
+    {
+      "alignedWord": "hawaii",
+      "case": "success",
+      "end": 3.8099999999999996,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.11,
+      "startOffset": 38,
+      "word": "Hawaii"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "transcript": "Why, the average review is more nauseating than cod liver oil.",
+  "words": [
+    {
+      "alignedWord": "why",
+      "case": "success",
+      "end": 1.01,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 0,
+      "word": "Why"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.2,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 5,
+      "word": "the"
+    },
+    {
+      "alignedWord": "average",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 9,
+      "word": "average"
+    },
+    {
+      "alignedWord": "review",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 17,
+      "word": "review"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 2.2600000000000002,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.12,
+      "startOffset": 24,
+      "word": "is"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 2.59,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.27,
+      "startOffset": 27,
+      "word": "more"
+    },
+    {
+      "alignedWord": "nauseating",
+      "case": "success",
+      "end": 3.4299999999999997,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "zh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.59,
+      "startOffset": 32,
+      "word": "nauseating"
+    },
+    {
+      "alignedWord": "than",
+      "case": "success",
+      "end": 3.6500000000000004,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.43,
+      "startOffset": 43,
+      "word": "than"
+    },
+    {
+      "alignedWord": "cod",
+      "case": "success",
+      "end": 4.09,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.65,
+      "startOffset": 48,
+      "word": "cod"
+    },
+    {
+      "alignedWord": "liver",
+      "case": "success",
+      "end": 4.53,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.09,
+      "startOffset": 52,
+      "word": "liver"
+    },
+    {
+      "alignedWord": "oil",
+      "case": "success",
+      "end": 4.93,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.26,
+          "phone": "oy_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_E"
+        }
+      ],
+      "start": 4.54,
+      "startOffset": 58,
+      "word": "oil"
+    }
+  ]
+}

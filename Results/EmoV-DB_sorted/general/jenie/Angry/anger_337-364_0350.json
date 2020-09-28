@@ -1,0 +1,228 @@
+{
+  "transcript": "Is that Pat Hanrahan's mug looking hungry and willing.",
+  "words": [
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 0,
+      "word": "Is"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 3,
+      "word": "that"
+    },
+    {
+      "alignedWord": "pat",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 8,
+      "word": "Pat"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.16,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 12,
+      "word": "Hanrahan's"
+    },
+    {
+      "alignedWord": "mug",
+      "case": "success",
+      "end": 2.5500000000000003,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "g_E"
+        }
+      ],
+      "start": 2.2,
+      "startOffset": 23,
+      "word": "mug"
+    },
+    {
+      "alignedWord": "looking",
+      "case": "success",
+      "end": 3.1,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.73,
+      "startOffset": 27,
+      "word": "looking"
+    },
+    {
+      "alignedWord": "hungry",
+      "case": "success",
+      "end": 3.7600000000000002,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.1,
+      "startOffset": 35,
+      "word": "hungry"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.13,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.89,
+      "startOffset": 42,
+      "word": "and"
+    },
+    {
+      "alignedWord": "willing",
+      "case": "success",
+      "end": 4.49,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.13,
+      "startOffset": 46,
+      "word": "willing"
+    }
+  ]
+}

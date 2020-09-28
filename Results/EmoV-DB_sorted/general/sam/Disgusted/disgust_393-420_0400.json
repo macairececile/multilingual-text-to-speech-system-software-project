@@ -1,0 +1,128 @@
+{
+  "transcript": "Manuel had one besetting sin.",
+  "words": [
+    {
+      "alignedWord": "manuel",
+      "case": "success",
+      "end": 1.8800000000000001,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 0,
+      "word": "Manuel"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 2.43,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.99,
+      "startOffset": 7,
+      "word": "had"
+    },
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 3.35,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.33,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.34,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.5,
+      "startOffset": 11,
+      "word": "one"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.9,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.3,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.6,
+      "startOffset": 15,
+      "word": "besetting"
+    },
+    {
+      "alignedWord": "sin",
+      "case": "success",
+      "end": 5.1000000000000005,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.7,
+      "startOffset": 25,
+      "word": "sin"
+    }
+  ]
+}

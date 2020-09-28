@@ -1,0 +1,227 @@
+{
+  "transcript": "Gregson shoved back his chair and rose to his feet.",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.68,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.55,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 0,
+      "word": "Gregson"
+    },
+    {
+      "alignedWord": "shoved",
+      "case": "success",
+      "end": 2.03,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 8,
+      "word": "shoved"
+    },
+    {
+      "alignedWord": "back",
+      "case": "success",
+      "end": 2.32,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 2.05,
+      "startOffset": 15,
+      "word": "back"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.55,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.32,
+      "startOffset": 20,
+      "word": "his"
+    },
+    {
+      "alignedWord": "chair",
+      "case": "success",
+      "end": 3.13,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.26,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 24,
+      "word": "chair"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.35,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.13,
+      "startOffset": 30,
+      "word": "and"
+    },
+    {
+      "alignedWord": "rose",
+      "case": "success",
+      "end": 4.02,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.36,
+      "startOffset": 34,
+      "word": "rose"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 4.25,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 4.02,
+      "startOffset": 39,
+      "word": "to"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 4.53,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.25,
+      "startOffset": 42,
+      "word": "his"
+    },
+    {
+      "alignedWord": "feet",
+      "case": "success",
+      "end": 4.970000000000001,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.53,
+      "startOffset": 46,
+      "word": "feet"
+    }
+  ]
+}

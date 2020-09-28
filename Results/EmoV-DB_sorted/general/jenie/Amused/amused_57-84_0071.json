@@ -1,0 +1,225 @@
+{
+  "transcript": "What was the object of your little sensation.",
+  "words": [
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 0.69,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.42,
+      "startOffset": 0,
+      "word": "What"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 0.99,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 5,
+      "word": "was"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.99,
+      "startOffset": 9,
+      "word": "the"
+    },
+    {
+      "alignedWord": "object",
+      "case": "success",
+      "end": 1.78,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 13,
+      "word": "object"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.99,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 20,
+      "word": "of"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 2.15,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.99,
+      "startOffset": 23,
+      "word": "your"
+    },
+    {
+      "alignedWord": "little",
+      "case": "success",
+      "end": 2.44,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.15,
+      "startOffset": 28,
+      "word": "little"
+    },
+    {
+      "alignedWord": "sensation",
+      "case": "success",
+      "end": 3.27,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.44,
+      "startOffset": 35,
+      "word": "sensation"
+    }
+  ]
+}

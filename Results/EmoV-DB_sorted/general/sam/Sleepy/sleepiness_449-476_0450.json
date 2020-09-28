@@ -1,0 +1,207 @@
+{
+  "transcript": "No man ate of the seal meat or the oil.",
+  "words": [
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.97,
+      "startOffset": 0,
+      "word": "No"
+    },
+    {
+      "alignedWord": "man",
+      "case": "success",
+      "end": 2.78,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.32,
+      "startOffset": 3,
+      "word": "man"
+    },
+    {
+      "alignedWord": "ate",
+      "case": "success",
+      "end": 3.1599999999999997,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.29,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.78,
+      "startOffset": 7,
+      "word": "ate"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.31,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.22,
+      "startOffset": 11,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.64,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.48,
+      "startOffset": 14,
+      "word": "the"
+    },
+    {
+      "alignedWord": "seal",
+      "case": "success",
+      "end": 4.16,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.65,
+      "startOffset": 18,
+      "word": "seal"
+    },
+    {
+      "alignedWord": "meat",
+      "case": "success",
+      "end": 4.57,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.17,
+      "startOffset": 23,
+      "word": "meat"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 5.24,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "r_E"
+        }
+      ],
+      "start": 4.91,
+      "startOffset": 28,
+      "word": "or"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 5.46,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 5.26,
+      "startOffset": 31,
+      "word": "the"
+    },
+    {
+      "alignedWord": "oil",
+      "case": "success",
+      "end": 6.13,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.27,
+          "phone": "oy_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "l_E"
+        }
+      ],
+      "start": 5.61,
+      "startOffset": 35,
+      "word": "oil"
+    }
+  ]
+}

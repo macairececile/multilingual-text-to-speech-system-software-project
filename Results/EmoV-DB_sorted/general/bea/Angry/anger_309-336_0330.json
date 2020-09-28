@@ -1,0 +1,209 @@
+{
+  "transcript": "Red-Eye never committed a more outrageous deed.",
+  "words": [
+    {
+      "alignedWord": "red",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 0,
+      "word": "Red"
+    },
+    {
+      "alignedWord": "eye",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 4,
+      "word": "Eye"
+    },
+    {
+      "alignedWord": "never",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 8,
+      "word": "never"
+    },
+    {
+      "alignedWord": "committed",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 14,
+      "word": "committed"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.03,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 24,
+      "word": "a"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 2.2199999999999998,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.03,
+      "startOffset": 26,
+      "word": "more"
+    },
+    {
+      "alignedWord": "outrageous",
+      "case": "success",
+      "end": 2.7,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 31,
+      "word": "outrageous"
+    },
+    {
+      "alignedWord": "deed",
+      "case": "success",
+      "end": 3.2,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.7,
+      "startOffset": 42,
+      "word": "deed"
+    }
+  ]
+}

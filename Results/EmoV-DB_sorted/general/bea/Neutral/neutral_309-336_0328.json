@@ -1,0 +1,213 @@
+{
+  "transcript": "The Fire People, like ourselves, lived in caves.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.52,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "fire",
+      "case": "success",
+      "end": 0.8400000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 4,
+      "word": "Fire"
+    },
+    {
+      "alignedWord": "people",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 9,
+      "word": "People"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 17,
+      "word": "like"
+    },
+    {
+      "alignedWord": "ourselves",
+      "case": "success",
+      "end": 2.16,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 22,
+      "word": "ourselves"
+    },
+    {
+      "alignedWord": "lived",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.59,
+      "startOffset": 33,
+      "word": "lived"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.03,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 39,
+      "word": "in"
+    },
+    {
+      "alignedWord": "caves",
+      "case": "success",
+      "end": 3.5999999999999996,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.03,
+      "startOffset": 42,
+      "word": "caves"
+    }
+  ]
+}

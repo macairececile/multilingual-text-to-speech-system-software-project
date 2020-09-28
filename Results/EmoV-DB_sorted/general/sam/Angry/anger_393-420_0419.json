@@ -1,0 +1,167 @@
+{
+  "transcript": "The Portuguese boy passed the Hawaiian.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.5,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.38,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "portuguese",
+      "case": "success",
+      "end": 1.01,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.5,
+      "startOffset": 4,
+      "word": "Portuguese"
+    },
+    {
+      "alignedWord": "boy",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 15,
+      "word": "boy"
+    },
+    {
+      "alignedWord": "passed",
+      "case": "success",
+      "end": 1.7999999999999998,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 19,
+      "word": "passed"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.9200000000000002,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 26,
+      "word": "the"
+    },
+    {
+      "alignedWord": "hawaiian",
+      "case": "success",
+      "end": 2.46,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.92,
+      "startOffset": 30,
+      "word": "Hawaiian"
+    }
+  ]
+}

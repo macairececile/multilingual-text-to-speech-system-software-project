@@ -1,0 +1,162 @@
+{
+  "transcript": "There is another virtue in these bulkheads.",
+  "words": [
+    {
+      "alignedWord": "there",
+      "case": "success",
+      "end": 0.65,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.51,
+      "startOffset": 0,
+      "word": "There"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 0.74,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 6,
+      "word": "is"
+    },
+    {
+      "alignedWord": "another",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 9,
+      "word": "another"
+    },
+    {
+      "alignedWord": "virtue",
+      "case": "success",
+      "end": 1.57,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 17,
+      "word": "virtue"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.6500000000000001,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 24,
+      "word": "in"
+    },
+    {
+      "alignedWord": "these",
+      "case": "success",
+      "end": 1.8399999999999999,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 27,
+      "word": "these"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.64,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 33,
+      "word": "bulkheads"
+    }
+  ]
+}

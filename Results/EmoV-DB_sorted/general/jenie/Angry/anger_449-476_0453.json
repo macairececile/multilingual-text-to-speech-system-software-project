@@ -1,0 +1,145 @@
+{
+  "transcript": "Eighteen hundred, he calculated.",
+  "words": [
+    {
+      "alignedWord": "eighteen",
+      "case": "success",
+      "end": 2.1,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 0,
+      "word": "Eighteen"
+    },
+    {
+      "alignedWord": "hundred",
+      "case": "success",
+      "end": 2.91,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.12,
+      "startOffset": 9,
+      "word": "hundred"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 3.14,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.94,
+      "startOffset": 18,
+      "word": "he"
+    },
+    {
+      "alignedWord": "calculated",
+      "case": "success",
+      "end": 3.8400000000000003,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.16,
+      "startOffset": 21,
+      "word": "calculated"
+    }
+  ]
+}

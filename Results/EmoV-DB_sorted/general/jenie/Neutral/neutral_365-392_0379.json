@@ -1,0 +1,65 @@
+{
+  "transcript": "How old are you, daddy.",
+  "words": [
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 2.72,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 2.7,
+      "startOffset": 0,
+      "word": "How"
+    },
+    {
+      "alignedWord": "old",
+      "case": "success",
+      "end": 2.75,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.72,
+      "startOffset": 4,
+      "word": "old"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 11,
+      "startOffset": 8,
+      "word": "are"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 15,
+      "startOffset": 12,
+      "word": "you"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 22,
+      "startOffset": 17,
+      "word": "daddy"
+    }
+  ]
+}

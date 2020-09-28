@@ -1,0 +1,128 @@
+{
+  "transcript": "Therefore, hurrah for the game.",
+  "words": [
+    {
+      "alignedWord": "therefore",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.47,
+      "startOffset": 0,
+      "word": "Therefore"
+    },
+    {
+      "alignedWord": "hurrah",
+      "case": "success",
+      "end": 1.58,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aa_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 11,
+      "word": "hurrah"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.58,
+      "startOffset": 18,
+      "word": "for"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.84,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 22,
+      "word": "the"
+    },
+    {
+      "alignedWord": "game",
+      "case": "success",
+      "end": 2.24,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.84,
+      "startOffset": 26,
+      "word": "game"
+    }
+  ]
+}

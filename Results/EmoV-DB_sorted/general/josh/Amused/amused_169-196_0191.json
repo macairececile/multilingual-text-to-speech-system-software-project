@@ -1,0 +1,274 @@
+{
+  "transcript": "For a time the exciting thrill of his adventure was gone.",
+  "words": [
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 1.3,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 0,
+      "word": "For"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.37,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.3,
+      "startOffset": 4,
+      "word": "a"
+    },
+    {
+      "alignedWord": "time",
+      "case": "success",
+      "end": 1.6600000000000001,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 6,
+      "word": "time"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.8,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 11,
+      "word": "the"
+    },
+    {
+      "alignedWord": "exciting",
+      "case": "success",
+      "end": 2.22,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 15,
+      "word": "exciting"
+    },
+    {
+      "alignedWord": "thrill",
+      "case": "success",
+      "end": 2.49,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 24,
+      "word": "thrill"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.5100000000000002,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 31,
+      "word": "of"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.63,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.51,
+      "startOffset": 34,
+      "word": "his"
+    },
+    {
+      "alignedWord": "adventure",
+      "case": "success",
+      "end": 3.06,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.63,
+      "startOffset": 38,
+      "word": "adventure"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 3.25,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.06,
+      "startOffset": 48,
+      "word": "was"
+    },
+    {
+      "alignedWord": "gone",
+      "case": "success",
+      "end": 3.6799999999999997,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.26,
+      "startOffset": 52,
+      "word": "gone"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "transcript": "What part of the United States is your home.",
+  "words": [
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 0,
+      "word": "What"
+    },
+    {
+      "alignedWord": "part",
+      "case": "success",
+      "end": 1.97,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 5,
+      "word": "part"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.16,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 10,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.33,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.17,
+      "startOffset": 13,
+      "word": "the"
+    },
+    {
+      "alignedWord": "united",
+      "case": "success",
+      "end": 2.79,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.33,
+      "startOffset": 17,
+      "word": "United"
+    },
+    {
+      "alignedWord": "states",
+      "case": "success",
+      "end": 3.63,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.33,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.79,
+      "startOffset": 24,
+      "word": "States"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 4.07,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.82,
+      "startOffset": 31,
+      "word": "is"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 4.3100000000000005,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_E"
+        }
+      ],
+      "start": 4.07,
+      "startOffset": 34,
+      "word": "your"
+    },
+    {
+      "alignedWord": "home",
+      "case": "success",
+      "end": 4.949999999999999,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.31,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.31,
+      "startOffset": 39,
+      "word": "home"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "transcript": "They ate dinner at the fifth, and rested for two hours.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 1.91,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "ate",
+      "case": "success",
+      "end": 2.14,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 5,
+      "word": "ate"
+    },
+    {
+      "alignedWord": "dinner",
+      "case": "success",
+      "end": 2.43,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.14,
+      "startOffset": 9,
+      "word": "dinner"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 2.56,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 16,
+      "word": "at"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.66,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.56,
+      "startOffset": 19,
+      "word": "the"
+    },
+    {
+      "alignedWord": "fifth",
+      "case": "success",
+      "end": 3.08,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.66,
+      "startOffset": 23,
+      "word": "fifth"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.5900000000000003,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.37,
+      "startOffset": 30,
+      "word": "and"
+    },
+    {
+      "alignedWord": "rested",
+      "case": "success",
+      "end": 4.12,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.59,
+      "startOffset": 34,
+      "word": "rested"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 4.3,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.14,
+      "startOffset": 41,
+      "word": "for"
+    },
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 4.72,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 4.3,
+      "startOffset": 45,
+      "word": "two"
+    },
+    {
+      "alignedWord": "hours",
+      "case": "success",
+      "end": 5.35,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.72,
+      "startOffset": 49,
+      "word": "hours"
+    }
+  ]
+}

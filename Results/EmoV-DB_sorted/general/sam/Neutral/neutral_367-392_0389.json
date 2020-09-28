@@ -1,0 +1,62 @@
+{
+  "transcript": "Mab, she said.",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.44,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 0,
+      "word": "Mab"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 5,
+      "word": "she"
+    },
+    {
+      "alignedWord": "said",
+      "case": "success",
+      "end": 1.6400000000000001,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 9,
+      "word": "said"
+    }
+  ]
+}

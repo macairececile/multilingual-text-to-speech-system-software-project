@@ -1,0 +1,321 @@
+{
+  "transcript": "Then you can arrange yourself comfortably among these robes in the bow.",
+  "words": [
+    {
+      "alignedWord": "then",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 0,
+      "word": "Then"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.3499999999999999,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 5,
+      "word": "you"
+    },
+    {
+      "alignedWord": "can",
+      "case": "success",
+      "end": 1.4900000000000002,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.35,
+      "startOffset": 9,
+      "word": "can"
+    },
+    {
+      "alignedWord": "arrange",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 13,
+      "word": "arrange"
+    },
+    {
+      "alignedWord": "yourself",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 21,
+      "word": "yourself"
+    },
+    {
+      "alignedWord": "comfortably",
+      "case": "success",
+      "end": 2.4899999999999998,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.09,
+      "startOffset": 30,
+      "word": "comfortably"
+    },
+    {
+      "alignedWord": "among",
+      "case": "success",
+      "end": 2.75,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.49,
+      "startOffset": 42,
+      "word": "among"
+    },
+    {
+      "alignedWord": "these",
+      "case": "success",
+      "end": 3.06,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.75,
+      "startOffset": 48,
+      "word": "these"
+    },
+    {
+      "alignedWord": "robes",
+      "case": "success",
+      "end": 3.46,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.06,
+      "startOffset": 54,
+      "word": "robes"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.59,
+      "endOffset": 62,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.46,
+      "startOffset": 60,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.71,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.59,
+      "startOffset": 63,
+      "word": "the"
+    },
+    {
+      "alignedWord": "bow",
+      "case": "success",
+      "end": 4.23,
+      "endOffset": 70,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.41,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 3.71,
+      "startOffset": 67,
+      "word": "bow"
+    }
+  ]
+}

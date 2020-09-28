@@ -1,0 +1,200 @@
+{
+  "transcript": "What if she did not come to the rock.",
+  "words": [
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 0,
+      "word": "What"
+    },
+    {
+      "alignedWord": "if",
+      "case": "success",
+      "end": 1.11,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 5,
+      "word": "if"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 8,
+      "word": "she"
+    },
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 1.4,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 12,
+      "word": "did"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 1.64,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 16,
+      "word": "not"
+    },
+    {
+      "alignedWord": "come",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 20,
+      "word": "come"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.15,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 25,
+      "word": "to"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.29,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.15,
+      "startOffset": 28,
+      "word": "the"
+    },
+    {
+      "alignedWord": "rock",
+      "case": "success",
+      "end": 2.86,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "k_E"
+        }
+      ],
+      "start": 2.29,
+      "startOffset": 32,
+      "word": "rock"
+    }
+  ]
+}

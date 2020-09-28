@@ -1,0 +1,200 @@
+{
+  "transcript": "Don't you see, I'm chewing this thing in two.",
+  "words": [
+    {
+      "alignedWord": "don't",
+      "case": "success",
+      "end": 1.11,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 0,
+      "word": "Don't"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.2200000000000002,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 6,
+      "word": "you"
+    },
+    {
+      "alignedWord": "see",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.35,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.22,
+      "startOffset": 10,
+      "word": "see"
+    },
+    {
+      "alignedWord": "i'm",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 15,
+      "word": "I'm"
+    },
+    {
+      "alignedWord": "chewing",
+      "case": "success",
+      "end": 2.3,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.04,
+      "startOffset": 19,
+      "word": "chewing"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 2.4299999999999997,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.3,
+      "startOffset": 27,
+      "word": "this"
+    },
+    {
+      "alignedWord": "thing",
+      "case": "success",
+      "end": 2.6100000000000003,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 32,
+      "word": "thing"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.71,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.61,
+      "startOffset": 38,
+      "word": "in"
+    },
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 2.95,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.71,
+      "startOffset": 41,
+      "word": "two"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "transcript": "We'll have to watch our chances.",
+  "words": [
+    {
+      "alignedWord": "we'll",
+      "case": "success",
+      "end": 1.64,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 0,
+      "word": "We'll"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 6,
+      "word": "have"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 11,
+      "word": "to"
+    },
+    {
+      "alignedWord": "watch",
+      "case": "success",
+      "end": 2.47,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 2.12,
+      "startOffset": 14,
+      "word": "watch"
+    },
+    {
+      "alignedWord": "our",
+      "case": "success",
+      "end": 2.7399999999999998,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.51,
+      "startOffset": 20,
+      "word": "our"
+    },
+    {
+      "alignedWord": "chances",
+      "case": "success",
+      "end": 3.46,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.74,
+      "startOffset": 24,
+      "word": "chances"
+    }
+  ]
+}

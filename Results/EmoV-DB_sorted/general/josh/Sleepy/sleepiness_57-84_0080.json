@@ -1,0 +1,108 @@
+{
+  "transcript": "What if Jeanne failed him.",
+  "words": [
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 0,
+      "word": "What"
+    },
+    {
+      "alignedWord": "if",
+      "case": "success",
+      "end": 1.2000000000000002,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 5,
+      "word": "if"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.37,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 8,
+      "word": "Jeanne"
+    },
+    {
+      "alignedWord": "failed",
+      "case": "success",
+      "end": 1.9500000000000002,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 15,
+      "word": "failed"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.95,
+      "startOffset": 22,
+      "word": "him"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "transcript": "He had worshiped her, as Dante might have worshiped Beatrice.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.35,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 3,
+      "word": "had"
+    },
+    {
+      "alignedWord": "worshiped",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 7,
+      "word": "worshiped"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.79,
+      "startOffset": 17,
+      "word": "her"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 22,
+      "word": "as"
+    },
+    {
+      "alignedWord": "dante",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 2.58,
+      "startOffset": 25,
+      "word": "Dante"
+    },
+    {
+      "alignedWord": "might",
+      "case": "success",
+      "end": 3.13,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 31,
+      "word": "might"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 3.29,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.13,
+      "startOffset": 37,
+      "word": "have"
+    },
+    {
+      "alignedWord": "worshiped",
+      "case": "success",
+      "end": 3.71,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.29,
+      "startOffset": 42,
+      "word": "worshiped"
+    },
+    {
+      "alignedWord": "beatrice",
+      "case": "success",
+      "end": 4.25,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.73,
+      "startOffset": 52,
+      "word": "Beatrice"
+    }
+  ]
+}

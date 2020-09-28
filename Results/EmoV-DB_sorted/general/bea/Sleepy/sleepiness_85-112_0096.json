@@ -1,0 +1,324 @@
+{
+  "transcript": "Perhaps she had already met her fate a little deeper in the forest.",
+  "words": [
+    {
+      "alignedWord": "perhaps",
+      "case": "success",
+      "end": 0.77,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "hh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.55,
+      "startOffset": 0,
+      "word": "Perhaps"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 1.89,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 8,
+      "word": "she"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 12,
+      "word": "had"
+    },
+    {
+      "alignedWord": "already",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.02,
+      "startOffset": 16,
+      "word": "already"
+    },
+    {
+      "alignedWord": "met",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.45,
+      "startOffset": 24,
+      "word": "met"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 2.9899999999999998,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.84,
+      "startOffset": 28,
+      "word": "her"
+    },
+    {
+      "alignedWord": "fate",
+      "case": "success",
+      "end": 3.56,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.34,
+      "startOffset": 32,
+      "word": "fate"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.5799999999999996,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 3.57,
+      "startOffset": 37,
+      "word": "a"
+    },
+    {
+      "alignedWord": "little",
+      "case": "success",
+      "end": 4.41,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 4.09,
+      "startOffset": 39,
+      "word": "little"
+    },
+    {
+      "alignedWord": "deeper",
+      "case": "success",
+      "end": 4.78,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.41,
+      "startOffset": 46,
+      "word": "deeper"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 5.13,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.02,
+      "startOffset": 53,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 5.239999999999999,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 5.14,
+      "startOffset": 56,
+      "word": "the"
+    },
+    {
+      "alignedWord": "forest",
+      "case": "success",
+      "end": 5.51,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.24,
+      "startOffset": 60,
+      "word": "forest"
+    }
+  ]
+}

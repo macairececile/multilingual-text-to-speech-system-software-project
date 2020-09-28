@@ -1,0 +1,59 @@
+{
+  "transcript": "It's the aurora borealis.",
+  "words": [
+    {
+      "alignedWord": "it's",
+      "case": "success",
+      "end": 3.9299999999999997,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.9,
+      "startOffset": 0,
+      "word": "It's"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.95,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.93,
+      "startOffset": 5,
+      "word": "the"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 15,
+      "startOffset": 9,
+      "word": "aurora"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 24,
+      "startOffset": 16,
+      "word": "borealis"
+    }
+  ]
+}

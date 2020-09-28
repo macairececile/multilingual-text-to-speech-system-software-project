@@ -1,0 +1,181 @@
+{
+  "transcript": "The sharp voice of Wolf Larsen aroused me.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.8099999999999998,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "sharp",
+      "case": "success",
+      "end": 2.24,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 4,
+      "word": "sharp"
+    },
+    {
+      "alignedWord": "voice",
+      "case": "success",
+      "end": 3.05,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.34,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.28,
+      "startOffset": 10,
+      "word": "voice"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 4.21,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.95,
+      "startOffset": 16,
+      "word": "of"
+    },
+    {
+      "alignedWord": "wolf",
+      "case": "success",
+      "end": 4.49,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "f_E"
+        }
+      ],
+      "start": 4.21,
+      "startOffset": 19,
+      "word": "Wolf"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 5.37,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.88,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.49,
+      "startOffset": 24,
+      "word": "Larsen"
+    },
+    {
+      "alignedWord": "aroused",
+      "case": "success",
+      "end": 6.92,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 6.52,
+      "startOffset": 31,
+      "word": "aroused"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 7.3,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 6.97,
+      "startOffset": 39,
+      "word": "me"
+    }
+  ]
+}

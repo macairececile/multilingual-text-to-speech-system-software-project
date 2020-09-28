@@ -1,0 +1,146 @@
+{
+  "transcript": "It was my idea to a tee.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.8400000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.05,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.84,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.36,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 7,
+      "word": "my"
+    },
+    {
+      "alignedWord": "idea",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.55,
+      "startOffset": 10,
+      "word": "idea"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.31,
+      "startOffset": 15,
+      "word": "to"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.66,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.58,
+      "startOffset": 18,
+      "word": "a"
+    },
+    {
+      "alignedWord": "tee",
+      "case": "success",
+      "end": 2.68,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.66,
+      "startOffset": 20,
+      "word": "tee"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "transcript": "He had been foiled in his attempt to escape.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.3900000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.41,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.78,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 3,
+      "word": "had"
+    },
+    {
+      "alignedWord": "been",
+      "case": "success",
+      "end": 2.18,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 7,
+      "word": "been"
+    },
+    {
+      "alignedWord": "foiled",
+      "case": "success",
+      "end": 3.0700000000000003,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.36,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 12,
+      "word": "foiled"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.49,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.14,
+      "startOffset": 19,
+      "word": "in"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.76,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.52,
+      "startOffset": 22,
+      "word": "his"
+    },
+    {
+      "alignedWord": "attempt",
+      "case": "success",
+      "end": 4.49,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.76,
+      "startOffset": 26,
+      "word": "attempt"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 4.83,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 4.55,
+      "startOffset": 34,
+      "word": "to"
+    },
+    {
+      "alignedWord": "escape",
+      "case": "success",
+      "end": 5.49,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "p_E"
+        }
+      ],
+      "start": 4.83,
+      "startOffset": 37,
+      "word": "escape"
+    }
+  ]
+}

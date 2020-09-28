@@ -1,0 +1,51 @@
+{
+  "transcript": "Ah, indeed.",
+  "words": [
+    {
+      "alignedWord": "ah",
+      "case": "success",
+      "end": 1.0699999999999998,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.36,
+          "phone": "aa_S"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 0,
+      "word": "Ah"
+    },
+    {
+      "alignedWord": "indeed",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.32,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 4,
+      "word": "indeed"
+    }
+  ]
+}

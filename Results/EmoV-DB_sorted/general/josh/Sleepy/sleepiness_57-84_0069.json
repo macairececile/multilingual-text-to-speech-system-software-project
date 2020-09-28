@@ -1,0 +1,278 @@
+{
+  "transcript": "It was his intention to return to Eileen and her father.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 1.45,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.64,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 1.7799999999999998,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 7,
+      "word": "his"
+    },
+    {
+      "alignedWord": "intention",
+      "case": "success",
+      "end": 2.4699999999999998,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 11,
+      "word": "intention"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.66,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.56,
+      "startOffset": 21,
+      "word": "to"
+    },
+    {
+      "alignedWord": "return",
+      "case": "success",
+      "end": 3.1900000000000004,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.66,
+      "startOffset": 24,
+      "word": "return"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.29,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.2,
+      "startOffset": 31,
+      "word": "to"
+    },
+    {
+      "alignedWord": "eileen",
+      "case": "success",
+      "end": 3.76,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.29,
+      "startOffset": 34,
+      "word": "Eileen"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.92,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.76,
+      "startOffset": 41,
+      "word": "and"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 4.06,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.92,
+      "startOffset": 45,
+      "word": "her"
+    },
+    {
+      "alignedWord": "father",
+      "case": "success",
+      "end": 4.6499999999999995,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.06,
+      "startOffset": 49,
+      "word": "father"
+    }
+  ]
+}

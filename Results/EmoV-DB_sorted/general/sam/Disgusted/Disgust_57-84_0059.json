@@ -1,0 +1,160 @@
+{
+  "transcript": "His immaculate appearance was gone.",
+  "words": [
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 1.92,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 0,
+      "word": "His"
+    },
+    {
+      "alignedWord": "immaculate",
+      "case": "success",
+      "end": 2.51,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.92,
+      "startOffset": 4,
+      "word": "immaculate"
+    },
+    {
+      "alignedWord": "appearance",
+      "case": "success",
+      "end": 3.2299999999999995,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.51,
+      "startOffset": 15,
+      "word": "appearance"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 4.0,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.85,
+      "startOffset": 26,
+      "word": "was"
+    },
+    {
+      "alignedWord": "gone",
+      "case": "success",
+      "end": 4.66,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.25,
+      "startOffset": 30,
+      "word": "gone"
+    }
+  ]
+}

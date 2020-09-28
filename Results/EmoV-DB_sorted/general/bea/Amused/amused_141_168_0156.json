@@ -1,0 +1,243 @@
+{
+  "transcript": "A strange fire burned in his eyes when Thorpe turned.",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.02,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.9,
+      "startOffset": 0,
+      "word": "A"
+    },
+    {
+      "alignedWord": "strange",
+      "case": "success",
+      "end": 1.7000000000000002,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 2,
+      "word": "strange"
+    },
+    {
+      "alignedWord": "fire",
+      "case": "success",
+      "end": 2.13,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 10,
+      "word": "fire"
+    },
+    {
+      "alignedWord": "burned",
+      "case": "success",
+      "end": 2.4699999999999998,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 15,
+      "word": "burned"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.56,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.47,
+      "startOffset": 22,
+      "word": "in"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.75,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.56,
+      "startOffset": 25,
+      "word": "his"
+    },
+    {
+      "alignedWord": "eyes",
+      "case": "success",
+      "end": 3.08,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.75,
+      "startOffset": 29,
+      "word": "eyes"
+    },
+    {
+      "alignedWord": "when",
+      "case": "success",
+      "end": 3.34,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.08,
+      "startOffset": 34,
+      "word": "when"
+    },
+    {
+      "alignedWord": "thorpe",
+      "case": "success",
+      "end": 3.7,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_E"
+        }
+      ],
+      "start": 3.35,
+      "startOffset": 39,
+      "word": "Thorpe"
+    },
+    {
+      "alignedWord": "turned",
+      "case": "success",
+      "end": 4.3100000000000005,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.74,
+      "startOffset": 46,
+      "word": "turned"
+    }
+  ]
+}

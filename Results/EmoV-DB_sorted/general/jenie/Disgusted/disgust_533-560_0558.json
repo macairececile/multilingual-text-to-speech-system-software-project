@@ -1,0 +1,298 @@
+{
+  "transcript": "And the foundation stone of service, in his case, was obedience.",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 0.9600000000000001,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 0,
+      "word": "And"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 4,
+      "word": "the"
+    },
+    {
+      "alignedWord": "foundation",
+      "case": "success",
+      "end": 1.92,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 8,
+      "word": "foundation"
+    },
+    {
+      "alignedWord": "stone",
+      "case": "success",
+      "end": 2.36,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.92,
+      "startOffset": 19,
+      "word": "stone"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.52,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.38,
+      "startOffset": 25,
+      "word": "of"
+    },
+    {
+      "alignedWord": "service",
+      "case": "success",
+      "end": 3.17,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.52,
+      "startOffset": 28,
+      "word": "service"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.76,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.57,
+      "startOffset": 37,
+      "word": "in"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.96,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.76,
+      "startOffset": 40,
+      "word": "his"
+    },
+    {
+      "alignedWord": "case",
+      "case": "success",
+      "end": 4.48,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.96,
+      "startOffset": 44,
+      "word": "case"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 4.970000000000001,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.7,
+      "startOffset": 50,
+      "word": "was"
+    },
+    {
+      "alignedWord": "obedience",
+      "case": "success",
+      "end": 5.77,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.97,
+      "startOffset": 54,
+      "word": "obedience"
+    }
+  ]
+}

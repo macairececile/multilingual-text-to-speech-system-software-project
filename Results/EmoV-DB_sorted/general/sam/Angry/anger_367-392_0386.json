@@ -1,0 +1,204 @@
+{
+  "transcript": "I can't argue with you, and you know that.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.52,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "can't",
+      "case": "success",
+      "end": 0.8,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 2,
+      "word": "can't"
+    },
+    {
+      "alignedWord": "argue",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 8,
+      "word": "argue"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 1.32,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 14,
+      "word": "with"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 19,
+      "word": "you"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.7899999999999998,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 24,
+      "word": "and"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.92,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.79,
+      "startOffset": 28,
+      "word": "you"
+    },
+    {
+      "alignedWord": "know",
+      "case": "success",
+      "end": 2.1799999999999997,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 32,
+      "word": "know"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 2.6900000000000004,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.34,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 37,
+      "word": "that"
+    }
+  ]
+}

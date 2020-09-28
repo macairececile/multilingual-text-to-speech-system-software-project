@@ -1,0 +1,179 @@
+{
+  "transcript": "That's the sub-foreman, explained Thorpe.",
+  "words": [
+    {
+      "alignedWord": "that's",
+      "case": "success",
+      "end": 1.3900000000000001,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 0,
+      "word": "That's"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.5099999999999998,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.39,
+      "startOffset": 7,
+      "word": "the"
+    },
+    {
+      "alignedWord": "sub",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "b_E"
+        }
+      ],
+      "start": 1.51,
+      "startOffset": 11,
+      "word": "sub"
+    },
+    {
+      "alignedWord": "foreman",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 15,
+      "word": "foreman"
+    },
+    {
+      "alignedWord": "explained",
+      "case": "success",
+      "end": 2.8200000000000003,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.41,
+      "startOffset": 24,
+      "word": "explained"
+    },
+    {
+      "alignedWord": "thorpe",
+      "case": "success",
+      "end": 3.1599999999999997,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "p_E"
+        }
+      ],
+      "start": 2.82,
+      "startOffset": 34,
+      "word": "Thorpe"
+    }
+  ]
+}

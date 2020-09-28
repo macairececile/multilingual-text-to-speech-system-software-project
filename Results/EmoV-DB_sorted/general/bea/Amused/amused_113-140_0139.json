@@ -1,0 +1,336 @@
+{
+  "transcript": "He told himself that as he washed himself and groomed his disheveled clothes.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "told",
+      "case": "success",
+      "end": 2.27,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 3,
+      "word": "told"
+    },
+    {
+      "alignedWord": "himself",
+      "case": "success",
+      "end": 2.69,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_E"
+        }
+      ],
+      "start": 2.27,
+      "startOffset": 8,
+      "word": "himself"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 2.83,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.69,
+      "startOffset": 16,
+      "word": "that"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 3.04,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.84,
+      "startOffset": 21,
+      "word": "as"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 3.21,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.04,
+      "startOffset": 24,
+      "word": "he"
+    },
+    {
+      "alignedWord": "washed",
+      "case": "success",
+      "end": 3.5900000000000003,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.22,
+      "startOffset": 27,
+      "word": "washed"
+    },
+    {
+      "alignedWord": "himself",
+      "case": "success",
+      "end": 4.03,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "f_E"
+        }
+      ],
+      "start": 3.59,
+      "startOffset": 34,
+      "word": "himself"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.239999999999999,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.06,
+      "startOffset": 42,
+      "word": "and"
+    },
+    {
+      "alignedWord": "groomed",
+      "case": "success",
+      "end": 4.61,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.24,
+      "startOffset": 46,
+      "word": "groomed"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 4.78,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.61,
+      "startOffset": 54,
+      "word": "his"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 5.4,
+      "endOffset": 68,
+      "phones": [
+        {
+          "duration": 0.62,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.78,
+      "startOffset": 58,
+      "word": "disheveled"
+    },
+    {
+      "alignedWord": "clothes",
+      "case": "success",
+      "end": 5.96,
+      "endOffset": 76,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.42,
+      "startOffset": 69,
+      "word": "clothes"
+    }
+  ]
+}

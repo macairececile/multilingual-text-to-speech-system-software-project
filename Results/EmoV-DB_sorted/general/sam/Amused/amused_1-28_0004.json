@@ -1,0 +1,208 @@
+{
+  "transcript": "Lord, but I'm glad to see you again, Phil.",
+  "words": [
+    {
+      "alignedWord": "lord",
+      "case": "success",
+      "end": 1.3900000000000001,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 0,
+      "word": "Lord"
+    },
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 2.1,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 6,
+      "word": "but"
+    },
+    {
+      "alignedWord": "i'm",
+      "case": "success",
+      "end": 2.37,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.27,
+      "startOffset": 10,
+      "word": "I'm"
+    },
+    {
+      "alignedWord": "glad",
+      "case": "success",
+      "end": 2.8000000000000003,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 14,
+      "word": "glad"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.87,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 2.81,
+      "startOffset": 19,
+      "word": "to"
+    },
+    {
+      "alignedWord": "see",
+      "case": "success",
+      "end": 3.1100000000000003,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.87,
+      "startOffset": 22,
+      "word": "see"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 3.31,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.11,
+      "startOffset": 26,
+      "word": "you"
+    },
+    {
+      "alignedWord": "again",
+      "case": "success",
+      "end": 3.9,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.31,
+      "startOffset": 30,
+      "word": "again"
+    },
+    {
+      "alignedWord": "phil",
+      "case": "success",
+      "end": 4.470000000000001,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.3,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.91,
+      "startOffset": 37,
+      "word": "Phil"
+    }
+  ]
+}

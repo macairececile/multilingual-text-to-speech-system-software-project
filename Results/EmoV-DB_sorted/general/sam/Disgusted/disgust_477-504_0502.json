@@ -1,0 +1,333 @@
+{
+  "transcript": "Anything unusual or abnormal was sufficient to send a fellow to Molokai.",
+  "words": [
+    {
+      "alignedWord": "anything",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 0,
+      "word": "Anything"
+    },
+    {
+      "alignedWord": "unusual",
+      "case": "success",
+      "end": 1.9500000000000002,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "zh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.4,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 9,
+      "word": "unusual"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 2.64,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 17,
+      "word": "or"
+    },
+    {
+      "alignedWord": "abnormal",
+      "case": "success",
+      "end": 3.7,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.64,
+      "startOffset": 20,
+      "word": "abnormal"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 4.33,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.12,
+      "startOffset": 29,
+      "word": "was"
+    },
+    {
+      "alignedWord": "sufficient",
+      "case": "success",
+      "end": 5.13,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.33,
+      "startOffset": 33,
+      "word": "sufficient"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 5.27,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 5.14,
+      "startOffset": 44,
+      "word": "to"
+    },
+    {
+      "alignedWord": "send",
+      "case": "success",
+      "end": 5.51,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.27,
+      "startOffset": 47,
+      "word": "send"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 5.569999999999999,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 5.51,
+      "startOffset": 52,
+      "word": "a"
+    },
+    {
+      "alignedWord": "fellow",
+      "case": "success",
+      "end": 5.930000000000001,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 5.57,
+      "startOffset": 54,
+      "word": "fellow"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 6.069999999999999,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 5.93,
+      "startOffset": 61,
+      "word": "to"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 7.04,
+      "endOffset": 71,
+      "phones": [
+        {
+          "duration": 0.97,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 6.07,
+      "startOffset": 64,
+      "word": "Molokai"
+    }
+  ]
+}

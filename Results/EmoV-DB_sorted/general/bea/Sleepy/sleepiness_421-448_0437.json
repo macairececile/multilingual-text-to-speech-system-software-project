@@ -1,0 +1,291 @@
+{
+  "transcript": "By that answer my professional medical prestige stood or fell.",
+  "words": [
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 1.99,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 0,
+      "word": "By"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 2.35,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.99,
+      "startOffset": 3,
+      "word": "that"
+    },
+    {
+      "alignedWord": "answer",
+      "case": "success",
+      "end": 3.1100000000000003,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.35,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 8,
+      "word": "answer"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 3.5,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 3.28,
+      "startOffset": 15,
+      "word": "my"
+    },
+    {
+      "alignedWord": "professional",
+      "case": "success",
+      "end": 4.36,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.5,
+      "startOffset": 18,
+      "word": "professional"
+    },
+    {
+      "alignedWord": "medical",
+      "case": "success",
+      "end": 5.1000000000000005,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "l_E"
+        }
+      ],
+      "start": 4.36,
+      "startOffset": 31,
+      "word": "medical"
+    },
+    {
+      "alignedWord": "prestige",
+      "case": "success",
+      "end": 6.19,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "zh_E"
+        }
+      ],
+      "start": 5.29,
+      "startOffset": 39,
+      "word": "prestige"
+    },
+    {
+      "alignedWord": "stood",
+      "case": "success",
+      "end": 6.800000000000001,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "d_E"
+        }
+      ],
+      "start": 6.19,
+      "startOffset": 48,
+      "word": "stood"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 7.07,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_E"
+        }
+      ],
+      "start": 6.86,
+      "startOffset": 54,
+      "word": "or"
+    },
+    {
+      "alignedWord": "fell",
+      "case": "success",
+      "end": 7.66,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "l_E"
+        }
+      ],
+      "start": 7.15,
+      "startOffset": 57,
+      "word": "fell"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "transcript": "You won't die of malnutrition, be sure of that.",
+  "words": [
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.05,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 0,
+      "word": "You"
+    },
+    {
+      "alignedWord": "won't",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.05,
+      "startOffset": 4,
+      "word": "won't"
+    },
+    {
+      "alignedWord": "die",
+      "case": "success",
+      "end": 1.5,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 10,
+      "word": "die"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.61,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.5,
+      "startOffset": 14,
+      "word": "of"
+    },
+    {
+      "alignedWord": "malnutrition",
+      "case": "success",
+      "end": 2.33,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 17,
+      "word": "malnutrition"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.44,
+      "startOffset": 31,
+      "word": "be"
+    },
+    {
+      "alignedWord": "sure",
+      "case": "success",
+      "end": 2.8200000000000003,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 34,
+      "word": "sure"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.9499999999999997,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.82,
+      "startOffset": 39,
+      "word": "of"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 3.2600000000000002,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.95,
+      "startOffset": 42,
+      "word": "that"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "transcript": "Now please give a plain statement of what occurred.",
+  "words": [
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 0.54,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 0,
+      "word": "Now"
+    },
+    {
+      "alignedWord": "please",
+      "case": "success",
+      "end": 0.91,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.54,
+      "startOffset": 4,
+      "word": "please"
+    },
+    {
+      "alignedWord": "give",
+      "case": "success",
+      "end": 1.1199999999999999,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.94,
+      "startOffset": 11,
+      "word": "give"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.2600000000000002,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ey_S"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 16,
+      "word": "a"
+    },
+    {
+      "alignedWord": "plain",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.45,
+      "startOffset": 18,
+      "word": "plain"
+    },
+    {
+      "alignedWord": "statement",
+      "case": "success",
+      "end": 2.07,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.74,
+      "startOffset": 24,
+      "word": "statement"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 34,
+      "word": "of"
+    },
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 2.34,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.28,
+      "startOffset": 37,
+      "word": "what"
+    },
+    {
+      "alignedWord": "occurred",
+      "case": "success",
+      "end": 2.7399999999999998,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 42,
+      "word": "occurred"
+    }
+  ]
+}

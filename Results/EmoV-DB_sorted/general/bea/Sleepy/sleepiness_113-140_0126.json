@@ -1,0 +1,231 @@
+{
+  "transcript": "Each day she became a more vital part of him.",
+  "words": [
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 0.96,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.3,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 0,
+      "word": "Each"
+    },
+    {
+      "alignedWord": "day",
+      "case": "success",
+      "end": 1.55,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.43,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 5,
+      "word": "day"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 2.3099999999999996,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.03,
+      "startOffset": 9,
+      "word": "she"
+    },
+    {
+      "alignedWord": "became",
+      "case": "success",
+      "end": 2.92,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.31,
+      "startOffset": 13,
+      "word": "became"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.11,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.0,
+      "startOffset": 20,
+      "word": "a"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 3.55,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.11,
+      "startOffset": 22,
+      "word": "more"
+    },
+    {
+      "alignedWord": "vital",
+      "case": "success",
+      "end": 4.25,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.33,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.56,
+      "startOffset": 27,
+      "word": "vital"
+    },
+    {
+      "alignedWord": "part",
+      "case": "success",
+      "end": 4.81,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.59,
+      "startOffset": 33,
+      "word": "part"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 4.93,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 4.81,
+      "startOffset": 38,
+      "word": "of"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 5.18,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.93,
+      "startOffset": 41,
+      "word": "him"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "transcript": "It was edged with ice.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.8,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "edged",
+      "case": "success",
+      "end": 2.13,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.59,
+      "startOffset": 7,
+      "word": "edged"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 2.34,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.13,
+      "startOffset": 13,
+      "word": "with"
+    },
+    {
+      "alignedWord": "ice",
+      "case": "success",
+      "end": 3.38,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.32,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.45,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.61,
+      "startOffset": 18,
+      "word": "ice"
+    }
+  ]
+}

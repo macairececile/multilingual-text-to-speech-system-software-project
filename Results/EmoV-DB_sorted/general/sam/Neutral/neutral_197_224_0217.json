@@ -1,0 +1,301 @@
+{
+  "transcript": "Oppressive as the heat had been, it was now even more oppressive.",
+  "words": [
+    {
+      "alignedWord": "oppressive",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 0,
+      "word": "Oppressive"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 1.4300000000000002,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 11,
+      "word": "as"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 14,
+      "word": "the"
+    },
+    {
+      "alignedWord": "heat",
+      "case": "success",
+      "end": 1.74,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.54,
+      "startOffset": 18,
+      "word": "heat"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.96,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 23,
+      "word": "had"
+    },
+    {
+      "alignedWord": "been",
+      "case": "success",
+      "end": 2.34,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 27,
+      "word": "been"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 2.5100000000000002,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 33,
+      "word": "it"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.6799999999999997,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.51,
+      "startOffset": 36,
+      "word": "was"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 2.69,
+      "startOffset": 40,
+      "word": "now"
+    },
+    {
+      "alignedWord": "even",
+      "case": "success",
+      "end": 3.18,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 44,
+      "word": "even"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 3.4000000000000004,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 49,
+      "word": "more"
+    },
+    {
+      "alignedWord": "oppressive",
+      "case": "success",
+      "end": 4.01,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.4,
+      "startOffset": 54,
+      "word": "oppressive"
+    }
+  ]
+}

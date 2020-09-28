@@ -1,0 +1,151 @@
+{
+  "transcript": "Philip made no effort to follow.",
+  "words": [
+    {
+      "alignedWord": "philip",
+      "case": "success",
+      "end": 1.4,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "p_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 0,
+      "word": "Philip"
+    },
+    {
+      "alignedWord": "made",
+      "case": "success",
+      "end": 1.9100000000000001,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.58,
+      "startOffset": 7,
+      "word": "made"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 2.41,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.31,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 12,
+      "word": "no"
+    },
+    {
+      "alignedWord": "effort",
+      "case": "success",
+      "end": 2.83,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.46,
+      "startOffset": 15,
+      "word": "effort"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 2.84,
+      "startOffset": 22,
+      "word": "to"
+    },
+    {
+      "alignedWord": "follow",
+      "case": "success",
+      "end": 3.42,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 25,
+      "word": "follow"
+    }
+  ]
+}

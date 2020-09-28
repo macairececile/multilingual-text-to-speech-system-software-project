@@ -1,0 +1,209 @@
+{
+  "transcript": "Here the explosion of mirth drowned him out.",
+  "words": [
+    {
+      "alignedWord": "here",
+      "case": "success",
+      "end": 1.89,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 0,
+      "word": "Here"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.9,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 5,
+      "word": "the"
+    },
+    {
+      "alignedWord": "explosion",
+      "case": "success",
+      "end": 3.5999999999999996,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "zh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.01,
+      "startOffset": 9,
+      "word": "explosion"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.7800000000000002,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.6,
+      "startOffset": 19,
+      "word": "of"
+    },
+    {
+      "alignedWord": "mirth",
+      "case": "success",
+      "end": 4.39,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.79,
+      "startOffset": 22,
+      "word": "mirth"
+    },
+    {
+      "alignedWord": "drowned",
+      "case": "success",
+      "end": 5.29,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.63,
+      "startOffset": 28,
+      "word": "drowned"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 5.39,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 5.29,
+      "startOffset": 36,
+      "word": "him"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 5.409999999999999,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.39,
+      "startOffset": 40,
+      "word": "out"
+    }
+  ]
+}

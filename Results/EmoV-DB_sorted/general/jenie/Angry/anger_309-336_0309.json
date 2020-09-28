@@ -1,0 +1,116 @@
+{
+  "transcript": "White Leghorns, said Mrs Mortimer.",
+  "words": [
+    {
+      "alignedWord": "white",
+      "case": "success",
+      "end": 1.8299999999999998,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 0,
+      "word": "White"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.83,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.97,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 6,
+      "word": "Leghorns"
+    },
+    {
+      "alignedWord": "said",
+      "case": "success",
+      "end": 3.1799999999999997,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 16,
+      "word": "said"
+    },
+    {
+      "alignedWord": "mrs",
+      "case": "success",
+      "end": 3.5900000000000003,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 21,
+      "word": "Mrs"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.07,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.48,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.59,
+      "startOffset": 25,
+      "word": "Mortimer"
+    }
+  ]
+}

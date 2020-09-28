@@ -1,0 +1,201 @@
+{
+  "transcript": "There has been a change, she interrupted him.",
+  "words": [
+    {
+      "alignedWord": "there",
+      "case": "success",
+      "end": 1.01,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 0,
+      "word": "There"
+    },
+    {
+      "alignedWord": "has",
+      "case": "success",
+      "end": 1.4,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 6,
+      "word": "has"
+    },
+    {
+      "alignedWord": "been",
+      "case": "success",
+      "end": 1.5499999999999998,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 10,
+      "word": "been"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.55,
+      "startOffset": 15,
+      "word": "a"
+    },
+    {
+      "alignedWord": "change",
+      "case": "success",
+      "end": 2.65,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.36,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 17,
+      "word": "change"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 4.3100000000000005,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.03,
+      "startOffset": 25,
+      "word": "she"
+    },
+    {
+      "alignedWord": "interrupted",
+      "case": "success",
+      "end": 4.949999999999999,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.31,
+      "startOffset": 29,
+      "word": "interrupted"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 5.249999999999999,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "m_E"
+        }
+      ],
+      "start": 5.1,
+      "startOffset": 41,
+      "word": "him"
+    }
+  ]
+}

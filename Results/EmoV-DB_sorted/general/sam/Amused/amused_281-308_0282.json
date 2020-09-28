@@ -1,0 +1,237 @@
+{
+  "transcript": "If you mean to insinuate -- Brentwood began hotly.",
+  "words": [
+    {
+      "alignedWord": "if",
+      "case": "success",
+      "end": 3.19,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "f_E"
+        }
+      ],
+      "start": 3.17,
+      "startOffset": 0,
+      "word": "If"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 3.21,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.19,
+      "startOffset": 3,
+      "word": "you"
+    },
+    {
+      "alignedWord": "mean",
+      "case": "success",
+      "end": 3.43,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.21,
+      "startOffset": 7,
+      "word": "mean"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 4.25,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 4.01,
+      "startOffset": 12,
+      "word": "to"
+    },
+    {
+      "alignedWord": "insinuate",
+      "case": "success",
+      "end": 5.46,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.25,
+      "startOffset": 15,
+      "word": "insinuate"
+    },
+    {
+      "alignedWord": "brentwood",
+      "case": "success",
+      "end": 6.6899999999999995,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 6.21,
+      "startOffset": 28,
+      "word": "Brentwood"
+    },
+    {
+      "alignedWord": "began",
+      "case": "success",
+      "end": 7.24,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "n_E"
+        }
+      ],
+      "start": 6.7,
+      "startOffset": 38,
+      "word": "began"
+    },
+    {
+      "alignedWord": "hotly",
+      "case": "success",
+      "end": 7.65,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 7.25,
+      "startOffset": 44,
+      "word": "hotly"
+    }
+  ]
+}

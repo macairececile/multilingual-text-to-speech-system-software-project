@@ -1,0 +1,89 @@
+{
+  "transcript": "Now you're coming down to business, Phil, he exclaimed.",
+  "words": [
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 3.39,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 3.37,
+      "startOffset": 0,
+      "word": "Now"
+    },
+    {
+      "alignedWord": "you're",
+      "case": "success",
+      "end": 3.42,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.39,
+      "startOffset": 4,
+      "word": "you're"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 17,
+      "startOffset": 11,
+      "word": "coming"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 22,
+      "startOffset": 18,
+      "word": "down"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 25,
+      "startOffset": 23,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 34,
+      "startOffset": 26,
+      "word": "business"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 40,
+      "startOffset": 36,
+      "word": "Phil"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 44,
+      "startOffset": 42,
+      "word": "he"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 54,
+      "startOffset": 45,
+      "word": "exclaimed"
+    }
+  ]
+}

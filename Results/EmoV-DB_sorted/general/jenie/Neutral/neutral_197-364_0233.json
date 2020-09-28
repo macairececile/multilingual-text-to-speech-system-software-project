@@ -1,0 +1,235 @@
+{
+  "transcript": "I never allow what can't be changed to annoy me.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.2,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "never",
+      "case": "success",
+      "end": 0.52,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.2,
+      "startOffset": 2,
+      "word": "never"
+    },
+    {
+      "alignedWord": "allow",
+      "case": "success",
+      "end": 0.92,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 8,
+      "word": "allow"
+    },
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 1.1400000000000001,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 14,
+      "word": "what"
+    },
+    {
+      "alignedWord": "can't",
+      "case": "success",
+      "end": 1.41,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 19,
+      "word": "can't"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 25,
+      "word": "be"
+    },
+    {
+      "alignedWord": "changed",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 28,
+      "word": "changed"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.34,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.17,
+      "startOffset": 36,
+      "word": "to"
+    },
+    {
+      "alignedWord": "annoy",
+      "case": "success",
+      "end": 2.65,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 39,
+      "word": "annoy"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 2.92,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.65,
+      "startOffset": 45,
+      "word": "me"
+    }
+  ]
+}

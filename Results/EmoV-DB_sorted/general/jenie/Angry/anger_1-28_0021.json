@@ -1,0 +1,189 @@
+{
+  "transcript": "It fairly clubbed me into recognizing it.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.79,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "fairly",
+      "case": "success",
+      "end": 1.1400000000000001,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 3,
+      "word": "fairly"
+    },
+    {
+      "alignedWord": "clubbed",
+      "case": "success",
+      "end": 1.41,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 10,
+      "word": "clubbed"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 1.8199999999999998,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 18,
+      "word": "me"
+    },
+    {
+      "alignedWord": "into",
+      "case": "success",
+      "end": 2.0300000000000002,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.82,
+      "startOffset": 21,
+      "word": "into"
+    },
+    {
+      "alignedWord": "recognizing",
+      "case": "success",
+      "end": 2.9099999999999997,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.03,
+      "startOffset": 26,
+      "word": "recognizing"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 40,
+      "startOffset": 38,
+      "word": "it"
+    }
+  ]
+}

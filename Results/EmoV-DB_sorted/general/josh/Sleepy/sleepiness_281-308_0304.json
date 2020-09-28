@@ -1,0 +1,138 @@
+{
+  "transcript": "I graduated last of my class.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.6699999999999999,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.47,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "graduated",
+      "case": "success",
+      "end": 1.35,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 2,
+      "word": "graduated"
+    },
+    {
+      "alignedWord": "last",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 12,
+      "word": "last"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.21,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.19,
+      "startOffset": 17,
+      "word": "of"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 2.49,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.29,
+      "startOffset": 20,
+      "word": "my"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 28,
+      "startOffset": 23,
+      "word": "class"
+    }
+  ]
+}

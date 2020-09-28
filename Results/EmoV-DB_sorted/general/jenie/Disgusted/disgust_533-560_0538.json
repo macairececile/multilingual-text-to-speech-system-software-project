@@ -1,0 +1,293 @@
+{
+  "transcript": "What Pascal glimpsed with the vision of a seer, I have lived.",
+  "words": [
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 0.95,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.64,
+      "startOffset": 0,
+      "word": "What"
+    },
+    {
+      "alignedWord": "pascal",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 5,
+      "word": "Pascal"
+    },
+    {
+      "alignedWord": "glimpsed",
+      "case": "success",
+      "end": 2.2,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 12,
+      "word": "glimpsed"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 2.53,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.32,
+      "startOffset": 21,
+      "word": "with"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.63,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.53,
+      "startOffset": 26,
+      "word": "the"
+    },
+    {
+      "alignedWord": "vision",
+      "case": "success",
+      "end": 2.9699999999999998,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "zh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.63,
+      "startOffset": 30,
+      "word": "vision"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.12,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.99,
+      "startOffset": 37,
+      "word": "of"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.2,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.12,
+      "startOffset": 40,
+      "word": "a"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.77,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.57,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.2,
+      "startOffset": 42,
+      "word": "seer"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 4.22,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.29,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 3.93,
+      "startOffset": 48,
+      "word": "I"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 4.58,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "v_E"
+        }
+      ],
+      "start": 4.24,
+      "startOffset": 50,
+      "word": "have"
+    },
+    {
+      "alignedWord": "lived",
+      "case": "success",
+      "end": 5.23,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.58,
+      "startOffset": 55,
+      "word": "lived"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "transcript": "It was a large canoe.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 1.38,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.5299999999999998,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.61,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 7,
+      "word": "a"
+    },
+    {
+      "alignedWord": "large",
+      "case": "success",
+      "end": 2.0700000000000003,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 9,
+      "word": "large"
+    },
+    {
+      "alignedWord": "canoe",
+      "case": "success",
+      "end": 2.78,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.43,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 15,
+      "word": "canoe"
+    }
+  ]
+}

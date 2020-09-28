@@ -1,0 +1,311 @@
+{
+  "transcript": "The woman in you is only incidental, accidental, and irrelevant.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.51,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.39,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "woman",
+      "case": "success",
+      "end": 0.8200000000000001,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.51,
+      "startOffset": 4,
+      "word": "woman"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.94,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 10,
+      "word": "in"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.94,
+      "startOffset": 13,
+      "word": "you"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.2999999999999998,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.17,
+      "startOffset": 17,
+      "word": "is"
+    },
+    {
+      "alignedWord": "only",
+      "case": "success",
+      "end": 1.6700000000000002,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 20,
+      "word": "only"
+    },
+    {
+      "alignedWord": "incidental",
+      "case": "success",
+      "end": 2.3899999999999997,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 25,
+      "word": "incidental"
+    },
+    {
+      "alignedWord": "accidental",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.53,
+      "startOffset": 37,
+      "word": "accidental"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.55,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.38,
+      "startOffset": 49,
+      "word": "and"
+    },
+    {
+      "alignedWord": "irrelevant",
+      "case": "success",
+      "end": 4.2,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.56,
+      "startOffset": 53,
+      "word": "irrelevant"
+    }
+  ]
+}

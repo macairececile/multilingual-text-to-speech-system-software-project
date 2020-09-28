@@ -1,0 +1,136 @@
+{
+  "transcript": "But a strange thing happened.",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 0.72,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 0,
+      "word": "But"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.89,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 4,
+      "word": "a"
+    },
+    {
+      "alignedWord": "strange",
+      "case": "success",
+      "end": 2.38,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.38,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.36,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 6,
+      "word": "strange"
+    },
+    {
+      "alignedWord": "thing",
+      "case": "success",
+      "end": 2.78,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.38,
+      "startOffset": 14,
+      "word": "thing"
+    },
+    {
+      "alignedWord": "happened",
+      "case": "success",
+      "end": 3.59,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.83,
+      "startOffset": 20,
+      "word": "happened"
+    }
+  ]
+}

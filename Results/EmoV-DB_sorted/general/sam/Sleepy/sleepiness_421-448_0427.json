@@ -1,0 +1,198 @@
+{
+  "transcript": "Enters now the psychology of the situation.",
+  "words": [
+    {
+      "alignedWord": "enters",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 0,
+      "word": "Enters"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.5,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 7,
+      "word": "now"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 11,
+      "word": "the"
+    },
+    {
+      "alignedWord": "psychology",
+      "case": "success",
+      "end": 3.74,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.54,
+      "startOffset": 15,
+      "word": "psychology"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 4.0600000000000005,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.87,
+      "startOffset": 26,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.17,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.06,
+      "startOffset": 29,
+      "word": "the"
+    },
+    {
+      "alignedWord": "situation",
+      "case": "success",
+      "end": 5.04,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.17,
+      "startOffset": 33,
+      "word": "situation"
+    }
+  ]
+}

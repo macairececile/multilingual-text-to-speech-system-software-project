@@ -1,0 +1,338 @@
+{
+  "transcript": "The river bared its bosom, and snorting steamboats challenged the wilderness.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.9800000000000001,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "river",
+      "case": "success",
+      "end": 1.45,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 4,
+      "word": "river"
+    },
+    {
+      "alignedWord": "bared",
+      "case": "success",
+      "end": 2.32,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 10,
+      "word": "bared"
+    },
+    {
+      "alignedWord": "its",
+      "case": "success",
+      "end": 2.8,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.34,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.32,
+      "startOffset": 16,
+      "word": "its"
+    },
+    {
+      "alignedWord": "bosom",
+      "case": "success",
+      "end": 3.91,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.12,
+      "startOffset": 20,
+      "word": "bosom"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.56,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.21,
+      "startOffset": 27,
+      "word": "and"
+    },
+    {
+      "alignedWord": "snorting",
+      "case": "success",
+      "end": 5.430000000000001,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.34,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.61,
+      "startOffset": 31,
+      "word": "snorting"
+    },
+    {
+      "alignedWord": "steamboats",
+      "case": "success",
+      "end": 6.23,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_E"
+        }
+      ],
+      "start": 5.44,
+      "startOffset": 40,
+      "word": "steamboats"
+    },
+    {
+      "alignedWord": "challenged",
+      "case": "success",
+      "end": 7.180000000000001,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.34,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_E"
+        }
+      ],
+      "start": 6.28,
+      "startOffset": 51,
+      "word": "challenged"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 7.35,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 7.21,
+      "startOffset": 62,
+      "word": "the"
+    },
+    {
+      "alignedWord": "wilderness",
+      "case": "success",
+      "end": 8.34,
+      "endOffset": 76,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.34,
+          "phone": "s_E"
+        }
+      ],
+      "start": 7.35,
+      "startOffset": 66,
+      "word": "wilderness"
+    }
+  ]
+}

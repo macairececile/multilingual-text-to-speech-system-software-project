@@ -1,0 +1,177 @@
+{
+  "transcript": "They were following the shore of a lake.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.89,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 5,
+      "word": "were"
+    },
+    {
+      "alignedWord": "following",
+      "case": "success",
+      "end": 1.6,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 10,
+      "word": "following"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.7100000000000002,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 20,
+      "word": "the"
+    },
+    {
+      "alignedWord": "shore",
+      "case": "success",
+      "end": 2.24,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 24,
+      "word": "shore"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.44,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.25,
+      "startOffset": 30,
+      "word": "of"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.44,
+      "startOffset": 33,
+      "word": "a"
+    },
+    {
+      "alignedWord": "lake",
+      "case": "success",
+      "end": 3.13,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "k_E"
+        }
+      ],
+      "start": 2.54,
+      "startOffset": 35,
+      "word": "lake"
+    }
+  ]
+}

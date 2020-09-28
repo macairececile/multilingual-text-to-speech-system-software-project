@@ -1,0 +1,357 @@
+{
+  "transcript": "This tacit promise of continued acquaintance gave Saxon a little joy-thrill.",
+  "words": [
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 1.02,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 0,
+      "word": "This"
+    },
+    {
+      "alignedWord": "tacit",
+      "case": "success",
+      "end": 1.83,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 5,
+      "word": "tacit"
+    },
+    {
+      "alignedWord": "promise",
+      "case": "success",
+      "end": 2.83,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.31,
+      "startOffset": 11,
+      "word": "promise"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.43,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.23,
+      "startOffset": 19,
+      "word": "of"
+    },
+    {
+      "alignedWord": "continued",
+      "case": "success",
+      "end": 4.14,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.5,
+      "startOffset": 22,
+      "word": "continued"
+    },
+    {
+      "alignedWord": "acquaintance",
+      "case": "success",
+      "end": 5.05,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.14,
+      "startOffset": 32,
+      "word": "acquaintance"
+    },
+    {
+      "alignedWord": "gave",
+      "case": "success",
+      "end": 5.88,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_E"
+        }
+      ],
+      "start": 5.6,
+      "startOffset": 45,
+      "word": "gave"
+    },
+    {
+      "alignedWord": "saxon",
+      "case": "success",
+      "end": 6.6,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.88,
+      "startOffset": 50,
+      "word": "Saxon"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 7.59,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 7.49,
+      "startOffset": 56,
+      "word": "a"
+    },
+    {
+      "alignedWord": "little",
+      "case": "success",
+      "end": 8.0,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_E"
+        }
+      ],
+      "start": 7.65,
+      "startOffset": 58,
+      "word": "little"
+    },
+    {
+      "alignedWord": "joy",
+      "case": "success",
+      "end": 8.42,
+      "endOffset": 68,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 8.0,
+      "startOffset": 65,
+      "word": "joy"
+    },
+    {
+      "alignedWord": "thrill",
+      "case": "success",
+      "end": 8.87,
+      "endOffset": 75,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "l_E"
+        }
+      ],
+      "start": 8.42,
+      "startOffset": 69,
+      "word": "thrill"
+    }
+  ]
+}

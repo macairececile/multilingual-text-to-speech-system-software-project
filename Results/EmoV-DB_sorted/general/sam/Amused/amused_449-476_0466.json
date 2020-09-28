@@ -1,0 +1,274 @@
+{
+  "transcript": "Captain West may be a Samurai, but he is also human.",
+  "words": [
+    {
+      "alignedWord": "captain",
+      "case": "success",
+      "end": 1.07,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.55,
+      "startOffset": 0,
+      "word": "Captain"
+    },
+    {
+      "alignedWord": "west",
+      "case": "success",
+      "end": 1.49,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 8,
+      "word": "West"
+    },
+    {
+      "alignedWord": "may",
+      "case": "success",
+      "end": 2.56,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 2.21,
+      "startOffset": 13,
+      "word": "may"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 2.6999999999999997,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.57,
+      "startOffset": 17,
+      "word": "be"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.8000000000000003,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.7,
+      "startOffset": 20,
+      "word": "a"
+    },
+    {
+      "alignedWord": "samurai",
+      "case": "success",
+      "end": 3.51,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.8,
+      "startOffset": 22,
+      "word": "Samurai"
+    },
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 4.54,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.38,
+      "startOffset": 31,
+      "word": "but"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 4.7,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.55,
+      "startOffset": 35,
+      "word": "he"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 4.86,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.7,
+      "startOffset": 38,
+      "word": "is"
+    },
+    {
+      "alignedWord": "also",
+      "case": "success",
+      "end": 5.3,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 4.88,
+      "startOffset": 41,
+      "word": "also"
+    },
+    {
+      "alignedWord": "human",
+      "case": "success",
+      "end": 5.59,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.3,
+      "startOffset": 46,
+      "word": "human"
+    }
+  ]
+}

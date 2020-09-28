@@ -1,0 +1,117 @@
+{
+  "transcript": "That's what Carnegie did.",
+  "words": [
+    {
+      "alignedWord": "that's",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.94,
+      "startOffset": 0,
+      "word": "That's"
+    },
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 7,
+      "word": "what"
+    },
+    {
+      "alignedWord": "carnegie",
+      "case": "success",
+      "end": 2.18,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 12,
+      "word": "Carnegie"
+    },
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 2.6300000000000003,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 21,
+      "word": "did"
+    }
+  ]
+}

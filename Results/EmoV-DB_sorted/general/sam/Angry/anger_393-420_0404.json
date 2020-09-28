@@ -1,0 +1,239 @@
+{
+  "transcript": "Perrault found one with head buried in the grub box.",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 0.64,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.42,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.22,
+      "startOffset": 0,
+      "word": "Perrault"
+    },
+    {
+      "alignedWord": "found",
+      "case": "success",
+      "end": 1.01,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 9,
+      "word": "found"
+    },
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 1.19,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 15,
+      "word": "one"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 1.3499999999999999,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 19,
+      "word": "with"
+    },
+    {
+      "alignedWord": "head",
+      "case": "success",
+      "end": 1.6400000000000001,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.35,
+      "startOffset": 24,
+      "word": "head"
+    },
+    {
+      "alignedWord": "buried",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 29,
+      "word": "buried"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.16,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 36,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.2600000000000002,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.16,
+      "startOffset": 39,
+      "word": "the"
+    },
+    {
+      "alignedWord": "grub",
+      "case": "success",
+      "end": 2.5799999999999996,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "b_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 43,
+      "word": "grub"
+    },
+    {
+      "alignedWord": "box",
+      "case": "success",
+      "end": 2.9899999999999998,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.59,
+      "startOffset": 48,
+      "word": "box"
+    }
+  ]
+}

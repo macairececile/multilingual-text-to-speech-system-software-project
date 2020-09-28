@@ -1,0 +1,259 @@
+{
+  "transcript": "And twenty men could hold it with spears and arrows.",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.6700000000000002,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 0,
+      "word": "And"
+    },
+    {
+      "alignedWord": "twenty",
+      "case": "success",
+      "end": 2.11,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 4,
+      "word": "twenty"
+    },
+    {
+      "alignedWord": "men",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 11,
+      "word": "men"
+    },
+    {
+      "alignedWord": "could",
+      "case": "success",
+      "end": 3.13,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.02,
+      "startOffset": 15,
+      "word": "could"
+    },
+    {
+      "alignedWord": "hold",
+      "case": "success",
+      "end": 3.44,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.13,
+      "startOffset": 21,
+      "word": "hold"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 3.67,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.44,
+      "startOffset": 26,
+      "word": "it"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.9800000000000004,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.74,
+      "startOffset": 29,
+      "word": "with"
+    },
+    {
+      "alignedWord": "spears",
+      "case": "success",
+      "end": 4.6899999999999995,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.98,
+      "startOffset": 34,
+      "word": "spears"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.92,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.8,
+      "startOffset": 41,
+      "word": "and"
+    },
+    {
+      "alignedWord": "arrows",
+      "case": "success",
+      "end": 6.63,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.83,
+      "startOffset": 45,
+      "word": "arrows"
+    }
+  ]
+}

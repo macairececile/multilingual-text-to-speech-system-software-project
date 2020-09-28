@@ -1,0 +1,99 @@
+{
+  "transcript": "What if Jeanne failed him.",
+  "words": [
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 3.3499999999999996,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.32,
+      "startOffset": 0,
+      "word": "What"
+    },
+    {
+      "alignedWord": "if",
+      "case": "success",
+      "end": 3.38,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "f_E"
+        }
+      ],
+      "start": 3.36,
+      "startOffset": 5,
+      "word": "if"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 14,
+      "startOffset": 8,
+      "word": "Jeanne"
+    },
+    {
+      "alignedWord": "failed",
+      "case": "success",
+      "end": 3.61,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.57,
+      "startOffset": 15,
+      "word": "failed"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 3.63,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.61,
+      "startOffset": 22,
+      "word": "him"
+    }
+  ]
+}

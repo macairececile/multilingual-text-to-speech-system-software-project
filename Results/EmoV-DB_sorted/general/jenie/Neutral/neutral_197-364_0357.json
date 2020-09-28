@@ -1,0 +1,248 @@
+{
+  "transcript": "A month passed by, and Bonanza Creek remained quiet.",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 0,
+      "word": "A"
+    },
+    {
+      "alignedWord": "month",
+      "case": "success",
+      "end": 1.3900000000000001,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.1,
+      "startOffset": 2,
+      "word": "month"
+    },
+    {
+      "alignedWord": "passed",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.39,
+      "startOffset": 8,
+      "word": "passed"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 2.23,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.41,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 15,
+      "word": "by"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.6300000000000003,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 19,
+      "word": "and"
+    },
+    {
+      "alignedWord": "bonanza",
+      "case": "success",
+      "end": 3.03,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.63,
+      "startOffset": 23,
+      "word": "Bonanza"
+    },
+    {
+      "alignedWord": "creek",
+      "case": "success",
+      "end": 3.3699999999999997,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.03,
+      "startOffset": 31,
+      "word": "Creek"
+    },
+    {
+      "alignedWord": "remained",
+      "case": "success",
+      "end": 3.7800000000000002,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.37,
+      "startOffset": 37,
+      "word": "remained"
+    },
+    {
+      "alignedWord": "quiet",
+      "case": "success",
+      "end": 4.35,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.78,
+      "startOffset": 46,
+      "word": "quiet"
+    }
+  ]
+}

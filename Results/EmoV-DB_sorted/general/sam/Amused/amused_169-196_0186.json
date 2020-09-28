@@ -1,0 +1,300 @@
+{
+  "transcript": "Like a flash he launched himself into the feathered mass of the owl.",
+  "words": [
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 0,
+      "word": "Like"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.4099999999999997,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 5,
+      "word": "a"
+    },
+    {
+      "alignedWord": "flash",
+      "case": "success",
+      "end": 2.73,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 2.41,
+      "startOffset": 7,
+      "word": "flash"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 3.76,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.38,
+      "startOffset": 13,
+      "word": "he"
+    },
+    {
+      "alignedWord": "launched",
+      "case": "success",
+      "end": 4.2299999999999995,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.76,
+      "startOffset": 16,
+      "word": "launched"
+    },
+    {
+      "alignedWord": "himself",
+      "case": "success",
+      "end": 4.930000000000001,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "f_E"
+        }
+      ],
+      "start": 4.23,
+      "startOffset": 25,
+      "word": "himself"
+    },
+    {
+      "alignedWord": "into",
+      "case": "success",
+      "end": 5.96,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 5.89,
+      "startOffset": 33,
+      "word": "into"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 6.2,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 5.96,
+      "startOffset": 38,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 6.97,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.72,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 6.25,
+      "startOffset": 42,
+      "word": "feathered"
+    },
+    {
+      "alignedWord": "mass",
+      "case": "success",
+      "end": 7.42,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "s_E"
+        }
+      ],
+      "start": 6.97,
+      "startOffset": 52,
+      "word": "mass"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 7.9799999999999995,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 7.76,
+      "startOffset": 57,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 8.200000000000001,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 7.98,
+      "startOffset": 60,
+      "word": "the"
+    },
+    {
+      "alignedWord": "owl",
+      "case": "success",
+      "end": 8.790000000000001,
+      "endOffset": 67,
+      "phones": [
+        {
+          "duration": 0.34,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "l_E"
+        }
+      ],
+      "start": 8.22,
+      "startOffset": 64,
+      "word": "owl"
+    }
+  ]
+}

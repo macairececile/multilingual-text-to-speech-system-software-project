@@ -1,0 +1,282 @@
+{
+  "transcript": "They closed now until his fingers were like cords of steel.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 1.02,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "closed",
+      "case": "success",
+      "end": 1.51,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 5,
+      "word": "closed"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 1.95,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.29,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 12,
+      "word": "now"
+    },
+    {
+      "alignedWord": "until",
+      "case": "success",
+      "end": 2.34,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 16,
+      "word": "until"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.38,
+      "startOffset": 22,
+      "word": "his"
+    },
+    {
+      "alignedWord": "fingers",
+      "case": "success",
+      "end": 3.1399999999999997,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.61,
+      "startOffset": 26,
+      "word": "fingers"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 3.32,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.17,
+      "startOffset": 34,
+      "word": "were"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 3.6799999999999997,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.32,
+      "startOffset": 39,
+      "word": "like"
+    },
+    {
+      "alignedWord": "cords",
+      "case": "success",
+      "end": 4.2,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.73,
+      "startOffset": 44,
+      "word": "cords"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 4.3500000000000005,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 4.2,
+      "startOffset": 50,
+      "word": "of"
+    },
+    {
+      "alignedWord": "steel",
+      "case": "success",
+      "end": 5.460000000000001,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.42,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.41,
+          "phone": "l_E"
+        }
+      ],
+      "start": 4.36,
+      "startOffset": 53,
+      "word": "steel"
+    }
+  ]
+}

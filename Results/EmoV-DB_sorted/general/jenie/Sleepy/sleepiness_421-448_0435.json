@@ -1,0 +1,213 @@
+{
+  "transcript": "What do you mean by this outrageous conduct.",
+  "words": [
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 0.92,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 0,
+      "word": "What"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 1.0,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 5,
+      "word": "do"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.11,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 8,
+      "word": "you"
+    },
+    {
+      "alignedWord": "mean",
+      "case": "success",
+      "end": 1.36,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 12,
+      "word": "mean"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 17,
+      "word": "by"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 1.8,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.54,
+      "startOffset": 20,
+      "word": "this"
+    },
+    {
+      "alignedWord": "outrageous",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 25,
+      "word": "outrageous"
+    },
+    {
+      "alignedWord": "conduct",
+      "case": "success",
+      "end": 3.12,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.45,
+      "startOffset": 36,
+      "word": "conduct"
+    }
+  ]
+}

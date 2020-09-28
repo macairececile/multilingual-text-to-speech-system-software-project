@@ -1,0 +1,220 @@
+{
+  "transcript": "A trickle of fresh blood ran over his face.",
+  "words": [
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 0.85,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 0,
+      "word": "A"
+    },
+    {
+      "alignedWord": "trickle",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 2,
+      "word": "trickle"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.8399999999999999,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 10,
+      "word": "of"
+    },
+    {
+      "alignedWord": "fresh",
+      "case": "success",
+      "end": 2.55,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.33,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 13,
+      "word": "fresh"
+    },
+    {
+      "alignedWord": "blood",
+      "case": "success",
+      "end": 3.21,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.58,
+      "startOffset": 19,
+      "word": "blood"
+    },
+    {
+      "alignedWord": "ran",
+      "case": "success",
+      "end": 3.86,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.36,
+      "startOffset": 25,
+      "word": "ran"
+    },
+    {
+      "alignedWord": "over",
+      "case": "success",
+      "end": 4.21,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.88,
+      "startOffset": 29,
+      "word": "over"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 4.47,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.21,
+      "startOffset": 34,
+      "word": "his"
+    },
+    {
+      "alignedWord": "face",
+      "case": "success",
+      "end": 4.949999999999999,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.47,
+      "startOffset": 38,
+      "word": "face"
+    }
+  ]
+}

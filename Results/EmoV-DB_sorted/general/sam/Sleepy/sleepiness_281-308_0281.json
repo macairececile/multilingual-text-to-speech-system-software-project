@@ -1,0 +1,228 @@
+{
+  "transcript": "I do not blame you for anything; remember that.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.89,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.27,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.62,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.21,
+      "startOffset": 2,
+      "word": "do"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 1.56,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 5,
+      "word": "not"
+    },
+    {
+      "alignedWord": "blame",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 9,
+      "word": "blame"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.22,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 15,
+      "word": "you"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 2.76,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.51,
+      "startOffset": 19,
+      "word": "for"
+    },
+    {
+      "alignedWord": "anything",
+      "case": "success",
+      "end": 3.4099999999999997,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.76,
+      "startOffset": 23,
+      "word": "anything"
+    },
+    {
+      "alignedWord": "remember",
+      "case": "success",
+      "end": 5.140000000000001,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.9,
+      "startOffset": 33,
+      "word": "remember"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 5.56,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.14,
+      "startOffset": 42,
+      "word": "that"
+    }
+  ]
+}

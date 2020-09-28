@@ -1,0 +1,267 @@
+{
+  "transcript": "In spite of their absurdity the words affected Philip curiously.",
+  "words": [
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 0,
+      "word": "In"
+    },
+    {
+      "alignedWord": "spite",
+      "case": "success",
+      "end": 1.16,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 3,
+      "word": "spite"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 9,
+      "word": "of"
+    },
+    {
+      "alignedWord": "their",
+      "case": "success",
+      "end": 1.43,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 12,
+      "word": "their"
+    },
+    {
+      "alignedWord": "absurdity",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 18,
+      "word": "absurdity"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.04,
+      "startOffset": 28,
+      "word": "the"
+    },
+    {
+      "alignedWord": "words",
+      "case": "success",
+      "end": 2.46,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.19,
+      "startOffset": 32,
+      "word": "words"
+    },
+    {
+      "alignedWord": "affected",
+      "case": "success",
+      "end": 2.92,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.46,
+      "startOffset": 38,
+      "word": "affected"
+    },
+    {
+      "alignedWord": "philip",
+      "case": "success",
+      "end": 3.15,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "p_E"
+        }
+      ],
+      "start": 2.92,
+      "startOffset": 47,
+      "word": "Philip"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.98,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.83,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.15,
+      "startOffset": 54,
+      "word": "curiously"
+    }
+  ]
+}

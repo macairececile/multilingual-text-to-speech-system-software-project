@@ -1,0 +1,101 @@
+{
+  "transcript": "Yes, sir, I corrected.",
+  "words": [
+    {
+      "alignedWord": "yes",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 0,
+      "word": "Yes"
+    },
+    {
+      "alignedWord": "sir",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 5,
+      "word": "sir"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 2.1,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.95,
+      "startOffset": 10,
+      "word": "I"
+    },
+    {
+      "alignedWord": "corrected",
+      "case": "success",
+      "end": 2.6500000000000004,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.1,
+      "startOffset": 12,
+      "word": "corrected"
+    }
+  ]
+}

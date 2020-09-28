@@ -1,0 +1,58 @@
+{
+  "transcript": "No-sir-ee.",
+  "words": [
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 0.79,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.52,
+      "startOffset": 0,
+      "word": "No"
+    },
+    {
+      "alignedWord": "sir",
+      "case": "success",
+      "end": 1.09,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 3,
+      "word": "sir"
+    },
+    {
+      "alignedWord": "ee",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "iy_S"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 7,
+      "word": "ee"
+    }
+  ]
+}

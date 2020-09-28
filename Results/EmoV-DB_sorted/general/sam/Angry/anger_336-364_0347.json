@@ -1,0 +1,316 @@
+{
+  "transcript": "They are greatly delighted with anything that is bright or giveth a sound.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.54,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.36,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 0.6000000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "er_S"
+        }
+      ],
+      "start": 0.54,
+      "startOffset": 5,
+      "word": "are"
+    },
+    {
+      "alignedWord": "greatly",
+      "case": "success",
+      "end": 0.96,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 9,
+      "word": "greatly"
+    },
+    {
+      "alignedWord": "delighted",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 17,
+      "word": "delighted"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 1.37,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 27,
+      "word": "with"
+    },
+    {
+      "alignedWord": "anything",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 32,
+      "word": "anything"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.85,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 41,
+      "word": "that"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.9700000000000002,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 46,
+      "word": "is"
+    },
+    {
+      "alignedWord": "bright",
+      "case": "success",
+      "end": 2.39,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 49,
+      "word": "bright"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 2.72,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.52,
+      "startOffset": 56,
+      "word": "or"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.04,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.3,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.74,
+      "startOffset": 59,
+      "word": "giveth"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.1999999999999997,
+      "endOffset": 67,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.09,
+      "startOffset": 66,
+      "word": "a"
+    },
+    {
+      "alignedWord": "sound",
+      "case": "success",
+      "end": 3.7800000000000002,
+      "endOffset": 73,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.2,
+      "startOffset": 68,
+      "word": "sound"
+    }
+  ]
+}

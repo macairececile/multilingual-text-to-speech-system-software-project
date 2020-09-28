@@ -1,0 +1,212 @@
+{
+  "transcript": "I'll be out of my head in fifteen minutes.",
+  "words": [
+    {
+      "alignedWord": "i'll",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 0,
+      "word": "I'll"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 1.43,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 5,
+      "word": "be"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 1.5699999999999998,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 8,
+      "word": "out"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.71,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 12,
+      "word": "of"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 1.83,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.71,
+      "startOffset": 15,
+      "word": "my"
+    },
+    {
+      "alignedWord": "head",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 18,
+      "word": "head"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.2800000000000002,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.12,
+      "startOffset": 23,
+      "word": "in"
+    },
+    {
+      "alignedWord": "fifteen",
+      "case": "success",
+      "end": 2.78,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.28,
+      "startOffset": 26,
+      "word": "fifteen"
+    },
+    {
+      "alignedWord": "minutes",
+      "case": "success",
+      "end": 3.29,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.78,
+      "startOffset": 34,
+      "word": "minutes"
+    }
+  ]
+}

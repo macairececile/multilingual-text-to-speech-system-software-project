@@ -1,0 +1,313 @@
+{
+  "transcript": "They continued valiantly to lie, but the truth continued to outrun them.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.4,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.31,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "continued",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 5,
+      "word": "continued"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.18,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.85,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 15,
+      "word": "valiantly"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 25,
+      "word": "to"
+    },
+    {
+      "alignedWord": "lie",
+      "case": "success",
+      "end": 2.91,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.29,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.5,
+      "startOffset": 28,
+      "word": "lie"
+    },
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 4.33,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.09,
+      "startOffset": 33,
+      "word": "but"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.47,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.34,
+      "startOffset": 37,
+      "word": "the"
+    },
+    {
+      "alignedWord": "truth",
+      "case": "success",
+      "end": 4.949999999999999,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "th_E"
+        }
+      ],
+      "start": 4.47,
+      "startOffset": 41,
+      "word": "truth"
+    },
+    {
+      "alignedWord": "continued",
+      "case": "success",
+      "end": 5.55,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.05,
+      "startOffset": 47,
+      "word": "continued"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 5.699999999999999,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 5.56,
+      "startOffset": 57,
+      "word": "to"
+    },
+    {
+      "alignedWord": "outrun",
+      "case": "success",
+      "end": 6.25,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.71,
+      "startOffset": 60,
+      "word": "outrun"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 6.61,
+      "endOffset": 71,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "m_E"
+        }
+      ],
+      "start": 6.25,
+      "startOffset": 67,
+      "word": "them"
+    }
+  ]
+}

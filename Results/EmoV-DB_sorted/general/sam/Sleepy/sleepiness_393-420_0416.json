@@ -1,0 +1,274 @@
+{
+  "transcript": "The added weight had a velocity of fifteen miles per hour.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.97,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.95,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "added",
+      "case": "success",
+      "end": 2.2,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.97,
+      "startOffset": 4,
+      "word": "added"
+    },
+    {
+      "alignedWord": "weight",
+      "case": "success",
+      "end": 2.5700000000000003,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.2,
+      "startOffset": 10,
+      "word": "weight"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 2.98,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.59,
+      "startOffset": 17,
+      "word": "had"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.04,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.98,
+      "startOffset": 21,
+      "word": "a"
+    },
+    {
+      "alignedWord": "velocity",
+      "case": "success",
+      "end": 4.25,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.38,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.04,
+      "startOffset": 23,
+      "word": "velocity"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 4.73,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 4.54,
+      "startOffset": 32,
+      "word": "of"
+    },
+    {
+      "alignedWord": "fifteen",
+      "case": "success",
+      "end": 5.37,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.73,
+      "startOffset": 35,
+      "word": "fifteen"
+    },
+    {
+      "alignedWord": "miles",
+      "case": "success",
+      "end": 6.08,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.43,
+      "startOffset": 43,
+      "word": "miles"
+    },
+    {
+      "alignedWord": "per",
+      "case": "success",
+      "end": 6.409999999999999,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 6.39,
+      "startOffset": 49,
+      "word": "per"
+    },
+    {
+      "alignedWord": "hour",
+      "case": "success",
+      "end": 6.74,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 6.41,
+      "startOffset": 53,
+      "word": "hour"
+    }
+  ]
+}

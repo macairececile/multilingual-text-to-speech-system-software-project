@@ -1,0 +1,231 @@
+{
+  "transcript": "Such a dog the wise driver kills, or turns loose.",
+  "words": [
+    {
+      "alignedWord": "such",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 0,
+      "word": "Such"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.1800000000000002,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.12,
+      "startOffset": 5,
+      "word": "a"
+    },
+    {
+      "alignedWord": "dog",
+      "case": "success",
+      "end": 1.58,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "g_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 7,
+      "word": "dog"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.7000000000000002,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.58,
+      "startOffset": 11,
+      "word": "the"
+    },
+    {
+      "alignedWord": "wise",
+      "case": "success",
+      "end": 2.03,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 15,
+      "word": "wise"
+    },
+    {
+      "alignedWord": "driver",
+      "case": "success",
+      "end": 2.4299999999999997,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.03,
+      "startOffset": 20,
+      "word": "driver"
+    },
+    {
+      "alignedWord": "kills",
+      "case": "success",
+      "end": 2.92,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 27,
+      "word": "kills"
+    },
+    {
+      "alignedWord": "or",
+      "case": "success",
+      "end": 2.9899999999999998,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "er_S"
+        }
+      ],
+      "start": 2.92,
+      "startOffset": 34,
+      "word": "or"
+    },
+    {
+      "alignedWord": "turns",
+      "case": "success",
+      "end": 3.3800000000000003,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.99,
+      "startOffset": 37,
+      "word": "turns"
+    },
+    {
+      "alignedWord": "loose",
+      "case": "success",
+      "end": 3.87,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.39,
+      "startOffset": 43,
+      "word": "loose"
+    }
+  ]
+}

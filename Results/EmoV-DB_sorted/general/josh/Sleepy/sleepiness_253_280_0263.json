@@ -1,0 +1,206 @@
+{
+  "transcript": "Joan looked triumphantly at Sheldon, who bowed.",
+  "words": [
+    {
+      "alignedWord": "joan",
+      "case": "success",
+      "end": 2.05,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 0,
+      "word": "Joan"
+    },
+    {
+      "alignedWord": "looked",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 5,
+      "word": "looked"
+    },
+    {
+      "alignedWord": "triumphantly",
+      "case": "success",
+      "end": 3.1399999999999997,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 12,
+      "word": "triumphantly"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 3.2800000000000002,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.14,
+      "startOffset": 25,
+      "word": "at"
+    },
+    {
+      "alignedWord": "sheldon",
+      "case": "success",
+      "end": 3.9699999999999998,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.28,
+      "startOffset": 28,
+      "word": "Sheldon"
+    },
+    {
+      "alignedWord": "who",
+      "case": "success",
+      "end": 4.66,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 4.48,
+      "startOffset": 37,
+      "word": "who"
+    },
+    {
+      "alignedWord": "bowed",
+      "case": "success",
+      "end": 5.43,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.36,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.66,
+      "startOffset": 41,
+      "word": "bowed"
+    }
+  ]
+}

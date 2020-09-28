@@ -1,0 +1,283 @@
+{
+  "transcript": "Curly rushed her antagonist, who struck again and leaped aside.",
+  "words": [
+    {
+      "alignedWord": "curly",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 0,
+      "word": "Curly"
+    },
+    {
+      "alignedWord": "rushed",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.32,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 6,
+      "word": "rushed"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 3.3,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.09,
+      "startOffset": 13,
+      "word": "her"
+    },
+    {
+      "alignedWord": "antagonist",
+      "case": "success",
+      "end": 4.62,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.3,
+      "startOffset": 17,
+      "word": "antagonist"
+    },
+    {
+      "alignedWord": "who",
+      "case": "success",
+      "end": 5.61,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 5.42,
+      "startOffset": 29,
+      "word": "who"
+    },
+    {
+      "alignedWord": "struck",
+      "case": "success",
+      "end": 5.92,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 5.61,
+      "startOffset": 33,
+      "word": "struck"
+    },
+    {
+      "alignedWord": "again",
+      "case": "success",
+      "end": 6.43,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_E"
+        }
+      ],
+      "start": 6.08,
+      "startOffset": 40,
+      "word": "again"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 6.739999999999999,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "d_E"
+        }
+      ],
+      "start": 6.43,
+      "startOffset": 46,
+      "word": "and"
+    },
+    {
+      "alignedWord": "leaped",
+      "case": "success",
+      "end": 8.29,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 8.01,
+      "startOffset": 50,
+      "word": "leaped"
+    },
+    {
+      "alignedWord": "aside",
+      "case": "success",
+      "end": 8.959999999999999,
+      "endOffset": 62,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "d_E"
+        }
+      ],
+      "start": 8.29,
+      "startOffset": 57,
+      "word": "aside"
+    }
+  ]
+}

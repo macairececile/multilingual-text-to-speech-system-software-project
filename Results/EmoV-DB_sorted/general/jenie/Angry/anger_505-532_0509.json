@@ -1,0 +1,247 @@
+{
+  "transcript": "Yet, in accordance with Ernest's test of truth, it worked.",
+  "words": [
+    {
+      "alignedWord": "yet",
+      "case": "success",
+      "end": 1.4300000000000002,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 0,
+      "word": "Yet"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.8299999999999998,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 5,
+      "word": "in"
+    },
+    {
+      "alignedWord": "accordance",
+      "case": "success",
+      "end": 2.41,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 8,
+      "word": "accordance"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 2.62,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.42,
+      "startOffset": 19,
+      "word": "with"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.09,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.47,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.62,
+      "startOffset": 24,
+      "word": "Ernest's"
+    },
+    {
+      "alignedWord": "test",
+      "case": "success",
+      "end": 3.68,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.31,
+      "startOffset": 33,
+      "word": "test"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.79,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.68,
+      "startOffset": 38,
+      "word": "of"
+    },
+    {
+      "alignedWord": "truth",
+      "case": "success",
+      "end": 4.25,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.83,
+      "startOffset": 41,
+      "word": "truth"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 4.7299999999999995,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.51,
+      "startOffset": 48,
+      "word": "it"
+    },
+    {
+      "alignedWord": "worked",
+      "case": "success",
+      "end": 5.25,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.73,
+      "startOffset": 51,
+      "word": "worked"
+    }
+  ]
+}

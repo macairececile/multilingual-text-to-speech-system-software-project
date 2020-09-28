@@ -1,0 +1,216 @@
+{
+  "transcript": "She nodded, and her eyes grew soft and moist.",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 0,
+      "word": "She"
+    },
+    {
+      "alignedWord": "nodded",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 4,
+      "word": "nodded"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.97,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 12,
+      "word": "and"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 2.13,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.97,
+      "startOffset": 16,
+      "word": "her"
+    },
+    {
+      "alignedWord": "eyes",
+      "case": "success",
+      "end": 2.53,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.26,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.17,
+      "startOffset": 20,
+      "word": "eyes"
+    },
+    {
+      "alignedWord": "grew",
+      "case": "success",
+      "end": 2.74,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.54,
+      "startOffset": 25,
+      "word": "grew"
+    },
+    {
+      "alignedWord": "soft",
+      "case": "success",
+      "end": 3.1700000000000004,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.74,
+      "startOffset": 30,
+      "word": "soft"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 35,
+      "word": "and"
+    },
+    {
+      "alignedWord": "moist",
+      "case": "success",
+      "end": 3.81,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.33,
+      "startOffset": 39,
+      "word": "moist"
+    }
+  ]
+}

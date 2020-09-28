@@ -1,0 +1,244 @@
+{
+  "transcript": "Its diameter was not more than two hundred yards.",
+  "words": [
+    {
+      "alignedWord": "its",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 0,
+      "word": "Its"
+    },
+    {
+      "alignedWord": "diameter",
+      "case": "success",
+      "end": 2.05,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 4,
+      "word": "diameter"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.3499999999999996,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.05,
+      "startOffset": 13,
+      "word": "was"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 2.6399999999999997,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 17,
+      "word": "not"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 2.91,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.64,
+      "startOffset": 21,
+      "word": "more"
+    },
+    {
+      "alignedWord": "than",
+      "case": "success",
+      "end": 3.0700000000000003,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.91,
+      "startOffset": 26,
+      "word": "than"
+    },
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 3.32,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.07,
+      "startOffset": 31,
+      "word": "two"
+    },
+    {
+      "alignedWord": "hundred",
+      "case": "success",
+      "end": 3.6599999999999997,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.32,
+      "startOffset": 35,
+      "word": "hundred"
+    },
+    {
+      "alignedWord": "yards",
+      "case": "success",
+      "end": 4.25,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.66,
+      "startOffset": 43,
+      "word": "yards"
+    }
+  ]
+}

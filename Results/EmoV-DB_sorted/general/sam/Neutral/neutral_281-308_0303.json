@@ -1,0 +1,263 @@
+{
+  "transcript": "But they make the mistake of ignoring their own duality.",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 0.6599999999999999,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 0,
+      "word": "But"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.76,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.66,
+      "startOffset": 4,
+      "word": "they"
+    },
+    {
+      "alignedWord": "make",
+      "case": "success",
+      "end": 0.95,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 9,
+      "word": "make"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 14,
+      "word": "the"
+    },
+    {
+      "alignedWord": "mistake",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 18,
+      "word": "mistake"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.64,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 26,
+      "word": "of"
+    },
+    {
+      "alignedWord": "ignoring",
+      "case": "success",
+      "end": 2.11,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 29,
+      "word": "ignoring"
+    },
+    {
+      "alignedWord": "their",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.11,
+      "startOffset": 38,
+      "word": "their"
+    },
+    {
+      "alignedWord": "own",
+      "case": "success",
+      "end": 2.6,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.31,
+      "startOffset": 44,
+      "word": "own"
+    },
+    {
+      "alignedWord": "duality",
+      "case": "success",
+      "end": 3.28,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.61,
+      "startOffset": 48,
+      "word": "duality"
+    }
+  ]
+}

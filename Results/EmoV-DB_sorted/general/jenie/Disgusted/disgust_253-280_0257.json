@@ -1,0 +1,166 @@
+{
+  "transcript": "They are coming ashore, whoever they are.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 1.02,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.73,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 1.11,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "er_S"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 5,
+      "word": "are"
+    },
+    {
+      "alignedWord": "coming",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 9,
+      "word": "coming"
+    },
+    {
+      "alignedWord": "ashore",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.46,
+      "startOffset": 16,
+      "word": "ashore"
+    },
+    {
+      "alignedWord": "whoever",
+      "case": "success",
+      "end": 2.7800000000000002,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 24,
+      "word": "whoever"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 2.9499999999999997,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 2.78,
+      "startOffset": 32,
+      "word": "they"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 3.3600000000000003,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.95,
+      "startOffset": 37,
+      "word": "are"
+    }
+  ]
+}

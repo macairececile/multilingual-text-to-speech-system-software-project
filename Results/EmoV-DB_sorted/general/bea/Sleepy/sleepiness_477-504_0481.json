@@ -1,0 +1,108 @@
+{
+  "transcript": "Nimrod replied, with a slight manifestation of sensitiveness.",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 7.86,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 6.54,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.32,
+      "startOffset": 0,
+      "word": "Nimrod"
+    },
+    {
+      "alignedWord": "replied",
+      "case": "success",
+      "end": 7.92,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 7.86,
+      "startOffset": 7,
+      "word": "replied"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 7.95,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "th_E"
+        }
+      ],
+      "start": 7.92,
+      "startOffset": 16,
+      "word": "with"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 22,
+      "startOffset": 21,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 29,
+      "startOffset": 23,
+      "word": "slight"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 43,
+      "startOffset": 30,
+      "word": "manifestation"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 46,
+      "startOffset": 44,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 60,
+      "startOffset": 47,
+      "word": "sensitiveness"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "transcript": "May drought destroy your crops.",
+  "words": [
+    {
+      "alignedWord": "may",
+      "case": "success",
+      "end": 1.23,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.95,
+      "startOffset": 0,
+      "word": "May"
+    },
+    {
+      "alignedWord": "drought",
+      "case": "success",
+      "end": 1.7,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 4,
+      "word": "drought"
+    },
+    {
+      "alignedWord": "destroy",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 12,
+      "word": "destroy"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 2.69,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.59,
+      "startOffset": 20,
+      "word": "your"
+    },
+    {
+      "alignedWord": "crops",
+      "case": "success",
+      "end": 3.48,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.69,
+      "startOffset": 25,
+      "word": "crops"
+    }
+  ]
+}

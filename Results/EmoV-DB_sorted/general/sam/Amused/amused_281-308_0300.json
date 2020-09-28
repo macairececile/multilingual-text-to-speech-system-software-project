@@ -1,0 +1,298 @@
+{
+  "transcript": "From my earliest recollection my sleep was a period of terror.",
+  "words": [
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 2.0700000000000003,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 0,
+      "word": "From"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 5,
+      "word": "my"
+    },
+    {
+      "alignedWord": "earliest",
+      "case": "success",
+      "end": 2.82,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 8,
+      "word": "earliest"
+    },
+    {
+      "alignedWord": "recollection",
+      "case": "success",
+      "end": 3.6999999999999997,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.82,
+      "startOffset": 17,
+      "word": "recollection"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 4.38,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 4.17,
+      "startOffset": 30,
+      "word": "my"
+    },
+    {
+      "alignedWord": "sleep",
+      "case": "success",
+      "end": 4.9399999999999995,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "p_E"
+        }
+      ],
+      "start": 4.38,
+      "startOffset": 33,
+      "word": "sleep"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 5.670000000000001,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.44,
+      "startOffset": 39,
+      "word": "was"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 5.76,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 5.67,
+      "startOffset": 43,
+      "word": "a"
+    },
+    {
+      "alignedWord": "period",
+      "case": "success",
+      "end": 6.17,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.82,
+      "startOffset": 45,
+      "word": "period"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 7.09,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_E"
+        }
+      ],
+      "start": 6.91,
+      "startOffset": 52,
+      "word": "of"
+    },
+    {
+      "alignedWord": "terror",
+      "case": "success",
+      "end": 8.14,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.3,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.45,
+          "phone": "er_E"
+        }
+      ],
+      "start": 7.14,
+      "startOffset": 55,
+      "word": "terror"
+    }
+  ]
+}

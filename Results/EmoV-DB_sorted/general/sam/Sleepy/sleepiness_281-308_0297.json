@@ -1,0 +1,282 @@
+{
+  "transcript": "There's a big English general right now whose name is Roberts.",
+  "words": [
+    {
+      "alignedWord": "there's",
+      "case": "success",
+      "end": 1.7199999999999998,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 0,
+      "word": "There's"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.99,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 8,
+      "word": "a"
+    },
+    {
+      "alignedWord": "big",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "g_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 10,
+      "word": "big"
+    },
+    {
+      "alignedWord": "english",
+      "case": "success",
+      "end": 3.9299999999999997,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 3.32,
+      "startOffset": 14,
+      "word": "English"
+    },
+    {
+      "alignedWord": "general",
+      "case": "success",
+      "end": 4.35,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_E"
+        }
+      ],
+      "start": 4.09,
+      "startOffset": 22,
+      "word": "general"
+    },
+    {
+      "alignedWord": "right",
+      "case": "success",
+      "end": 4.59,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.35,
+      "startOffset": 30,
+      "word": "right"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 5.17,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.42,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 4.65,
+      "startOffset": 36,
+      "word": "now"
+    },
+    {
+      "alignedWord": "whose",
+      "case": "success",
+      "end": 6.41,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 6.09,
+      "startOffset": 40,
+      "word": "whose"
+    },
+    {
+      "alignedWord": "name",
+      "case": "success",
+      "end": 7.05,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.28,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "m_E"
+        }
+      ],
+      "start": 6.41,
+      "startOffset": 46,
+      "word": "name"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 7.93,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 7.63,
+      "startOffset": 51,
+      "word": "is"
+    },
+    {
+      "alignedWord": "roberts",
+      "case": "success",
+      "end": 8.93,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.41,
+          "phone": "s_E"
+        }
+      ],
+      "start": 7.93,
+      "startOffset": 54,
+      "word": "Roberts"
+    }
+  ]
+}

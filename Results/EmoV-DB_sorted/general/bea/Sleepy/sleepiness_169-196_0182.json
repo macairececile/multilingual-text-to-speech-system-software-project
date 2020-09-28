@@ -1,0 +1,185 @@
+{
+  "transcript": "This time he did not yap for mercy.",
+  "words": [
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 2.57,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.19,
+      "startOffset": 0,
+      "word": "This"
+    },
+    {
+      "alignedWord": "time",
+      "case": "success",
+      "end": 3.1599999999999997,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.59,
+      "startOffset": 5,
+      "word": "time"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 3.73,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.27,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.29,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.17,
+      "startOffset": 10,
+      "word": "he"
+    },
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 3.94,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.77,
+      "startOffset": 13,
+      "word": "did"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 4.25,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.94,
+      "startOffset": 17,
+      "word": "not"
+    },
+    {
+      "alignedWord": "yap",
+      "case": "success",
+      "end": 4.67,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_E"
+        }
+      ],
+      "start": 4.25,
+      "startOffset": 21,
+      "word": "yap"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 4.949999999999999,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.68,
+      "startOffset": 25,
+      "word": "for"
+    },
+    {
+      "alignedWord": "mercy",
+      "case": "success",
+      "end": 5.59,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.95,
+      "startOffset": 29,
+      "word": "mercy"
+    }
+  ]
+}

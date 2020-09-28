@@ -1,0 +1,198 @@
+{
+  "transcript": "Sometimes her dreams were filled with visions.",
+  "words": [
+    {
+      "alignedWord": "sometimes",
+      "case": "success",
+      "end": 2.52,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 0,
+      "word": "Sometimes"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 3.08,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.82,
+      "startOffset": 10,
+      "word": "her"
+    },
+    {
+      "alignedWord": "dreams",
+      "case": "success",
+      "end": 3.96,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.14,
+      "startOffset": 14,
+      "word": "dreams"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 4.93,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.72,
+      "startOffset": 21,
+      "word": "were"
+    },
+    {
+      "alignedWord": "filled",
+      "case": "success",
+      "end": 5.37,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.93,
+      "startOffset": 26,
+      "word": "filled"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 5.61,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "th_E"
+        }
+      ],
+      "start": 5.37,
+      "startOffset": 33,
+      "word": "with"
+    },
+    {
+      "alignedWord": "visions",
+      "case": "success",
+      "end": 6.41,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "zh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.62,
+      "startOffset": 38,
+      "word": "visions"
+    }
+  ]
+}

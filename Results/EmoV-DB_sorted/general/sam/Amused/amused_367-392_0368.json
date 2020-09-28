@@ -1,0 +1,325 @@
+{
+  "transcript": "I just do appreciate it without being able to express my feelings.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "just",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 2,
+      "word": "just"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 1.94,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 7,
+      "word": "do"
+    },
+    {
+      "alignedWord": "appreciate",
+      "case": "success",
+      "end": 2.84,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.94,
+      "startOffset": 10,
+      "word": "appreciate"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 3.0,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.84,
+      "startOffset": 21,
+      "word": "it"
+    },
+    {
+      "alignedWord": "without",
+      "case": "success",
+      "end": 4.0,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.61,
+      "startOffset": 24,
+      "word": "without"
+    },
+    {
+      "alignedWord": "being",
+      "case": "success",
+      "end": 4.21,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.0,
+      "startOffset": 32,
+      "word": "being"
+    },
+    {
+      "alignedWord": "able",
+      "case": "success",
+      "end": 4.59,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_E"
+        }
+      ],
+      "start": 4.25,
+      "startOffset": 38,
+      "word": "able"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 4.81,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 4.59,
+      "startOffset": 43,
+      "word": "to"
+    },
+    {
+      "alignedWord": "express",
+      "case": "success",
+      "end": 5.699999999999999,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.81,
+      "startOffset": 46,
+      "word": "express"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 6.2700000000000005,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 6.03,
+      "startOffset": 54,
+      "word": "my"
+    },
+    {
+      "alignedWord": "feelings",
+      "case": "success",
+      "end": 6.9,
+      "endOffset": 65,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 6.28,
+      "startOffset": 57,
+      "word": "feelings"
+    }
+  ]
+}

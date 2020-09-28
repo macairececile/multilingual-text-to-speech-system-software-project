@@ -1,0 +1,277 @@
+{
+  "transcript": "She turned, fearing that Jacques might see what was in her face.",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 0.6699999999999999,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.42,
+      "startOffset": 0,
+      "word": "She"
+    },
+    {
+      "alignedWord": "turned",
+      "case": "success",
+      "end": 1.1800000000000002,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 4,
+      "word": "turned"
+    },
+    {
+      "alignedWord": "fearing",
+      "case": "success",
+      "end": 1.6199999999999999,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.19,
+      "startOffset": 12,
+      "word": "fearing"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.86,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 20,
+      "word": "that"
+    },
+    {
+      "alignedWord": "jacques",
+      "case": "success",
+      "end": 2.38,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 25,
+      "word": "Jacques"
+    },
+    {
+      "alignedWord": "might",
+      "case": "success",
+      "end": 2.85,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 33,
+      "word": "might"
+    },
+    {
+      "alignedWord": "see",
+      "case": "success",
+      "end": 3.16,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.85,
+      "startOffset": 39,
+      "word": "see"
+    },
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 3.3000000000000003,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.16,
+      "startOffset": 43,
+      "word": "what"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 3.4499999999999997,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.3,
+      "startOffset": 48,
+      "word": "was"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.56,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.45,
+      "startOffset": 52,
+      "word": "in"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 3.72,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.56,
+      "startOffset": 55,
+      "word": "her"
+    },
+    {
+      "alignedWord": "face",
+      "case": "success",
+      "end": 4.29,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.72,
+      "startOffset": 59,
+      "word": "face"
+    }
+  ]
+}

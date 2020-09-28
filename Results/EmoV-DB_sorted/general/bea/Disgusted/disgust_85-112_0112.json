@@ -1,0 +1,143 @@
+{
+  "transcript": "He was wounded in the arm.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.3800000000000001,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.1,
+      "startOffset": 3,
+      "word": "was"
+    },
+    {
+      "alignedWord": "wounded",
+      "case": "success",
+      "end": 2.1,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.26,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 7,
+      "word": "wounded"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.27,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.11,
+      "startOffset": 15,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.4,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.27,
+      "startOffset": 18,
+      "word": "the"
+    },
+    {
+      "alignedWord": "arm",
+      "case": "success",
+      "end": 2.8899999999999997,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.4,
+      "startOffset": 22,
+      "word": "arm"
+    }
+  ]
+}

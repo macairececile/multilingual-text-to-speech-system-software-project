@@ -1,0 +1,193 @@
+{
+  "transcript": "He may anticipate the day of his death.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.9099999999999999,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "may",
+      "case": "success",
+      "end": 1.35,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.35,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 3,
+      "word": "may"
+    },
+    {
+      "alignedWord": "anticipate",
+      "case": "success",
+      "end": 2.39,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 7,
+      "word": "anticipate"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.47,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.39,
+      "startOffset": 18,
+      "word": "the"
+    },
+    {
+      "alignedWord": "day",
+      "case": "success",
+      "end": 2.7300000000000004,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 2.47,
+      "startOffset": 22,
+      "word": "day"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.86,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.73,
+      "startOffset": 26,
+      "word": "of"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.01,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.86,
+      "startOffset": 29,
+      "word": "his"
+    },
+    {
+      "alignedWord": "death",
+      "case": "success",
+      "end": 3.4799999999999995,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.01,
+      "startOffset": 33,
+      "word": "death"
+    }
+  ]
+}

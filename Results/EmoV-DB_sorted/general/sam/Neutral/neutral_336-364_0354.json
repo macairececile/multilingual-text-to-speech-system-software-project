@@ -1,0 +1,151 @@
+{
+  "transcript": "Fresh meat they failed to obtain.",
+  "words": [
+    {
+      "alignedWord": "fresh",
+      "case": "success",
+      "end": 0.86,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 0,
+      "word": "Fresh"
+    },
+    {
+      "alignedWord": "meat",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 6,
+      "word": "meat"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 1.28,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 11,
+      "word": "they"
+    },
+    {
+      "alignedWord": "failed",
+      "case": "success",
+      "end": 1.6400000000000001,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.28,
+      "startOffset": 16,
+      "word": "failed"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.7599999999999998,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.64,
+      "startOffset": 23,
+      "word": "to"
+    },
+    {
+      "alignedWord": "obtain",
+      "case": "success",
+      "end": 2.24,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 26,
+      "word": "obtain"
+    }
+  ]
+}

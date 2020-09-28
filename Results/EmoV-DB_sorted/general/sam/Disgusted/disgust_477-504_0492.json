@@ -1,0 +1,197 @@
+{
+  "transcript": "Burnt out like the crater of a volcano.",
+  "words": [
+    {
+      "alignedWord": "burnt",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.36,
+      "startOffset": 0,
+      "word": "Burnt"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 1.29,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.32,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 6,
+      "word": "out"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 1.7000000000000002,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.34,
+      "startOffset": 10,
+      "word": "like"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 15,
+      "word": "the"
+    },
+    {
+      "alignedWord": "crater",
+      "case": "success",
+      "end": 3.05,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.35,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.09,
+      "startOffset": 19,
+      "word": "crater"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.25,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.12,
+      "startOffset": 26,
+      "word": "of"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.39,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.27,
+      "startOffset": 29,
+      "word": "a"
+    },
+    {
+      "alignedWord": "volcano",
+      "case": "success",
+      "end": 4.58,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.43,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 3.39,
+      "startOffset": 31,
+      "word": "volcano"
+    }
+  ]
+}

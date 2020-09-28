@@ -1,0 +1,103 @@
+{
+  "transcript": "I have been doubly baptized.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 3.57,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 3.56,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 3.5999999999999996,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.57,
+      "startOffset": 2,
+      "word": "have"
+    },
+    {
+      "alignedWord": "been",
+      "case": "success",
+      "end": 3.8499999999999996,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.82,
+      "startOffset": 7,
+      "word": "been"
+    },
+    {
+      "alignedWord": "doubly",
+      "case": "success",
+      "end": 3.8999999999999995,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.8499999999999996,
+      "startOffset": 12,
+      "word": "doubly"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 27,
+      "startOffset": 19,
+      "word": "baptized"
+    }
+  ]
+}

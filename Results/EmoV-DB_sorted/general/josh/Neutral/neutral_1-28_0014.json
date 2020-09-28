@@ -1,0 +1,212 @@
+{
+  "transcript": "Now you're coming down to business, Phil, he exclaimed.",
+  "words": [
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 0.28,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.14,
+      "startOffset": 0,
+      "word": "Now"
+    },
+    {
+      "alignedWord": "you're",
+      "case": "success",
+      "end": 0.43000000000000005,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.28,
+      "startOffset": 4,
+      "word": "you're"
+    },
+    {
+      "alignedWord": "coming",
+      "case": "success",
+      "end": 0.6799999999999999,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.43,
+      "startOffset": 11,
+      "word": "coming"
+    },
+    {
+      "alignedWord": "down",
+      "case": "success",
+      "end": 0.89,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 18,
+      "word": "down"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.99,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 23,
+      "word": "to"
+    },
+    {
+      "alignedWord": "business",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.99,
+      "startOffset": 26,
+      "word": "business"
+    },
+    {
+      "alignedWord": "phil",
+      "case": "success",
+      "end": 1.6500000000000001,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 36,
+      "word": "Phil"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.8499999999999999,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 42,
+      "word": "he"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.46,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 45,
+      "word": "exclaimed"
+    }
+  ]
+}

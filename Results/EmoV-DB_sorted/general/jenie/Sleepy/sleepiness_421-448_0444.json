@@ -1,0 +1,171 @@
+{
+  "transcript": "Then you don't believe in altruism.",
+  "words": [
+    {
+      "alignedWord": "then",
+      "case": "success",
+      "end": 0.8,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.66,
+      "startOffset": 0,
+      "word": "Then"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.8,
+      "startOffset": 5,
+      "word": "you"
+    },
+    {
+      "alignedWord": "don't",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 9,
+      "word": "don't"
+    },
+    {
+      "alignedWord": "believe",
+      "case": "success",
+      "end": 1.86,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 15,
+      "word": "believe"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 1.9600000000000002,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 23,
+      "word": "in"
+    },
+    {
+      "alignedWord": "altruism",
+      "case": "success",
+      "end": 2.86,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 26,
+      "word": "altruism"
+    }
+  ]
+}

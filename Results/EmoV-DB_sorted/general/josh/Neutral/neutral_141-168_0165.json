@@ -1,0 +1,193 @@
+{
+  "transcript": "They are to attack your camp tomorrow night.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 1.1500000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "er_S"
+        }
+      ],
+      "start": 1.1,
+      "startOffset": 5,
+      "word": "are"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.3099999999999998,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 9,
+      "word": "to"
+    },
+    {
+      "alignedWord": "attack",
+      "case": "success",
+      "end": 1.61,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 12,
+      "word": "attack"
+    },
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 19,
+      "word": "your"
+    },
+    {
+      "alignedWord": "camp",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 24,
+      "word": "camp"
+    },
+    {
+      "alignedWord": "tomorrow",
+      "case": "success",
+      "end": 2.33,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 29,
+      "word": "tomorrow"
+    },
+    {
+      "alignedWord": "night",
+      "case": "success",
+      "end": 2.69,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.33,
+      "startOffset": 38,
+      "word": "night"
+    }
+  ]
+}

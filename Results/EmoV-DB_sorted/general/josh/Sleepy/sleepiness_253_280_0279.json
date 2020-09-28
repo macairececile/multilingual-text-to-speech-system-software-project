@@ -1,0 +1,128 @@
+{
+  "transcript": "She said with chattering teeth.",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 0,
+      "word": "She"
+    },
+    {
+      "alignedWord": "said",
+      "case": "success",
+      "end": 2.15,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 4,
+      "word": "said"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.21,
+      "startOffset": 9,
+      "word": "with"
+    },
+    {
+      "alignedWord": "chattering",
+      "case": "success",
+      "end": 3.43,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.7,
+      "startOffset": 14,
+      "word": "chattering"
+    },
+    {
+      "alignedWord": "teeth",
+      "case": "success",
+      "end": 3.56,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.47,
+      "startOffset": 25,
+      "word": "teeth"
+    }
+  ]
+}

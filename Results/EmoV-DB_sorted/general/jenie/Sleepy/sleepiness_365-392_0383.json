@@ -1,0 +1,216 @@
+{
+  "transcript": "To his surprise, her answer was flat and uncompromising.",
+  "words": [
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 0.65,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 0,
+      "word": "To"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 0.8500000000000001,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 3,
+      "word": "his"
+    },
+    {
+      "alignedWord": "surprise",
+      "case": "success",
+      "end": 1.62,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.85,
+      "startOffset": 7,
+      "word": "surprise"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 17,
+      "word": "her"
+    },
+    {
+      "alignedWord": "answer",
+      "case": "success",
+      "end": 2.29,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.88,
+      "startOffset": 21,
+      "word": "answer"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 2.5,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.29,
+      "startOffset": 28,
+      "word": "was"
+    },
+    {
+      "alignedWord": "flat",
+      "case": "success",
+      "end": 2.99,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.5,
+      "startOffset": 32,
+      "word": "flat"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.46,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.32,
+      "startOffset": 37,
+      "word": "and"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.18,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.71,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.47,
+      "startOffset": 41,
+      "word": "uncompromising"
+    }
+  ]
+}

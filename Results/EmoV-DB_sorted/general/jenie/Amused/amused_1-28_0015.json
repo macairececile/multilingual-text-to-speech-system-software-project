@@ -1,0 +1,89 @@
+{
+  "transcript": "It's the aurora borealis.",
+  "words": [
+    {
+      "alignedWord": "it's",
+      "case": "success",
+      "end": 2.5500000000000003,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.39,
+      "startOffset": 0,
+      "word": "It's"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.6999999999999997,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.55,
+      "startOffset": 5,
+      "word": "the"
+    },
+    {
+      "alignedWord": "aurora",
+      "case": "success",
+      "end": 3.75,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.56,
+      "startOffset": 9,
+      "word": "aurora"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.41,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.24,
+      "startOffset": 16,
+      "word": "borealis"
+    }
+  ]
+}

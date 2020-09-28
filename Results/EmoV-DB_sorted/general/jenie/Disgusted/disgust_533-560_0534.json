@@ -1,0 +1,112 @@
+{
+  "transcript": "But Johannes could, and did.",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.79,
+      "startOffset": 0,
+      "word": "But"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.6400000000000001,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.61,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 4,
+      "word": "Johannes"
+    },
+    {
+      "alignedWord": "could",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 13,
+      "word": "could"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.62,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.38,
+      "startOffset": 20,
+      "word": "and"
+    },
+    {
+      "alignedWord": "did",
+      "case": "success",
+      "end": 3.0300000000000002,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.62,
+      "startOffset": 24,
+      "word": "did"
+    }
+  ]
+}

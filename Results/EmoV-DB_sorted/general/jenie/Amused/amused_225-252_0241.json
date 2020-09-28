@@ -1,0 +1,174 @@
+{
+  "transcript": "I think it's much nicer to quarrel.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.73,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "think",
+      "case": "success",
+      "end": 1.22,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_E"
+        }
+      ],
+      "start": 0.9,
+      "startOffset": 2,
+      "word": "think"
+    },
+    {
+      "alignedWord": "it's",
+      "case": "success",
+      "end": 1.47,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.23,
+      "startOffset": 8,
+      "word": "it's"
+    },
+    {
+      "alignedWord": "much",
+      "case": "success",
+      "end": 1.94,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 13,
+      "word": "much"
+    },
+    {
+      "alignedWord": "nicer",
+      "case": "success",
+      "end": 2.42,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.94,
+      "startOffset": 18,
+      "word": "nicer"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.57,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.42,
+      "startOffset": 24,
+      "word": "to"
+    },
+    {
+      "alignedWord": "quarrel",
+      "case": "success",
+      "end": 3.05,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.57,
+      "startOffset": 27,
+      "word": "quarrel"
+    }
+  ]
+}

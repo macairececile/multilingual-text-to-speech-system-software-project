@@ -1,0 +1,155 @@
+{
+  "transcript": "I have no idea, replied Philip.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.27,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.26,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 1.73,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.33,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 2,
+      "word": "have"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.77,
+      "startOffset": 7,
+      "word": "no"
+    },
+    {
+      "alignedWord": "idea",
+      "case": "success",
+      "end": 3.0300000000000002,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.45,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 10,
+      "word": "idea"
+    },
+    {
+      "alignedWord": "replied",
+      "case": "success",
+      "end": 3.67,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.13,
+      "startOffset": 16,
+      "word": "replied"
+    },
+    {
+      "alignedWord": "philip",
+      "case": "success",
+      "end": 4.21,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "p_E"
+        }
+      ],
+      "start": 3.68,
+      "startOffset": 24,
+      "word": "Philip"
+    }
+  ]
+}

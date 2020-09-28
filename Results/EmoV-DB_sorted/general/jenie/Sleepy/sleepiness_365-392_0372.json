@@ -1,0 +1,239 @@
+{
+  "transcript": "He saw only the effect in a general, sketchy way.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.3699999999999999,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 1.6500000000000001,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 3,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "only",
+      "case": "success",
+      "end": 2.2399999999999998,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 7,
+      "word": "only"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.25,
+      "startOffset": 12,
+      "word": "the"
+    },
+    {
+      "alignedWord": "effect",
+      "case": "success",
+      "end": 2.95,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.45,
+      "startOffset": 16,
+      "word": "effect"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.98,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 23,
+      "word": "in"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.1999999999999997,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.01,
+      "startOffset": 26,
+      "word": "a"
+    },
+    {
+      "alignedWord": "general",
+      "case": "success",
+      "end": 3.91,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.2,
+      "startOffset": 28,
+      "word": "general"
+    },
+    {
+      "alignedWord": "sketchy",
+      "case": "success",
+      "end": 4.63,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.05,
+      "startOffset": 37,
+      "word": "sketchy"
+    },
+    {
+      "alignedWord": "way",
+      "case": "success",
+      "end": 4.6899999999999995,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 4.67,
+      "startOffset": 45,
+      "word": "way"
+    }
+  ]
+}

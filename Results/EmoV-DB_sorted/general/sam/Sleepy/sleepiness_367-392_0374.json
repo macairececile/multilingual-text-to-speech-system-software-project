@@ -1,0 +1,201 @@
+{
+  "transcript": "But life's worth more than cash, she argued.",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 0.82,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 0,
+      "word": "But"
+    },
+    {
+      "alignedWord": "life's",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 4,
+      "word": "life's"
+    },
+    {
+      "alignedWord": "worth",
+      "case": "success",
+      "end": 1.45,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 11,
+      "word": "worth"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 1.82,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 17,
+      "word": "more"
+    },
+    {
+      "alignedWord": "than",
+      "case": "success",
+      "end": 2.06,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.86,
+      "startOffset": 22,
+      "word": "than"
+    },
+    {
+      "alignedWord": "cash",
+      "case": "success",
+      "end": 2.9000000000000004,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.39,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 2.1,
+      "startOffset": 27,
+      "word": "cash"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 3.3899999999999997,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.05,
+      "startOffset": 33,
+      "word": "she"
+    },
+    {
+      "alignedWord": "argued",
+      "case": "success",
+      "end": 3.71,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.43,
+      "startOffset": 37,
+      "word": "argued"
+    }
+  ]
+}

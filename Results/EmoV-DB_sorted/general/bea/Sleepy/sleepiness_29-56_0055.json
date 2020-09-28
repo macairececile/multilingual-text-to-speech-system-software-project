@@ -1,0 +1,318 @@
+{
+  "transcript": "Philip stood undecided, his ears strained to catch the slightest sound.",
+  "words": [
+    {
+      "alignedWord": "philip",
+      "case": "success",
+      "end": 0.9199999999999999,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "p_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 0,
+      "word": "Philip"
+    },
+    {
+      "alignedWord": "stood",
+      "case": "success",
+      "end": 1.4700000000000002,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.92,
+      "startOffset": 7,
+      "word": "stood"
+    },
+    {
+      "alignedWord": "undecided",
+      "case": "success",
+      "end": 2.77,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 13,
+      "word": "undecided"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.17,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.79,
+      "startOffset": 24,
+      "word": "his"
+    },
+    {
+      "alignedWord": "ears",
+      "case": "success",
+      "end": 4.19,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.81,
+      "startOffset": 28,
+      "word": "ears"
+    },
+    {
+      "alignedWord": "strained",
+      "case": "success",
+      "end": 4.71,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.2,
+      "startOffset": 33,
+      "word": "strained"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 4.779999999999999,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.72,
+      "startOffset": 42,
+      "word": "to"
+    },
+    {
+      "alignedWord": "catch",
+      "case": "success",
+      "end": 5.24,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 4.78,
+      "startOffset": 45,
+      "word": "catch"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 5.38,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 5.24,
+      "startOffset": 51,
+      "word": "the"
+    },
+    {
+      "alignedWord": "slightest",
+      "case": "success",
+      "end": 6.03,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.38,
+      "startOffset": 55,
+      "word": "slightest"
+    },
+    {
+      "alignedWord": "sound",
+      "case": "success",
+      "end": 6.85,
+      "endOffset": 70,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "d_E"
+        }
+      ],
+      "start": 6.04,
+      "startOffset": 65,
+      "word": "sound"
+    }
+  ]
+}

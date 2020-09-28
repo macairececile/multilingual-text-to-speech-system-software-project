@@ -1,0 +1,197 @@
+{
+  "transcript": "It lasted as a deterrent for two days.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.6499999999999999,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.47,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "lasted",
+      "case": "success",
+      "end": 1.0,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 3,
+      "word": "lasted"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 1.16,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 10,
+      "word": "as"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 13,
+      "word": "a"
+    },
+    {
+      "alignedWord": "deterrent",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.25,
+      "startOffset": 15,
+      "word": "deterrent"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 1.93,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.77,
+      "startOffset": 25,
+      "word": "for"
+    },
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 29,
+      "word": "two"
+    },
+    {
+      "alignedWord": "days",
+      "case": "success",
+      "end": 2.54,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.19,
+      "startOffset": 33,
+      "word": "days"
+    }
+  ]
+}

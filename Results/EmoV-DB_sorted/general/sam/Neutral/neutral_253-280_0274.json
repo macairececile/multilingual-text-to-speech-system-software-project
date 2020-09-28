@@ -1,0 +1,239 @@
+{
+  "transcript": "And Raoul listened again to the tale of the house.",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 0.6599999999999999,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.48,
+      "startOffset": 0,
+      "word": "And"
+    },
+    {
+      "alignedWord": "raoul",
+      "case": "success",
+      "end": 1.01,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.66,
+      "startOffset": 4,
+      "word": "Raoul"
+    },
+    {
+      "alignedWord": "listened",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 10,
+      "word": "listened"
+    },
+    {
+      "alignedWord": "again",
+      "case": "success",
+      "end": 1.8,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.49,
+      "startOffset": 19,
+      "word": "again"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.9000000000000001,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 25,
+      "word": "to"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.01,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.9,
+      "startOffset": 28,
+      "word": "the"
+    },
+    {
+      "alignedWord": "tale",
+      "case": "success",
+      "end": 2.36,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.01,
+      "startOffset": 32,
+      "word": "tale"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.4299999999999997,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 37,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.5100000000000002,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.43,
+      "startOffset": 40,
+      "word": "the"
+    },
+    {
+      "alignedWord": "house",
+      "case": "success",
+      "end": 3.0599999999999996,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.32,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.51,
+      "startOffset": 44,
+      "word": "house"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "transcript": "Then, and at supper, he tried to fathom her.",
+  "words": [
+    {
+      "alignedWord": "then",
+      "case": "success",
+      "end": 1.8399999999999999,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 0,
+      "word": "Then"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.2600000000000002,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 6,
+      "word": "and"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 2.3899999999999997,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 10,
+      "word": "at"
+    },
+    {
+      "alignedWord": "supper",
+      "case": "success",
+      "end": 2.98,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.39,
+      "startOffset": 13,
+      "word": "supper"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 3.22,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.06,
+      "startOffset": 21,
+      "word": "he"
+    },
+    {
+      "alignedWord": "tried",
+      "case": "success",
+      "end": 3.7,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.22,
+      "startOffset": 24,
+      "word": "tried"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.82,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 3.71,
+      "startOffset": 30,
+      "word": "to"
+    },
+    {
+      "alignedWord": "fathom",
+      "case": "success",
+      "end": 4.2700000000000005,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.83,
+      "startOffset": 33,
+      "word": "fathom"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 4.64,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.3,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.27,
+      "startOffset": 40,
+      "word": "her"
+    }
+  ]
+}

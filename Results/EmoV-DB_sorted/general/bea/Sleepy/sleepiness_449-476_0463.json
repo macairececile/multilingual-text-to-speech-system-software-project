@@ -1,0 +1,282 @@
+{
+  "transcript": "They are his tongue, by which he makes his knowledge articulate.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.56,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 1.21,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 5,
+      "word": "are"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 9,
+      "word": "his"
+    },
+    {
+      "alignedWord": "tongue",
+      "case": "success",
+      "end": 2.2800000000000002,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 13,
+      "word": "tongue"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 3.5500000000000003,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 3.35,
+      "startOffset": 21,
+      "word": "by"
+    },
+    {
+      "alignedWord": "which",
+      "case": "success",
+      "end": 4.16,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.34,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 3.55,
+      "startOffset": 24,
+      "word": "which"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 5.02,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.75,
+      "startOffset": 30,
+      "word": "he"
+    },
+    {
+      "alignedWord": "makes",
+      "case": "success",
+      "end": 5.46,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_E"
+        }
+      ],
+      "start": 5.02,
+      "startOffset": 33,
+      "word": "makes"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 5.68,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.5,
+      "startOffset": 39,
+      "word": "his"
+    },
+    {
+      "alignedWord": "knowledge",
+      "case": "success",
+      "end": 6.6000000000000005,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 5.69,
+      "startOffset": 43,
+      "word": "knowledge"
+    },
+    {
+      "alignedWord": "articulate",
+      "case": "success",
+      "end": 7.54,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 6.66,
+      "startOffset": 53,
+      "word": "articulate"
+    }
+  ]
+}

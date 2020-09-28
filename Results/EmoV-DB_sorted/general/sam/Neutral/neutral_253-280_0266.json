@@ -1,0 +1,217 @@
+{
+  "transcript": "They handled two men already, both grub-thieves.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "handled",
+      "case": "success",
+      "end": 1.42,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 5,
+      "word": "handled"
+    },
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 1.5999999999999999,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 13,
+      "word": "two"
+    },
+    {
+      "alignedWord": "men",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 17,
+      "word": "men"
+    },
+    {
+      "alignedWord": "already",
+      "case": "success",
+      "end": 2.3200000000000003,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 21,
+      "word": "already"
+    },
+    {
+      "alignedWord": "both",
+      "case": "success",
+      "end": 2.68,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "th_E"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 30,
+      "word": "both"
+    },
+    {
+      "alignedWord": "grub",
+      "case": "success",
+      "end": 2.92,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "b_E"
+        }
+      ],
+      "start": 2.68,
+      "startOffset": 35,
+      "word": "grub"
+    },
+    {
+      "alignedWord": "thieves",
+      "case": "success",
+      "end": 3.2199999999999998,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.92,
+      "startOffset": 40,
+      "word": "thieves"
+    }
+  ]
+}

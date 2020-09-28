@@ -1,0 +1,162 @@
+{
+  "transcript": "You can take a vacation on pay.",
+  "words": [
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 0,
+      "word": "You"
+    },
+    {
+      "alignedWord": "can",
+      "case": "success",
+      "end": 1.1400000000000001,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 4,
+      "word": "can"
+    },
+    {
+      "alignedWord": "take",
+      "case": "success",
+      "end": 1.5299999999999998,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.14,
+      "startOffset": 8,
+      "word": "take"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.6,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 13,
+      "word": "a"
+    },
+    {
+      "alignedWord": "vacation",
+      "case": "success",
+      "end": 2.5700000000000003,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 15,
+      "word": "vacation"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 3.11,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.76,
+      "startOffset": 24,
+      "word": "on"
+    },
+    {
+      "alignedWord": "pay",
+      "case": "success",
+      "end": 3.65,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.29,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 3.35,
+      "startOffset": 27,
+      "word": "pay"
+    }
+  ]
+}

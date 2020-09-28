@@ -1,0 +1,378 @@
+{
+  "transcript": "Mercedes screamed, cried, laughed, and manifested the chaotic abandonment of hysteria.",
+  "words": [
+    {
+      "alignedWord": "mercedes",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.4,
+      "startOffset": 0,
+      "word": "Mercedes"
+    },
+    {
+      "alignedWord": "screamed",
+      "case": "success",
+      "end": 1.9100000000000001,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 9,
+      "word": "screamed"
+    },
+    {
+      "alignedWord": "cried",
+      "case": "success",
+      "end": 3.8100000000000005,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.34,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.5,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.74,
+      "startOffset": 19,
+      "word": "cried"
+    },
+    {
+      "alignedWord": "laughed",
+      "case": "success",
+      "end": 5.08,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.35,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.37,
+      "startOffset": 26,
+      "word": "laughed"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 5.83,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.78,
+      "startOffset": 35,
+      "word": "and"
+    },
+    {
+      "alignedWord": "manifested",
+      "case": "success",
+      "end": 7.01,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 6.02,
+      "startOffset": 39,
+      "word": "manifested"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 7.35,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 7.02,
+      "startOffset": 50,
+      "word": "the"
+    },
+    {
+      "alignedWord": "chaotic",
+      "case": "success",
+      "end": 8.01,
+      "endOffset": 61,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_E"
+        }
+      ],
+      "start": 7.4,
+      "startOffset": 54,
+      "word": "chaotic"
+    },
+    {
+      "alignedWord": "abandonment",
+      "case": "success",
+      "end": 9.0,
+      "endOffset": 73,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 8.05,
+      "startOffset": 62,
+      "word": "abandonment"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 9.52,
+      "endOffset": 76,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 9.32,
+      "startOffset": 74,
+      "word": "of"
+    },
+    {
+      "alignedWord": "hysteria",
+      "case": "success",
+      "end": 10.989999000000001,
+      "endOffset": 85,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 10.349999,
+      "startOffset": 77,
+      "word": "hysteria"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "transcript": "The weeks had gone by, and no overt acts had been attempted.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.73,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.6,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "weeks",
+      "case": "success",
+      "end": 1.0,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.73,
+      "startOffset": 4,
+      "word": "weeks"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.15,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 10,
+      "word": "had"
+    },
+    {
+      "alignedWord": "gone",
+      "case": "success",
+      "end": 1.3699999999999999,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 14,
+      "word": "gone"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 1.7600000000000002,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.32,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 19,
+      "word": "by"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.15,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.95,
+      "startOffset": 23,
+      "word": "and"
+    },
+    {
+      "alignedWord": "no",
+      "case": "success",
+      "end": 2.34,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 2.15,
+      "startOffset": 27,
+      "word": "no"
+    },
+    {
+      "alignedWord": "overt",
+      "case": "success",
+      "end": 2.62,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 30,
+      "word": "overt"
+    },
+    {
+      "alignedWord": "acts",
+      "case": "success",
+      "end": 2.9499999999999997,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.65,
+      "startOffset": 36,
+      "word": "acts"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 3.0700000000000003,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.95,
+      "startOffset": 41,
+      "word": "had"
+    },
+    {
+      "alignedWord": "been",
+      "case": "success",
+      "end": 3.1999999999999997,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.07,
+      "startOffset": 45,
+      "word": "been"
+    },
+    {
+      "alignedWord": "attempted",
+      "case": "success",
+      "end": 3.6300000000000003,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.2,
+      "startOffset": 50,
+      "word": "attempted"
+    }
+  ]
+}

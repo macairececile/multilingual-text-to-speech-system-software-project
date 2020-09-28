@@ -1,0 +1,196 @@
+{
+  "transcript": "He could feel a new stir in the land.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.29,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "could",
+      "case": "success",
+      "end": 1.6,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 3,
+      "word": "could"
+    },
+    {
+      "alignedWord": "feel",
+      "case": "success",
+      "end": 2.22,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 9,
+      "word": "feel"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.01,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.0,
+      "startOffset": 14,
+      "word": "a"
+    },
+    {
+      "alignedWord": "new",
+      "case": "success",
+      "end": 3.34,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.01,
+      "startOffset": 16,
+      "word": "new"
+    },
+    {
+      "alignedWord": "stir",
+      "case": "success",
+      "end": 4.45,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.78,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.37,
+      "startOffset": 20,
+      "word": "stir"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 5.72,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.59,
+      "startOffset": 25,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 5.930000000000001,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 5.73,
+      "startOffset": 28,
+      "word": "the"
+    },
+    {
+      "alignedWord": "land",
+      "case": "success",
+      "end": 5.97,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.93,
+      "startOffset": 32,
+      "word": "land"
+    }
+  ]
+}

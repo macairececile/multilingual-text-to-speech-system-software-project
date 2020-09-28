@@ -1,0 +1,232 @@
+{
+  "transcript": "He turned sharply, and faced Gregson across the table.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.6699999999999999,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.47,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "turned",
+      "case": "success",
+      "end": 0.93,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 3,
+      "word": "turned"
+    },
+    {
+      "alignedWord": "sharply",
+      "case": "success",
+      "end": 1.5,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 10,
+      "word": "sharply"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.72,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 19,
+      "word": "and"
+    },
+    {
+      "alignedWord": "faced",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 23,
+      "word": "faced"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.52,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.42,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.1,
+      "startOffset": 29,
+      "word": "Gregson"
+    },
+    {
+      "alignedWord": "across",
+      "case": "success",
+      "end": 2.86,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.53,
+      "startOffset": 37,
+      "word": "across"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.9499999999999997,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.86,
+      "startOffset": 44,
+      "word": "the"
+    },
+    {
+      "alignedWord": "table",
+      "case": "success",
+      "end": 3.42,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.95,
+      "startOffset": 48,
+      "word": "table"
+    }
+  ]
+}

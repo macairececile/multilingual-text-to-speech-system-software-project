@@ -1,0 +1,194 @@
+{
+  "transcript": "Think of investing in such an adventure.",
+  "words": [
+    {
+      "alignedWord": "think",
+      "case": "success",
+      "end": 1.61,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.07,
+      "startOffset": 0,
+      "word": "Think"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 6,
+      "word": "of"
+    },
+    {
+      "alignedWord": "investing",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.05,
+      "startOffset": 9,
+      "word": "investing"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.1500000000000004,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.89,
+      "startOffset": 19,
+      "word": "in"
+    },
+    {
+      "alignedWord": "such",
+      "case": "success",
+      "end": 4.279999999999999,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.35,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 3.59,
+      "startOffset": 22,
+      "word": "such"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 4.96,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.78,
+      "startOffset": 27,
+      "word": "an"
+    },
+    {
+      "alignedWord": "adventure",
+      "case": "success",
+      "end": 5.71,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.96,
+      "startOffset": 30,
+      "word": "adventure"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "transcript": "My right foot feels like that of a Chinese debutante.",
+  "words": [
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 0,
+      "word": "My"
+    },
+    {
+      "alignedWord": "right",
+      "case": "success",
+      "end": 1.3399999999999999,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 3,
+      "word": "right"
+    },
+    {
+      "alignedWord": "foot",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.34,
+      "startOffset": 9,
+      "word": "foot"
+    },
+    {
+      "alignedWord": "feels",
+      "case": "success",
+      "end": 2.46,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.85,
+      "startOffset": 14,
+      "word": "feels"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 3.0,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 2.76,
+      "startOffset": 20,
+      "word": "like"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 3.46,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.01,
+      "startOffset": 25,
+      "word": "that"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.69,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.51,
+      "startOffset": 30,
+      "word": "of"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.77,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.69,
+      "startOffset": 33,
+      "word": "a"
+    },
+    {
+      "alignedWord": "chinese",
+      "case": "success",
+      "end": 4.6,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.77,
+      "startOffset": 35,
+      "word": "Chinese"
+    },
+    {
+      "alignedWord": "debutante",
+      "case": "success",
+      "end": 5.45,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.63,
+      "startOffset": 43,
+      "word": "debutante"
+    }
+  ]
+}

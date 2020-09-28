@@ -1,0 +1,281 @@
+{
+  "transcript": "I am going to surprise father, and you will go with Pierre.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.9299999999999999,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "am",
+      "case": "success",
+      "end": 1.06,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.93,
+      "startOffset": 2,
+      "word": "am"
+    },
+    {
+      "alignedWord": "going",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.06,
+      "startOffset": 5,
+      "word": "going"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.36,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 11,
+      "word": "to"
+    },
+    {
+      "alignedWord": "surprise",
+      "case": "success",
+      "end": 1.9700000000000002,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 14,
+      "word": "surprise"
+    },
+    {
+      "alignedWord": "father",
+      "case": "success",
+      "end": 2.43,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.97,
+      "startOffset": 23,
+      "word": "father"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.7199999999999998,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.57,
+      "startOffset": 31,
+      "word": "and"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.94,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.73,
+      "startOffset": 35,
+      "word": "you"
+    },
+    {
+      "alignedWord": "will",
+      "case": "success",
+      "end": 3.05,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.94,
+      "startOffset": 39,
+      "word": "will"
+    },
+    {
+      "alignedWord": "go",
+      "case": "success",
+      "end": 3.25,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 3.08,
+      "startOffset": 44,
+      "word": "go"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.42,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.25,
+      "startOffset": 47,
+      "word": "with"
+    },
+    {
+      "alignedWord": "pierre",
+      "case": "success",
+      "end": 4.02,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.42,
+      "startOffset": 52,
+      "word": "Pierre"
+    }
+  ]
+}

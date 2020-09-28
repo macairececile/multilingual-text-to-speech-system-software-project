@@ -1,0 +1,193 @@
+{
+  "transcript": "I'm sure going along with you all, Elijah.",
+  "words": [
+    {
+      "alignedWord": "i'm",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.86,
+      "startOffset": 0,
+      "word": "I'm"
+    },
+    {
+      "alignedWord": "sure",
+      "case": "success",
+      "end": 1.4100000000000001,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 4,
+      "word": "sure"
+    },
+    {
+      "alignedWord": "going",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 1.43,
+      "startOffset": 9,
+      "word": "going"
+    },
+    {
+      "alignedWord": "along",
+      "case": "success",
+      "end": 3.21,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.67,
+      "startOffset": 15,
+      "word": "along"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.44,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.21,
+      "startOffset": 21,
+      "word": "with"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 3.63,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.44,
+      "startOffset": 26,
+      "word": "you"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 4.02,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.29,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.63,
+      "startOffset": 30,
+      "word": "all"
+    },
+    {
+      "alignedWord": "elijah",
+      "case": "success",
+      "end": 4.3500000000000005,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "jh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.03,
+      "startOffset": 35,
+      "word": "Elijah"
+    }
+  ]
+}

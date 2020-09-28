@@ -1,0 +1,280 @@
+{
+  "transcript": "Out of abstractions Ernest had conjured a vision and made them see it.",
+  "words": [
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 0.75,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 0,
+      "word": "Out"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.75,
+      "startOffset": 4,
+      "word": "of"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.88,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 7,
+      "word": "abstractions"
+    },
+    {
+      "alignedWord": "ernest",
+      "case": "success",
+      "end": 2.05,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 20,
+      "word": "Ernest"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 2.43,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.25,
+      "startOffset": 27,
+      "word": "had"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.84,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.67,
+      "startOffset": 31,
+      "word": "conjured"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.13,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.05,
+      "startOffset": 40,
+      "word": "a"
+    },
+    {
+      "alignedWord": "vision",
+      "case": "success",
+      "end": 3.7,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "zh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 42,
+      "word": "vision"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.11,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.91,
+      "startOffset": 49,
+      "word": "and"
+    },
+    {
+      "alignedWord": "made",
+      "case": "success",
+      "end": 4.5200000000000005,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.11,
+      "startOffset": 53,
+      "word": "made"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 4.87,
+      "endOffset": 62,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.54,
+      "startOffset": 58,
+      "word": "them"
+    },
+    {
+      "alignedWord": "see",
+      "case": "success",
+      "end": 5.2700000000000005,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.87,
+      "startOffset": 63,
+      "word": "see"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 5.49,
+      "endOffset": 69,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.420000000000001,
+      "startOffset": 67,
+      "word": "it"
+    }
+  ]
+}

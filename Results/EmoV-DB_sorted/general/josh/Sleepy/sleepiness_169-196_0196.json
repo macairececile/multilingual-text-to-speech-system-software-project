@@ -1,0 +1,228 @@
+{
+  "transcript": "He began to follow the footprints of the dog.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "began",
+      "case": "success",
+      "end": 1.54,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 3,
+      "word": "began"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 1.56,
+      "startOffset": 9,
+      "word": "to"
+    },
+    {
+      "alignedWord": "follow",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.69,
+      "startOffset": 12,
+      "word": "follow"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.3899999999999997,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 19,
+      "word": "the"
+    },
+    {
+      "alignedWord": "footprints",
+      "case": "success",
+      "end": 3.09,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.39,
+      "startOffset": 23,
+      "word": "footprints"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.3499999999999996,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.09,
+      "startOffset": 34,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.4999999999999996,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.4199999999999995,
+      "startOffset": 37,
+      "word": "the"
+    },
+    {
+      "alignedWord": "dog",
+      "case": "success",
+      "end": 3.9799999999999995,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.28,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "g_E"
+        }
+      ],
+      "start": 3.4999999999999996,
+      "startOffset": 41,
+      "word": "dog"
+    }
+  ]
+}

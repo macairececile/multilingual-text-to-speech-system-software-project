@@ -1,0 +1,309 @@
+{
+  "transcript": "In short, my joyous individualism was dominated by the orthodox bourgeois ethics.",
+  "words": [
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 0,
+      "word": "In"
+    },
+    {
+      "alignedWord": "short",
+      "case": "success",
+      "end": 1.5,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 3,
+      "word": "short"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 1.99,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.72,
+      "startOffset": 10,
+      "word": "my"
+    },
+    {
+      "alignedWord": "joyous",
+      "case": "success",
+      "end": 2.35,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 13,
+      "word": "joyous"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.46,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.82,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.64,
+      "startOffset": 20,
+      "word": "individualism"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 3.84,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.58,
+      "startOffset": 34,
+      "word": "was"
+    },
+    {
+      "alignedWord": "dominated",
+      "case": "success",
+      "end": 4.51,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.84,
+      "startOffset": 38,
+      "word": "dominated"
+    },
+    {
+      "alignedWord": "by",
+      "case": "success",
+      "end": 4.66,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 4.51,
+      "startOffset": 48,
+      "word": "by"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.83,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.66,
+      "startOffset": 51,
+      "word": "the"
+    },
+    {
+      "alignedWord": "orthodox",
+      "case": "success",
+      "end": 5.53,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.83,
+      "startOffset": 55,
+      "word": "orthodox"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 6.2,
+      "endOffset": 73,
+      "phones": [
+        {
+          "duration": 0.63,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 5.57,
+      "startOffset": 64,
+      "word": "bourgeois"
+    },
+    {
+      "alignedWord": "ethics",
+      "case": "success",
+      "end": 6.92,
+      "endOffset": 80,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "s_E"
+        }
+      ],
+      "start": 6.24,
+      "startOffset": 74,
+      "word": "ethics"
+    }
+  ]
+}

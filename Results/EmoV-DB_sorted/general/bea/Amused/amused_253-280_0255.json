@@ -1,0 +1,93 @@
+{
+  "transcript": "You won't die of malnutrition, be sure of that.",
+  "words": [
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 3.14,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.12,
+      "startOffset": 0,
+      "word": "You"
+    },
+    {
+      "alignedWord": "won't",
+      "case": "success",
+      "end": 3.18,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.14,
+      "startOffset": 4,
+      "word": "won't"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 13,
+      "startOffset": 10,
+      "word": "die"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 16,
+      "startOffset": 14,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 29,
+      "startOffset": 17,
+      "word": "malnutrition"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 33,
+      "startOffset": 31,
+      "word": "be"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 38,
+      "startOffset": 34,
+      "word": "sure"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 41,
+      "startOffset": 39,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 46,
+      "startOffset": 42,
+      "word": "that"
+    }
+  ]
+}

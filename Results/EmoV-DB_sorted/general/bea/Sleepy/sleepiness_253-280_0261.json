@@ -1,0 +1,136 @@
+{
+  "transcript": "I have been doubly baptized.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.69,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.38,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 2.03,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.7,
+      "startOffset": 2,
+      "word": "have"
+    },
+    {
+      "alignedWord": "been",
+      "case": "success",
+      "end": 2.3899999999999997,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.03,
+      "startOffset": 7,
+      "word": "been"
+    },
+    {
+      "alignedWord": "doubly",
+      "case": "success",
+      "end": 3.17,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.46,
+      "startOffset": 12,
+      "word": "doubly"
+    },
+    {
+      "alignedWord": "baptized",
+      "case": "success",
+      "end": 4.38,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 19,
+      "word": "baptized"
+    }
+  ]
+}

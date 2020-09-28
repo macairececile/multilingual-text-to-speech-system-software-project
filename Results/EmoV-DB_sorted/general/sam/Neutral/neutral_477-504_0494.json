@@ -1,0 +1,247 @@
+{
+  "transcript": "O'Brien took off his coat and bared his right arm.",
+  "words": [
+    {
+      "alignedWord": "o'brien",
+      "case": "success",
+      "end": 1.0,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.5,
+      "startOffset": 0,
+      "word": "O'Brien"
+    },
+    {
+      "alignedWord": "took",
+      "case": "success",
+      "end": 1.15,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 8,
+      "word": "took"
+    },
+    {
+      "alignedWord": "off",
+      "case": "success",
+      "end": 1.3599999999999999,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 13,
+      "word": "off"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 17,
+      "word": "his"
+    },
+    {
+      "alignedWord": "coat",
+      "case": "success",
+      "end": 1.8,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 21,
+      "word": "coat"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.83,
+      "startOffset": 26,
+      "word": "and"
+    },
+    {
+      "alignedWord": "bared",
+      "case": "success",
+      "end": 2.3299999999999996,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.01,
+      "startOffset": 30,
+      "word": "bared"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.48,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.33,
+      "startOffset": 36,
+      "word": "his"
+    },
+    {
+      "alignedWord": "right",
+      "case": "success",
+      "end": 2.7,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.48,
+      "startOffset": 40,
+      "word": "right"
+    },
+    {
+      "alignedWord": "arm",
+      "case": "success",
+      "end": 2.73,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.7,
+      "startOffset": 46,
+      "word": "arm"
+    }
+  ]
+}

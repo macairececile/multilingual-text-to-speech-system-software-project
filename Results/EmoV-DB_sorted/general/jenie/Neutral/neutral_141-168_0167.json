@@ -1,0 +1,177 @@
+{
+  "transcript": "I was near the cabin, and saw you.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.2,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.4,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 2,
+      "word": "was"
+    },
+    {
+      "alignedWord": "near",
+      "case": "success",
+      "end": 1.5799999999999998,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.4,
+      "startOffset": 6,
+      "word": "near"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.6500000000000001,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.58,
+      "startOffset": 11,
+      "word": "the"
+    },
+    {
+      "alignedWord": "cabin",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 15,
+      "word": "cabin"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.73,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.53,
+      "startOffset": 22,
+      "word": "and"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 2.98,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 2.73,
+      "startOffset": 26,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 3.35,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.98,
+      "startOffset": 30,
+      "word": "you"
+    }
+  ]
+}

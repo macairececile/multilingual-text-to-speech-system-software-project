@@ -1,0 +1,293 @@
+{
+  "transcript": "I'm playing a single hand in what looks like a losing game.",
+  "words": [
+    {
+      "alignedWord": "i'm",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "m_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 0,
+      "word": "I'm"
+    },
+    {
+      "alignedWord": "playing",
+      "case": "success",
+      "end": 1.5,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 4,
+      "word": "playing"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 12,
+      "word": "a"
+    },
+    {
+      "alignedWord": "single",
+      "case": "success",
+      "end": 2.16,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 14,
+      "word": "single"
+    },
+    {
+      "alignedWord": "hand",
+      "case": "success",
+      "end": 2.67,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.16,
+      "startOffset": 21,
+      "word": "hand"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.09,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.92,
+      "startOffset": 26,
+      "word": "in"
+    },
+    {
+      "alignedWord": "what",
+      "case": "success",
+      "end": 3.26,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.09,
+      "startOffset": 29,
+      "word": "what"
+    },
+    {
+      "alignedWord": "looks",
+      "case": "success",
+      "end": 3.61,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.26,
+      "startOffset": 34,
+      "word": "looks"
+    },
+    {
+      "alignedWord": "like",
+      "case": "success",
+      "end": 3.86,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.61,
+      "startOffset": 40,
+      "word": "like"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 3.98,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 3.86,
+      "startOffset": 45,
+      "word": "a"
+    },
+    {
+      "alignedWord": "losing",
+      "case": "success",
+      "end": 4.48,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.98,
+      "startOffset": 47,
+      "word": "losing"
+    },
+    {
+      "alignedWord": "game",
+      "case": "success",
+      "end": 4.94,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.49,
+      "startOffset": 54,
+      "word": "game"
+    }
+  ]
+}

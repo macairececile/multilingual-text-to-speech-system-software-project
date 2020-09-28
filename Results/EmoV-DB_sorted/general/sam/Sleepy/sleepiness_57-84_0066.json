@@ -1,0 +1,162 @@
+{
+  "transcript": "He saw Jeanne falter for a moment.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.8699999999999999,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 2.33,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.28,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 3,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.04,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.7,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 7,
+      "word": "Jeanne"
+    },
+    {
+      "alignedWord": "falter",
+      "case": "success",
+      "end": 4.13,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.41,
+      "startOffset": 14,
+      "word": "falter"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 4.609999999999999,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.26,
+      "startOffset": 21,
+      "word": "for"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 4.63,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 4.62,
+      "startOffset": 25,
+      "word": "a"
+    },
+    {
+      "alignedWord": "moment",
+      "case": "success",
+      "end": 5.17,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.63,
+      "startOffset": 27,
+      "word": "moment"
+    }
+  ]
+}

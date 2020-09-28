@@ -1,0 +1,143 @@
+{
+  "transcript": "Why, doggone you all, shake again.",
+  "words": [
+    {
+      "alignedWord": "why",
+      "case": "success",
+      "end": 1.38,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 0,
+      "word": "Why"
+    },
+    {
+      "alignedWord": "doggone",
+      "case": "success",
+      "end": 1.94,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 5,
+      "word": "doggone"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.16,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.94,
+      "startOffset": 13,
+      "word": "you"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 2.67,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.34,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.16,
+      "startOffset": 17,
+      "word": "all"
+    },
+    {
+      "alignedWord": "shake",
+      "case": "success",
+      "end": 3.4499999999999997,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 3.09,
+      "startOffset": 22,
+      "word": "shake"
+    },
+    {
+      "alignedWord": "again",
+      "case": "success",
+      "end": 3.95,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.45,
+      "startOffset": 28,
+      "word": "again"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "transcript": "He will follow us soon.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.88,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.73,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "will",
+      "case": "success",
+      "end": 1.01,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 3,
+      "word": "will"
+    },
+    {
+      "alignedWord": "follow",
+      "case": "success",
+      "end": 1.38,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 1.01,
+      "startOffset": 8,
+      "word": "follow"
+    },
+    {
+      "alignedWord": "us",
+      "case": "success",
+      "end": 1.5299999999999998,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 15,
+      "word": "us"
+    },
+    {
+      "alignedWord": "soon",
+      "case": "success",
+      "end": 1.97,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 18,
+      "word": "soon"
+    }
+  ]
+}

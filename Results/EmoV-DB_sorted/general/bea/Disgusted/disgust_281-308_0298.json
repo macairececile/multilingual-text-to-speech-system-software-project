@@ -1,0 +1,119 @@
+{
+  "transcript": "This tacit promise of continued acquaintance gave Saxon a little joy-thrill.",
+  "words": [
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 2.8099999999999996,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.78,
+      "startOffset": 0,
+      "word": "This"
+    },
+    {
+      "alignedWord": "tacit",
+      "case": "success",
+      "end": 2.86,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.81,
+      "startOffset": 5,
+      "word": "tacit"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 18,
+      "startOffset": 11,
+      "word": "promise"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 21,
+      "startOffset": 19,
+      "word": "of"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 31,
+      "startOffset": 22,
+      "word": "continued"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 44,
+      "startOffset": 32,
+      "word": "acquaintance"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 49,
+      "startOffset": 45,
+      "word": "gave"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 55,
+      "startOffset": 50,
+      "word": "Saxon"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 57,
+      "startOffset": 56,
+      "word": "a"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 64,
+      "startOffset": 58,
+      "word": "little"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 68,
+      "startOffset": 65,
+      "word": "joy"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 75,
+      "startOffset": 69,
+      "word": "thrill"
+    }
+  ]
+}

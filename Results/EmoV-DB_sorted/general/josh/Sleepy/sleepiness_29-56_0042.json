@@ -1,0 +1,232 @@
+{
+  "transcript": "How could he explain his possession of the sketch.",
+  "words": [
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.63,
+      "startOffset": 0,
+      "word": "How"
+    },
+    {
+      "alignedWord": "could",
+      "case": "success",
+      "end": 1.1,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 4,
+      "word": "could"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.2000000000000002,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.1,
+      "startOffset": 10,
+      "word": "he"
+    },
+    {
+      "alignedWord": "explain",
+      "case": "success",
+      "end": 1.7999999999999998,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 13,
+      "word": "explain"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 21,
+      "word": "his"
+    },
+    {
+      "alignedWord": "possession",
+      "case": "success",
+      "end": 2.6599999999999997,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.03,
+      "startOffset": 25,
+      "word": "possession"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.8000000000000003,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.66,
+      "startOffset": 36,
+      "word": "of"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.9099999999999997,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.8,
+      "startOffset": 39,
+      "word": "the"
+    },
+    {
+      "alignedWord": "sketch",
+      "case": "success",
+      "end": 3.76,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.41,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 2.92,
+      "startOffset": 43,
+      "word": "sketch"
+    }
+  ]
+}

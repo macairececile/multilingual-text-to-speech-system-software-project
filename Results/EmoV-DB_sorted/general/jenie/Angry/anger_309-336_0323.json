@@ -1,0 +1,329 @@
+{
+  "transcript": "He considered the victory already his and stepped forward to the meat.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.02,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "considered",
+      "case": "success",
+      "end": 1.44,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 3,
+      "word": "considered"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.6500000000000001,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 14,
+      "word": "the"
+    },
+    {
+      "alignedWord": "victory",
+      "case": "success",
+      "end": 2.19,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 18,
+      "word": "victory"
+    },
+    {
+      "alignedWord": "already",
+      "case": "success",
+      "end": 2.7199999999999998,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.19,
+      "startOffset": 26,
+      "word": "already"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 3.0999999999999996,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.01,
+      "startOffset": 34,
+      "word": "his"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.29,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.1,
+      "startOffset": 38,
+      "word": "and"
+    },
+    {
+      "alignedWord": "stepped",
+      "case": "success",
+      "end": 3.56,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.29,
+      "startOffset": 42,
+      "word": "stepped"
+    },
+    {
+      "alignedWord": "forward",
+      "case": "success",
+      "end": 4.11,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.56,
+      "startOffset": 50,
+      "word": "forward"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 4.21,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 4.11,
+      "startOffset": 58,
+      "word": "to"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.33,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.21,
+      "startOffset": 61,
+      "word": "the"
+    },
+    {
+      "alignedWord": "meat",
+      "case": "success",
+      "end": 4.69,
+      "endOffset": 69,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.33,
+      "startOffset": 65,
+      "word": "meat"
+    }
+  ]
+}

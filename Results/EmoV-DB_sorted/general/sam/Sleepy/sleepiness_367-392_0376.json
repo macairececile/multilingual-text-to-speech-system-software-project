@@ -1,0 +1,239 @@
+{
+  "transcript": "Your price, my son, is just about thirty per week.",
+  "words": [
+    {
+      "alignedWord": "your",
+      "case": "success",
+      "end": 0.88,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.64,
+      "startOffset": 0,
+      "word": "Your"
+    },
+    {
+      "alignedWord": "price",
+      "case": "success",
+      "end": 1.59,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.37,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 5,
+      "word": "price"
+    },
+    {
+      "alignedWord": "my",
+      "case": "success",
+      "end": 2.0500000000000003,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ay_E"
+        }
+      ],
+      "start": 1.82,
+      "startOffset": 12,
+      "word": "my"
+    },
+    {
+      "alignedWord": "son",
+      "case": "success",
+      "end": 2.5599999999999996,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.05,
+      "startOffset": 15,
+      "word": "son"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 3.73,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.54,
+      "startOffset": 20,
+      "word": "is"
+    },
+    {
+      "alignedWord": "just",
+      "case": "success",
+      "end": 4.04,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.73,
+      "startOffset": 23,
+      "word": "just"
+    },
+    {
+      "alignedWord": "about",
+      "case": "success",
+      "end": 4.08,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.04,
+      "startOffset": 28,
+      "word": "about"
+    },
+    {
+      "alignedWord": "thirty",
+      "case": "success",
+      "end": 4.83,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.4,
+      "startOffset": 34,
+      "word": "thirty"
+    },
+    {
+      "alignedWord": "per",
+      "case": "success",
+      "end": 5.07,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.83,
+      "startOffset": 41,
+      "word": "per"
+    },
+    {
+      "alignedWord": "week",
+      "case": "success",
+      "end": 5.58,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "k_E"
+        }
+      ],
+      "start": 5.07,
+      "startOffset": 45,
+      "word": "week"
+    }
+  ]
+}

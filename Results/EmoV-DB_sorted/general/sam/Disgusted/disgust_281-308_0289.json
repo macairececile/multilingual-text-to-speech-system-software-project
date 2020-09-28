@@ -1,0 +1,249 @@
+{
+  "transcript": "They are not regular oyster pirates, Nicholas continued.",
+  "words": [
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 1.24,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 0,
+      "word": "They"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "er_S"
+        }
+      ],
+      "start": 1.24,
+      "startOffset": 5,
+      "word": "are"
+    },
+    {
+      "alignedWord": "not",
+      "case": "success",
+      "end": 1.9,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 9,
+      "word": "not"
+    },
+    {
+      "alignedWord": "regular",
+      "case": "success",
+      "end": 2.85,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.29,
+      "startOffset": 13,
+      "word": "regular"
+    },
+    {
+      "alignedWord": "oyster",
+      "case": "success",
+      "end": 3.49,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "oy_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 21,
+      "word": "oyster"
+    },
+    {
+      "alignedWord": "pirates",
+      "case": "success",
+      "end": 4.81,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.35,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.42,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.55,
+      "startOffset": 28,
+      "word": "pirates"
+    },
+    {
+      "alignedWord": "nicholas",
+      "case": "success",
+      "end": 5.8100000000000005,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_E"
+        }
+      ],
+      "start": 5.23,
+      "startOffset": 37,
+      "word": "Nicholas"
+    },
+    {
+      "alignedWord": "continued",
+      "case": "success",
+      "end": 6.76,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.83,
+      "startOffset": 46,
+      "word": "continued"
+    }
+  ]
+}

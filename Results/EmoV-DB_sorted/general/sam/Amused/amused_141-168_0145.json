@@ -1,0 +1,277 @@
+{
+  "transcript": "I have to be careful of them, as they tear very easily.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.9,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.73,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 1.15,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 0.9,
+      "startOffset": 2,
+      "word": "have"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.15,
+      "startOffset": 7,
+      "word": "to"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 1.41,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 10,
+      "word": "be"
+    },
+    {
+      "alignedWord": "careful",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 13,
+      "word": "careful"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.18,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 21,
+      "word": "of"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 2.49,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 24,
+      "word": "them"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 3.39,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.14,
+      "startOffset": 30,
+      "word": "as"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 3.5500000000000003,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 3.39,
+      "startOffset": 33,
+      "word": "they"
+    },
+    {
+      "alignedWord": "tear",
+      "case": "success",
+      "end": 4.25,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.27,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.55,
+      "startOffset": 38,
+      "word": "tear"
+    },
+    {
+      "alignedWord": "very",
+      "case": "success",
+      "end": 4.949999999999999,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.52,
+      "startOffset": 43,
+      "word": "very"
+    },
+    {
+      "alignedWord": "easily",
+      "case": "success",
+      "end": 5.61,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.95,
+      "startOffset": 48,
+      "word": "easily"
+    }
+  ]
+}

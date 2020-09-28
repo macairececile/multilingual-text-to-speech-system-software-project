@@ -1,0 +1,239 @@
+{
+  "transcript": "The girl faced him, her eyes shining with sudden fear.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.83,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "girl",
+      "case": "success",
+      "end": 1.4,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "l_E"
+        }
+      ],
+      "start": 0.97,
+      "startOffset": 4,
+      "word": "girl"
+    },
+    {
+      "alignedWord": "faced",
+      "case": "success",
+      "end": 1.7999999999999998,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.41,
+      "startOffset": 9,
+      "word": "faced"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 15,
+      "word": "him"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 2.25,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.08,
+      "startOffset": 20,
+      "word": "her"
+    },
+    {
+      "alignedWord": "eyes",
+      "case": "success",
+      "end": 2.65,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.32,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.29,
+      "startOffset": 24,
+      "word": "eyes"
+    },
+    {
+      "alignedWord": "shining",
+      "case": "success",
+      "end": 3.12,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.66,
+      "startOffset": 29,
+      "word": "shining"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.27,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.12,
+      "startOffset": 37,
+      "word": "with"
+    },
+    {
+      "alignedWord": "sudden",
+      "case": "success",
+      "end": 3.63,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.27,
+      "startOffset": 42,
+      "word": "sudden"
+    },
+    {
+      "alignedWord": "fear",
+      "case": "success",
+      "end": 4.22,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.25,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.64,
+      "startOffset": 49,
+      "word": "fear"
+    }
+  ]
+}

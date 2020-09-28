@@ -1,0 +1,309 @@
+{
+  "transcript": "It happened to him at the Gallina Society in Oakland one afternoon.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "happened",
+      "case": "success",
+      "end": 1.53,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 3,
+      "word": "happened"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.65,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 1.53,
+      "startOffset": 12,
+      "word": "to"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 1.8699999999999999,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 15,
+      "word": "him"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 2.0100000000000002,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 19,
+      "word": "at"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.15,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.01,
+      "startOffset": 22,
+      "word": "the"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.81,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.66,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.15,
+      "startOffset": 26,
+      "word": "Gallina"
+    },
+    {
+      "alignedWord": "society",
+      "case": "success",
+      "end": 3.56,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.81,
+      "startOffset": 34,
+      "word": "Society"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.78,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.57,
+      "startOffset": 42,
+      "word": "in"
+    },
+    {
+      "alignedWord": "oakland",
+      "case": "success",
+      "end": 4.6000000000000005,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.95,
+      "startOffset": 45,
+      "word": "Oakland"
+    },
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 4.97,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.62,
+      "startOffset": 53,
+      "word": "one"
+    },
+    {
+      "alignedWord": "afternoon",
+      "case": "success",
+      "end": 5.76,
+      "endOffset": 66,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.97,
+      "startOffset": 57,
+      "word": "afternoon"
+    }
+  ]
+}

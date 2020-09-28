@@ -1,0 +1,213 @@
+{
+  "transcript": "Two gigantic owls were tearing at the carcass.",
+  "words": [
+    {
+      "alignedWord": "two",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.33,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.54,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 0,
+      "word": "Two"
+    },
+    {
+      "alignedWord": "gigantic",
+      "case": "success",
+      "end": 3.1100000000000003,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.23,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.3,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_E"
+        }
+      ],
+      "start": 1.99,
+      "startOffset": 4,
+      "word": "gigantic"
+    },
+    {
+      "alignedWord": "owls",
+      "case": "success",
+      "end": 3.77,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.3,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.11,
+      "startOffset": 13,
+      "word": "owls"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 4.03,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.77,
+      "startOffset": 18,
+      "word": "were"
+    },
+    {
+      "alignedWord": "tearing",
+      "case": "success",
+      "end": 4.6499999999999995,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.06,
+      "startOffset": 23,
+      "word": "tearing"
+    },
+    {
+      "alignedWord": "at",
+      "case": "success",
+      "end": 4.82,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.65,
+      "startOffset": 31,
+      "word": "at"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 5.0200000000000005,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.82,
+      "startOffset": 34,
+      "word": "the"
+    },
+    {
+      "alignedWord": "carcass",
+      "case": "success",
+      "end": 5.68,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 5.04,
+      "startOffset": 38,
+      "word": "carcass"
+    }
+  ]
+}

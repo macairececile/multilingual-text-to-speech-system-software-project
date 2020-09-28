@@ -1,0 +1,263 @@
+{
+  "transcript": "She added, with genuine sympathy in her face and voice.",
+  "words": [
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 0.8400000000000001,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.55,
+      "startOffset": 0,
+      "word": "She"
+    },
+    {
+      "alignedWord": "added",
+      "case": "success",
+      "end": 1.35,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 4,
+      "word": "added"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 1.78,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 11,
+      "word": "with"
+    },
+    {
+      "alignedWord": "genuine",
+      "case": "success",
+      "end": 2.5700000000000003,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 16,
+      "word": "genuine"
+    },
+    {
+      "alignedWord": "sympathy",
+      "case": "success",
+      "end": 3.19,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "th_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.6,
+      "startOffset": 24,
+      "word": "sympathy"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 3.33,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 3.19,
+      "startOffset": 33,
+      "word": "in"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 3.48,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.33,
+      "startOffset": 36,
+      "word": "her"
+    },
+    {
+      "alignedWord": "face",
+      "case": "success",
+      "end": 3.92,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.48,
+      "startOffset": 40,
+      "word": "face"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.33,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.97,
+      "startOffset": 45,
+      "word": "and"
+    },
+    {
+      "alignedWord": "voice",
+      "case": "success",
+      "end": 5.39,
+      "endOffset": 54,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.68,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.34,
+      "startOffset": 49,
+      "word": "voice"
+    }
+  ]
+}

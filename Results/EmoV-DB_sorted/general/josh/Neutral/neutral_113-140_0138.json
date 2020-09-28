@@ -1,0 +1,288 @@
+{
+  "transcript": "In the picture he saw each moment a greater resemblance to Jeanne.",
+  "words": [
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.68,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.53,
+      "startOffset": 0,
+      "word": "In"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.76,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 3,
+      "word": "the"
+    },
+    {
+      "alignedWord": "picture",
+      "case": "success",
+      "end": 1.03,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 7,
+      "word": "picture"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 1.1600000000000001,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.03,
+      "startOffset": 15,
+      "word": "he"
+    },
+    {
+      "alignedWord": "saw",
+      "case": "success",
+      "end": 1.38,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 18,
+      "word": "saw"
+    },
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 1.6099999999999999,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 22,
+      "word": "each"
+    },
+    {
+      "alignedWord": "moment",
+      "case": "success",
+      "end": 1.88,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.63,
+      "startOffset": 27,
+      "word": "moment"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 34,
+      "word": "a"
+    },
+    {
+      "alignedWord": "greater",
+      "case": "success",
+      "end": 2.29,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 36,
+      "word": "greater"
+    },
+    {
+      "alignedWord": "resemblance",
+      "case": "success",
+      "end": 2.95,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.29,
+      "startOffset": 44,
+      "word": "resemblance"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 3.43,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 3.24,
+      "startOffset": 56,
+      "word": "to"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 65,
+      "startOffset": 59,
+      "word": "Jeanne"
+    }
+  ]
+}

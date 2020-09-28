@@ -1,0 +1,202 @@
+{
+  "transcript": "It fairly clubbed me into recognizing it.",
+  "words": [
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 1.8699999999999999,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.65,
+      "startOffset": 0,
+      "word": "It"
+    },
+    {
+      "alignedWord": "fairly",
+      "case": "success",
+      "end": 2.34,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.87,
+      "startOffset": 3,
+      "word": "fairly"
+    },
+    {
+      "alignedWord": "clubbed",
+      "case": "success",
+      "end": 2.73,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.34,
+      "startOffset": 10,
+      "word": "clubbed"
+    },
+    {
+      "alignedWord": "me",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.75,
+      "startOffset": 18,
+      "word": "me"
+    },
+    {
+      "alignedWord": "into",
+      "case": "success",
+      "end": 3.1399999999999997,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 21,
+      "word": "into"
+    },
+    {
+      "alignedWord": "recognizing",
+      "case": "success",
+      "end": 4.13,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "g_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 3.14,
+      "startOffset": 26,
+      "word": "recognizing"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 4.99,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.97,
+      "startOffset": 38,
+      "word": "it"
+    }
+  ]
+}

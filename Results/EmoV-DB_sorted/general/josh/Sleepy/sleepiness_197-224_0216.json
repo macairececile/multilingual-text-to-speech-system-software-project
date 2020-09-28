@@ -1,0 +1,257 @@
+{
+  "transcript": "The other felt a sudden wave of irritation rush through him.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.6,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.58,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "other",
+      "case": "success",
+      "end": 1.78,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 4,
+      "word": "other"
+    },
+    {
+      "alignedWord": "felt",
+      "case": "success",
+      "end": 2.0100000000000002,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 10,
+      "word": "felt"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.38,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 15,
+      "word": "a"
+    },
+    {
+      "alignedWord": "sudden",
+      "case": "success",
+      "end": 2.52,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.38,
+      "startOffset": 17,
+      "word": "sudden"
+    },
+    {
+      "alignedWord": "wave",
+      "case": "success",
+      "end": 2.79,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.52,
+      "startOffset": 24,
+      "word": "wave"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.89,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.8,
+      "startOffset": 29,
+      "word": "of"
+    },
+    {
+      "alignedWord": "irritation",
+      "case": "success",
+      "end": 3.65,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.94,
+      "startOffset": 32,
+      "word": "irritation"
+    },
+    {
+      "alignedWord": "rush",
+      "case": "success",
+      "end": 4.04,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "sh_E"
+        }
+      ],
+      "start": 3.65,
+      "startOffset": 43,
+      "word": "rush"
+    },
+    {
+      "alignedWord": "through",
+      "case": "success",
+      "end": 4.22,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 4.07,
+      "startOffset": 48,
+      "word": "through"
+    },
+    {
+      "case": "not-found-in-audio",
+      "endOffset": 59,
+      "startOffset": 56,
+      "word": "him"
+    }
+  ]
+}

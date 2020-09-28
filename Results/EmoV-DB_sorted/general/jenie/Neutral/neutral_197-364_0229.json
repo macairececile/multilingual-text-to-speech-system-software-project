@@ -1,0 +1,189 @@
+{
+  "transcript": "The last one I knew was an overseer.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.87,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.74,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "last",
+      "case": "success",
+      "end": 1.2,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.87,
+      "startOffset": 4,
+      "word": "last"
+    },
+    {
+      "alignedWord": "one",
+      "case": "success",
+      "end": 1.3699999999999999,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 9,
+      "word": "one"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.52,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.37,
+      "startOffset": 13,
+      "word": "I"
+    },
+    {
+      "alignedWord": "knew",
+      "case": "success",
+      "end": 1.77,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.52,
+      "startOffset": 15,
+      "word": "knew"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.98,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 20,
+      "word": "was"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 2.08,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 24,
+      "word": "an"
+    },
+    {
+      "alignedWord": "overseer",
+      "case": "success",
+      "end": 2.6799999999999997,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ow_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.09,
+      "startOffset": 27,
+      "word": "overseer"
+    }
+  ]
+}

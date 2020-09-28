@@ -1,0 +1,309 @@
+{
+  "transcript": "Out of his eighteen hundred, he laid aside sixteen hundred each year.",
+  "words": [
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 2.21,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.19,
+      "startOffset": 0,
+      "word": "Out"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.23,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.21,
+      "startOffset": 4,
+      "word": "of"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.23,
+      "startOffset": 7,
+      "word": "his"
+    },
+    {
+      "alignedWord": "eighteen",
+      "case": "success",
+      "end": 2.65,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ey_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 11,
+      "word": "eighteen"
+    },
+    {
+      "alignedWord": "hundred",
+      "case": "success",
+      "end": 3.0100000000000002,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.68,
+      "startOffset": 20,
+      "word": "hundred"
+    },
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 4.76,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 4.56,
+      "startOffset": 29,
+      "word": "he"
+    },
+    {
+      "alignedWord": "laid",
+      "case": "success",
+      "end": 5.1000000000000005,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.07,
+      "startOffset": 32,
+      "word": "laid"
+    },
+    {
+      "alignedWord": "aside",
+      "case": "success",
+      "end": 5.66,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "d_E"
+        }
+      ],
+      "start": 5.1,
+      "startOffset": 37,
+      "word": "aside"
+    },
+    {
+      "alignedWord": "sixteen",
+      "case": "success",
+      "end": 6.55,
+      "endOffset": 50,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "n_E"
+        }
+      ],
+      "start": 5.66,
+      "startOffset": 43,
+      "word": "sixteen"
+    },
+    {
+      "alignedWord": "hundred",
+      "case": "success",
+      "end": 7.21,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 6.56,
+      "startOffset": 51,
+      "word": "hundred"
+    },
+    {
+      "alignedWord": "each",
+      "case": "success",
+      "end": 7.49,
+      "endOffset": 63,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 7.21,
+      "startOffset": 59,
+      "word": "each"
+    },
+    {
+      "alignedWord": "year",
+      "case": "success",
+      "end": 8.05,
+      "endOffset": 68,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.3,
+          "phone": "r_E"
+        }
+      ],
+      "start": 7.49,
+      "startOffset": 64,
+      "word": "year"
+    }
+  ]
+}

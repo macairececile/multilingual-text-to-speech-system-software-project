@@ -1,0 +1,259 @@
+{
+  "transcript": "It's the strap hangers that'll keep us from going under.",
+  "words": [
+    {
+      "alignedWord": "it's",
+      "case": "success",
+      "end": 1.32,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "s_E"
+        }
+      ],
+      "start": 0.89,
+      "startOffset": 0,
+      "word": "It's"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.4700000000000002,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.33,
+      "startOffset": 5,
+      "word": "the"
+    },
+    {
+      "alignedWord": "strap",
+      "case": "success",
+      "end": 2.0,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 9,
+      "word": "strap"
+    },
+    {
+      "alignedWord": "hangers",
+      "case": "success",
+      "end": 2.79,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.0,
+      "startOffset": 15,
+      "word": "hangers"
+    },
+    {
+      "alignedWord": "that'll",
+      "case": "success",
+      "end": 3.3899999999999997,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.05,
+      "startOffset": 23,
+      "word": "that'll"
+    },
+    {
+      "alignedWord": "keep",
+      "case": "success",
+      "end": 3.74,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_E"
+        }
+      ],
+      "start": 3.43,
+      "startOffset": 31,
+      "word": "keep"
+    },
+    {
+      "alignedWord": "us",
+      "case": "success",
+      "end": 4.21,
+      "endOffset": 38,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.31,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.74,
+      "startOffset": 36,
+      "word": "us"
+    },
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 4.52,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.22,
+      "startOffset": 39,
+      "word": "from"
+    },
+    {
+      "alignedWord": "going",
+      "case": "success",
+      "end": 4.89,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.52,
+      "startOffset": 44,
+      "word": "going"
+    },
+    {
+      "alignedWord": "under",
+      "case": "success",
+      "end": 5.369999999999999,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.89,
+      "startOffset": 50,
+      "word": "under"
+    }
+  ]
+}

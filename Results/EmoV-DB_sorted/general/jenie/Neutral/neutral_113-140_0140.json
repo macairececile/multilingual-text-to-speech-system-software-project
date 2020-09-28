@@ -1,0 +1,209 @@
+{
+  "transcript": "Accept a father's blessing, and with it, this.",
+  "words": [
+    {
+      "alignedWord": "accept",
+      "case": "success",
+      "end": 1.91,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.48,
+      "startOffset": 0,
+      "word": "Accept"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.97,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 7,
+      "word": "a"
+    },
+    {
+      "alignedWord": "father's",
+      "case": "success",
+      "end": 2.35,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aa_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.97,
+      "startOffset": 9,
+      "word": "father's"
+    },
+    {
+      "alignedWord": "blessing",
+      "case": "success",
+      "end": 2.94,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 2.35,
+      "startOffset": 18,
+      "word": "blessing"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.27,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.11,
+      "startOffset": 28,
+      "word": "and"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.45,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.27,
+      "startOffset": 32,
+      "word": "with"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 3.7600000000000002,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.45,
+      "startOffset": 37,
+      "word": "it"
+    },
+    {
+      "alignedWord": "this",
+      "case": "success",
+      "end": 4.38,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "s_E"
+        }
+      ],
+      "start": 3.95,
+      "startOffset": 41,
+      "word": "this"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "transcript": "Who the devil gave it to you to be judge and jury.",
+  "words": [
+    {
+      "alignedWord": "who",
+      "case": "success",
+      "end": 0.98,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 0,
+      "word": "Who"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.1099999999999999,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 4,
+      "word": "the"
+    },
+    {
+      "alignedWord": "devil",
+      "case": "success",
+      "end": 1.46,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.11,
+      "startOffset": 8,
+      "word": "devil"
+    },
+    {
+      "alignedWord": "gave",
+      "case": "success",
+      "end": 1.66,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "g_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.47,
+      "startOffset": 14,
+      "word": "gave"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 1.7799999999999998,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 19,
+      "word": "it"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.8900000000000001,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.78,
+      "startOffset": 22,
+      "word": "to"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.21,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 25,
+      "word": "you"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 2.32,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_E"
+        }
+      ],
+      "start": 2.21,
+      "startOffset": 29,
+      "word": "to"
+    },
+    {
+      "alignedWord": "be",
+      "case": "success",
+      "end": 2.45,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.33,
+      "startOffset": 32,
+      "word": "be"
+    },
+    {
+      "alignedWord": "judge",
+      "case": "success",
+      "end": 2.7600000000000002,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 2.45,
+      "startOffset": 35,
+      "word": "judge"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 2.8899999999999997,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.76,
+      "startOffset": 41,
+      "word": "and"
+    },
+    {
+      "alignedWord": "jury",
+      "case": "success",
+      "end": 3.2800000000000002,
+      "endOffset": 49,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.89,
+      "startOffset": 45,
+      "word": "jury"
+    }
+  ]
+}

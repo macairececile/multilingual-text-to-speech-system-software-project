@@ -1,0 +1,274 @@
+{
+  "transcript": "Much more Ernest told them of themselves and of his disillusionment.",
+  "words": [
+    {
+      "alignedWord": "much",
+      "case": "success",
+      "end": 1.63,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 1.27,
+      "startOffset": 0,
+      "word": "Much"
+    },
+    {
+      "alignedWord": "more",
+      "case": "success",
+      "end": 2.12,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.66,
+      "startOffset": 5,
+      "word": "more"
+    },
+    {
+      "alignedWord": "ernest",
+      "case": "success",
+      "end": 2.71,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "er_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.26,
+      "startOffset": 10,
+      "word": "Ernest"
+    },
+    {
+      "alignedWord": "told",
+      "case": "success",
+      "end": 3.03,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.71,
+      "startOffset": 17,
+      "word": "told"
+    },
+    {
+      "alignedWord": "them",
+      "case": "success",
+      "end": 3.1799999999999997,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_E"
+        }
+      ],
+      "start": 3.03,
+      "startOffset": 22,
+      "word": "them"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 3.3400000000000003,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "v_E"
+        }
+      ],
+      "start": 3.18,
+      "startOffset": 27,
+      "word": "of"
+    },
+    {
+      "alignedWord": "themselves",
+      "case": "success",
+      "end": 4.04,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.34,
+      "startOffset": 30,
+      "word": "themselves"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.36,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.16,
+      "startOffset": 41,
+      "word": "and"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 4.53,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "v_E"
+        }
+      ],
+      "start": 4.36,
+      "startOffset": 45,
+      "word": "of"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 4.7700000000000005,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.53,
+      "startOffset": 48,
+      "word": "his"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 4.829999999999999,
+      "endOffset": 67,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 4.77,
+      "startOffset": 52,
+      "word": "disillusionment"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "transcript": "To her the bridge was tambo, which is the native for taboo.",
+  "words": [
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.1300000000000001,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.92,
+      "startOffset": 0,
+      "word": "To"
+    },
+    {
+      "alignedWord": "her",
+      "case": "success",
+      "end": 1.8900000000000001,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.36,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.36,
+      "startOffset": 3,
+      "word": "her"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.11,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 7,
+      "word": "the"
+    },
+    {
+      "alignedWord": "bridge",
+      "case": "success",
+      "end": 2.92,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "jh_E"
+        }
+      ],
+      "start": 2.23,
+      "startOffset": 11,
+      "word": "bridge"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 3.29,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.95,
+      "startOffset": 18,
+      "word": "was"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 5.01,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 1.25,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 3.76,
+      "startOffset": 22,
+      "word": "tambo"
+    },
+    {
+      "alignedWord": "which",
+      "case": "success",
+      "end": 5.91,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ch_E"
+        }
+      ],
+      "start": 5.72,
+      "startOffset": 29,
+      "word": "which"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 6.15,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "z_E"
+        }
+      ],
+      "start": 5.91,
+      "startOffset": 35,
+      "word": "is"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 6.4399999999999995,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 6.17,
+      "startOffset": 38,
+      "word": "the"
+    },
+    {
+      "alignedWord": "native",
+      "case": "success",
+      "end": 7.96,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "v_E"
+        }
+      ],
+      "start": 7.24,
+      "startOffset": 42,
+      "word": "native"
+    },
+    {
+      "alignedWord": "for",
+      "case": "success",
+      "end": 8.540000000000001,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.25,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "er_E"
+        }
+      ],
+      "start": 7.98,
+      "startOffset": 49,
+      "word": "for"
+    },
+    {
+      "alignedWord": "taboo",
+      "case": "success",
+      "end": 9.780000000000001,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.3,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.59,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 8.63,
+      "startOffset": 53,
+      "word": "taboo"
+    }
+  ]
+}

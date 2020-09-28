@@ -1,0 +1,201 @@
+{
+  "transcript": "He would destroy all things that are fixed.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.96,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.69,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "would",
+      "case": "success",
+      "end": 1.16,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.96,
+      "startOffset": 3,
+      "word": "would"
+    },
+    {
+      "alignedWord": "destroy",
+      "case": "success",
+      "end": 1.8499999999999999,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.3,
+          "phone": "oy_E"
+        }
+      ],
+      "start": 1.16,
+      "startOffset": 9,
+      "word": "destroy"
+    },
+    {
+      "alignedWord": "all",
+      "case": "success",
+      "end": 2.26,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.96,
+      "startOffset": 17,
+      "word": "all"
+    },
+    {
+      "alignedWord": "things",
+      "case": "success",
+      "end": 2.77,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ng_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.29,
+      "startOffset": 21,
+      "word": "things"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 2.92,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.77,
+      "startOffset": 28,
+      "word": "that"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 3.06,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 2.92,
+      "startOffset": 33,
+      "word": "are"
+    },
+    {
+      "alignedWord": "fixed",
+      "case": "success",
+      "end": 3.65,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.06,
+      "startOffset": 37,
+      "word": "fixed"
+    }
+  ]
+}

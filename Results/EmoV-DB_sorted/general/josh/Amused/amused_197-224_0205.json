@@ -1,0 +1,112 @@
+{
+  "transcript": "From now on we're pals.",
+  "words": [
+    {
+      "alignedWord": "from",
+      "case": "success",
+      "end": 1.8,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_E"
+        }
+      ],
+      "start": 1.6,
+      "startOffset": 0,
+      "word": "From"
+    },
+    {
+      "alignedWord": "now",
+      "case": "success",
+      "end": 2.0100000000000002,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 5,
+      "word": "now"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 2.1799999999999997,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.01,
+      "startOffset": 9,
+      "word": "on"
+    },
+    {
+      "alignedWord": "we're",
+      "case": "success",
+      "end": 2.31,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.18,
+      "startOffset": 12,
+      "word": "we're"
+    },
+    {
+      "alignedWord": "pals",
+      "case": "success",
+      "end": 2.87,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.31,
+      "startOffset": 18,
+      "word": "pals"
+    }
+  ]
+}

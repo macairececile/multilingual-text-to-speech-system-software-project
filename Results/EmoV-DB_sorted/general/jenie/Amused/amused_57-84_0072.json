@@ -1,0 +1,116 @@
+{
+  "transcript": "But who was Eileen's double.",
+  "words": [
+    {
+      "alignedWord": "but",
+      "case": "success",
+      "end": 0.51,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.3,
+      "startOffset": 0,
+      "word": "But"
+    },
+    {
+      "alignedWord": "who",
+      "case": "success",
+      "end": 0.7,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.51,
+      "startOffset": 4,
+      "word": "who"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 1.04,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.82,
+      "startOffset": 8,
+      "word": "was"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.57,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.53,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.04,
+      "startOffset": 12,
+      "word": "Eileen's"
+    },
+    {
+      "alignedWord": "double",
+      "case": "success",
+      "end": 2.18,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.62,
+      "startOffset": 21,
+      "word": "double"
+    }
+  ]
+}

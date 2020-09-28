@@ -1,0 +1,259 @@
+{
+  "transcript": "And twenty men could hold it with spears and arrows.",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.93,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 0,
+      "word": "And"
+    },
+    {
+      "alignedWord": "twenty",
+      "case": "success",
+      "end": 2.62,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.93,
+      "startOffset": 4,
+      "word": "twenty"
+    },
+    {
+      "alignedWord": "men",
+      "case": "success",
+      "end": 3.44,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.3,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.32,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.67,
+      "startOffset": 11,
+      "word": "men"
+    },
+    {
+      "alignedWord": "could",
+      "case": "success",
+      "end": 4.41,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.11,
+      "startOffset": 15,
+      "word": "could"
+    },
+    {
+      "alignedWord": "hold",
+      "case": "success",
+      "end": 4.99,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.29,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 4.41,
+      "startOffset": 21,
+      "word": "hold"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 5.21,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.99,
+      "startOffset": 26,
+      "word": "it"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 5.96,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.34,
+          "phone": "th_E"
+        }
+      ],
+      "start": 5.49,
+      "startOffset": 29,
+      "word": "with"
+    },
+    {
+      "alignedWord": "spears",
+      "case": "success",
+      "end": 7.010000000000001,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.32,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "z_E"
+        }
+      ],
+      "start": 6.36,
+      "startOffset": 34,
+      "word": "spears"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 7.25,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "d_E"
+        }
+      ],
+      "start": 7.01,
+      "startOffset": 41,
+      "word": "and"
+    },
+    {
+      "alignedWord": "arrows",
+      "case": "success",
+      "end": 8.99,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.44,
+          "phone": "z_E"
+        }
+      ],
+      "start": 7.95,
+      "startOffset": 45,
+      "word": "arrows"
+    }
+  ]
+}

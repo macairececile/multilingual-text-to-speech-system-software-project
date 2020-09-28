@@ -1,0 +1,199 @@
+{
+  "transcript": "The eastern heavens were equally spectacular.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.63,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.42,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "eastern",
+      "case": "success",
+      "end": 1.25,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 4,
+      "word": "eastern"
+    },
+    {
+      "alignedWord": "heavens",
+      "case": "success",
+      "end": 1.94,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 12,
+      "word": "heavens"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 2.16,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.98,
+      "startOffset": 20,
+      "word": "were"
+    },
+    {
+      "alignedWord": "equally",
+      "case": "success",
+      "end": 2.88,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "iy_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.23,
+      "startOffset": 25,
+      "word": "equally"
+    },
+    {
+      "alignedWord": "spectacular",
+      "case": "success",
+      "end": 3.55,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_E"
+        }
+      ],
+      "start": 2.88,
+      "startOffset": 33,
+      "word": "spectacular"
+    }
+  ]
+}

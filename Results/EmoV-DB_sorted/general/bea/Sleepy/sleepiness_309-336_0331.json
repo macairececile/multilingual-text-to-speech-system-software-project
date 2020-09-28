@@ -1,0 +1,210 @@
+{
+  "transcript": "Poor little Crooked-Leg was terribly scared.",
+  "words": [
+    {
+      "alignedWord": "poor",
+      "case": "success",
+      "end": 1.33,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.76,
+      "startOffset": 0,
+      "word": "Poor"
+    },
+    {
+      "alignedWord": "little",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.38,
+      "startOffset": 5,
+      "word": "little"
+    },
+    {
+      "alignedWord": "crooked",
+      "case": "success",
+      "end": 2.37,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 12,
+      "word": "Crooked"
+    },
+    {
+      "alignedWord": "leg",
+      "case": "success",
+      "end": 2.75,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "g_E"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 20,
+      "word": "Leg"
+    },
+    {
+      "alignedWord": "was",
+      "case": "success",
+      "end": 3.03,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.78,
+      "startOffset": 24,
+      "word": "was"
+    },
+    {
+      "alignedWord": "terribly",
+      "case": "success",
+      "end": 3.75,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.1,
+      "startOffset": 28,
+      "word": "terribly"
+    },
+    {
+      "alignedWord": "scared",
+      "case": "success",
+      "end": 4.42,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.75,
+      "startOffset": 37,
+      "word": "scared"
+    }
+  ]
+}

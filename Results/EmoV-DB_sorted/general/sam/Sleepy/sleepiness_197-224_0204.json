@@ -1,0 +1,224 @@
+{
+  "transcript": "The wolf-dog thrust his gaunt muzzle toward him.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.98,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "wolf",
+      "case": "success",
+      "end": 1.48,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uh_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.17,
+      "startOffset": 4,
+      "word": "wolf"
+    },
+    {
+      "alignedWord": "dog",
+      "case": "success",
+      "end": 1.87,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "g_E"
+        }
+      ],
+      "start": 1.79,
+      "startOffset": 9,
+      "word": "dog"
+    },
+    {
+      "alignedWord": "thrust",
+      "case": "success",
+      "end": 2.51,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.21,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.91,
+      "startOffset": 13,
+      "word": "thrust"
+    },
+    {
+      "alignedWord": "his",
+      "case": "success",
+      "end": 2.7699999999999996,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.51,
+      "startOffset": 20,
+      "word": "his"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 3.09,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.31,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.78,
+      "startOffset": 24,
+      "word": "gaunt"
+    },
+    {
+      "alignedWord": "muzzle",
+      "case": "success",
+      "end": 3.62,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.15,
+      "startOffset": 30,
+      "word": "muzzle"
+    },
+    {
+      "alignedWord": "toward",
+      "case": "success",
+      "end": 4.0200000000000005,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.62,
+      "startOffset": 37,
+      "word": "toward"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 4.26,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "m_E"
+        }
+      ],
+      "start": 4.02,
+      "startOffset": 44,
+      "word": "him"
+    }
+  ]
+}

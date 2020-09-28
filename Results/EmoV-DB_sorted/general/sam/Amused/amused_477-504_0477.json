@@ -1,0 +1,239 @@
+{
+  "transcript": "Wada, Louis, and the steward are servants of Asiatic breed.",
+  "words": [
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 1.75,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.2,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 1.55,
+      "startOffset": 0,
+      "word": "Wada"
+    },
+    {
+      "alignedWord": "louis",
+      "case": "success",
+      "end": 2.5300000000000002,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.24,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.3,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 6,
+      "word": "Louis"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 3.3000000000000003,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.1,
+      "startOffset": 13,
+      "word": "and"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 3.4699999999999998,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 3.32,
+      "startOffset": 17,
+      "word": "the"
+    },
+    {
+      "alignedWord": "steward",
+      "case": "success",
+      "end": 4.41,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.26,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.48,
+      "startOffset": 21,
+      "word": "steward"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 4.95,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_E"
+        }
+      ],
+      "start": 4.73,
+      "startOffset": 29,
+      "word": "are"
+    },
+    {
+      "alignedWord": "servants",
+      "case": "success",
+      "end": 5.37,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.26,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.95,
+      "startOffset": 33,
+      "word": "servants"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 5.39,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 5.37,
+      "startOffset": 42,
+      "word": "of"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 5.79,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.4,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 5.39,
+      "startOffset": 45,
+      "word": "Asiatic"
+    },
+    {
+      "alignedWord": "breed",
+      "case": "success",
+      "end": 7.75,
+      "endOffset": 58,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 7.19,
+      "startOffset": 53,
+      "word": "breed"
+    }
+  ]
+}

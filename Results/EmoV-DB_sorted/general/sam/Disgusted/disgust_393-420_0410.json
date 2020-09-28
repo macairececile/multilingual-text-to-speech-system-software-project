@@ -1,0 +1,296 @@
+{
+  "transcript": "So we have to fit the boat throughout with oil lamps as well.",
+  "words": [
+    {
+      "alignedWord": "so",
+      "case": "success",
+      "end": 0.9,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 0.67,
+      "startOffset": 0,
+      "word": "So"
+    },
+    {
+      "alignedWord": "we",
+      "case": "success",
+      "end": 1.05,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.03,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.9,
+      "startOffset": 3,
+      "word": "we"
+    },
+    {
+      "alignedWord": "have",
+      "case": "success",
+      "end": 1.61,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.05,
+      "startOffset": 6,
+      "word": "have"
+    },
+    {
+      "alignedWord": "to",
+      "case": "success",
+      "end": 1.81,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.61,
+      "startOffset": 11,
+      "word": "to"
+    },
+    {
+      "alignedWord": "fit",
+      "case": "success",
+      "end": 2.05,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.81,
+      "startOffset": 14,
+      "word": "fit"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.2399999999999998,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.07,
+      "startOffset": 18,
+      "word": "the"
+    },
+    {
+      "alignedWord": "boat",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.25,
+      "startOffset": 22,
+      "word": "boat"
+    },
+    {
+      "alignedWord": "throughout",
+      "case": "success",
+      "end": 3.41,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.3,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.61,
+      "startOffset": 27,
+      "word": "throughout"
+    },
+    {
+      "alignedWord": "with",
+      "case": "success",
+      "end": 3.7700000000000005,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "th_E"
+        }
+      ],
+      "start": 3.49,
+      "startOffset": 38,
+      "word": "with"
+    },
+    {
+      "alignedWord": "oil",
+      "case": "success",
+      "end": 4.34,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.32,
+          "phone": "oy_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.94,
+      "startOffset": 43,
+      "word": "oil"
+    },
+    {
+      "alignedWord": "lamps",
+      "case": "success",
+      "end": 4.72,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "s_E"
+        }
+      ],
+      "start": 4.34,
+      "startOffset": 47,
+      "word": "lamps"
+    },
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 4.93,
+      "endOffset": 55,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.72,
+      "startOffset": 53,
+      "word": "as"
+    },
+    {
+      "alignedWord": "well",
+      "case": "success",
+      "end": 5.74,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.39,
+          "phone": "l_E"
+        }
+      ],
+      "start": 5.05,
+      "startOffset": 56,
+      "word": "well"
+    }
+  ]
+}

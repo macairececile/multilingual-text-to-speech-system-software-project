@@ -1,0 +1,208 @@
+{
+  "transcript": "The big-eyed, clucking moose-birds were most annoying.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 1.12,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.88,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "big",
+      "case": "success",
+      "end": 1.42,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "g_E"
+        }
+      ],
+      "start": 1.13,
+      "startOffset": 4,
+      "word": "big"
+    },
+    {
+      "alignedWord": "eyed",
+      "case": "success",
+      "end": 1.8699999999999999,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.28,
+          "phone": "ay_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 8,
+      "word": "eyed"
+    },
+    {
+      "alignedWord": "<unk>",
+      "case": "success",
+      "end": 2.58,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.52,
+          "phone": "oov_S"
+        }
+      ],
+      "start": 2.06,
+      "startOffset": 14,
+      "word": "clucking"
+    },
+    {
+      "alignedWord": "moose",
+      "case": "success",
+      "end": 2.9899999999999998,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.59,
+      "startOffset": 23,
+      "word": "moose"
+    },
+    {
+      "alignedWord": "birds",
+      "case": "success",
+      "end": 3.45,
+      "endOffset": 34,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.0,
+      "startOffset": 29,
+      "word": "birds"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 3.6900000000000004,
+      "endOffset": 39,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_E"
+        }
+      ],
+      "start": 3.45,
+      "startOffset": 35,
+      "word": "were"
+    },
+    {
+      "alignedWord": "most",
+      "case": "success",
+      "end": 4.58,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.26,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_E"
+        }
+      ],
+      "start": 3.93,
+      "startOffset": 40,
+      "word": "most"
+    },
+    {
+      "alignedWord": "annoying",
+      "case": "success",
+      "end": 5.36,
+      "endOffset": 53,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "oy_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 4.61,
+      "startOffset": 45,
+      "word": "annoying"
+    }
+  ]
+}

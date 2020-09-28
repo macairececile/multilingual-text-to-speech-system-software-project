@@ -1,0 +1,214 @@
+{
+  "transcript": "The Resident Commissioner is away in Australia.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.59,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.44,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "resident",
+      "case": "success",
+      "end": 0.8099999999999999,
+      "endOffset": 12,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "r_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.59,
+      "startOffset": 4,
+      "word": "Resident"
+    },
+    {
+      "alignedWord": "commissioner",
+      "case": "success",
+      "end": 1.5699999999999998,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_E"
+        }
+      ],
+      "start": 1.0,
+      "startOffset": 13,
+      "word": "Commissioner"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.8900000000000001,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.75,
+      "startOffset": 26,
+      "word": "is"
+    },
+    {
+      "alignedWord": "away",
+      "case": "success",
+      "end": 2.4,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.27,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 1.89,
+      "startOffset": 29,
+      "word": "away"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.65,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.48,
+      "startOffset": 34,
+      "word": "in"
+    },
+    {
+      "alignedWord": "australia",
+      "case": "success",
+      "end": 3.23,
+      "endOffset": 46,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ao_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.65,
+      "startOffset": 37,
+      "word": "Australia"
+    }
+  ]
+}

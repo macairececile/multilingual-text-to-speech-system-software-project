@@ -1,0 +1,223 @@
+{
+  "transcript": "In the matter of curry she is a sheer genius.",
+  "words": [
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 0.78,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_E"
+        }
+      ],
+      "start": 0.65,
+      "startOffset": 0,
+      "word": "In"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.91,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.78,
+      "startOffset": 3,
+      "word": "the"
+    },
+    {
+      "alignedWord": "matter",
+      "case": "success",
+      "end": 1.42,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.16,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "er_E"
+        }
+      ],
+      "start": 0.91,
+      "startOffset": 7,
+      "word": "matter"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 1.65,
+      "endOffset": 16,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "v_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 14,
+      "word": "of"
+    },
+    {
+      "alignedWord": "curry",
+      "case": "success",
+      "end": 2.86,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.36,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.22,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.36,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.92,
+      "startOffset": 17,
+      "word": "curry"
+    },
+    {
+      "alignedWord": "she",
+      "case": "success",
+      "end": 3.8600000000000003,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.28,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 3.39,
+      "startOffset": 23,
+      "word": "she"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 4.11,
+      "endOffset": 29,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 3.88,
+      "startOffset": 27,
+      "word": "is"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 4.260000000000001,
+      "endOffset": 31,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 4.11,
+      "startOffset": 30,
+      "word": "a"
+    },
+    {
+      "alignedWord": "sheer",
+      "case": "success",
+      "end": 5.04,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.44,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "r_E"
+        }
+      ],
+      "start": 4.26,
+      "startOffset": 32,
+      "word": "sheer"
+    },
+    {
+      "alignedWord": "genius",
+      "case": "success",
+      "end": 6.3999999999999995,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.39,
+          "phone": "jh_B"
+        },
+        {
+          "duration": 0.16,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "y_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.37,
+          "phone": "s_E"
+        }
+      ],
+      "start": 5.18,
+      "startOffset": 38,
+      "word": "genius"
+    }
+  ]
+}

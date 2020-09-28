@@ -1,0 +1,293 @@
+{
+  "transcript": "I sailed third mate in the little Vampire before you were born.",
+  "words": [
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 0.92,
+      "endOffset": 1,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 0.77,
+      "startOffset": 0,
+      "word": "I"
+    },
+    {
+      "alignedWord": "sailed",
+      "case": "success",
+      "end": 1.67,
+      "endOffset": 8,
+      "phones": [
+        {
+          "duration": 0.27,
+          "phone": "s_B"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 0.92,
+      "startOffset": 2,
+      "word": "sailed"
+    },
+    {
+      "alignedWord": "third",
+      "case": "success",
+      "end": 2.13,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "th_B"
+        },
+        {
+          "duration": 0.13,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.73,
+      "startOffset": 9,
+      "word": "third"
+    },
+    {
+      "alignedWord": "mate",
+      "case": "success",
+      "end": 2.67,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.16,
+      "startOffset": 15,
+      "word": "mate"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.8400000000000003,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.68,
+      "startOffset": 20,
+      "word": "in"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 2.84,
+      "startOffset": 23,
+      "word": "the"
+    },
+    {
+      "alignedWord": "little",
+      "case": "success",
+      "end": 3.28,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 27,
+      "word": "little"
+    },
+    {
+      "alignedWord": "vampire",
+      "case": "success",
+      "end": 4.23,
+      "endOffset": 41,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.24,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "r_E"
+        }
+      ],
+      "start": 3.29,
+      "startOffset": 34,
+      "word": "Vampire"
+    },
+    {
+      "alignedWord": "before",
+      "case": "success",
+      "end": 5.43,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "r_E"
+        }
+      ],
+      "start": 4.77,
+      "startOffset": 42,
+      "word": "before"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 5.6499999999999995,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 5.43,
+      "startOffset": 49,
+      "word": "you"
+    },
+    {
+      "alignedWord": "were",
+      "case": "success",
+      "end": 5.8500000000000005,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_E"
+        }
+      ],
+      "start": 5.65,
+      "startOffset": 53,
+      "word": "were"
+    },
+    {
+      "alignedWord": "born",
+      "case": "success",
+      "end": 6.890000000000001,
+      "endOffset": 62,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.23,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.14,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.22,
+          "phone": "n_E"
+        }
+      ],
+      "start": 6.15,
+      "startOffset": 58,
+      "word": "born"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "transcript": "Shall I carry you.",
+  "words": [
+    {
+      "alignedWord": "shall",
+      "case": "success",
+      "end": 1.31,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "sh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_E"
+        }
+      ],
+      "start": 1.02,
+      "startOffset": 0,
+      "word": "Shall"
+    },
+    {
+      "alignedWord": "i",
+      "case": "success",
+      "end": 1.4100000000000001,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 1.31,
+      "startOffset": 6,
+      "word": "I"
+    },
+    {
+      "alignedWord": "carry",
+      "case": "success",
+      "end": 1.76,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 1.42,
+      "startOffset": 8,
+      "word": "carry"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 2.04,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 1.76,
+      "startOffset": 14,
+      "word": "you"
+    }
+  ]
+}

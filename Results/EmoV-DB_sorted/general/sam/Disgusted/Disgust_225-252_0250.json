@@ -1,0 +1,364 @@
+{
+  "transcript": "He had observed the business life of Hawaii and developed a vaulting ambition.",
+  "words": [
+    {
+      "alignedWord": "he",
+      "case": "success",
+      "end": 0.97,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 0.68,
+      "startOffset": 0,
+      "word": "He"
+    },
+    {
+      "alignedWord": "had",
+      "case": "success",
+      "end": 1.08,
+      "endOffset": 6,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.05,
+      "startOffset": 3,
+      "word": "had"
+    },
+    {
+      "alignedWord": "observed",
+      "case": "success",
+      "end": 1.79,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.28,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.19,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.08,
+      "startOffset": 7,
+      "word": "observed"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 2.02,
+      "endOffset": 19,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 1.8,
+      "startOffset": 16,
+      "word": "the"
+    },
+    {
+      "alignedWord": "business",
+      "case": "success",
+      "end": 2.5599999999999996,
+      "endOffset": 28,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "z_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.03,
+      "startOffset": 20,
+      "word": "business"
+    },
+    {
+      "alignedWord": "life",
+      "case": "success",
+      "end": 2.94,
+      "endOffset": 33,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.19,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "f_E"
+        }
+      ],
+      "start": 2.56,
+      "startOffset": 29,
+      "word": "life"
+    },
+    {
+      "alignedWord": "of",
+      "case": "success",
+      "end": 2.96,
+      "endOffset": 36,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "v_E"
+        }
+      ],
+      "start": 2.94,
+      "startOffset": 34,
+      "word": "of"
+    },
+    {
+      "alignedWord": "hawaii",
+      "case": "success",
+      "end": 3.64,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "w_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.29,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 37,
+      "word": "Hawaii"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 4.15,
+      "endOffset": 47,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 3.96,
+      "startOffset": 44,
+      "word": "and"
+    },
+    {
+      "alignedWord": "developed",
+      "case": "success",
+      "end": 4.92,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.15,
+      "startOffset": 48,
+      "word": "developed"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 5.75,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 5.63,
+      "startOffset": 58,
+      "word": "a"
+    },
+    {
+      "alignedWord": "vaulting",
+      "case": "success",
+      "end": 6.88,
+      "endOffset": 68,
+      "phones": [
+        {
+          "duration": 0.3,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.41,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 5.75,
+      "startOffset": 60,
+      "word": "vaulting"
+    },
+    {
+      "alignedWord": "ambition",
+      "case": "success",
+      "end": 7.52,
+      "endOffset": 77,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "b_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "n_E"
+        }
+      ],
+      "start": 6.93,
+      "startOffset": 69,
+      "word": "ambition"
+    }
+  ]
+}

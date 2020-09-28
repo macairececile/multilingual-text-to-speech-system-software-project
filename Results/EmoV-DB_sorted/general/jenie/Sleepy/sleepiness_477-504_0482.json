@@ -1,0 +1,277 @@
+{
+  "transcript": "And their chief virtue lies in that they will never wear out.",
+  "words": [
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.39,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.18,
+      "startOffset": 0,
+      "word": "And"
+    },
+    {
+      "alignedWord": "their",
+      "case": "success",
+      "end": 1.5499999999999998,
+      "endOffset": 9,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.39,
+      "startOffset": 4,
+      "word": "their"
+    },
+    {
+      "alignedWord": "chief",
+      "case": "success",
+      "end": 2.09,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.19,
+          "phone": "ch_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.21,
+          "phone": "f_E"
+        }
+      ],
+      "start": 1.55,
+      "startOffset": 10,
+      "word": "chief"
+    },
+    {
+      "alignedWord": "virtue",
+      "case": "success",
+      "end": 2.92,
+      "endOffset": 22,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "v_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "ch_I"
+        },
+        {
+          "duration": 0.16,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.36,
+      "startOffset": 16,
+      "word": "virtue"
+    },
+    {
+      "alignedWord": "lies",
+      "case": "success",
+      "end": 3.63,
+      "endOffset": 27,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "l_B"
+        },
+        {
+          "duration": 0.26,
+          "phone": "ay_I"
+        },
+        {
+          "duration": 0.31,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.92,
+      "startOffset": 23,
+      "word": "lies"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 4.44,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "n_E"
+        }
+      ],
+      "start": 4.23,
+      "startOffset": 28,
+      "word": "in"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 4.670000000000001,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "t_E"
+        }
+      ],
+      "start": 4.44,
+      "startOffset": 31,
+      "word": "that"
+    },
+    {
+      "alignedWord": "they",
+      "case": "success",
+      "end": 4.97,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ey_E"
+        }
+      ],
+      "start": 4.68,
+      "startOffset": 36,
+      "word": "they"
+    },
+    {
+      "alignedWord": "will",
+      "case": "success",
+      "end": 5.16,
+      "endOffset": 45,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 4.97,
+      "startOffset": 41,
+      "word": "will"
+    },
+    {
+      "alignedWord": "never",
+      "case": "success",
+      "end": 5.58,
+      "endOffset": 51,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "n_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "er_E"
+        }
+      ],
+      "start": 5.16,
+      "startOffset": 46,
+      "word": "never"
+    },
+    {
+      "alignedWord": "wear",
+      "case": "success",
+      "end": 5.86,
+      "endOffset": 56,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_E"
+        }
+      ],
+      "start": 5.58,
+      "startOffset": 52,
+      "word": "wear"
+    },
+    {
+      "alignedWord": "out",
+      "case": "success",
+      "end": 6.15,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.18,
+          "phone": "aw_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 5.86,
+      "startOffset": 57,
+      "word": "out"
+    }
+  ]
+}

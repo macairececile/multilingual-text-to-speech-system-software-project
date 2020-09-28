@@ -1,0 +1,104 @@
+{
+  "transcript": "Keep an eye on him.",
+  "words": [
+    {
+      "alignedWord": "keep",
+      "case": "success",
+      "end": 1.67,
+      "endOffset": 4,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "p_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 0,
+      "word": "Keep"
+    },
+    {
+      "alignedWord": "an",
+      "case": "success",
+      "end": 2.11,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.14,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "n_E"
+        }
+      ],
+      "start": 1.82,
+      "startOffset": 5,
+      "word": "an"
+    },
+    {
+      "alignedWord": "eye",
+      "case": "success",
+      "end": 2.6300000000000003,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.41,
+          "phone": "ay_S"
+        }
+      ],
+      "start": 2.22,
+      "startOffset": 8,
+      "word": "eye"
+    },
+    {
+      "alignedWord": "on",
+      "case": "success",
+      "end": 2.9499999999999997,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.22,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.63,
+      "startOffset": 12,
+      "word": "on"
+    },
+    {
+      "alignedWord": "him",
+      "case": "success",
+      "end": 3.39,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.18,
+          "phone": "m_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 15,
+      "word": "him"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "transcript": "The fourth and fifth days passed without any developments.",
+  "words": [
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 0.71,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 0.57,
+      "startOffset": 0,
+      "word": "The"
+    },
+    {
+      "alignedWord": "fourth",
+      "case": "success",
+      "end": 1.0899999999999999,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "ao_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "th_E"
+        }
+      ],
+      "start": 0.71,
+      "startOffset": 4,
+      "word": "fourth"
+    },
+    {
+      "alignedWord": "and",
+      "case": "success",
+      "end": 1.26,
+      "endOffset": 14,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "d_E"
+        }
+      ],
+      "start": 1.09,
+      "startOffset": 11,
+      "word": "and"
+    },
+    {
+      "alignedWord": "fifth",
+      "case": "success",
+      "end": 1.55,
+      "endOffset": 20,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "f_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "th_E"
+        }
+      ],
+      "start": 1.26,
+      "startOffset": 15,
+      "word": "fifth"
+    },
+    {
+      "alignedWord": "days",
+      "case": "success",
+      "end": 1.94,
+      "endOffset": 25,
+      "phones": [
+        {
+          "duration": 0.12,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.55,
+      "startOffset": 21,
+      "word": "days"
+    },
+    {
+      "alignedWord": "passed",
+      "case": "success",
+      "end": 2.37,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.1,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.18,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "t_E"
+        }
+      ],
+      "start": 1.97,
+      "startOffset": 26,
+      "word": "passed"
+    },
+    {
+      "alignedWord": "without",
+      "case": "success",
+      "end": 2.62,
+      "endOffset": 40,
+      "phones": [
+        {
+          "duration": 0.02,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "dh_I"
+        },
+        {
+          "duration": 0.1,
+          "phone": "aw_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "t_E"
+        }
+      ],
+      "start": 2.37,
+      "startOffset": 33,
+      "word": "without"
+    },
+    {
+      "alignedWord": "any",
+      "case": "success",
+      "end": 2.98,
+      "endOffset": 44,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "eh_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.15,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.65,
+      "startOffset": 41,
+      "word": "any"
+    },
+    {
+      "alignedWord": "developments",
+      "case": "success",
+      "end": 3.8200000000000003,
+      "endOffset": 57,
+      "phones": [
+        {
+          "duration": 0.05,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "v_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.23,
+          "phone": "s_E"
+        }
+      ],
+      "start": 2.99,
+      "startOffset": 45,
+      "word": "developments"
+    }
+  ]
+}
