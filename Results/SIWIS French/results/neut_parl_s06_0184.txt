@@ -1,0 +1,38 @@
+Read content...
+Get resource options...
+URI http://cental.uclouvain.be/elitehts/v1/texts
+Allow :POST OPTIONS
+Post a new resource...
+URI http://cental.uclouvain.be/elitehts/v1/texts
+<link rel='self' href='http://cental.uclouvain.be/elitehts/v1/texts/:d67ea11e-0044-11eb-8a33-871598992200' /><link rel='self' href='http://cental.uclouvain.be/elitehts/v1/texts/:d67ea11e-0044-11eb-8a33-871598992200/hts' /><link rel='self' href='http://cental.uclouvain.be/elitehts/v1/texts/:d67ea11e-0044-11eb-8a33-871598992200/textgrid_hts' /><link rel='self' href='http://cental.uclouvain.be/elitehts/v1/texts/:d67ea11e-0044-11eb-8a33-871598992200/dls' />
+GET options of /resource/:id/...
+URI POST http://cental.uclouvain.be/elitehts/v1/texts/:d67ea11e-0044-11eb-8a33-871598992200
+Allow :GET DELETE OPTIONS
+GET ouput content...
+URI http://cental.uclouvain.be/elitehts/v1/texts/:d67ea11e-0044-11eb-8a33-871598992200/hts?mode=run
+x^x-s+a~=z@1_2/A:0_0_/B:1-1-2@1-1&1-2#0-1$0-1!0-1;0-1|a~/C:1+1+2/D:x_0/E:PREP+1@1+2&0+0#0+2/F:PRONPER-1/G:0_0/H:2=2@0=3|NONE/I:1_1/J:10+8-4
+x^s-a~+z=2@2_1/A:0_0_/B:1-1-2@1-1&1-2#0-1$0-1!0-1;0-1|a~/C:1+1+2/D:x_0/E:PREP+1@1+2&0+0#0+2/F:PRONPER-1/G:0_0/H:2=2@0=3|NONE/I:1_1/J:10+8-4
+s^a~-z+2=_@1_2/A:1_1_2/B:1-1-2@1-1&2-1#1-0$1-0!1-2;1-1|2/C:0+1+1/D:x_0/E:PREP+1@1+2&0+0#0+2/F:PRONPER-1/G:0_0/H:2=2@0=3|NONE/I:1_1/J:10+8-4
+a~^z-2+_=R@2_1/A:1_1_2/B:1-1-2@1-1&2-1#1-0$1-0!1-2;1-1|2/C:0+1+1/D:PREP_1/E:PRONPER+1@2+1&0+0#0+1/F:LIGHTPUNCT-1/G:0_0/H:2=2@0=3|NONE/I:1_1/J:10+8-4
+z^2-_+R=j@1_1/A:1_1_2/B:0-1-1@1-1&1-1#0-0$0-0!1-1;1-1|_/C:1+1+3/D:PRONPER_1/E:LIGHTPUNCT+1@1+1&0+0#0+2/F:PRONIND-1/G:2_2/H:1=1@1=2|NONE/I:6_4/J:10+8-4
+2^_-R+j=e~@1_3/A:0_1_1/B:1-1-3@1-1&1-6#0-5$0-1!2-1;1-5|e~/C:1+0+2/D:LIGHTPUNCT_1/E:PRONIND+1@1+4&0+3#1+1/F:ADVN-1/G:1_1/H:6=4@2=1|NONE/I:0_0/J:10+8-4
+_^R-j+e~=n@2_2/A:0_1_1/B:1-1-3@1-1&1-6#0-5$0-1!2-1;1-5|e~/C:1+0+2/D:LIGHTPUNCT_1/E:PRONIND+1@1+4&0+3#1+1/F:ADVN-1/G:1_1/H:6=4@2=1|NONE/I:0_0/J:10+8-4
+R^j-e~+n=@@3_1/A:0_1_1/B:1-1-3@1-1&1-6#0-5$0-1!2-1;1-5|e~/C:1+0+2/D:LIGHTPUNCT_1/E:PRONIND+1@1+4&0+3#1+1/F:ADVN-1/G:1_1/H:6=4@2=1|NONE/I:0_0/J:10+8-4
+j^e~-n+@=s@1_2/A:1_1_3/B:1-0-2@1-1&2-5#1-4$1-1!1-1;1-4|@/C:1+0+2/D:PRONIND_1/E:ADVN+1@2+3&0+2#2+1/F:PRED-2/G:1_1/H:6=4@2=1|NONE/I:0_0/J:10+8-4
+e~^n-@+s=@@2_1/A:1_1_3/B:1-0-2@1-1&2-5#1-4$1-1!1-1;1-4|@/C:1+0+2/D:PRONIND_1/E:ADVN+1@2+3&0+2#2+1/F:PRED-2/G:1_1/H:6=4@2=1|NONE/I:0_0/J:10+8-4
+n^@-s+@=R@1_2/A:1_0_2/B:1-0-2@1-2&3-4#2-3$1-1!1-1;2-3|@/C:1+0+2/D:ADVN_1/E:PRED+2@3+2&1+1#1+1/F:ADJ-2/G:1_1/H:6=4@2=1|NONE/I:0_0/J:10+8-4
+@^s-@+R=E@2_1/A:1_0_2/B:1-0-2@1-2&3-4#2-3$1-1!1-1;2-3|@/C:1+0+2/D:ADVN_1/E:PRED+2@3+2&1+1#1+1/F:ADJ-2/G:1_1/H:6=4@2=1|NONE/I:0_0/J:10+8-4
+s^@-R+E=p@1_2/A:1_0_2/B:1-0-2@2-1&4-3#3-2$1-1!1-1;3-2|E/C:1+0+2/D:ADVN_1/E:PRED+2@3+2&1+1#1+1/F:ADJ-2/G:1_1/H:6=4@2=1|NONE/I:0_0/J:10+8-4
+@^R-E+p=O@2_1/A:1_0_2/B:1-0-2@2-1&4-3#3-2$1-1!1-1;3-2|E/C:1+0+2/D:ADVN_1/E:PRED+2@3+2&1+1#1+1/F:ADJ-2/G:1_1/H:6=4@2=1|NONE/I:0_0/J:10+8-4
+R^E-p+O=s@1_2/A:1_0_2/B:1-0-2@1-2&5-2#4-1$1-1!1-1;4-1|O/C:1+1+4/D:PRED_2/E:ADJ+2@4+1&2+0#1+1/F:ENDPUNCT-1/G:1_1/H:6=4@2=1|NONE/I:0_0/J:10+8-4
+E^p-O+s=i@2_1/A:1_0_2/B:1-0-2@1-2&5-2#4-1$1-1!1-1;4-1|O/C:1+1+4/D:PRED_2/E:ADJ+2@4+1&2+0#1+1/F:ENDPUNCT-1/G:1_1/H:6=4@2=1|NONE/I:0_0/J:10+8-4
+p^O-s+i=b@1_4/A:1_0_2/B:1-1-4@2-1&6-1#5-0$1-0!1-0;5-1|i/C:0+1+1/D:PRED_2/E:ADJ+2@4+1&2+0#1+1/F:ENDPUNCT-1/G:1_1/H:6=4@2=1|NONE/I:0_0/J:10+8-4
+O^s-i+b=l@2_3/A:1_0_2/B:1-1-4@2-1&6-1#5-0$1-0!1-0;5-1|i/C:0+1+1/D:PRED_2/E:ADJ+2@4+1&2+0#1+1/F:ENDPUNCT-1/G:1_1/H:6=4@2=1|NONE/I:0_0/J:10+8-4
+s^i-b+l=_@3_2/A:1_0_2/B:1-1-4@2-1&6-1#5-0$1-0!1-0;5-1|i/C:0+1+1/D:PRED_2/E:ADJ+2@4+1&2+0#1+1/F:ENDPUNCT-1/G:1_1/H:6=4@2=1|NONE/I:0_0/J:10+8-4
+i^b-l+_=x@4_1/A:1_0_2/B:1-1-4@2-1&6-1#5-0$1-0!1-0;5-1|i/C:0+1+1/D:PRED_2/E:ADJ+2@4+1&2+0#1+1/F:ENDPUNCT-1/G:1_1/H:6=4@2=1|NONE/I:0_0/J:10+8-4
+b^l-_+x=x@1_1/A:1_1_4/B:0-1-1@1-1&0#0-0$0-0!1-0;1-0|_/C:0+0+/D:ADJ_2/E:ENDPUNCT+1@1+1&0+0#1+0/F:-0/G:6_4/H:0=0@3=0|NONE/I:0_0/J:10+8-4
+
+DELETE resource...
+URI http://cental.uclouvain.be/elitehts/v1/texts/:d67ea11e-0044-11eb-8a33-871598992200
+200
+<status><state>delete</state></status>

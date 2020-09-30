@@ -1,0 +1,44 @@
+Read content...
+Get resource options...
+URI http://cental.uclouvain.be/elitehts/v1/texts
+Allow :POST OPTIONS
+Post a new resource...
+URI http://cental.uclouvain.be/elitehts/v1/texts
+<link rel='self' href='http://cental.uclouvain.be/elitehts/v1/texts/:c38777f4-01d2-11eb-8078-90381edd2401' /><link rel='self' href='http://cental.uclouvain.be/elitehts/v1/texts/:c38777f4-01d2-11eb-8078-90381edd2401/hts' /><link rel='self' href='http://cental.uclouvain.be/elitehts/v1/texts/:c38777f4-01d2-11eb-8078-90381edd2401/textgrid_hts' /><link rel='self' href='http://cental.uclouvain.be/elitehts/v1/texts/:c38777f4-01d2-11eb-8078-90381edd2401/dls' />
+GET options of /resource/:id/...
+URI POST http://cental.uclouvain.be/elitehts/v1/texts/:c38777f4-01d2-11eb-8078-90381edd2401
+Allow :GET DELETE OPTIONS
+GET ouput content...
+URI http://cental.uclouvain.be/elitehts/v1/texts/:c38777f4-01d2-11eb-8078-90381edd2401/hts?mode=run
+x^x-t+u=l@1_2/A:0_0_/B:1-1-2@1-1&1-4#0-3$0-1!0-1;0-3|u/C:1+0+2/D:x_0/E:DETIND+1@1+3&0+1#0+2/F:DET-1/G:0_0/H:4=3@0=3|NONE/I:7_5/J:14+11-4
+x^t-u+l=e@2_1/A:0_0_/B:1-1-2@1-1&1-4#0-3$0-1!0-1;0-3|u/C:1+0+2/D:x_0/E:DETIND+1@1+3&0+1#0+2/F:DET-1/G:0_0/H:4=3@0=3|NONE/I:7_5/J:14+11-4
+t^u-l+e=v@1_2/A:1_1_2/B:1-0-2@1-1&2-3#1-2$1-1!1-1;1-2|e/C:1+0+3/D:DETIND_1/E:DET+1@2+2&0+1#0+1/F:NOUN-2/G:0_0/H:4=3@0=3|NONE/I:7_5/J:14+11-4
+u^l-e+v=w@2_1/A:1_1_2/B:1-0-2@1-1&2-3#1-2$1-1!1-1;1-2|e/C:1+0+3/D:DETIND_1/E:DET+1@2+2&0+1#0+1/F:NOUN-2/G:0_0/H:4=3@0=3|NONE/I:7_5/J:14+11-4
+l^e-v+w=a@1_3/A:1_0_2/B:1-0-3@1-2&3-2#2-1$1-1!1-1;2-1|a/C:1+1+2/D:DET_1/E:NOUN+2@3+1&0+0#0+1/F:PRED-1/G:0_0/H:4=3@0=3|NONE/I:7_5/J:14+11-4
+e^v-w+a=j@2_2/A:1_0_2/B:1-0-3@1-2&3-2#2-1$1-1!1-1;2-1|a/C:1+1+2/D:DET_1/E:NOUN+2@3+1&0+0#0+1/F:PRED-1/G:0_0/H:4=3@0=3|NONE/I:7_5/J:14+11-4
+v^w-a+j=a~@3_1/A:1_0_2/B:1-0-3@1-2&3-2#2-1$1-1!1-1;2-1|a/C:1+1+2/D:DET_1/E:NOUN+2@3+1&0+0#0+1/F:PRED-1/G:0_0/H:4=3@0=3|NONE/I:7_5/J:14+11-4
+w^a-j+a~=s@1_2/A:1_0_3/B:1-1-2@2-1&4-1#3-0$1-0!1-1;3-1|a~/C:1+1+2/D:DET_1/E:NOUN+2@3+1&0+0#0+1/F:PRED-1/G:0_0/H:4=3@0=3|NONE/I:7_5/J:14+11-4
+a^j-a~+s=o~@2_1/A:1_0_3/B:1-1-2@2-1&4-1#3-0$1-0!1-1;3-1|a~/C:1+1+2/D:DET_1/E:NOUN+2@3+1&0+0#0+1/F:PRED-1/G:0_0/H:4=3@0=3|NONE/I:7_5/J:14+11-4
+j^a~-s+o~=t@1_2/A:1_1_2/B:1-1-2@1-1&1-7#0-3$0-1!1-1;1-6|o~/C:1+0+2/D:NOUN_2/E:PRED+1@1+5&0+4#1+1/F:ADJ-3/G:4_3/H:7=5@1=2|NONE/I:2_2/J:14+11-4
+a~^s-o~+t=o@2_1/A:1_1_2/B:1-1-2@1-1&1-7#0-3$0-1!1-1;1-6|o~/C:1+0+2/D:NOUN_2/E:PRED+1@1+5&0+4#1+1/F:ADJ-3/G:4_3/H:7=5@1=2|NONE/I:2_2/J:14+11-4
+s^o~-t+o=Z@1_2/A:1_1_2/B:1-0-2@1-1&2-6#1-2$1-1!1-2;1-5|o/C:0+0+3/D:NOUN_2/E:PRED+1@1+5&0+4#1+1/F:ADJ-3/G:4_3/H:7=5@1=2|NONE/I:2_2/J:14+11-4
+o~^t-o+Z=u@2_1/A:1_1_2/B:1-0-2@1-3&2-6#1-2$1-1!1-2;1-5|o/C:0+0+3/D:PRED_1/E:ADJ+3@2+4&1+3#1+1/F:SYMBOL-1/G:4_3/H:7=5@1=2|NONE/I:2_2/J:14+11-4
+t^o-Z+u=R@1_3/A:1_0_2/B:0-0-3@2-2&3-5#2-2$1-1!1-1;2-4|u/C:1+0+2/D:PRED_1/E:ADJ+3@2+4&1+3#1+1/F:SYMBOL-1/G:4_3/H:7=5@1=2|NONE/I:2_2/J:14+11-4
+o^Z-u+R=d@2_2/A:1_0_2/B:0-0-3@2-2&3-5#2-2$1-1!1-1;2-4|u/C:1+0+2/D:PRED_1/E:ADJ+3@2+4&1+3#1+1/F:SYMBOL-1/G:4_3/H:7=5@1=2|NONE/I:2_2/J:14+11-4
+Z^u-R+d=a@3_1/A:1_0_2/B:0-0-3@2-2&3-5#2-2$1-1!1-1;2-4|u/C:1+0+2/D:PRED_1/E:ADJ+3@2+4&1+3#1+1/F:SYMBOL-1/G:4_3/H:7=5@1=2|NONE/I:2_2/J:14+11-4
+u^R-d+a=_@1_2/A:0_0_3/B:1-0-2@3-1&4-4#2-1$1-1!2-3;3-3|a/C:0+0+1/D:PRED_1/E:ADJ+3@2+4&1+3#1+1/F:SYMBOL-1/G:4_3/H:7=5@1=2|NONE/I:2_2/J:14+11-4
+R^d-a+_=_@2_1/A:0_0_3/B:1-0-2@3-1&4-4#2-1$1-1!2-3;3-3|a/C:0+0+1/D:PRED_1/E:ADJ+3@2+4&1+3#1+1/F:SYMBOL-1/G:4_3/H:7=5@1=2|NONE/I:2_2/J:14+11-4
+d^a-_+_=H@1_1/A:1_0_2/B:0-0-1@1-1&5-3#3-1$1-1!1-2;4-2|_/C:0+0+1/D:ADJ_3/E:SYMBOL+1@3+3&2+2#1+1/F:SYMBOL-1/G:4_3/H:7=5@1=2|NONE/I:2_2/J:14+11-4
+a^_-_+H=i@1_1/A:0_0_1/B:0-0-1@1-1&6-2#3-1$1-1!2-1;5-1|_/C:1+1+2/D:SYMBOL_1/E:SYMBOL+1@4+2&3+1#1+1/F:PROPERNAME-1/G:4_3/H:7=5@1=2|NONE/I:2_2/J:14+11-4
+_^_-H+i=o@1_2/A:0_0_1/B:1-1-2@1-1&7-1#3-0$1-0!3-1;6-1|i/C:1+1+1/D:SYMBOL_1/E:PROPERNAME+1@5+1&4+0#1+2/F:DETPREP-1/G:4_3/H:7=5@1=2|NONE/I:2_2/J:14+11-4
+_^H-i+o=R@2_1/A:0_0_1/B:1-1-2@1-1&7-1#3-0$1-0!3-1;6-1|i/C:1+1+1/D:SYMBOL_1/E:PROPERNAME+1@5+1&4+0#1+2/F:DETPREP-1/G:4_3/H:7=5@1=2|NONE/I:2_2/J:14+11-4
+H^i-o+R=u@1_1/A:1_1_2/B:1-1-1@1-1&1-2#0-1$0-1!1-1;1-1|o/C:1+1+3/D:PROPERNAME_1/E:DETPREP+1@1+2&0+1#1+1/F:NOUN-1/G:7_5/H:2=2@2=1|NONE/I:0_0/J:14+11-4
+i^o-R+u=Z@1_3/A:1_1_1/B:1-1-3@1-1&2-1#1-0$1-0!1-0;1-1|u/C:0+1+1/D:DETPREP_1/E:NOUN+1@2+1&0+0#2+1/F:ENDPUNCT-1/G:7_5/H:2=2@2=1|NONE/I:0_0/J:14+11-4
+o^R-u+Z=_@2_2/A:1_1_1/B:1-1-3@1-1&2-1#1-0$1-0!1-0;1-1|u/C:0+1+1/D:DETPREP_1/E:NOUN+1@2+1&0+0#2+1/F:ENDPUNCT-1/G:7_5/H:2=2@2=1|NONE/I:0_0/J:14+11-4
+R^u-Z+_=x@3_1/A:1_1_1/B:1-1-3@1-1&2-1#1-0$1-0!1-0;1-1|u/C:0+1+1/D:DETPREP_1/E:NOUN+1@2+1&0+0#2+1/F:ENDPUNCT-1/G:7_5/H:2=2@2=1|NONE/I:0_0/J:14+11-4
+u^Z-_+x=x@1_1/A:1_1_3/B:0-1-1@1-1&0#0-0$0-0!1-0;1-0|_/C:0+0+/D:NOUN_1/E:ENDPUNCT+1@1+1&0+0#1+0/F:-0/G:2_2/H:0=0@3=0|NONE/I:0_0/J:14+11-4
+
+DELETE resource...
+URI http://cental.uclouvain.be/elitehts/v1/texts/:c38777f4-01d2-11eb-8078-90381edd2401
+200
+<status><state>delete</state></status>

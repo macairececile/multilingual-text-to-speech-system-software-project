@@ -1,0 +1,38 @@
+Read content...
+Get resource options...
+URI http://cental.uclouvain.be/elitehts/v1/texts
+Allow :POST OPTIONS
+Post a new resource...
+URI http://cental.uclouvain.be/elitehts/v1/texts
+<link rel='self' href='http://cental.uclouvain.be/elitehts/v1/texts/:80088084-003f-11eb-aa25-87de79d81bec' /><link rel='self' href='http://cental.uclouvain.be/elitehts/v1/texts/:80088084-003f-11eb-aa25-87de79d81bec/hts' /><link rel='self' href='http://cental.uclouvain.be/elitehts/v1/texts/:80088084-003f-11eb-aa25-87de79d81bec/textgrid_hts' /><link rel='self' href='http://cental.uclouvain.be/elitehts/v1/texts/:80088084-003f-11eb-aa25-87de79d81bec/dls' />
+GET options of /resource/:id/...
+URI POST http://cental.uclouvain.be/elitehts/v1/texts/:80088084-003f-11eb-aa25-87de79d81bec
+Allow :GET DELETE OPTIONS
+GET ouput content...
+URI http://cental.uclouvain.be/elitehts/v1/texts/:80088084-003f-11eb-aa25-87de79d81bec/hts?mode=run
+x^x-s+w=E@1_3/A:0_0_/B:1-1-3@1-2&1-2#0-1$0-1!0-1;0-1|E/C:1+1+2/D:x_0/E:VERB+2@1+1&0+0#0+3/F:CONJSUB-1/G:0_0/H:2=1@0=2|NONE/I:7_4/J:10+6-3
+x^s-w+E=t@2_2/A:0_0_/B:1-1-3@1-2&1-2#0-1$0-1!0-1;0-1|E/C:1+1+2/D:x_0/E:VERB+2@1+1&0+0#0+3/F:CONJSUB-1/G:0_0/H:2=1@0=2|NONE/I:7_4/J:10+6-3
+s^w-E+t=o~@3_1/A:0_0_/B:1-1-3@1-2&1-2#0-1$0-1!0-1;0-1|E/C:1+1+2/D:x_0/E:VERB+2@1+1&0+0#0+3/F:CONJSUB-1/G:0_0/H:2=1@0=2|NONE/I:7_4/J:10+6-3
+w^E-t+o~=k@1_2/A:1_1_3/B:1-1-2@2-1&2-1#1-0$1-0!1-1;1-1|o~/C:1+1+2/D:x_0/E:VERB+2@1+1&0+0#0+3/F:CONJSUB-1/G:0_0/H:2=1@0=2|NONE/I:7_4/J:10+6-3
+E^t-o~+k=@@2_1/A:1_1_3/B:1-1-2@2-1&2-1#1-0$1-0!1-1;1-1|o~/C:1+1+2/D:x_0/E:VERB+2@1+1&0+0#0+3/F:CONJSUB-1/G:0_0/H:2=1@0=2|NONE/I:7_4/J:10+6-3
+t^o~-k+@=v@1_2/A:1_1_2/B:1-1-2@1-1&1-7#0-5$0-1!1-1;1-6|@/C:1+0+2/D:VERB_2/E:CONJSUB+1@1+4&0+2#1+2/F:PRONPER-1/G:2_1/H:7=4@1=1|NONE/I:0_0/J:10+6-3
+o~^k-@+v=u@2_1/A:1_1_2/B:1-1-2@1-1&1-7#0-5$0-1!1-1;1-6|@/C:1+0+2/D:VERB_2/E:CONJSUB+1@1+4&0+2#1+2/F:PRONPER-1/G:2_1/H:7=4@1=1|NONE/I:0_0/J:10+6-3
+k^@-v+u=s@1_2/A:1_1_2/B:1-0-2@1-1&2-6#1-4$1-1!1-1;1-5|u/C:1+0+3/D:CONJSUB_1/E:PRONPER+1@2+3&0+2#2+1/F:AUX-2/G:2_1/H:7=4@1=1|NONE/I:0_0/J:10+6-3
+@^v-u+s=w@2_1/A:1_1_2/B:1-0-2@1-1&2-6#1-4$1-1!1-1;1-5|u/C:1+0+3/D:CONJSUB_1/E:PRONPER+1@2+3&0+2#2+1/F:AUX-2/G:2_1/H:7=4@1=1|NONE/I:0_0/J:10+6-3
+v^u-s+w=a@1_3/A:1_0_2/B:1-0-3@1-2&3-5#2-3$1-1!1-1;2-4|a/C:1+0+2/D:PRONPER_1/E:AUX+2@3+2&0+1#3+1/F:PARTPASSE-3/G:2_1/H:7=4@1=1|NONE/I:0_0/J:10+6-3
+u^s-w+a=j@2_2/A:1_0_2/B:1-0-3@1-2&3-5#2-3$1-1!1-1;2-4|a/C:1+0+2/D:PRONPER_1/E:AUX+2@3+2&0+1#3+1/F:PARTPASSE-3/G:2_1/H:7=4@1=1|NONE/I:0_0/J:10+6-3
+s^w-a+j=e@3_1/A:1_0_2/B:1-0-3@1-2&3-5#2-3$1-1!1-1;2-4|a/C:1+0+2/D:PRONPER_1/E:AUX+2@3+2&0+1#3+1/F:PARTPASSE-3/G:2_1/H:7=4@1=1|NONE/I:0_0/J:10+6-3
+w^a-j+e=z@1_2/A:1_0_3/B:1-0-2@2-1&4-4#3-2$1-1!1-1;3-3|e/C:1+0+2/D:PRONPER_1/E:AUX+2@3+2&0+1#3+1/F:PARTPASSE-3/G:2_1/H:7=4@1=1|NONE/I:0_0/J:10+6-3
+a^j-e+z=a~@2_1/A:1_0_3/B:1-0-2@2-1&4-4#3-2$1-1!1-1;3-3|e/C:1+0+2/D:PRONPER_1/E:AUX+2@3+2&0+1#3+1/F:PARTPASSE-3/G:2_1/H:7=4@1=1|NONE/I:0_0/J:10+6-3
+j^e-z+a~=t@1_2/A:1_0_2/B:1-0-2@2-1&5-3#4-1$1-1!1-2;4-2|a~/C:0+0+2/D:PRONPER_1/E:AUX+2@3+2&0+1#3+1/F:PARTPASSE-3/G:2_1/H:7=4@1=1|NONE/I:0_0/J:10+6-3
+e^z-a~+t=a~@2_1/A:1_0_2/B:1-0-2@1-3&5-3#4-1$1-1!1-2;4-2|a~/C:0+0+2/D:AUX_2/E:PARTPASSE+3@4+1&1+0#1+1/F:ENDPUNCT-1/G:2_1/H:7=4@1=1|NONE/I:0_0/J:10+6-3
+z^a~-t+a~=d@1_2/A:1_0_2/B:0-0-2@2-2&6-2#5-1$1-1!1-1;5-1|a~/C:1+1+2/D:AUX_2/E:PARTPASSE+3@4+1&1+0#1+1/F:ENDPUNCT-1/G:2_1/H:7=4@1=1|NONE/I:0_0/J:10+6-3
+a~^t-a~+d=y@2_1/A:1_0_2/B:0-0-2@2-2&6-2#5-1$1-1!1-1;5-1|a~/C:1+1+2/D:AUX_2/E:PARTPASSE+3@4+1&1+0#1+1/F:ENDPUNCT-1/G:2_1/H:7=4@1=1|NONE/I:0_0/J:10+6-3
+t^a~-d+y=_@1_2/A:0_0_2/B:1-1-2@3-1&7-1#5-0$1-0!2-0;6-1|y/C:0+1+1/D:AUX_2/E:PARTPASSE+3@4+1&1+0#1+1/F:ENDPUNCT-1/G:2_1/H:7=4@1=1|NONE/I:0_0/J:10+6-3
+a~^d-y+_=x@2_1/A:0_0_2/B:1-1-2@3-1&7-1#5-0$1-0!2-0;6-1|y/C:0+1+1/D:AUX_2/E:PARTPASSE+3@4+1&1+0#1+1/F:ENDPUNCT-1/G:2_1/H:7=4@1=1|NONE/I:0_0/J:10+6-3
+d^y-_+x=x@1_1/A:1_1_2/B:0-1-1@1-1&0#0-0$0-0!1-0;1-0|_/C:0+0+/D:PARTPASSE_3/E:ENDPUNCT+1@1+1&0+0#1+0/F:-0/G:7_4/H:0=0@2=0|NONE/I:0_0/J:10+6-3
+
+DELETE resource...
+URI http://cental.uclouvain.be/elitehts/v1/texts/:80088084-003f-11eb-aa25-87de79d81bec
+200
+<status><state>delete</state></status>
