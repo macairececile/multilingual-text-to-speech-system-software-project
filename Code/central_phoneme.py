@@ -16,18 +16,16 @@ def save_output(path, name_file, output):
 
 if __name__ == '__main__':
     # paths need to be update with your own
-    path = '/Users/prachmeanleakhena/Desktop/Corpus/results/' # path of siwis corpus
-    path_output = '/Users/prachmeanleakhena/Desktop/Corpus/central_phoneme/' # path to store the results
+    path = '/home/macaire/Bureau/M2_NLP/Software_Project/multilingual-text-to-speech-system-software-project/Results/SIWIS French/results/' # path of siwis corpus
+    path_output = '/home/macaire/Bureau/M2_NLP/Software_Project/multilingual-text-to-speech-system-software-project/Results/SIWIS French/central_phoneme/' # path to store the results
     files = get_files_from_directory(path)
     for i in files:
         try:
-            with open('/Users/prachmeanleakhena/Desktop/Corpus/results/'+i.lower()) as f:
+            with open(path+i) as f:
                 string = f.readlines()
-
-            phonemes = [re.findall(r'\-.\+', l) for l in string]
-            list_of_phonemes = [item[1] for items in phonemes for item in items]
+            phonemes = [re.findall(r'\-.{1,3}\+', l) for l in string]
+            list_of_phonemes = [item[1:-1] for items in phonemes for item in items]
             save_output(path_output,i, str(list_of_phonemes))
-
         except:
             print(i)
 
