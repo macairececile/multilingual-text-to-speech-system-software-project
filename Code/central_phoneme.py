@@ -25,7 +25,7 @@ if __name__ == '__main__':
                 string = f.readlines()
             phonemes = [re.findall(r'\-.{1,3}\+', l) for l in string]
             list_of_phonemes = [item[1:-1] for items in phonemes for item in items]
-            save_output(path_output,i, str(list_of_phonemes))
+            save_output(path_output,i, '\n'.join(list_of_phonemes))
         except:
             print(i)
 
