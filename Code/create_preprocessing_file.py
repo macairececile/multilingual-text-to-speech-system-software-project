@@ -143,6 +143,6 @@ def process(path_english_all_phonemes, path_french_phonemes, path_english, path_
 
 if __name__ == '__main__':
     path_english_all = '/home/macaire/Bureau/M2_NLP/Software_Project/multilingual-text-to-speech-system-software-project/Results/EmoV-DB_sorted/phonemes/all/'
-    path_french = '/home/macaire/Bureau/M2_NLP/Software_Project/multilingual-text-to-speech-system-software-project/Results/SIWIS French/phonemes/'
+    path_french = '/home/macaire/Bureau/M2_NLP/Software_Project/multilingual-text-to-speech-system-software-project/Results/SIWIS_French/phonemes/'
     path_english = '/home/macaire/Bureau/M2_NLP/Software_Project/multilingual-text-to-speech-system-software-project/Results/EmoV-DB_sorted/phonemes/'
     process(path_english_all, path_french, path_english, '/home/macaire/')
