@@ -6,7 +6,7 @@ from os.path import join, isfile
 import os
 
 
-# ------- Get files, directories from path ------- #
+# ------- Get files, directory from path ------- #
 def get_files_from_directory(path):
     """Get all files from directory"""
     return [f for f in listdir(path) if isfile(join(path, f))]
@@ -16,11 +16,11 @@ def get_directories(path):
     return [f.path for f in os.scandir(path) if f.is_dir()]
 
 
-# ------- Dictionary definition (phonemes, emotions, speakers)------- #
+# ------- Dictionaries definition (phonemes, emotions, speakers)------- #
 def definition_dict():
     """Definition of two dictionaries: one for emotion, the other one for speaker id"""
     emotions_dict = {'Neutral': 0, 'Amused': 1, 'Angry': 2, 'Disgusted': 3, 'Sleepy': 4}
-    speakers_dict = {'sam': 0, 'bea': 1, 'josh': 2, 'jenie': 3, 'fr': 4}
+    speakers_dict = {'sam': 0, 'bea': 1, 'josh': 2, 'jenie': 3, 'fr': 4, 'en':5}
     return emotions_dict, speakers_dict
 
 
@@ -99,6 +99,21 @@ def get_data_english(path_folders, dic_phonemes, dic_emotions, dic_speakers):
     return metadata_english
 
 
+def get_data_english_bis(path_folders, dic_phonemes):
+    metadata_english = {}
+    files = get_files_from_directory(path_folders)
+    for k in files:
+        phonemes_id = []
+        with open(path_folders+ '/' + k) as f:
+            lines = f.readlines()
+            lines = [i[:-3] for i in lines]
+            for el in lines:
+                phonemes_id.append(dic_phonemes.get(el))
+        path_file = k.split('/')[-1][:-13] + '.wav'
+        metadata_english[path_file] = [phonemes_id, 5,0,0]
+    return metadata_english
+
+
 def get_data_french(path_folders, dic_phonemes):
     """Create metadata for french corpus with phonemes id, emotion id,
         speaker id and language id for each file of the corpus
@@ -119,11 +134,11 @@ def get_data_french(path_folders, dic_phonemes):
     return metadata_french
 
 
-def metadata(metadata_english, metadata_french, path_save_metadata):
+def metadata(metadata_english, metadata_french, metadata_englishbis, path_save_metadata):
     """Create metadata file with metadata of both corpus
     Input: metadata english, metadata french, path to save the file
     Output: txt file with metadata"""
-    metadata = {**metadata_english, **metadata_french}  # merge of metadata from both corpus
+    metadata = {**metadata_english, **metadata_french, **metadata_englishbis}  # merge of metadata from both corpus
     with open(path_save_metadata + 'metadata_software_project.txt', 'w+') as f:
         for key, val in metadata.items():
             phonemes = str(val[0]).strip('[]')
@@ -132,17 +147,19 @@ def metadata(metadata_english, metadata_french, path_save_metadata):
 
 
 # ------- Main process ------- #
-def process(path_english_all_phonemes, path_french_phonemes, path_english, path_save_data):
+def process(path_english_all_phonemes, path_french_phonemes, path_english, path_englishljspeech_phonemes, path_save_data):
     dict_english = dict_phonemes_english(path_english_all_phonemes)
     dict_phonemes = dict_phonemes_all(path_french_phonemes, dict_english)
     emotion_dic, speaker_dic = definition_dict()
     m_en = get_data_english(path_english, dict_phonemes, emotion_dic, speaker_dic)
     m_fr = get_data_french(path_french_phonemes, dict_phonemes)
-    metadata(m_en, m_fr, path_save_data)
+    m_en2 = get_data_english_bis(path_englishljspeech_phonemes, dict_phonemes)
+    metadata(m_en, m_fr,m_en2, path_save_data)
 
 
 if __name__ == '__main__':
     path_english_all = '/home/macaire/Bureau/M2_NLP/Software_Project/multilingual-text-to-speech-system-software-project/Results/EmoV-DB_sorted/phonemes/all/'
     path_french = '/home/macaire/Bureau/M2_NLP/Software_Project/multilingual-text-to-speech-system-software-project/Results/SIWIS_French/phonemes/'
     path_english = '/home/macaire/Bureau/M2_NLP/Software_Project/multilingual-text-to-speech-system-software-project/Results/EmoV-DB_sorted/phonemes/'
-    process(path_english_all, path_french, path_english, '/home/macaire/')
+    path_english_ljspeech = '/home/macaire/Bureau/M2_NLP/Software_Project/multilingual-text-to-speech-system-software-project/Results/LJSpeech/phonemes/'
+    process(path_english_all, path_french, path_english, path_english_ljspeech, '/home/macaire/')
