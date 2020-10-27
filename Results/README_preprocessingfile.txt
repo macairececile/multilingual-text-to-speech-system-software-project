@@ -20,7 +20,7 @@ The file is structured on the following form: <filepath wav>|<text>|<speakerid>|
 	0=neutral
 	1=amused
 	2=angry
-	3=gisguted
+	3=disguted
 	4=sleepy
 
 *<languageid> refers to the language
