@@ -6,7 +6,7 @@ from os import listdir
 from os.path import join, isfile
 import os
 import json
-
+import random
 
 # ------- Get files, directory from path ------- #
 def get_files_from_directory(path):
@@ -68,7 +68,7 @@ def get_text_english(path_folders, dic_emotions, dic_speakers):
                         if l == 'transcript':
                             text.append(m)
                     text=''.join(text)
-                path_file = '/' + speaker_name + '/' + emotion + '/' + k.split('/')[-1][:-5] + '.wav'
+                path_file = '/EmoV-DB/' + speaker_name + '/' + emotion + '/' + k.split('/')[-1][:-5] + '.wav'
                 metadata_english[path_file] = [text, dic_speakers.get(speaker_name),
                                                dic_emotions.get(emotion),
                                                language]
@@ -86,7 +86,7 @@ def get_text_english_bis(path_folders):
                 if l == 'transcript':
                     text.append(m)
                 text=''.join(text)
-        path_file = k.split('/')[-1][:-5] + '.wav'
+        path_file = '/LJSpeech/' + k.split('/')[-1][:-5] + '.wav'
         metadata_english[path_file] = [text, 5,0,0]
     return metadata_english
 
@@ -106,7 +106,7 @@ def get_data_french(path_folders, dic_phonemes):
             lines = [i.rstrip() for i in lines]
             for el in lines:
                 phonemes_id.append(dic_phonemes.get(el))
-        path_file = '/' + i.split('/')[-1][:-4] + '.wav'
+        path_file = '/SIWIS/' + i.split('/')[-1][:-4] + '.wav'
         metadata_french[path_file] = [phonemes_id, 4, 0, language]
     return metadata_french
 
@@ -117,10 +117,14 @@ def metadata(metadata_english, metadata_french, metadata_englishbis, path_save_m
     Output: txt file with metadata"""
     metadata = {**metadata_english, **metadata_french, **metadata_englishbis}  # merge of metadata from both corpus
     with open(path_save_metadata + 'preprocessing_file_2.txt', 'w+') as f:
+        mlist = []
         for key, val in metadata.items():
             phonemes = str(val[0]).strip('[]')
-            line = key + '|' + phonemes + '|' + str(val[1]) + '|' + str(val[2]) + '|' + str(val[3]) + '\n'
-            f.write(line)
+            line = '/srv/storage/multispeechedu@talc-data2.nancy/software_project/corpus' + key + '|' + phonemes + '|' + str(val[1]) + '|' + str(val[2]) + '|' + str(val[3]) + '\n'
+            mlist.append(line)
+        random.shuffle(mlist) 
+        for el in mlist:   
+            f.write(el)
 
 
 # ------- Main process ------- #
