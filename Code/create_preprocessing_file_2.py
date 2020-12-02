@@ -86,7 +86,7 @@ def get_text_english_bis(path_folders):
                 if l == 'transcript':
                     text.append(m)
                 text=''.join(text)
-        path_file = '/LJSpeech/' + k.split('/')[-1][:-5] + '.wav'
+        path_file = '/LJSpeech/wavs/' + k.split('/')[-1][:-5] + '.wav'
         metadata_english[path_file] = [text, 5,0,0]
     return metadata_english
 
@@ -106,7 +106,7 @@ def get_data_french(path_folders, dic_phonemes):
             lines = [i.rstrip() for i in lines]
             for el in lines:
                 phonemes_id.append(dic_phonemes.get(el))
-        path_file = '/SIWIS/' + i.split('/')[-1][:-4] + '.wav'
+        path_file = '/SIWIS/wavs/' + i.split('/')[-1][:-4] + '.wav'
         metadata_french[path_file] = [phonemes_id, 4, 0, language]
     return metadata_french
 

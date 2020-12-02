@@ -1,0 +1,12 @@
+head -n 26781 English_French.txt > English_French_train.txt
+sed -n 26782,28268p English_French.txt > English_French_test.txt
+sed -n 28269,29755p English_French.txt > English_French_eval.txt
+
+wc -l English_French*.txt
+
+=============================================================================
+so there are 29755 lines:
+for the two files of 5%, take 1487 lines and for the 90% -> 26781 lines
+26781
+28268
+29755
